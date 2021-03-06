@@ -18,7 +18,7 @@ Now Morten was a stout horse and very obedient, but he was past his prime.
 Ageing too was the kit that Jack had.
 The bridles were mouldy, and the harrows were rusty, and the buckets came apart in your hand.
 
-Now the ground, which was a horrible smash of stone and clay, must have had some curse upon it.
+Also the ground, which was a horrible smash of stone and clay, must have had some curse upon it.
 It bent the plough, it clogged the bridges, it pulled every shoe from poor Morten's spongy old feet.
 
 The Blacksmith
