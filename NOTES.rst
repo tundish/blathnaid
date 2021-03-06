@@ -18,15 +18,25 @@ Now Morten was a stout horse and very obedient, but he was past his prime.
 Ageing too was the kit that Jack had.
 The bridles were mouldy, and the harrows were rusty, and the buckets came apart in your hand.
 
-The Blacksmith
---------------
-
 Now the ground, which was a horrible smash of stone and clay, must have had some curse upon it.
 It bent the plough, it clogged the bridges, it pulled every shoe from poor Morten's spongy old feet.
 
-So Jack was no stranger to the local Blacksmith.
+The Blacksmith
+--------------
 
-Let me tell you now about the Blacksmith.
+And so it was that Jack was a regular visitor to the local Blacksmith.
+
+And one day, when Morten had shed a shoe, and Jack couldn't see where it had fallen,
+he led his horse onto the narrow track and over to the Forge.
+
+Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was ?.
+
+We aren't going to hear much about ? just now though, because the Blacksmith keeps her hidden
+whenever Jack shows up. He worries that ?, who sketches pictures of young men with their horses,
+might be thinking of Jack more often than is good for her.
+
+He has hopes she will marry into money, and doesn't want her going off with
+some young villain who can't pay his bills.
 
 Kroll
 -----
@@ -34,7 +44,7 @@ Kroll
 The name of that spirit is Krol.
 
 I am not the world expert on Krol.
-What I have heard about him would fill a book, although not all of that could have been the truth.
+What I have heard about him would fill a book, although not all of that can have been the truth.
 
 I know he'd been an important figure in Antiquity. And he wore flesh again in our modern age,
 and performed many brave deeds here.
