@@ -29,10 +29,10 @@ And so it was that Jack was a regular visitor to the local Blacksmith.
 And one day, when Morten had shed a shoe, and Jack couldn't see where it had fallen,
 he led his horse onto the narrow track and over to the Forge.
 
-Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was ?.
+Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was Blathnaid.
 
-We aren't going to hear much about ? just now though, because the Blacksmith keeps her hidden
-whenever Jack shows up. He worries that ?, who sketches pictures of young men with their horses,
+We aren't going to hear much about Blathnaid just now though, because the Blacksmith keeps her hidden
+whenever Jack shows up. He worries that Blathnaid, who sketches pictures of young men with their horses,
 might be thinking of Jack more often than is good for her.
 
 He has hopes she will marry into money, and doesn't want her going off with
