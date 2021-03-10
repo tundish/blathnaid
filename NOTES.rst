@@ -38,6 +38,25 @@ might be thinking of Jack more often than is good for her.
 He has hopes she will marry into money, and doesn't want her going off with
 some young villain who can't pay his bills.
 
+The Journey
+-----------
+
+Three challenges, rain, rats and ...
+Tea from the Trivet fixes.
+
+The City
+--------
+
+Has to give up Morten to get in.
+"Don't worry Jack, he'll eat better than you will", they laugh.
+Later sees fragments of blanket when he's clearing up at the tavern.
+
+The Friend
+----------
+
+Trivet is a Guild sign and is everywhere. Jack tries to spot all three Ss, but without result.
+Finally, the friend approaches him; he's seen Jack use the Trivet.
+
 Kroll
 -----
 
@@ -52,3 +71,10 @@ and performed many brave deeds here.
 But at the time of this story he was held back in the Netherworld. For reasons I don't understand,
 his spirit was bound to the Town Square, and the best he could manage was to manifest in the cellar
 of that Tavern, when the moon was full enough to shine through the bars of the window.
+
+The Return
+----------
+
+Bats are released.
+Two graves, an apple tree and an Oak tree.
+
