@@ -57,6 +57,12 @@ The Friend
 Trivet is a Guild sign and is everywhere. Jack tries to spot all three Ss, but without result.
 Finally, the friend approaches him; he's seen Jack use the Trivet.
 
+Weave
+-----
+
+Sensitivity             Simplicity          Spontaneity
+            Character               Courage             Compassion
+
 Kroll
 -----
 
@@ -78,3 +84,7 @@ The Return
 Bats are released.
 Two graves, an apple tree and an Oak tree.
 
+Horace
+------
+
+Retribution, to retrain an injury, relentlesly hunts the wicked.
