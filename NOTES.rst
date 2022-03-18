@@ -61,7 +61,7 @@ Weave
 -----
 
 Sensitivity             Simplicity          Spontaneity
-            Character               Courage             Compassion
+            Cognition              Courage             Compassion
 
 Kroll
 -----
