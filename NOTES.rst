@@ -45,7 +45,7 @@ The front part of the forge, where the anvil often is, was open on three sides.
 There stood the Blacksmith, warming against the furnace. He had been watching Jack approach up the path,
 and could tell from Morten's stepping what the matter was about.
 
-He took the bit of rope from Jack's hand and steadied Morten for a moment.
+He took the end of rope from Jack's hand and steadied Morten for a moment.
 Then led him to a rail where he could check his hooves.
 
 The forge
@@ -61,6 +61,22 @@ In the middle of the room was the bottom half of a great casting mold.
 And here was all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
 broken hasps and gears and levers. All damp and coated in bat droppings and bloom.
 
+A token
+-------
+
+The Blacksmith opened a small tin box, taking from it a wrap of waxed paper and a metal tool, like a saddler's punch.
+
+Then he heated a small billet of iron, about the size of a finger, which had a hole in one end.
+Peeling apart the paper, despite his grimy fingers, he carefully removed a small thin sheet of white metal foil.
+With the iron still hot, he deftly dropped the metal foil upon the surface, and placing the punch on top, struck
+it smartly with a hammer.
+
+After it had cooled, the Blacksmith slipped a leather cord through the hole and placed it around the boy's neck.
+Jack saw that within the metal was now a circular seal of an intricate design, which by some strange
+chemistry glowed green.
+
+This will let you into the City.
+It will cease to shine by the time the moon has waned. You will need to be out by then.
 
 The Journey
 -----------
