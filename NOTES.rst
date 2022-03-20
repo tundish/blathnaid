@@ -38,6 +38,30 @@ might be thinking of Jack more often than is good for her.
 He has hopes she will marry into money, and doesn't want her going off with
 some young villain who can't pay his bills.
 
+Shoes
+-----
+
+The front part of the forge, where the anvil often is, was open on three sides.
+There stood the Blacksmith, warming against the furnace. He had been watching Jack approach up the path,
+and could tell from Morten's stepping what the matter was about.
+
+He took the bit of rope from Jack's hand and steadied Morten for a moment.
+Then led him to a rail where he could check his hooves.
+
+The forge
+---------
+
+Jack knew he had no way to pay the Blacksmith, so he found it difficult to stand and watch him work.
+Instead he wandered across to the other end of the forge, where he was out of sight for a while.
+
+Up above, the roof was supported by a sturdy iron frame, from which a chain hoist dangled. From the dark
+corners of the eves, Jack could hear rustling and squeaking.
+
+In the middle of the room was the bottom half of a great casting mold.
+And here was all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
+broken hasps and gears and levers. All damp and coated in bat droppings and bloom.
+
+
 The Journey
 -----------
 
