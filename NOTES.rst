@@ -118,13 +118,29 @@ But at the time of this story he was held back in the Netherworld. For reasons I
 his spirit was bound to the Town Square, and the best he could manage was to manifest in the cellar
 of that Tavern, when the moon was full enough to shine through the bars of the window.
 
+Payback
+-------
+
+All at once there was a strange shift in the structure of the Smithy. From the space in the roof poured out
+in their hundreds a thick swarm of bats. In a flurry of fur and leather they ascended in a column like the smoke of a
+wet chimney.
+
+As they beat their wings, they raised an evil cloud of dust and metal. This haze rose up until the sun itself burned white and angry like a
+miner's match.
+
+Then all together they turned and headed north towards the City.
+
 The Return
 ----------
 
-Bats are released.
 Two graves, an apple tree and an Oak tree.
 
-Horace
-------
+Sayings
+-------
 
+Raro antecedentem scelestum deseruit pede poena claudo. (Horace)
 Retribution, to retrain an injury, relentlesly hunts the wicked.
+
+fides qua creditur numquam falletur
+Full faith that is never broken
+Sic semper corruptionis
