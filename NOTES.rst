@@ -61,6 +61,23 @@ In the middle of the room was the bottom half of a great casting mold.
 And here was all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
 broken hasps and gears and levers. All damp and coated in bat droppings and bloom.
 
+The Trivet
+----------
+
+The Blacksmith reached under the bench and pulled out a chunk of iron, round in shape, and about the size of his hand.
+He looked at it thoughtfully for a moment, before taking a rough brush to scrub away the rust.
+
+It was a trivet, such as you'd use to balance a kettle above a fire. This one was solidly made, but in a decorative
+design; it had curved spokes like the wheel of some fantastic chariot. Around the circumference were embossed letters,
+not yet clear enough to read.
+
+This was a very clever thing, which you don't see often today. Because any brew you made on this trivet, however little
+tea you had - in fact, no matter if you were only boiling hay - would nourish and cheer you throughout, and you
+would not feel the lack of food.
+
+The Mission
+-----------
+
 A token
 -------
 
@@ -76,7 +93,8 @@ Jack saw that within the metal was now a circular seal of an intricate design, w
 chemistry glowed green.
 
 This will let you into the City.
-It will cease to shine by the time the moon has waned. You will need to be out by then.
+The rise of the New Moon will stop it shining.
+You will need to be out by then.
 
 The Journey
 -----------
