@@ -18,7 +18,7 @@ Now Morten was a stout horse and very obedient, but he was past his prime.
 Ageing too was the kit that Jack had.
 The bridles were mouldy, and the harrows were rusty, and the buckets came apart in your hand.
 
-Also the ground, which was a horrible smash of stone and clay, must have had some curse upon it.
+Also the ground, which was a horrible stodge of stone and clay, must have had some curse upon it.
 It bent the plough, it clogged the bridges, it pulled every shoe from poor Morten's spongy old feet.
 
 The Blacksmith
@@ -61,6 +61,18 @@ In the middle of the workshop was the bottom half of a great casting mold.
 And here was all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
 broken hasps and gears and levers. All damp and coated in bat droppings and bloom.
 
+Send me the Bill
+----------------
+
+Finally, when the horse was fully shod, the Blacksmith ducked back into where Jack had been standing.
+"All's done", said the smith, standing fully in the doorway.
+
+"Dad thanks you", said Jack without much conviction.
+
+"That I know, Jack. And we must reckon up, presently. For this job and many another like it."
+
+A choice? Confess or bluff?
+
 Packing
 -------
 
@@ -70,12 +82,11 @@ want while he was away.
 
 He picked out a woollen blanket to sleep in, which he laid out before the fire so the damp would drive away.
 He found a leather bottle, which he warmed up and replenished with wax. In the morning he would fill it with
-water from the stream behind the house. And he had a can with a lid so he could boil it up,
-and some kindling, a blade, and some flint.
+water from the stream behind the house. He had a can with a lid so he could boil it up, and some kindling,
+a blade, and a flint.
 
 Morten would have to forage. And Jack would go hungry. But he was not dismayed.
 He fell asleep before the grate, happy for the first time in months.
-
 
 The Trivet
 ----------
@@ -99,7 +110,7 @@ A token
 
 The Blacksmith opened a small tin box, taking from it a wrap of waxed paper and a metal tool, like a saddler's punch.
 
-Then he heated a small billet of iron, about the size of a finger, which had a hole in one end.
+Then he heated a small billet of iron, about the size of a pea pod, which had a hole in one end.
 Peeling apart the paper, despite his grimy fingers, he carefully removed a small thin sheet of white metal foil.
 With the iron still hot, he deftly dropped the metal foil upon the surface, and placing the punch on top, struck
 it smartly with a hammer.
