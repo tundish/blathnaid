@@ -57,9 +57,25 @@ Instead he wandered across to the other end of the forge, where he was out of si
 Up above, the roof was supported by a sturdy iron frame, from which a chain hoist dangled. From the dark
 corners of the eves, Jack could hear rustling and squeaking.
 
-In the middle of the room was the bottom half of a great casting mold.
+In the middle of the workshop was the bottom half of a great casting mold.
 And here was all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
 broken hasps and gears and levers. All damp and coated in bat droppings and bloom.
+
+Packing
+-------
+
+So Jack went home, and hunted around the little cottage for whatever might be useful on a journey.
+He found so little food in the place that he dared not take any, for fear of leaving his parents in
+want while he was away.
+
+He picked out a woollen blanket to sleep in, which he laid out before the fire so the damp would drive away.
+He found a leather bottle, which he warmed up and replenished with wax. In the morning he would fill it with
+water from the stream behind the house. And he had a can with a lid so he could boil it up,
+and some kindling, a blade, and some flint.
+
+Morten would have to forage. And Jack would go hungry. But he was not dismayed.
+He fell asleep before the grate, happy for the first time in months.
+
 
 The Trivet
 ----------
@@ -135,6 +151,15 @@ and performed many brave deeds here.
 But at the time of this story he was held back in the Netherworld. For reasons I don't understand,
 his spirit was bound to the Town Square, and the best he could manage was to manifest in the cellar
 of that Tavern, when the moon was full enough to shine through the bars of the window.
+
+The Council
+-----------
+
+The Blacksmith has not anticipated the challenges that Jack has had to face.
+The Council demand Jack proves his bona fides as an apprentice, when of course he has had no training.
+Yet what he has learned on the journey might be sufficient.
+
+For best player experience, there ought to be some risk.
 
 Payback
 -------
