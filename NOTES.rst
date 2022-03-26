@@ -189,6 +189,12 @@ The Return
 
 Two graves, an apple tree and an Oak tree.
 
+Ideas
+-----
+
+* Smiths in the city have been forbidden from making knives. New guild of Cutlers
+* The bats eavesdrop (listen)
+
 Sayings
 -------
 
