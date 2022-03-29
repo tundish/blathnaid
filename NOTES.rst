@@ -102,9 +102,6 @@ This was a very clever thing, which you don't see often today. Because any brew 
 tea you had - in fact, no matter if you were only boiling hay - would nourish and cheer you throughout, and you
 would not feel the lack of food.
 
-The Mission
------------
-
 A token
 -------
 
@@ -119,9 +116,17 @@ After it had cooled, the Blacksmith slipped a leather cord through the hole and 
 Jack saw that within the metal was now a circular seal of an intricate design, which by some strange
 chemistry glowed green.
 
-This will let you into the City.
-The rise of the New Moon will stop it shining.
-You will need to be out by then.
+The Mission
+-----------
+
+The Blacksmith led Jack away from the building and on to the open road. "Jack, you are to go to the City", he said.
+"Follow the road East. The charm I have given you will allow you in. But listen; the rise of the New Moon will
+stop it shining. After that it is useless."
+
+"When you get inside, seek out the Master of the Guild of Smiths. The guild sign looks very like this trivet you carry.
+He will know who sends you by the charm around your neck."
+
+"Tell him this; that Blathnaid is of age to marry. And now you must go."
 
 The Journey
 -----------
