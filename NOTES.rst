@@ -48,12 +48,12 @@ There stood the Blacksmith, warming against the furnace. He had been watching Ja
 and could tell from Morten's stepping what the matter was about.
 
 He took the end of rope from Jack's hand and steadied Morten for a moment.
-Then led him to a rail where he could check his hooves.
+Then he led the horse to a rail where he tied him up next to a butt of water.
 
 Shoes
 -----
 
-I should tell you a little bit about the Blacksmith, but I don't want to hold up the rest of the story.
+I should tell you a little more about the Blacksmith, but I don't want to hold up the rest of the story.
 I'll just say that he was a very wise man. He spoke easily with people, and he listened carefully to animals.
 He wasn't only a skilled Blacksmith, but also a clever Armourer, and a reliable Farrier.
 
