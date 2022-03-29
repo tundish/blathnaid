@@ -1,6 +1,8 @@
 Once upon a time
 ================
 
+.. Blaithnaid is pronounced 'Blo - nid'.
+
 Jack and Morten
 ---------------
 
@@ -38,8 +40,8 @@ might be thinking of Jack more often than is good for her.
 He has hopes she will marry into money, and doesn't want her going off with
 some young villain who can't pay his bills.
 
-Shoes
------
+Open for business
+-----------------
 
 The front part of the forge, where the anvil often is, was open on three sides.
 There stood the Blacksmith, warming against the furnace. He had been watching Jack approach up the path,
@@ -47,6 +49,16 @@ and could tell from Morten's stepping what the matter was about.
 
 He took the end of rope from Jack's hand and steadied Morten for a moment.
 Then led him to a rail where he could check his hooves.
+
+Shoes
+-----
+
+I should tell you a little bit about the Blacksmith, but I don't want to hold up the rest of the story.
+I'll just say that he was a very wise man. He spoke easily with people, and he listened carefully to animals.
+He wasn't only a skilled Blacksmith, but also a clever Armourer, and a reliable Farrier.
+
+He hated to see people sick, or animals hurt. And so without a word he began to check on Morten; his eyes,
+his teeth, his belly. And then to his hooves, whereupon he groaned quietly on seeing the state of each of them.
 
 The forge
 ---------
@@ -72,6 +84,11 @@ Finally, when the horse was fully shod, the Blacksmith ducked back into where Ja
 "That I know, Jack. And we must reckon up, presently. For this job and many another like it."
 
 A choice? Confess or bluff?
+
+Broke
+-----
+
+Jack blushed.
 
 Packing
 -------
