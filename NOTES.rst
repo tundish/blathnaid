@@ -3,6 +3,8 @@ Once upon a time
 
 .. Blaithnaid is pronounced 'Blo - nid'.
 
+.. Blacksmith has many names. How to discover them?
+
 Jack and Morten
 ---------------
 
