@@ -83,14 +83,21 @@ Finally, when the horse was fully shod, the Blacksmith ducked back into where Ja
 
 "Dad thanks you", said Jack without much conviction.
 
-"That I know, Jack. And we must reckon up, presently. For this job and many another like it."
+"That I know, Jack. And we must reckon up, presently. For today and for times past."
 
 A choice? Confess or bluff?
 
 Broke
 -----
 
-Jack blushed.
+In those days you see, people would help their neighbours with all kinds of work. Whatever was still owing they
+would settle up at Yuletide. Jack blushed to think that this year there had been very little to offer anyone.
+And the Blacksmith was chief among their creditors. According to custom, Jack bowed and asked how he might
+be of service.
+
+Errand
+------
+
 
 Packing
 -------
@@ -203,10 +210,10 @@ All at once there was a strange shift in the structure of the Smithy. From the s
 in their hundreds a thick swarm of bats. In a flurry of fur and leather they ascended in a column like the smoke of a
 wet chimney.
 
-As they beat their wings, they raised an evil cloud of dust and metal. This haze rose up until the sun itself burned white and angry like a
-miner's match.
+As they beat their wings, they raised an evil cloud of dust and metal.
+This haze rose up until the sun itself burned white and fierce like a miner's match.
 
-Then all together they turned and headed north towards the City.
+Then all together they turned and headed east towards the City.
 
 The Return
 ----------
