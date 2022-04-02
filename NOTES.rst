@@ -182,7 +182,15 @@ Morten settled down under a tree, happy to be away from the plough, and very ple
 Towards the City
 ----------------
 
-Morten's hooves were solid now, but Jack did not ride hime
+They awoke in the grey of early dawn, and were soon on their way again. For three more days they travelled.
+As they they went on, the road east got wider and more broken up.
+The Villages they passed through were more frequent. The bigger they got, and more broken down they seemed to be.
+The countryside around was ever more sad and bare, with less forage for Morten. Jack did not ride him, but led
+him by the bridle. From time to time he would pat the horse's flank, and worry about how skinny his ribs were becoming.
+
+Jack had ceased to greet other travellers on the road, and preferred very much to camp alone. He would take out the
+locket the Blacksmith had made for him, and marvel at how it glowed in the dark. The New Moon was yet two weeks away.
+Plenty of time to deliver a message, thought Jack.
 
 The City
 --------
