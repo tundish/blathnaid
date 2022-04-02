@@ -98,6 +98,7 @@ be of service.
 Errand
 ------
 
+"I do have an errand for you", says the Blacksmith. "There is a message to deliver. It will be some days travel."
 
 Packing
 -------
@@ -123,10 +124,6 @@ He looked at it thoughtfully for a moment, before taking a rough brush to scrub 
 It was a trivet, such as you'd use to balance a kettle above a fire. This one was solidly made, but in a decorative
 design; it had curved spokes like the wheel of some fantastic chariot. Around the circumference were embossed letters,
 not yet clear enough to read.
-
-This was a very clever thing, which you don't see often today. Because any brew you made on this trivet, however little
-tea you had - in fact, no matter if you were only boiling hay - would nourish and cheer you throughout, and you
-would not feel the lack of food.
 
 A token
 -------
@@ -157,8 +154,31 @@ He will know who sends you by the charm around your neck."
 The Journey
 -----------
 
-Three challenges, rain, rats and ...
-Tea from the Trivet fixes.
+So Jack set off. The first few miles east were familiar to him, passing through places he had been before.
+At the little hamlets on the way, he would look to catch the eye of anyone around, and wave and bid them good day.
+He felt very proud to be on an errand.
+
+As the miles rolled on, and the day grew late, he started to notice a change in the country. The hedges were less
+well kept than before. The ditches were choked and the signposts and milestones overgrown with weed.
+
+In the evening he spied ahead a group of tents and carts.  He guessed this would be tinkers, who move about
+wherever there is work. When he was younger they'd occasionally passed by, and his Mother had brought out the old tin bath
+for them to mend.
+
+The encampment was at the side of the road, and several people were tending fires or smoking pipes or feeding donkeys.
+Jack greeted them all, and some replied and some did not. They did not look to be all tinkers now. There were many
+children, and some old folk. And they were not very organised, and they all looked very tired, and cold, and hungry.
+
+Of course, Jack had no food, and none was offered to him. So he built a little fire away from the main group, and
+set up the trivet, and boiled up some water.
+
+This was a very clever thing, which you don't see often today. Because any brew you made on this trivet, however little
+tea you had - in fact, no matter if you were only boiling hay - would nourish and cheer you throughout, and you
+would not feel the lack of a meal.
+
+
+
+Morten's hooves were solid now, but Jack did not ride hime
 
 The City
 --------
