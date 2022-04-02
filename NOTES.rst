@@ -85,8 +85,6 @@ Finally, when the horse was fully shod, the Blacksmith ducked back into where Ja
 
 "That I know, Jack. And we must reckon up, presently. For today and for times past."
 
-A choice? Confess or bluff?
-
 Broke
 -----
 
@@ -114,6 +112,9 @@ a blade, and a flint.
 
 Morten would have to forage. And Jack would go hungry. But he was not dismayed.
 He fell asleep before the grate, happy for the first time in months.
+
+Reporting for Duty
+------------------
 
 The Trivet
 ----------
