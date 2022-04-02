@@ -235,3 +235,15 @@ Retribution, to retrain an injury, relentlesly hunts the wicked.
 fides qua creditur numquam falletur
 Full faith that is never broken
 Sic semper corruptionis
+
+The Hydrogen Plant
+------------------
+
+The Book of Secrets
+-------------------
+
+* Weathermaking
+* Microstrip circuits
+* Aerodynamics
+* Resonant structures
+
