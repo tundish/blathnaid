@@ -151,32 +151,36 @@ He will know who sends you by the charm around your neck."
 
 "Tell him this; that Blathnaid is of age to marry. And now you must go."
 
-The Journey
------------
+They set off
+------------
 
 So Jack set off. The first few miles east were familiar to him, passing through places he had been before.
 At the little hamlets on the way, he would look to catch the eye of anyone around, and wave and bid them good day.
-He felt very proud to be on an errand.
+He felt very proud and important to be on an errand to the City.
 
 As the miles rolled on, and the day grew late, he started to notice a change in the country. The hedges were less
 well kept than before. The ditches were choked and the signposts and milestones overgrown with weed.
 
-In the evening he spied ahead a group of tents and carts.  He guessed this would be tinkers, who move about
+In the evening he spied ahead a group of tents and carts. He guessed this would be tinkers, who move about
 wherever there is work. When he was younger they'd occasionally passed by, and his Mother had brought out the old tin bath
 for them to mend.
 
 The encampment was at the side of the road, and several people were tending fires or smoking pipes or feeding donkeys.
-Jack greeted them all, and some replied and some did not. They did not look to be all tinkers now. There were many
+Jack greeted them all, and some replied and some did not. They did not seem to be tinkers at all. There were many
 children, and some old folk. And they were not very organised, and they all looked very tired, and cold, and hungry.
 
 Of course, Jack had no food, and none was offered to him. So he built a little fire away from the main group, and
 set up the trivet, and boiled up some water.
 
-This was a very clever thing, which you don't see often today. Because any brew you made on this trivet, however little
-tea you had - in fact, no matter if you were only boiling hay - would nourish and cheer you throughout, and you
-would not feel the lack of a meal.
+Now this trivet was very special; only a few Blacksmiths know how to make such a thing.
+Because whatever you brewed upon it, however little tea you had; in fact, no matter if you were only boiling hay,
+would nourish and cheer you throughout, and you would not feel the lack of a meal.
 
+So Jack rolled himself up in his blanket, near to the fire, all warm and comfy.
+Morten settled down under a tree, happy to be away from the plough, and very pleased with his new shoes.
 
+Towards the City
+----------------
 
 Morten's hooves were solid now, but Jack did not ride hime
 
