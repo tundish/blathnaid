@@ -168,14 +168,14 @@ for them to mend.
 
 The encampment was at the side of the road, and several people were tending fires or smoking pipes or feeding donkeys.
 Jack greeted them all, and some replied and some did not. They did not seem to be tinkers at all. There were many
-children, and some old folk. And they were not very organised, and they all looked very tired, and cold, and hungry.
+children, and some old folk. And they were not very organised, and they all looked tired, and cold, and hungry.
 
 Of course, Jack had no food, and none was offered to him. So he built a little fire away from the main group, and
 set up the trivet, and boiled up some water.
 
 Now this trivet was very special; only a few Blacksmiths know how to make such a thing.
 Because whatever you brewed upon it, however little tea you had; in fact, no matter if you were only boiling hay,
-would nourish and cheer you throughout, and you would not feel the lack of a meal.
+that brew would nourish and cheer you throughout, and you would not feel the lack of a meal.
 
 So Jack rolled himself up in his blanket, near to the fire, all warm and comfy.
 Morten settled down under a tree, happy to be away from the plough, and very pleased with his new shoes.
@@ -184,21 +184,46 @@ Towards the City
 ----------------
 
 They awoke in the grey of early dawn, and were soon on their way again. For three more days they travelled.
-As they they went on, the road east got wider and more broken up.
-The Villages they passed through were more frequent. The bigger they got, and more broken down they seemed to be.
+As they they went on, the road east got broader.
+The Villages they passed through were more frequent. The bigger they got, and more shabby they seemed to be.
 The countryside around was ever more sad and bare, with less forage for Morten. Jack did not ride him, but led
 him by the bridle. From time to time he would pat the horse's flank, and worry about how skinny his ribs were becoming.
 
-Jack had ceased to greet other travellers on the road, and preferred very much to camp alone. He would take out the
-locket the Blacksmith had made for him, and marvel at how it glowed in the dark. The New Moon was yet two weeks away.
-Plenty of time to deliver a message, thought Jack.
+Jack had ceased to greet other travellers on the road, and preferred very much to camp alone. As he lay looking up
+at the stars, he would take out the locket the Blacksmith had made for him, and marvel at how it glowed in the darkness.
+The New Moon was yet two weeks away.  Plenty of time to deliver a message, thought Jack. And as he looked east he spied
+another glow. The bonfires and braziers of the City were only a few hours away now.
 
 The City
 --------
 
-Has to give up Morten to get in.
-"Don't worry Jack, he'll eat better than you will", they laugh.
-Later sees fragments of blanket when he's clearing up at the tavern.
+The last few miles were grim. There was not a tree or bush to be seen now; only a blasted and boggy heath. The road was
+lined on both sides by ragged camps; turves piled up for walls, rooved with the wreckage of tattered wagons.
+And everywhere, the sounds and smells of sad and hungry people.
+
+The road was controlled by troops, who barred the way to the City and only opened the barricades at certain times of day.
+
+In his whole life, Jack had never stood in a line for anything, and the longer he waited the less sure of himself he
+became. Finally, at the barrier, whereupon a sourfaced man in a leather tunic demanded to know what was his business,
+Jack could only hold up the locket and say, "I carry a message". That seemed to suffice; the guard lifted his truncheon
+and waved him through.
+
+The walls of the City lay before them, and the road led up to an enormous gate. There was another line here. Scores of carts
+stood by, piled up with all kinds of goods. There were angry voices as traders argued with guards and revenue men. Jack went on
+past. He gathered his few belongings from Morten's back, and hoisted them on his own. Then he aimed for a smaller door next
+to the main entry which seemed to be open to those on foot.
+
+The smaller gate was flanked by two guards, sternly on duty. They held short, heavy pikes with evil-looking hooks at the end.
+One of the men stepped forward to take Morten's bridle. The other offered the point of his weapon and advised Jack he should
+explain himself or go back where he came.
+
+Jack repeated exactly the phrase that had got him past the previous challenge. This time, the guard studied the locket
+carefully, before finally nodding. Then he asked, in a mocking way, whether the horse carried a message too, and where
+was his token for entry?
+
+The first guard tied poor Morten to a gatepost, saying, "if you won't feed him, you shouldn't keep him".
+The second man joked, "sure, he'll eat very well presently!" There was nothing that Jack could do but step through the
+gate while he was able, to the laughter of the guards as he passed.
 
 The Friend
 ----------
@@ -272,11 +297,13 @@ Sic semper corruptionis
 Characters
 ----------
 
+* Jack
 * Blathnaid Ni Callan
-* Krol
-* Aenigna
-* Netherton (friendly smith)
-
+* Krol      (Courage)
+* Aenaena   (Compassion)
+* Travis    (Cognition)
+* Netherton
+* Two guards
 * Ingomer Billwiggin (Mayor)
 * Niall Cradely (Blacksmith)
 
