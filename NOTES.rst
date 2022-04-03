@@ -269,6 +269,17 @@ fides qua creditur numquam falletur
 Full faith that is never broken
 Sic semper corruptionis
 
+Characters
+----------
+
+* Blathnaid Ni Callan
+* Krol
+* Inana / Aenigna
+
+* Ingomer de Burgo (Baddie)
+* Zotira (Niall Callahan) (Blacksmith)
+
+
 The Hydrogen Plant
 ------------------
 
