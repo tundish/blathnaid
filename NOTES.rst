@@ -83,13 +83,13 @@ Finally, when the horse was fully shod, the Blacksmith ducked back into where Ja
 
 "Dad thanks you", said Jack without much conviction.
 
-"That I know, Jack. And we must reckon up, presently. For today and for times past."
+"That's certain, Jack. And we must reckon up, presently. For today and for times past."
 
 Broke
 -----
 
-In those days you see, people would help their neighbours with all kinds of work. Whatever was still owing they
-would settle up at Yuletide. Jack blushed to think that this year there had been very little to offer anyone.
+In those days you see, people would always help their neighbours whenever there was need. And if they got to
+owing they would settle up at Yuletide. Jack blushed to think that this year there had been very little to offer anyone.
 And the Blacksmith was chief among their creditors. According to custom, Jack bowed and asked how he might
 be of service.
 
@@ -167,7 +167,7 @@ wherever there is work. When he was younger they'd occasionally passed by, and h
 for them to mend.
 
 The encampment was at the side of the road, and several people were tending fires or smoking pipes or feeding donkeys.
-Jack greeted them all, and some replied and some did not. They did not seem to be tinkers at all. There were many
+Jack greeted them every one, and some replied and some did not. They did not seem to be tinkers at all. There were many
 children, and some old folk. And they were not very organised, and they all looked tired, and cold, and hungry.
 
 Of course, Jack had no food, and none was offered to him. So he built a little fire away from the main group, and
@@ -185,7 +185,7 @@ Towards the City
 
 They awoke in the grey of early dawn, and were soon on their way again. For three more days they travelled.
 As they they went on, the road east got broader.
-The Villages they passed through were more frequent. The bigger they got, and more shabby they seemed to be.
+The Villages they passed through were more frequent. The bigger they got, the more shabby they seemed to be.
 The countryside around was ever more sad and bare, with less forage for Morten. Jack did not ride him, but led
 him by the bridle. From time to time he would pat the horse's flank, and worry about how skinny his ribs were becoming.
 
@@ -217,7 +217,7 @@ The smaller gate was flanked by two guards, sternly on duty. They held short, he
 One of the men stepped forward to take Morten's bridle. The other offered the point of his weapon and advised Jack he should
 explain himself or go back where he came.
 
-Jack repeated exactly the phrase that had got him past the previous challenge. This time, the guard studied the locket
+Jack repeated the words that had got him past the previous challenge. This time, the guard studied the locket
 carefully, before finally nodding. Then he asked, in a mocking way, whether the horse carried a message too, and where
 was his token for entry?
 
