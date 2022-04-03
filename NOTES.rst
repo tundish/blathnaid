@@ -274,10 +274,11 @@ Characters
 
 * Blathnaid Ni Callan
 * Krol
-* Inana / Aenigna
+* Aenigna
+* Netherton (friendly smith)
 
-* Ingomer de Burgo (Baddie)
-* Zotira (Niall Callahan) (Blacksmith)
+* Ingomer Billwiggin (Mayor)
+* Niall Cradely (Blacksmith)
 
 
 The Hydrogen Plant
