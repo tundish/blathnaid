@@ -228,10 +228,10 @@ gate while he was able, to the laughter of the guards as he passed.
 Inside
 ------
 
-Through the gate Jack found himself on a raised buttress, with stone balustrades on either side. Two flights of steps led
+Inside the wall, Jack found himself on a raised buttress, with stone balustrades on either side. Two flights of steps led
 down to street level. He tripped and tumbled down them, so upset was he at the loss of Morten. In the street,
 several fellows who were gathered there took notice of him and Jack realised he had better recover his wits or else be
-robbed some more. He hurried ahead until he got to a spot where he could not be surprised. There he sank to his
+robbed again. He hurried ahead until he got to a spot where he could not be surprised. There he sank to his
 haunches, steadied his breathing, and began to look around.
 
 The Friend
