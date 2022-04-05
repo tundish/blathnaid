@@ -320,7 +320,7 @@ Characters
 * Blathnaid Ni Callan
 * Krol      (Courage)
 * Aenaena   (Compassion)
-* Travis    (Cognition)
+* Moody     (Cognition)
 * Netherton
 * Two guards
 * Ingomer Billwiggin (Mayor)
