@@ -183,15 +183,17 @@ Morten settled down under a tree, happy to be away from the plough, and very ple
 Towards the City
 ----------------
 
-They awoke in the grey of early dawn, and were soon on their way again. For three more days they travelled.
+They awoke in the grey of early dawn, and were soon on their way again.
 As they they went on, the road east got broader.
 The Villages they passed through were more frequent. The bigger they got, the more shabby they seemed to be.
-The countryside around was ever more sad and bare, with less forage for Morten. Jack did not ride him, but led
-him by the bridle. From time to time he would pat the horse's flank, and worry about how skinny his ribs were becoming.
+The countryside around was ever more sad and bare, with less and less forage for Morten.
+
+And so for three more days they travelled. Jack could tell Morten was getting tired, and tried not ride him, but led
+him for miles at a time by the bridle. He would pat the horse's flank, and worry about how skinny his ribs were becoming.
 
 Jack had ceased to greet other travellers on the road, and preferred very much to camp alone. As he lay looking up
 at the stars, he would take out the locket the Blacksmith had made for him, and marvel at how it glowed in the darkness.
-The New Moon was yet two weeks away.  Plenty of time to deliver a message, thought Jack. And as he looked east he spied
+The New Moon was yet two weeks away. Plenty of time to deliver a message, thought Jack. And as he looked east he spied
 another glow. The bonfires and braziers of the City were only a few hours away now.
 
 The City
@@ -291,6 +293,7 @@ Ideas
 -----
 
 * Smiths in the city have been forbidden from making knives. New guild of Cutlers
+* Only guards and smiths allowed fires
 * The bats eavesdrop (listen)
 
 Sayings
