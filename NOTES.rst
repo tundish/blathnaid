@@ -241,13 +241,26 @@ Refuge
 
 .. TODO::
 
-During the day, this part of town is OK because of guards. After curfew, very rough. Needs to survive his first night
+During the day, this part of town is OK because of guards. After curfew, very rough. Needs to survive his first night.
 
 The Friend
 ----------
 
 Trivet is a Guild sign and is everywhere. Jack tries to spot all three Ss, but without result.
 Finally, the friend approaches him; he's seen Jack use the Trivet.
+
+Moody
+-----
+
+.. FIXME::
+
+As Jack was taking a safe line across the street, he became aware of someone who seemed not to be
+going anywhere in particular, athough he was moving after a fashion. Moving so as not to get anywhere.
+Walking all the time like a man crossing a wobbly bridge. But then having reached the end,
+turning round and coming back again.
+
+Jack tried to avoid the fellow, but could not; the skill of the man was to attach himself to others
+and stick along like a lonely puppy.
 
 Weave
 -----
