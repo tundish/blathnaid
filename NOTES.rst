@@ -249,6 +249,17 @@ The Friend
 Trivet is a Guild sign and is everywhere. Jack tries to spot all three Ss, but without result.
 Finally, the friend approaches him; he's seen Jack use the Trivet.
 
+Aenaena
+-------
+
+.. TODO::
+
+She used to work in the Temple but has her own modelling business now. Also does private shows.
+In her spare time she draws pictures of the clients who haven't paid her. Pins them up outside to shame them.
+Jack recognises one of them?
+
+Reference only fans, clothing try-ons.
+
 Moody
 -----
 
@@ -261,6 +272,8 @@ turning round and coming back again.
 
 Jack tried to avoid the fellow, but could not; the skill of the man was to attach himself to others
 and stick along like a lonely puppy.
+
+.. todo:: Moody tries to push a black pill to stave off hunger (Amsterdam)
 
 Weave
 -----
@@ -334,7 +347,7 @@ Characters
 * Krol      (Courage)
 * Aenaena   (Compassion)
 * Moody     (Cognition)
-* Netherton
+* Gillian
 * Two guards
 * Ingomer Billwiggin (Mayor)
 * Niall Cradely (Blacksmith)
@@ -350,4 +363,12 @@ The Book of Secrets
 * Microstrip circuits
 * Aerodynamics
 * Resonant structures
+
+Tech
+----
+
+Input field does intellisense as words are typed
+Story has endpoint to serve available commands by string prefix.
+.. todo:: Balladeer exaample
+
 
