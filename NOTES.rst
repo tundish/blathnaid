@@ -294,6 +294,31 @@ The stranger looked shocked at this breach of protocol. "I'll make you a gift, t
 And with that he suddenly span on his heel, and in one movement attached himself to another in the street,
 a skinny man who had tried to cross over to avoid him, and had not crossed fast enough.
 
+First meeting Aenaena
+---------------------
+
+Something out of the corner of Jack's eye made him pause mid-step. He turned his head to see more.
+Ten yards away a young woman with copper red hair was looking straight at him. She was seated in the back
+of a sort of cabin, with windows so wide and high there seemed almost to be no walls to it at all.
+
+"Hello", she said. "Come on over."
+Jack was all confusion, but he went up to the open door.
+
+The place was newly built of wood, but attached to the very old dwelling behind it. It was freshly painted,
+and nicely decorated with ribbons and ornaments. There was an urn on the floor from which a light
+smoke arose. Woody and spicy, a fragrance so beguiling it seemed absolutely happy and right to
+loosen one's boots and undo the buttons of one's shirt.
+
+The girl was young, maybe not yet Jack's age. She had on a pretty bodice, which showed a great deal
+of her shoulders.
+
+"I'm Aenaena", said she. And indeed, the ribbons hanging from
+the walls bore that very name. "Sit here and keep me company. I don't have anyone to talk to."
+
+There was a chair next to her so Jack dropped his belongings inside the door and sat awkwardly down.
+He was at once terrified and fascinated. He tried very hard not to glance down, where a slit in
+Aenaena's skirt showed a beautiful smooth white thigh.
+
 Weave
 -----
 
