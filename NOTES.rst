@@ -188,7 +188,7 @@ As they they went on, the road east got broader.
 The Villages they passed through were more frequent. The bigger they got, the more shabby they seemed to be.
 The countryside around was ever more sad and bare, with less and less forage for Morten.
 
-And so for three more days they travelled. Jack could tell Morten was getting tired, and tried not ride him, but led
+And so for three more days they travelled. Jack could tell Morten was getting tired, and tried not to ride him, but led
 him for miles at a time by the bridle. He would pat the horse's flank, and worry about how skinny his ribs were becoming.
 
 Jack had ceased to greet other travellers on the road, and preferred very much to camp alone. As he lay looking up
@@ -215,7 +215,7 @@ stood by, piled up with all kinds of goods. There were angry voices as traders a
 past. He gathered his few belongings from Morten's back, and hoisted them on his own. Then he aimed for a smaller door next
 to the main entry which seemed to be open to those on foot.
 
-The smaller gate was flanked by two guards, sternly on duty. They held short, heavy pikes with evil-looking hooks at the end.
+The smaller gate was flanked by two guards, sternly on duty. They held short, solid pikes with evil-looking hooks at the end.
 One of the men stepped forward to take Morten's bridle. The other offered the point of his weapon and advised Jack he should
 explain himself or go back where he came.
 
@@ -284,7 +284,7 @@ a long fringe of straw-coloured hair. They stood at the same height, contemplati
 They might have been brothers. Twins even, save that Jack's suntanned face was several shades darker than
 the pale, sickly aspect of the other.
 
-Jack looked down to see that the lad had pressed into his hand a black pillule, the size and shape of a pea.
+Jack looked down to see that the lad had pressed into his hand a black pillule, ugly like a rotten tooth.
 "That'll take your mind off it.", said the stranger. "Lasts all day, lasts all day."
 
 Jack tried to give it back. "I don't want it", he said. "Anyway, I haven't any money".
