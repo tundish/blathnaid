@@ -239,12 +239,23 @@ haunches, steadied his breathing, and began to look around.
 Environment
 -----------
 
-Jack feared very much getting lost in the city, and perhaps cornered in some alley by thieves. In the first,
-he had no worries; only a few main streets of the city were open to all. Every neighbourhood, where families were
-established, had set up barricades and gates, protected by their own, and only permitting to pass their oen through.
+Jack feared two things. First was to be robbed, which seemed to be not merely a common occurrence, but the very
+commerce of half the city. The second concern was getting lost, and while looking lost, then to be cornered in some
+alley by thieves.
 
-Eevry building in the main thoroughfare, and at the dock next to the river, was barred and locked and secured against
+But in losing his way he had scant chance; only a few main streets of the city were open to all. Every neighbourhood,
+where families were established, had set up barricades and gates, protected by their own, and permitting only
+their own to pass through.
+
+.. todo:: explain locations
+
+So Jack was able to trapse only a quarter of a mile back and forth, and quickly learned his way about the place.
+Every building in the main thoroughfare, and at the dock next to the river, was barred and locked and secured against
 strangers.
+
+.. todo:: street life, guards
+
+.. todo:: mayoral proclamations
 
 Jack found himself watching as two dreyman brought in barrels to the cellar. And he saw that every time the cellar
 hatch banged shut, the hasp on it shook a little loose. Now when the dreyman left, they were careful to place a chain
@@ -253,6 +264,11 @@ on the door.
 So Jack waited until there was some commotion further up the street, and all heads were turned. Then went over to
 the hatch and was able to work the bolt out of its seat, lift up one half of the hatchway, and slip inside.
 
+The cellar
+----------
+
+Now in the cellar were three enormous barrels, each with a tap, and a dish below to catch the drips. And on the
+first barrel was painted "This", and on the second "That"
 Refuge
 ------
 
