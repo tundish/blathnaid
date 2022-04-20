@@ -236,6 +236,23 @@ several fellows who were gathered there took notice of him and Jack realised he 
 robbed again. He hurried ahead until he got to a spot where he could not be surprised. There he sank to his
 haunches, steadied his breathing, and began to look around.
 
+Environment
+-----------
+
+Jack feared very much getting lost in the city, and perhaps cornered in some alley by thieves. In the first,
+he had no worries; only a few main streets of the city were open to all. Every neighbourhood, where families were
+established, had set up barricades and gates, protected by their own, and only permitting to pass their oen through.
+
+Eevry building in the main thoroughfare, and at the dock next to the river, was barred and locked and secured against
+strangers.
+
+Jack found himself watching as two dreyman brought in barrels to the cellar. And he saw that every time the cellar
+hatch banged shut, the hasp on it shook a little loose. Now when the dreyman left, they were careful to place a chain
+on the door.
+
+So Jack waited until there was some commotion further up the street, and all heads were turned. Then went over to
+the hatch and was able to work the bolt out of its seat, lift up one half of the hatchway, and slip inside.
+
 Refuge
 ------
 
@@ -339,6 +356,8 @@ and performed many brave deeds here.
 But at the time of this story he was held back in the Netherworld. For reasons I don't understand,
 his spirit was bound to the Town Square, and the best he could manage was to manifest in the cellar
 of that Tavern, when the moon was full enough to shine through the bars of the window.
+
+Only when Gibbous. That leaves 7 nights of waning crescent before New Moon.
 
 The Council
 -----------
