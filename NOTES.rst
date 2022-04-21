@@ -270,8 +270,21 @@ the hatch and was able to work the bolt out of its seat, lift up one half of the
 The cellar
 ----------
 
-Now in the cellar were three enormous barrels, each with a tap, and a dish below to catch the drips. And on the
-first barrel was painted "This", and on the second "That", and on the last one, "The Other".
+Down below it was not fully dark. Some light streamed in by gratings which gave sight of the street above.
+Jack saw the cellar was lined and vaulted in brick. It was all one room about ten feet high which got lower and darker towards
+the back.
+
+But he saw that as you went further inside, it got dusty, which made him think no one troubled to go there. And by
+hopping over the floor into the shadows, he found a spot where he was sure he could sleep without being seen, even if
+someone came in for some reason.
+
+Now down in the cellar were many barrels all stacked up. But three stood separately on their side, and they were enormous.
+Each with a tap, and a dish below to catch the drips.
+And on the first barrel was painted "This", and on the second "That", and on the last one, "The Other".
+
+They stood near some steps which quickly ended in a locked door, and nothing Jack could do could open that.
+But he went to work on the main cellar hatch, and contrived with his knife to make sure the bolt would allow him in and
+out, not withstanding any chain above.
 
 Refuge
 ------
@@ -325,7 +338,7 @@ First meeting Aenaena
 
 Something out of the corner of Jack's eye made him pause mid-step. He turned his head to see more.
 Ten yards away a young woman with copper red hair was looking straight at him. She was seated in the back
-of a sort of cabin, with windows so wide and high there seemed almost to be no walls to it at all.
+of a sort of cabin, with windows so wide and high there seemed almost to be no wall to it at all.
 
 "Hello", she said. "Come on over."
 Jack was all confusion, but he went up to the open door.
