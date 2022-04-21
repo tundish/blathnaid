@@ -218,7 +218,7 @@ stood by, piled up with all kinds of goods. There were angry voices as traders a
 past. He gathered his few belongings from Morten's back, and hoisted them on his own. Then he aimed for a smaller door next
 to the main entry which seemed to be open to those on foot.
 
-The smaller gate was flanked by two guards, sternly on duty. They held short, solid pikes with evil-looking hooks at the end.
+The smaller gate was flanked by two guards, sternly on duty. They held short, solid bills with evil-looking hooks at the end.
 One of the men stepped forward to take Morten's bridle. The other offered the point of his weapon and advised Jack he should
 explain himself or go back where he came.
 
@@ -426,6 +426,10 @@ Ideas
 * New guilds of Cutlers. Locksmiths. Boilermakers.
 * Only guards and smiths allowed fires
 * The bats eavesdrop (listen)
+
+... on how the Boilermakers were so proud of the prooving of their seams, but they did not care if the flux leeched into the Gin.
+... or how the Locksmiths made sure there was not one key in the City would match another, yet their tumblers seize up in the rain.
+... And that the Cutlers were all blade and no tang, to the point that the Guards, after having been given new glaives, preferred to beat people with the handle, as it was safer for all concerned.
 
 Sayings
 -------
