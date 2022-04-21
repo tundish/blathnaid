@@ -260,12 +260,13 @@ strangers.
 
 .. todo:: mayoral proclamations
 
-Jack found himself watching as two dreyman brought in barrels to the cellar. And he saw that every time the cellar
-hatch banged shut, the hasp on it shook a little loose. Now when the dreyman left, they were careful to place a chain
-on the door.
+Jack found himself watching as two dreymen brought in barrels to the cellar. And he saw that every time one half of
+those big cellar doors banged shut, the hasp on it shook a little loose.
+Now when the dreymen left, they were careful to place a padlock on the door. And as that padlock hung, it seemed to pull
+the hasp with it too.
 
 So Jack waited until there was some commotion further up the street, and all heads were turned. Then went over to
-the hatch and was able to work the bolt out of its seat, lift up one half of the hatchway, and slip inside.
+the doors and was able to work one bolt out of its seat, lift up one half of the hatchway, and slip inside.
 
 The cellar
 ----------
@@ -284,7 +285,7 @@ And on the first barrel was painted "This", and on the second "That", and on the
 
 They stood near some steps which quickly ended in a locked door, and nothing Jack could do could open that.
 But he went to work on the main cellar hatch, and contrived with his knife to make sure the bolt would allow him in and
-out, not withstanding any chain above.
+out, notwithstanding any padlock above.
 
 Refuge
 ------
@@ -421,7 +422,8 @@ Two graves, an apple tree and an Oak tree.
 Ideas
 -----
 
-* Smiths in the city have been forbidden from making knives. New guild of Cutlers
+* Smiths in the city have been forbidden from making knives, locks, or pressure vessels.
+* New guilds of Cutlers. Locksmiths. Boilermakers.
 * Only guards and smiths allowed fires
 * The bats eavesdrop (listen)
 
