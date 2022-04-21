@@ -1,3 +1,6 @@
+:author:    D E Haynes
+:project:   Blathnaid
+
 Once upon a time
 ================
 
@@ -171,7 +174,7 @@ Jack greeted them every one, and some replied and some did not. They did not see
 children, and some old folk. And they were not very organised, and they all looked tired, and cold, and hungry.
 
 Of course, Jack had no food, and none was offered to him. So he built a little fire away from the main group, and
-set up the trivet, and boiled up some water.
+set up the trivet, and boiled some water.
 
 Now this trivet was very special; only a few Blacksmiths know how to make such a thing.
 Because whatever you brewed upon it, however little tea you had; in fact, no matter if you were only boiling hay,
@@ -244,7 +247,7 @@ commerce of half the city. The second concern was getting lost, and while lookin
 alley by thieves.
 
 But in losing his way he had scant chance; only a few main streets of the city were open to all. Every neighbourhood,
-where families were established, had set up barricades and gates, protected by their own, and permitting only
+where families were established, had set up gates and pickets, protecting their own, and permitting only
 their own to pass through.
 
 .. todo:: explain locations
@@ -268,7 +271,8 @@ The cellar
 ----------
 
 Now in the cellar were three enormous barrels, each with a tap, and a dish below to catch the drips. And on the
-first barrel was painted "This", and on the second "That"
+first barrel was painted "This", and on the second "That", and on the last one, "The Other".
+
 Refuge
 ------
 
@@ -281,17 +285,6 @@ The Friend
 
 Trivet is a Guild sign and is everywhere. Jack tries to spot all three Ss, but without result.
 Finally, the friend approaches him; he's seen Jack use the Trivet.
-
-Aenaena
--------
-
-.. TODO::
-
-She used to work in the Temple but has her own modelling business now. Also does private shows.
-In her spare time she draws pictures of the clients who haven't paid her. Pins them up outside to shame them.
-Jack recognises one of them?
-
-Reference only fans, clothing try-ons.
 
 Moody
 -----
@@ -351,6 +344,17 @@ the walls bore that very name. "Sit here and keep me company. I don't have anyon
 There was a chair next to her so Jack dropped his belongings inside the door and sat awkwardly down.
 He was at once terrified and fascinated. He tried very hard not to glance down, where a slit in
 Aenaena's skirt showed a beautiful smooth white thigh.
+
+Aenaena
+-------
+
+.. TODO::
+
+She used to work in the Temple but has her own modelling business now. Also does private shows.
+In her spare time she draws pictures of the clients who haven't paid her. Pins them up outside to shame them.
+Jack recognises one of them?
+
+Reference only fans, clothing try-ons.
 
 Weave
 -----
