@@ -425,6 +425,7 @@ the trivet, which was there on the floor. And he indicated one of the spokes and
 and of course Jack did not. "This one stands for Simplicity", said Krol. "Simplicity. Try to train it. Simplicity can be
 cultivated."
 
+And before Jack could get him to explain any more, Krol had curled up and was off to sleep.
 
 Ingomer
 -------
