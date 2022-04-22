@@ -383,7 +383,7 @@ The name of that spirit is Krol.
 I am not the world expert on Krol.
 What I have heard about him would fill a book, although not all of that can have been the truth.
 
-I know he'd been an important figure in antiquity. And he did take shape again in our modern age,
+I do know he'd been an important figure in antiquity. And he did take shape again in our modern age,
 and performed many brave deeds here.
 
 But at the time of this story he was held back in the Netherworld. For reasons I don't understand,
