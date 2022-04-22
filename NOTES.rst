@@ -385,12 +385,12 @@ The name of that spirit is Krol.
 I am not the world expert on Krol.
 What I have heard about him would fill a book, although not all of that can have been the truth.
 
-I know he'd been an important figure in Antiquity. And he took shape again in our modern age,
+I know he'd been an important figure in antiquity. And he did take shape again in our modern age,
 and performed many brave deeds here.
 
 But at the time of this story he was held back in the Netherworld. For reasons I don't understand,
-his spirit was bound to the Town Square, and the best he could manage was to manifest in the cellar
-of that Tavern, when the moon was full enough to shine through the bars of the window.
+his spirit was bound to the City, and the best he could manage was to manifest in the cellar
+of that tavern, when the moon was full enough to shine through the bars of the windows.
 
 Only when Gibbous. That leaves 7 nights of waning crescent before New Moon.
 
@@ -400,14 +400,17 @@ T 1
 So Krol said, "I am cursed to be here while there is light from the moon. And I may eat only what is offered to me".
 Jack thought about this for a moment and went over to one of the big barrels, which was called 'This'.
 He opened up the tap a little, so it half-filled the tundish below.
-And he passed it to the little imp, who grinned and straight away started drinking it down.
+And he passed it to the little Imp, who grinned and straight away started drinking it down.
 
 S 1
 ---
 
 Then Krol caught sight of Jack's trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
-"Do you know what this one is?", he asked. Jack didn't know what he was talking about.
-"This spoke stands for Sensitivity", said Krol. "Sensitivity. Try and train it. Sensitivity can be cultivated."
+"Do you know what this one is?", he asked.
+
+Jack didn't have a clue what he was talking about.
+
+"This spoke stands for Sensitivity", said Krol. "Sensitivity. Try to train it. Sensitivity can be cultivated."
 Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
 
 T 2
@@ -421,7 +424,7 @@ S 2
 
 Krol needed no second invitation, and drank the beer gratefully. Then he set the dish down again, and went back to
 the trivet, which was there on the floor. And he indicated one of the spokes and said, "Do you know what this one is?",
-and of course Jack did not. "This one stands for Simplicity", said Krol. "Simplicity. Try and train it. Simplicity can be
+and of course Jack did not. "This one stands for Simplicity", said Krol. "Simplicity. Try to train it. Simplicity can be
 cultivated."
 
 
