@@ -112,7 +112,7 @@ want while he was away.
 
 He picked out a woollen blanket to sleep in, which he laid out before the fire so the damp would drive away.
 He found a leather bottle, which he warmed up and replenished with wax. In the morning he would fill it with
-water from the stream behind the house. He had a can with a lid so he could boil it up, and some kindling,
+water from the stream behind the house. He had a can with a lid so he could boil up, and some kindling,
 a blade, and a flint.
 
 Morten would have to forage. And Jack would go hungry. But he was not dismayed.
