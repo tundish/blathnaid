@@ -405,14 +405,24 @@ And he passed it to the little imp, who grinned and straight away started drinki
 S 1
 ---
 
-Krol caught sight of Jack's trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
+Then Krol caught sight of Jack's trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
 "Do you know what this one is?", he asked. Jack didn't know what he was talking about.
-"This spoke stands for Sensitivity", said Krol. "Sensitivity. Try to train it. It can be cultivated."
+"This spoke stands for Sensitivity", said Krol. "Sensitivity. Try and train it. Sensitivity can be cultivated."
 Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
+
+T 2
+---
+
+And there again was Krol. Jack was pleased to see him, and went over to the second barrel, upon which was painted
+'That'. He opened the tap until the tundish was half to the brim and he passed it across to his new friend.
 
 S 2
 ---
 
+Krol needed no second invitation, and drank the beer gratefully. Then he set the dish down again, and went back to
+the trivet, which was there on the floor. And he indicated one of the spokes and said, "Do you know what this one is?",
+and of course Jack did not. "This one stands for Simplicity", said Krol. "Simplicity. Try and train it. Simplicity can be
+cultivated."
 
 
 Ingomer
