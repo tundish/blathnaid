@@ -377,7 +377,6 @@ Weave
 
 Sensitivity             Simplicity          Spontaneity
             Cognition              Courage             Compassion
-
 Kroll
 -----
 
@@ -394,6 +393,27 @@ his spirit was bound to the Town Square, and the best he could manage was to man
 of that Tavern, when the moon was full enough to shine through the bars of the window.
 
 Only when Gibbous. That leaves 7 nights of waning crescent before New Moon.
+
+T 1
+---
+
+So Krol said, "I am cursed to be here while there is light from the moon. And I may eat only what is offered to me".
+Jack thought about this for a moment and went over to one of the big barrels, which was called 'This'.
+He opened up the tap a little, so it half-filled the tundish below.
+And he passed it to the little imp, who grinned and straight away started drinking it down.
+
+S 1
+---
+
+Krol caught sight of Jack's trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
+"Do you know what this one is?", he asked. Jack didn't know what he was talking about.
+"This spoke stands for Sensitivity", said Krol. "Sensitivity. Try to train it. It can be cultivated."
+Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
+
+S 2
+---
+
+
 
 Ingomer
 -------
