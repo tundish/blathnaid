@@ -339,12 +339,12 @@ First meeting Aenaena
 
 Something out of the corner of Jack's eye made him pause mid-step. He turned his head to see more.
 Ten yards away a young woman with copper red hair was looking straight at him. She was seated in the back
-of a sort of cabin, with windows so wide and high there seemed almost to be no wall to it at all.
+of a sort of cabin, with casements so wide and high it seemed to be all windows and hardly any wall.
 
 "Hello", she said. "Come on over."
 Jack was all confusion, but he went up to the open door.
 
-The place was newly built of wood, but attached to the very old dwelling behind it. It was freshly painted,
+The thing was newly built of wood, but attached to the very old dwelling behind it. It was freshly painted,
 and nicely decorated with ribbons and ornaments. There was an urn on the floor from which a light
 smoke arose. Woody and spicy, a fragrance so beguiling it seemed absolutely happy and right to
 loosen one's boots and undo the buttons of any shirt one might be wearing.
