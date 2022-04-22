@@ -315,18 +315,16 @@ turning round and coming back again.
 Jack tried to avoid the fellow, but could not; the skill of the man was to attach himself to others
 and stick along like a lonely puppy.
 
-.. todo:: Moody tries to push a black pill to stave off hunger (Amsterdam)
-
 First impressions of Moody
 --------------------------
 
 "Hey mate, are you hungry?", said the stranger, two or three times without waiting for an answer.
 Jack looked boldly into the cowl and two green eyes looked back at him. Green eyes beneath
-a long fringe of straw-coloured hair. They stood at the same height, contemplating each other for a moment.
+a long fringe of straw-coloured hair. The two lads stood at the same height, contemplating each other for a moment.
 They might have been brothers. Twins even, save that Jack's suntanned face was several shades darker than
 the pale, sickly aspect of the other.
 
-Jack looked down to see that the lad had pressed into his hand a black pillule, ugly like a rotten tooth.
+Jack looked down to see that the other had pressed into his hand a black pillule, ugly like a rotten tooth.
 "That'll take your mind off it.", said the stranger. "Lasts all day, lasts all day."
 
 Jack tried to give it back. "I don't want it", he said. "Anyway, I haven't any money".
