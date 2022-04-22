@@ -1,5 +1,7 @@
-:author:    D E Haynes
 :project:   Blathnaid
+:author:    D E Haynes
+:copyright: 2022 D E Haynes
+
 
 Once upon a time
 ================
@@ -393,6 +395,14 @@ of that Tavern, when the moon was full enough to shine through the bars of the w
 
 Only when Gibbous. That leaves 7 nights of waning crescent before New Moon.
 
+Ingomer
+-------
+
+And there before him stood Ingomer Billwiggin, in all his Mayoral finery, and surrounded by guards.
+Jack stepped forward and raised up his locket saying, "I carry a message!"
+
+But the locket shone no longer.
+
 The Council
 -----------
 
@@ -410,7 +420,7 @@ in their hundreds a thick swarm of bats. In a flurry of fur and leather they asc
 wet chimney.
 
 As they beat their wings, they raised an evil cloud of dust and metal.
-This haze rose up until the sun itself burned white and fierce like a miner's match.
+This haze rose up until the sun itself burned white and fierce like a gas mantle.
 
 Then all together they turned and headed east towards the City.
 
