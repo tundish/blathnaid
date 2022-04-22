@@ -408,7 +408,7 @@ Then Krol caught sight of Jack's trivet and thoughtfully traced the shape of one
 
 Jack didn't have a clue what he was talking about.
 
-"This spoke stands for Sensitivity", said Krol. "Sensitivity. Try to train it. Sensitivity can be cultivated."
+"This spoke stands for Sensitivity", said Krol. "Sensitivity. Try to train that. It can be cultivated, can sensitivity ."
 Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
 
 T 2
@@ -422,8 +422,8 @@ S 2
 
 Krol needed no second invitation, and drank the beer gratefully. Then he set the dish down again, and went back to
 the trivet, which was there on the floor. And he indicated one of the spokes and said, "Do you know what this one is?",
-and of course Jack did not. "This one stands for Simplicity", said Krol. "Simplicity. Try to train it. Simplicity can be
-cultivated."
+and of course Jack did not. "This one stands for Simplicity", said Krol. "Simplicity. Try to train that. It can be
+cultivated, can simplicity."
 
 And before Jack could get him to explain any more, Krol had curled up and was off to sleep.
 
