@@ -377,8 +377,8 @@ Weave
 
 Sensitivity             Simplicity          Spontaneity
             Cognition              Courage             Compassion
-Kroll
------
+Krol
+----
 
 The name of that spirit is Krol.
 
