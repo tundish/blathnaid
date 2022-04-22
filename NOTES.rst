@@ -347,7 +347,7 @@ Jack was all confusion, but he went up to the open door.
 The place was newly built of wood, but attached to the very old dwelling behind it. It was freshly painted,
 and nicely decorated with ribbons and ornaments. There was an urn on the floor from which a light
 smoke arose. Woody and spicy, a fragrance so beguiling it seemed absolutely happy and right to
-loosen one's boots and undo the buttons of one's shirt.
+loosen one's boots and undo the buttons of any shirt one might be wearing.
 
 The girl was young, maybe not yet Jack's age. She had on a pretty bodice, which showed a great deal
 of her shoulders.
