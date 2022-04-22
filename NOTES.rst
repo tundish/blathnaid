@@ -386,7 +386,7 @@ The name of that spirit is Krol.
 I am not the world expert on Krol.
 What I have heard about him would fill a book, although not all of that can have been the truth.
 
-I know he'd been an important figure in Antiquity. And he wore flesh again in our modern age,
+I know he'd been an important figure in Antiquity. And he took shape again in our modern age,
 and performed many brave deeds here.
 
 But at the time of this story he was held back in the Netherworld. For reasons I don't understand,
@@ -399,6 +399,7 @@ Ingomer
 -------
 
 And there before him stood Ingomer Billwiggin, in all his Mayoral finery, and surrounded by guards.
+He looked older than the portrait on the notices, and altogether less noble.
 Jack stepped forward and raised up his locket saying, "I carry a message!"
 
 But the locket shone no longer.
