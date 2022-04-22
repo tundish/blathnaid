@@ -93,7 +93,7 @@ Finally, when the horse was fully shod, the Blacksmith ducked back into where Ja
 Broke
 -----
 
-In those days you see, people would always help their neighbours whenever there was need. And if they got to
+In those days you see, people would always help their neighbours whenever there was need. And should they get to
 owing they would settle up at Yuletide. Jack blushed to think that this year there had been very little to offer anyone.
 And the Blacksmith was chief among their creditors. According to custom, Jack bowed and asked how he might
 be of service.
