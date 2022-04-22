@@ -414,8 +414,8 @@ Jack was about to ask him to repeat himself, but when he looked he saw that Krol
 T 2
 ---
 
-And there again was Krol. Jack was pleased to see him, and went over to the second barrel, upon which was painted
-'That'. He opened the tap until the tundish was half to the brim and he passed it across to his new friend.
+And up popped Krol. Jack was pleased to see him, and went over to the second barrel, upon which was painted
+'That'. He opened the tap until the tundish was half to the brim and he passed it across to his friend.
 
 S 2
 ---
@@ -426,6 +426,17 @@ and of course Jack did not. "This one stands for Simplicity", said Krol. "Simpli
 cultivated, can simplicity."
 
 And before Jack could get him to explain any more, Krol had curled up and was off to sleep.
+
+T 3
+---
+
+And there was Krol again, but looking unhappy this evening. Straight away he said to Jack, "Tomorrow comes a crescent moon.
+And so all my time is done."
+
+And Jack looked down at his locket which was beginning to fade, and he knew that he had only seven days to carry out his
+task in the City. And so he went over to The Other, and poured out a draft into the dish. Krol took it, and nodded his
+thanks before knocking it back.
+
 
 Ingomer
 -------
