@@ -448,6 +448,13 @@ There was a clatter as the trivet fell to the floor and rolled back against Jack
 Standing
 --------
 
+During the night, the inner door of the cellar would frequently open and someone from the tavern above would come down
+to fetch a cask back upstairs. Jack never saw who it was because he took care always to be far back in the shadows.
+
+He had also to remember not to leave tracks in the dust or to tear down any cobwebs lest he be discovered. So when he
+was not rolled up in his blanket he was standing motionless, sometimes for hours.
+
+Now this can be a very good thing to do, although not many people know the secret.
 
 
 Ingomer
@@ -520,13 +527,14 @@ Characters
 
 * Jack
 * Blathnaid Ni Callan
-* Krol      (Courage)
-* Aenaena   (Compassion)
-* Moody     (Cognition)
+* Krol
+* Aenaena
+* Moody
 * Gillian
+* Fell
 * Two guards
 * Ingomer Billwiggin (Mayor)
-* Niall Cradely (Blacksmith)
+* Anderson Cradely (Blacksmith)
 
 
 The Hydrogen Plant
@@ -539,12 +547,4 @@ The Book of Secrets
 * Microstrip circuits
 * Aerodynamics
 * Resonant structures
-
-Tech
-----
-
-Input field does intellisense as words are typed
-Story has endpoint to serve available commands by string prefix.
-.. todo:: Balladeer exaample
-
 
