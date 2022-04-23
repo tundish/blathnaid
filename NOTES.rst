@@ -437,6 +437,18 @@ And Jack looked down at his locket which was beginning to fade, and he knew that
 task in the City. And so he went over to The Other, and poured out a draft into the dish. Krol took it, and nodded his
 thanks before knocking it back.
 
+S 3
+---
+
+Krol reached out for the trivet, and he held it up into a faint pool of moonlight so Jack could see. He laid his
+finger on the third spoke, and said, "This is Spontaneity. Try to train that. It can be cultivated, can spontaneity."
+
+There was a clatter as the trivet fell to the floor and rolled back against Jack's foot. Krol had fallen asleep.
+
+Standing
+--------
+
+
 
 Ingomer
 -------
@@ -461,6 +473,8 @@ The Journey back
 
 And he taught them Cognition; how to figure things out. How to be sensitive to the Universe in all its music
 and how to perceive the simple processes at play.
+
+And so they began to organise themselves again.
 
 Payback
 -------
