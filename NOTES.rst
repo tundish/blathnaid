@@ -456,6 +456,12 @@ Yet what he has learned on the journey might be sufficient.
 
 For best player experience, there ought to be some risk.
 
+The Journey back
+----------------
+
+And he taught them Cognition; how to figure things out. How to be sensitive to the Universe in all its music
+and how to perceive the simple processes at play.
+
 Payback
 -------
 
