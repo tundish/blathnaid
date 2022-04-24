@@ -259,14 +259,28 @@ Exploring
 So Jack was able to trapse only a quarter of a mile back and forth, and quickly learned his way about the place. Mostly
 the streets were well cobbled, and the buildings both old and new, were in use by someone for something.
 
-This main district was shared by all sorts; beggars, bankers, guards, hawkers, and merchants.
-And to a large extent there was order.
+This main district was shared by all sorts. And to a large extent there was order.
 The beggars were at begging, the guards were loafing about, the hawkers were ringing their bells, the merchants were
 showing off their wares. The bankers were busy dodging everyone; most especially each other.
 
 .. todo:: street life, guards
 
 .. todo:: mayoral proclamations
+
+Scarcity
+--------
+
+Jack's first priority was to make contact with the Guild of Smiths, and he started by looking everywhere for their symbol.
+Instead what he found all around him were notices. Mostly they forbade you from doing things.
+"No fires or braziers by order" was regularly posted on walls around the city, and in the name of "Ingomer Billwiggin,
+Mayor".
+
+Ingomer controlled the supply of food into the city. It was in his name that the guard stopped the wagons at the gate.
+They diverted the best goods to his favoured merchants, and shook down the hauliers for revenue.
+
+The mayor also had a system of licenses which meant you had to pay a fee for lighting fires.
+So finding the Guild of Smiths was simple enough; they all worked together in an area near the docks, having had to
+club together to get enough money to pay for the privilege of heating their forges.
 
 A refuge
 --------
