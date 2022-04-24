@@ -334,6 +334,34 @@ Weave
 Sensitivity             Simplicity          Spontaneity
             Cognition              Courage             Compassion
 
+Fell
+----
+
+And Fell told him of the old days, when Smiths had such skill it would be thought magic today.
+
+And how Ingomer, once Master of the Guild of Smiths, when he became Mayor, began to create new rules.
+
+First he created a licence for making locks, which the Smiths had to purchase from him at great cost.
+Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
+the right in perpetuity a year later.
+
+Then, after some strange accident which no one could explain, Ingomer instituted an inspectorate
+for pressure vessels, whose eyewatering fees nearly put the Smiths out of business entirely.
+Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on
+the burden of both manufacture and assurance of all such things in the City.
+
+Recently he'd forbidden the Smiths from making blades or any edged tools, and arranged for his
+Guild of Cutlers to be licensed exclusively for those operations.
+
+The Locksmiths and the Boilermakers and the Cutlers all had close links to the Regiment of Guards.
+Their factories were in a protected area near the Armoury.
+
+Gillian
+-------
+
+There was a lady called Gillian who would arrive at the same spot around midday with big baskets of hot
+pasties.
+
 Krol
 ----
 
