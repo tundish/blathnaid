@@ -1,4 +1,4 @@
-:project:   Blathnaid
+:project:   Bláthnaid
 :author:    D E Haynes
 :copyright: 2022 D E Haynes
 
@@ -6,9 +6,7 @@
 Once upon a time
 ================
 
-.. Blaithnaid is pronounced 'Blo - nid'.
-
-.. Blacksmith has many names. How to discover them?
+.. Bláthnaid is a name from the Gaeilge tradition. In England we would say 'Blornid'.
 
 Jack and Morten
 ---------------
@@ -38,10 +36,10 @@ And so it was that Jack was a regular visitor to the local Blacksmith.
 And one day, when Morten had shed a shoe, and Jack couldn't see where it had fallen,
 he led his horse onto the narrow track and over to the Forge.
 
-Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was Blathnaid.
+Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was Bláthnaid.
 
-We aren't going to hear much about Blathnaid just now though, because the Blacksmith keeps her hidden
-whenever Jack shows up. He worries that Blathnaid, who sketches pictures of young men with their horses,
+We aren't going to hear much about Bláthnaid just now though, because the Blacksmith keeps her hidden
+whenever Jack shows up. He worries that Bláthnaid, who sketches pictures of young men with their horses,
 might be thinking of Jack more often than is good for her.
 
 He has hopes she will marry into money, and doesn't want her going off with
@@ -155,7 +153,7 @@ stop it shining. After that it is useless."
 "When you get inside, seek out the Master of the Guild of Smiths. The guild sign looks very like this trivet you carry.
 He will know who sends you by the charm around your neck."
 
-"Tell him this; that Blathnaid is of age to marry. And now you must go."
+"Tell him this; that Bláthnaid is of age to marry. And now you must go."
 
 They set off
 ------------
@@ -512,27 +510,17 @@ Ideas
 ... or how the Locksmiths made sure there was not one key in the City would match another, yet their tumblers seize up in the rain.
 ... And that the Cutlers were all blade and no tang, to the point that the Guards, after having been given new glaives, preferred to beat people with the handle, as it was safer for all concerned.
 
-Sayings
--------
-
-Raro antecedentem scelestum deseruit pede poena claudo. (Horace)
-Retribution, to retrain an injury, relentlesly hunts the wicked.
-
-fides qua creditur numquam falletur
-Full faith that is never broken
-Sic semper corruptionis
-
 Characters
 ----------
 
 * Jack
-* Blathnaid Ni Callan
+* Bláthnaid Ni Cradda
 * Krol
 * Aenaena
 * Moody
 * Gillian
 * Fell
-* Two guards
+* Guards
 * Ingomer Billwiggin (Mayor)
 * Anderson Cradely (Blacksmith)
 
