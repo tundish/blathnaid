@@ -250,15 +250,29 @@ As for losing his way he had scant chance, since only a few main streets of the 
 where families were established, had set up gates and pickets, protecting their own, and permitting only
 their own to pass through.
 
+Exploring
+---------
+
+.. fixme::
 .. todo:: explain locations
 
-So Jack was able to trapse only a quarter of a mile back and forth, and quickly learned his way about the place.
-Every building in the main thoroughfare, and at the dock next to the river, was barred and locked and secured against
-strangers.
+So Jack was able to trapse only a quarter of a mile back and forth, and quickly learned his way about the place. Mostly
+the streets were well cobbled, and the buildings both old and new, were in use by someone for something.
+
+This main district was shared by all sorts; beggars, bankers, guards, hawkers, and merchants.
+And to a large extent there was order.
+The beggars were at begging, the guards were loafing about, the hawkers were ringing their bells, the merchants were
+showing off their wares. The bankers were busy dodging everyone; most especially each other.
 
 .. todo:: street life, guards
 
 .. todo:: mayoral proclamations
+
+A refuge
+--------
+
+Every building in the main thoroughfare, and at the dock next to the river, was barred and locked and secured against
+strangers.
 
 Jack found himself watching as two dreymen brought in barrels to the cellar. And he saw that every time one half of
 those big cellar doors banged shut, the hasp on it shook a little loose.
