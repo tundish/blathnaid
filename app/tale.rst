@@ -109,15 +109,16 @@ He found so little food in the place that he dared not take any, for fear of lea
 want while he was away.
 
 He picked out a woollen blanket to sleep in, which he laid out before the fire so the damp would drive away.
-He found a leather bottle, which he warmed up and replenished with wax. In the morning he would fill it with
-water from the stream behind the house. He had a can with a lid so he could boil up, and some kindling,
-a blade, and a flint.
+He found a leather bottle, which he warmed up and replenished with wax.
+He had some kindling, a blade, a flint, and a can with a lid so he could boil up water.
 
 Morten would have to forage. And Jack would go hungry. But he was not dismayed.
 He fell asleep before the grate, happy for the first time in months.
 
 Reporting for Duty
 ------------------
+
+In the morning he would fill it with water from the stream behind the house.
 
 The Trivet
 ----------
@@ -495,6 +496,6 @@ Ideas
 * Only guards and smiths allowed fires
 * The bats eavesdrop (listen)
 
-... on how the Boilermakers were so proud of the prooving of their seams, but they did not care if the flux leeched into the Gin.
-... or how the Locksmiths made sure there was not one key in the City would match another, yet their tumblers seize up in the rain.
+... on how the Boilermakers were so proud of the prooving of their seams, but they had no care at all that the flux leeched into the Gin.
+... or how the Locksmiths made sure there was not one key in the City would match another, yet the tumblers of their padlocks jammed up if you dropped them.
 ... And that the Cutlers were all blade and no tang, to the point that the Guards, after having been given new glaives, preferred to beat people with the handle, as it was safer for all concerned.
