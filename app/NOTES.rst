@@ -73,6 +73,12 @@ Jack recognises one of them?
 
 Reference only fans, clothing try-ons.
 
+Gillian
+-------
+
+There was a lady called Gillian who would arrive at the same spot around midday with big baskets of hot
+pasties.
+
 Weave
 -----
 
@@ -90,6 +96,11 @@ Ideas
 ... on how the Boilermakers were so proud of the prooving of their seams, but they did not care if the flux leeched into the Gin.
 ... or how the Locksmiths made sure there was not one key in the City would match another, yet their tumblers seize up in the rain.
 ... And that the Cutlers were all blade and no tang, to the point that the Guards, after having been given new glaives, preferred to beat people with the handle, as it was safer for all concerned.
+
+The Return
+----------
+
+Two graves, an apple tree and an Oak tree.
 
 Characters
 ----------

@@ -273,8 +273,7 @@ Scarcity
 
 Jack's first priority was to make contact with the Guild of Smiths, and he started by looking everywhere for their symbol.
 Instead what he found all around him were notices. Mostly they forbade you from doing things.
-"No fires or braziers by order" was regularly posted on walls around the city, and in the name of "Ingomer Billwiggin,
-Mayor".
+"No fires or braziers by order" was regularly posted on walls around the city, and in the name of Mayor Ingomer.
 
 Ingomer controlled the supply of food into the city. It was in his name that the guard stopped the wagons at the gate.
 They diverted the best goods to his favoured merchants, and shook down the hauliers for revenue.
@@ -291,8 +290,8 @@ strangers.
 
 Jack found himself watching as two dreymen brought in barrels to the cellar. And he saw that every time one half of
 those big cellar doors banged shut, the hasp on it shook a little loose.
-Now when the dreymen left, they were careful to place a padlock on the door. And as that padlock hung, it seemed to pull
-the hasp with it too.
+Now when the dreymen left, they were careful to place a padlock on the door. But they couldn't seem to fasten it
+properly, and after a minute or two, they gave up and left it dangling.
 
 So Jack waited until there was some commotion further up the street, and all heads were turned. Then went over to
 the doors and was able to work one bolt out of its seat, lift up one half of the hatchway, and slip inside.
@@ -364,12 +363,6 @@ Guild of Cutlers to be licensed exclusively for those operations.
 
 The Locksmiths and the Boilermakers and the Cutlers all had close links to the Regiment of Guards.
 Their factories were in a protected area near the Armoury.
-
-Gillian
--------
-
-There was a lady called Gillian who would arrive at the same spot around midday with big baskets of hot
-pasties.
 
 Krol
 ----
@@ -456,9 +449,14 @@ Now this can be a very good thing to do, although not many people know the secre
 Ingomer
 -------
 
-And there before him stood Ingomer Billwiggin, in all his Mayoral finery, and surrounded by guards.
+And there before him stood Ingomer, in all his Mayoral finery, and surrounded by guards.
 He looked older than the portrait on the notices, and altogether less noble.
 Jack stepped forward and raised up his locket saying, "I carry a message!"
+
+.. todo:: Ingomer foresees his doom.
+
+Escape
+------
 
 But the locket shone no longer.
 
@@ -471,7 +469,7 @@ Yet what he has learned on the journey might be sufficient.
 
 For best player experience, there ought to be some risk.
 
-The Journey back
+The Journey home
 ----------------
 
 And he taught them Cognition; how to figure things out. How to be sensitive to the Universe in all its music
@@ -491,10 +489,10 @@ This haze rose up until the sun itself burned white and fierce like a gas mantle
 
 Then all together they turned and headed east towards the City.
 
-The Return
-----------
+The End
+-------
 
-Two graves, an apple tree and an Oak tree.
+Ingomer starts hitting the Gin.
 
 Ideas
 -----
