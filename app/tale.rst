@@ -450,6 +450,15 @@ was not rolled up in his blanket he was standing motionless, sometimes for hours
 Now this can be a very good thing to do, although not many people know the secret.
 
 
+The Temple
+----------
+
+It used to be that rich merchants would introduce their daughters to court, in the hope that they would marry into
+the nobility. Likewise the artisans would raise their girls with their sights on a son of a merchant. It was a
+good system, because over time there grew alliances which served very much to secure a stable society.
+The families relied on their seniors to make the connections, and so it had become the tradition to announce
+one's offspring to the head of one's guild, and they would go and make enquiries as to a suitable match.
+
 Ingomer
 -------
 
