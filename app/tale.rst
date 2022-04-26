@@ -397,7 +397,8 @@ Then Krol caught sight of Jack's trivet and thoughtfully traced the shape of one
 
 Jack didn't have a clue what he was talking about.
 
-"This spoke stands for Sensitivity", said Krol. "Sensitivity. Try to train that. It can be cultivated, can sensitivity ."
+"This spoke stands for Sensitivity", said Krol. He continued, sounding slightly tipsy.
+"Sensitivity. Try to train that. It can be cultivated, can sensitivity ."
 Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
 
 T 2
@@ -411,8 +412,9 @@ S 2
 
 Krol needed no second invitation, and drank the beer gratefully. Then he set the dish down again, and went back to
 the trivet, which was there on the floor. And he indicated one of the spokes and said, "Do you know what this one is?",
-and of course Jack did not. "This one stands for Simplicity", said Krol. "Simplicity. Try to train that. It can be
-cultivated, can simplicity."
+and of course Jack did not. "This one stands for Simplicity", said Krol.
+He paused for a moment, trying not to stumble over his words.
+"Simplicity. Try to train that. It can be cultivated, can simplicity."
 
 And before Jack could get him to explain any more, Krol had curled up and was off to sleep.
 
@@ -430,7 +432,9 @@ S 3
 ---
 
 Krol reached out for the trivet, and he held it up into a faint pool of moonlight so Jack could see. He laid his
-finger on the third spoke, and said, "This is Spontaneity. Try to train that. It can be cultivated, can spontaneity."
+finger on the third spoke, and said, "This is Spontaneity."
+He raised his finger in the air dramatically, and wagged it at Jack.
+"Try to train that. It can be cultivated, can spontaneity."
 
 There was a clatter as the trivet fell to the floor and rolled back against Jack's foot. Krol had fallen asleep.
 
@@ -455,19 +459,20 @@ Jack stepped forward and raised up his locket saying, "I carry a message!"
 
 .. todo:: Ingomer foresees his doom.
 
+Kicked out
+----------
+
+Some guards rushed forward to grab Jack, and two of them pushed through the crowd in advance of their captive.
+They carried him as far as the next street corner, threw him down, and cursed him.
+
+But Jack wasn't badly beaten, nor did the Guards arrest him.
+They took him for one of Ingomer's spies, no doubt out of favour for having delivered bad news.
+
 Escape
 ------
 
 But the locket shone no longer.
 
-The Council
------------
-
-The Blacksmith has not anticipated the challenges that Jack has had to face.
-The Council demand Jack proves his bona fides as an apprentice, when of course he has had no training.
-Yet what he has learned on the journey might be sufficient.
-
-For best player experience, there ought to be some risk.
 
 The Journey home
 ----------------
