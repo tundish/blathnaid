@@ -6,7 +6,7 @@
 Once upon a time
 ================
 
-.. Bláthnaid is a name from the Gaeilge tradition. In England we would say 'Blornid'.
+.. Bláthnaid is a name from the Gaeilge tradition. In England we would say 'Blawnid'.
 
 Jack and Morten
 ---------------
@@ -326,8 +326,16 @@ During the day, this part of town is OK because of guards. After curfew, very ro
 The Friend
 ----------
 
-Trivet is a Guild sign and is everywhere. Jack tries to spot all three Ss, but without result.
-Finally, the friend approaches him; he's seen Jack use the Trivet.
+The Smiths for the most part got along with each other, and they never minded Jack making a brew on some embers with
+his trivet. There were plenty of scraps of bark around the place, and Jack used that.
+
+One of them, a man named Fell, took an interest in the trivet. He fancied he knew who might have made it. So he asked
+Jack if he might take a closer look. But Jack was reluctant; all the time in the City he feared being robbed or tricked some how.
+
+So Fell said, "My guess is there is a motto around the edge of that gadget you have. Do you know what is?"
+Jack did not, but he held up the trivet in both hands for the Smith to see. "Courage", says the Smith. That is what
+those markings mean". But Jack dared not risk any more loss, and he hid the trivet again in his bundle.
+
 
 Weave
 -----
