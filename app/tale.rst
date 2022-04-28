@@ -347,7 +347,7 @@ Fell
 
 And Fell told him of the old days, when Smiths had such skill it would be thought magic today.
 
-And how Ingomer, once Master of the Guild of Smiths, when he became Mayor, began to create new rules.
+And how Ingomer, brother-in-law to the General of the Guards, on becoming Mayor, was the cause of the new rules.
 
 First he created a licence for making locks, which the Smiths had to purchase from him at great cost.
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
@@ -359,10 +359,11 @@ Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon 
 the burden of both manufacture and assurance of all such things in the City.
 
 Recently he'd forbidden the Smiths from making blades or any edged tools, and arranged for his
-Guild of Cutlers to be licensed exclusively for those operations.
+Guild of Cutlers to be licensed exclusively for those operations. Their factories were in a protected area near the Armoury.
 
-The Locksmiths and the Boilermakers and the Cutlers all had close links to the Regiment of Guards.
-Their factories were in a protected area near the Armoury.
+And now finally, in a very suspiciously conducted election, Ingomer had himself become Master of the Guild of Smiths,
+a postion which hitherto had been attained only by the most skilled and respected of craftsmen.
+
 
 Krol
 ----
