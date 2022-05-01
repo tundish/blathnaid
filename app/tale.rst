@@ -488,6 +488,8 @@ Jack stepped forward and raised up his locket saying, "I carry a message!"
 
 .. todo:: Ingomer foresees his doom.
 
+.. progenitis vitiosioris! (Oh, unhappy progeny!) From Horace III.6, adopting Vocative Feminine Plural
+
 Kicked out
 ----------
 
