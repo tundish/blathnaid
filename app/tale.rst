@@ -361,9 +361,15 @@ the burden of both manufacture and assurance of all such things in the City.
 Recently he'd forbidden the Smiths from making blades or any edged tools, and arranged for his
 Guild of Cutlers to be licensed exclusively for those operations. Their factories were in a protected area near the Armoury.
 
-And now finally, in a very suspiciously conducted election, Ingomer had himself become Master of the Guild of Smiths,
-a postion which hitherto had been attained only by the most skilled and respected of craftsmen.
+And how, in a very suspiciously conducted election, Ingomer had himself become Master of the Guild of Smiths,
+a position which hitherto had been attained only by the most skilled and respected of craftsmen.
 
+Then Ingomer declared that there was to be no more marrying to the advantage of Smiths.
+Instead, any young girls of a Blacksmith family would be sent to work in the Temple.
+
+No one really knew what went on the Temple, but the less they knew, the more they could guess.
+Many Smiths left the city at that point. The ones who could not flee, organised themselves, and there was rioting.
+but Ingomer called an emergency, and the unrest was put down by the Guard.
 
 Krol
 ----
@@ -448,7 +454,10 @@ to fetch a cask back upstairs. Jack never saw who it was because he took care al
 He had also to remember not to leave tracks in the dust or to tear down any cobwebs lest he be discovered. So when he
 was not rolled up in his blanket he was standing motionless, sometimes for hours.
 
-Now this can be a very good thing to do, although not many people know the secret.
+Now this can be a very good thing to do, although not many people know the secret. For the first few minutes, you can't
+stop your mind from wandering, but then slowly you start to breathe with your belly, and your shoulders open up, and
+your hips find their shape again. Everything sinks through your legs into the ground, and then all things become
+possible.
 
 
 The Temple
