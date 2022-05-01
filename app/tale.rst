@@ -336,40 +336,12 @@ Jack did not, but he held up the trivet in both hands for the Smith to see. "Cou
 those markings mean". But Jack dared not risk any more loss, and he hid the trivet again in his bundle.
 
 
-Weave
------
-
-Sensitivity             Simplicity          Spontaneity
-            Cognition              Courage             Compassion
-
 Fell
 ----
 
 And Fell told him of the old days, when Smiths had such skill it would be thought magic today.
+And how Ingomer, brother-in-law to the General of the Guards, on becoming Mayor, had brought in new rules.
 
-And how Ingomer, brother-in-law to the General of the Guards, on becoming Mayor, was the cause of the new rules.
-
-First he created a licence for making locks, which the Smiths had to purchase from him at great cost.
-Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
-the right in perpetuity a year later.
-
-Then, after some strange accident which no one could explain, Ingomer instituted an inspectorate
-for pressure vessels, whose eyewatering fees nearly put the Smiths out of business entirely.
-Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on
-the burden of both manufacture and assurance of all such things in the City.
-
-Recently he'd forbidden the Smiths from making blades or any edged tools, and arranged for his
-Guild of Cutlers to be licensed exclusively for those operations. Their factories were in a protected area near the Armoury.
-
-And how, in a very suspiciously conducted election, Ingomer had himself become Master of the Guild of Smiths,
-a position which hitherto had been attained only by the most skilled and respected of craftsmen.
-
-Then Ingomer declared that there was to be no more marrying to the advantage of Smiths.
-Instead, any young girls of a Blacksmith family would be sent to work in the Temple.
-
-No one really knew what went on the Temple, but the less they knew, the more they could guess.
-Many Smiths left the city at that point. The ones who could not flee, organised themselves, and there was rioting.
-but Ingomer called an emergency, and the unrest was put down by the Guard.
 
 Krol
 ----
@@ -387,6 +359,15 @@ his spirit was bound to the City, and the best he could manage was to manifest i
 of that tavern, when the moon was full enough to shine through the bars of the windows.
 
 Only when Gibbous. That leaves 7 nights of waning crescent before New Moon.
+
+F 1
+---
+
+First he created a licence for making locks, which the Smiths had to purchase from him at great cost.
+Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
+the right in perpetuity a year later.
+
+... on how the Boilermakers were so proud of the prooving of their seams, but they had no care at all that the flux leeched into the Gin.
 
 T 1
 ---
@@ -408,6 +389,30 @@ Jack didn't have a clue what he was talking about.
 "Sensitivity. Try to train that. It can be cultivated, can sensitivity ."
 Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
 
+Standing
+--------
+
+During the night, the inner door of the cellar would frequently open and someone from the tavern above would come down
+to fetch a cask back upstairs. Jack never saw who it was because he took care always to be far back in the shadows.
+
+He had also to remember not to leave tracks in the dust or to tear down any cobwebs lest he be discovered. So when he
+was not rolled up in his blanket he was standing motionless, sometimes for hours.
+
+Now this can be a very good thing to do, although not many people know the secret. For the first few minutes, you can't
+stop your mind from wandering, but then slowly you start to breathe with your belly, and your shoulders open up, and
+your hips find their shape again. Everything sinks through your legs into the ground, and then all things become
+possible.
+
+F 2
+---
+
+Then, after some strange accident which no one could explain, Ingomer instituted an inspectorate
+for pressure vessels, whose eyewatering fees nearly put the Smiths out of business entirely.
+Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on
+the burden of both manufacture and assurance of all such things in the City.
+
+... or how the Locksmiths made sure there was not one key in the City would match another, yet the tumblers of their padlocks jammed up if you dropped them.
+
 T 2
 ---
 
@@ -424,6 +429,15 @@ He paused for a moment, trying not to stumble over his words.
 "Simplicity. Try to train that. It can be cultivated, can simplicity."
 
 And before Jack could get him to explain any more, Krol had curled up and was off to sleep.
+
+F 3
+---
+
+Recently he'd forbidden the Smiths from making blades or any edged tools, and arranged for his
+Guild of Cutlers to be licensed exclusively for those operations. Their factories were in a protected area near the Armoury.
+
+... And that the Cutlers were all blade and no tang, to the point that the Guards, after having been given new glaives, preferred to beat people with the handle, as it was safer for all concerned.
+
 
 T 3
 ---
@@ -445,29 +459,25 @@ He raised his finger in the air dramatically, and wagged it at Jack.
 
 There was a clatter as the trivet fell to the floor and rolled back against Jack's foot. Krol had fallen asleep.
 
-Standing
---------
-
-During the night, the inner door of the cellar would frequently open and someone from the tavern above would come down
-to fetch a cask back upstairs. Jack never saw who it was because he took care always to be far back in the shadows.
-
-He had also to remember not to leave tracks in the dust or to tear down any cobwebs lest he be discovered. So when he
-was not rolled up in his blanket he was standing motionless, sometimes for hours.
-
-Now this can be a very good thing to do, although not many people know the secret. For the first few minutes, you can't
-stop your mind from wandering, but then slowly you start to breathe with your belly, and your shoulders open up, and
-your hips find their shape again. Everything sinks through your legs into the ground, and then all things become
-possible.
-
-
-The Temple
-----------
+F 4
+---
 
 It used to be that rich merchants would introduce their daughters to court, in the hope that they would marry into
-the nobility. Likewise the artisans would raise their girls with their sights on a son of a merchant. It was a
+the nobility. Likewise the artisans would raise their girls to set their sights on a son of a merchant. It was a
 good system, because over time there grew alliances which served very much to secure a stable society.
 The families relied on their seniors to make the connections, and so it had become the tradition to announce
 one's offspring to the head of one's guild, and they would go and make enquiries as to a suitable match.
+
+And how, in a very suspiciously conducted election, Ingomer had himself become Master of the Guild of Smiths,
+a position which hitherto had been attained only by the most skilled and respected of craftsmen.
+
+Then Ingomer declared that there was to be no more marrying to the advantage of Smiths.
+Instead, any young girls of a Blacksmith family would be sent to work in the Temple.
+
+No one really knew what went on the Temple, but the less they knew, the more they could guess.
+Many Smiths left the city at that point. The ones who could not flee, organised themselves, and there was rioting.
+but Ingomer called an emergency, and the unrest was put down by the Guard.
+
 
 Ingomer
 -------
@@ -517,6 +527,12 @@ The End
 -------
 
 Ingomer starts hitting the Gin.
+
+Weave
+-----
+
+Sensitivity             Simplicity          Spontaneity
+            Cognition              Courage             Compassion
 
 Ideas
 -----
