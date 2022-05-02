@@ -377,10 +377,9 @@ The Friend
 One of them, a man named Fell, took an interest in the trivet. He fancied he knew who might have made it. So he asked
 Jack if he might take a closer look. But Jack was reluctant; all the time in the City he feared being robbed or tricked some how.
 
-So Fell said, "My guess is there is a motto around the edge of that gadget you have. Do you know what is?"
-Jack did not, but he held up the trivet in both hands for the Smith to see. "Courage", says the Smith. That is what
-those markings mean". But Jack dared not risk any more loss, and he hid the trivet again in his bundle.
-
+So Fell said, "My guess is there is a motto around the edge of that gadget you have. Do you know what it is?"
+Jack did not, but he held up the trivet in both hands for the Smith to see. "Ah", says the Smith, "I recognize that one word. It is 'Courage'".
+He would have liked to study the rest of the lettering, but Jack dared not risk any loss, and he hid the trivet again in his bundle.
 
 Fell
 ----
@@ -393,7 +392,7 @@ First he'd created a licence for making locks, which the Smiths had to purchase 
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
 the right in perpetuity a year later.
 
-But the Locksmiths did not understand metallurgy.
+But the Locksmiths did not understand tolerances.
 They made sure there was not one key in the City that would match another.
 And yet the tumblers of their padlocks jammed up if you dropped them.
 
@@ -418,21 +417,28 @@ F 2
 ---
 
 As soon as Jack awoke, he would be out again to learn more from the Smiths.
+Fell remained interested in the trivet, and Jack allowed him to inspect the strange markings on the edge.
+They had beenworn down by use, but after a little time cleaning, Fell started to understand another word.
+"This one says 'Compassion'", he said.
 
-Fell remained interested i the trivet, and Jack
-
-Then, after some strange accident which no one could explain, Ingomer instituted an inspectorate
-for pressure vessels, whose eyewatering fees nearly put the Smiths out of business entirely.
+Then Fell resumed his account of Mayor Ingomer.
+How, after some strange accident which no one could explain, Ingomer instituted an inspectorate
+for pressure vessels, whose eyewatering fees nearly put the Smiths netirely out of business.
 Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on
 the burden of both manufacture and assurance of all such things in the City.
 
-... on how the Boilermakers were so proud of the prooving of their seams, but they had no care at all that the flux leeched into the Gin.
+But the Boilermakers did not understand metallurgy.
+They were proud of the prooving of their seams, yet they had no care at all that the flux leeched into the Gin.
+
+And that was all that Fell would say, and he went back to his work. So Jack dangled his legs over the dock for a bit,
+then went back to the cellar to sleep.
 
 T 2
 ---
 
-And up popped Krol. Jack was pleased to see him, and went over to the second barrel, upon which was painted
-'That'. He opened the tap until the tundish was half to the brim and he passed it across to his friend.
+At midnight in the cellar, up popped Krol. Jack was pleased to see him, and went over to the second barrel, upon which was painted
+'That'. Jack opened the tap until the tundish was half to the brim and he passed it into the beam of moonlight which held
+the ghostly shape.
 
 S 2
 ---
@@ -448,10 +454,20 @@ And before Jack could get him to explain any more, Krol had curled up and was of
 F 3
 ---
 
+Jack urgently needed to find the Master of Smiths, so he was out again early to see his friend Fell.
+
+He in his turn had been eager to check the third set of markings. After applying
+some paste, and rubbing with a cloth, he could make out its meaning. "This one reads 'Cognition'", he declared.
+
 Recently he'd forbidden the Smiths from making blades or any edged tools, and arranged for his
 Guild of Cutlers to be licensed exclusively for those operations. Their factories were in a protected area near the Armoury.
 
-... And that the Cutlers were all blade and no tang, to the point that the Guards, after having been given new glaives, preferred to beat people with the handle, as it was safer for all concerned.
+But the Cutlers did not understand design.
+They were all blade and no tang. So when the Guards got their new glaives, they would take off the head in order that
+they might beat people with the handle, since it was safer for all concerned.
+
+And that was all that Fell would say, and he went back to his work. So Jack wandered over to where two groups of youths
+were fighting over a basket of cabbages. When the Guards arrived he headed of to the cellar for the evening.
 
 
 T 3
