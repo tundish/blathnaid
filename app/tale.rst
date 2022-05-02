@@ -18,7 +18,7 @@ His parents were elderly and sick. He had no brothers or sisters nor cousins nor
 And the land they lived on was very poor.
 
 This boy Jack had a plough horse, and every day he would take Morten (that was his name)
-to try to work a bit of good, whether it was clearing a ditch, or turning over some sod, or fixing a wall.
+to try to work a bit of good, whether it was clearing a ditch, or turning over some dirt, or mending a wall.
 
 Now Morten was a stout horse and very obedient, but he was past his prime.
 
@@ -235,7 +235,7 @@ Inside
 ------
 
 Inside the wall, Jack found himself on a raised buttress, with stone battlements on either side. Two flights of steps led
-down to street level. He tripped and tumbled down them, so upset was he at the loss of Morten. In the street,
+down to the street below. He tripped and tumbled down them, so upset was he at the loss of Morten. In the street,
 several fellows who were gathered there took notice of him and Jack realised he had better recover his wits or else be
 robbed again. He hurried ahead until he got to a spot where he could not be surprised. There he sank to his
 haunches, steadied his breathing, and began to look around.
@@ -275,7 +275,7 @@ Jack's first priority was to make contact with the Guild of Smiths, and he start
 Instead what he found all around him were notices. Mostly they forbade you from doing things.
 "No fires or braziers by order" was regularly posted on walls around the city, and in the name of Mayor Ingomer.
 
-Ingomer controlled the supply of food into the city. It was in his name that the guard stopped the wagons at the gate.
+Ingomer controlled the supply of food into the city. It was in his name that the guards stopped the wagons at the gate.
 They diverted the best goods to his favoured merchants, and shook down the hauliers for revenue.
 
 The mayor also had a system of licenses which meant you had to pay a fee for lighting fires.
