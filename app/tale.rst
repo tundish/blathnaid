@@ -366,8 +366,8 @@ Refuge
 ------
 
 Jack awoke next morning to find he was alone again. He gathered his things and stole out from the cellar into the street.
-He went over to place by the docks where the Smiths worked. He tried to think of a way to befriend them, and asked
-politely of one of them if he might heat up his can on their enbers.
+He went over to the place by the docks where the Smiths worked. He tried to think of a way to befriend them, and asked
+politely of one of them if he might heat up his can on their embers.
 The Smiths for the most part got along with each other, and they never minded Jack making a brew on some embers with
 his trivet. There were plenty of scraps of bark around the place, and Jack used that.
 
@@ -376,7 +376,7 @@ The Friend
 ----------
 
 One of them, a man named Fell, took an interest in the trivet. He fancied he knew who might have made it. So he asked
-Jack if he might take a closer look. But Jack was reluctant; all the time in the City he feared being robbed or tricked some how.
+Jack if he might take a closer look. But Jack was reluctant; all the time in the City he feared being robbed or tricked somehow.
 
 So Fell said, "My guess is there is a motto around the edge of that gadget you have. Do you know what it is?"
 Jack did not, but he held up the trivet in both hands for the Smith to see. "Ah", says the Smith, "I recognize that one word. It is 'Courage'".
@@ -419,12 +419,12 @@ F 2
 
 As soon as Jack awoke, he would be out again to learn more from the Smiths.
 Fell remained interested in the trivet, and Jack allowed him to inspect the strange markings on the edge.
-They had beenworn down by use, but after a little time cleaning, Fell started to understand another word.
+They had been worn down by use, but after a little time cleaning, Fell started to understand another word.
 "This one says 'Compassion'", he said.
 
 Then Fell resumed his account of Mayor Ingomer.
 How, after some strange accident which no one could explain, Ingomer instituted an inspectorate
-for pressure vessels, whose eyewatering fees nearly put the Smiths netirely out of business.
+for pressure vessels, whose eyewatering fees nearly put the Smiths entirely out of business.
 Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on
 the burden of both manufacture and assurance of all such things in the City.
 
@@ -457,7 +457,7 @@ F 3
 
 Jack urgently needed to find the Master of Smiths, so he was out again early to see his friend Fell.
 
-He in his turn had been eager to check the third set of markings. After applying
+He in his turn had been eager to check the trivet and its third set of markings. After applying
 some paste, and rubbing with a cloth, he could make out its meaning. "This one reads 'Cognition'", he declared.
 
 Then Fell took up his story of Ingomer.
@@ -501,17 +501,18 @@ It used to be that rich merchants would introduce their daughters to court, in t
 the nobility. Likewise the artisans would raise their girls to set their sights on a son of a merchant. It was a
 good system, because over time there grew alliances which served very much to secure a stable society.
 The families relied on their seniors to make the connections, and so it had become the tradition to announce
-one's offspring to the head of one's guild, and they would go and make enquiries as to a suitable match.
+one's offspring to the head of one's Guild, and they would go and make enquiries as to a suitable match.
 
-And how, in a very suspiciously conducted election, Ingomer had himself become Master of the Guild of Smiths,
-a position which hitherto had been attained only by the most skilled and respected of craftsmen.
-
-Then Ingomer declared that there was to be no more marrying to the advantage of Smiths.
+But Ingomer declared that there was to be no more marrying to the advantage of Smiths.
 Instead, any young girls of a Blacksmith family would be sent to work in the Temple.
 
 No one really knew what went on the Temple, but the less they knew, the more they could guess.
-Many Smiths left the city at that point. The ones who could not flee, organised themselves, and there was rioting.
+Many Smiths left the City at that point. The ones who could not flee, organised themselves, and there was rioting.
 but Ingomer called an emergency, and the unrest was put down by the Guard.
+
+There then followed a very suspiciously conducted election.
+At the end of it Ingomer had become Master of the Guild of Smiths,
+a position which hitherto had been attained only by the most skilled and respected of craftsmen.
 
 
 Ingomer
