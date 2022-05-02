@@ -331,10 +331,10 @@ though he was not alone in the cellar.
 And sure enough, standing in a pool of moonlight in fromt of him was a strange little figure. He looked like an old man,
 only about three feet high. He wore no clothes and had no hair, except for a few wisps on his chin.
 
-The name of this spirit is Krol. I am not the world expert on Krol.
+The name of this creature is Krol. I am not the world expert on Krol.
 What I have heard about him would fill a book, although not all of that can have been the truth.
 
-I do know he'd been an important figure in antiquity. And he did walk again in our modern age,
+I do know he'd been an important figure in antiquity. And he did walk again as a man in our modern age,
 and performed many brave deeds here.
 
 But at the time of this story he was held back in the Netherworld. For reasons I don't understand,
@@ -365,16 +365,14 @@ Refuge
 ------
 
 Jack awoke next morning to find he was alone again. He gathered his things and stole out from the cellar into the street.
+He went over to place by the docks where the Smiths worked. He tried to think of a way to befriend them, and asked
+politely of one of them if he might heat up his can on their enbers.
+The Smiths for the most part got along with each other, and they never minded Jack making a brew on some embers with
+his trivet. There were plenty of scraps of bark around the place, and Jack used that.
 
-.. TODO::
-
-During the day, this part of town is OK because of guards. After curfew, very rough. Needs to survive his first night.
 
 The Friend
 ----------
-
-The Smiths for the most part got along with each other, and they never minded Jack making a brew on some embers with
-his trivet. There were plenty of scraps of bark around the place, and Jack used that.
 
 One of them, a man named Fell, took an interest in the trivet. He fancied he knew who might have made it. So he asked
 Jack if he might take a closer look. But Jack was reluctant; all the time in the City he feared being robbed or tricked some how.
@@ -387,18 +385,20 @@ those markings mean". But Jack dared not risk any more loss, and he hid the triv
 Fell
 ----
 
-And Fell told him of the old days, when Smiths had such skill it would be thought magic today.
+Jack asked who was the Master of the Guild, but Fell shook his head.
+He began to tell him of the old days, when Smiths had such skill it would be thought magic today.
 And how Ingomer, brother-in-law to the General of the Guards, on becoming Mayor, had brought in new rules.
 
-
-F 1
----
-
-First he created a licence for making locks, which the Smiths had to purchase from him at great cost.
+First he'd created a licence for making locks, which the Smiths had to purchase from him at great cost.
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
 the right in perpetuity a year later.
 
-... or how the Locksmiths made sure there was not one key in the City would match another, yet the tumblers of their padlocks jammed up if you dropped them.
+But the Locksmiths did not understand metallurgy.
+They made sure there was not one key in the City that would match another.
+And yet the tumblers of their padlocks jammed up if you dropped them.
+
+And that was all that Fell would say, and he turned back to his work. So Jack wandered around for a while
+and went back to the cellar to sleep.
 
 Standing
 --------
@@ -416,6 +416,10 @@ possible.
 
 F 2
 ---
+
+As soon as Jack awoke, he would be out again to learn more from the Smiths.
+
+Fell remained interested i the trivet, and Jack
 
 Then, after some strange accident which no one could explain, Ingomer instituted an inspectorate
 for pressure vessels, whose eyewatering fees nearly put the Smiths out of business entirely.
