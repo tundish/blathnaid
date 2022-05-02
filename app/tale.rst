@@ -48,7 +48,7 @@ some young villain who can't pay his bills.
 Open for business
 -----------------
 
-The front part of the forge, where the anvil often is, was open on three sides.
+The front part of the forge, where the anvil sat, was open on three sides.
 There stood the Blacksmith, warming against the furnace. He had been watching Jack approach up the path,
 and could tell from Morten's stepping what the matter was about.
 
@@ -93,7 +93,7 @@ Broke
 
 In those days you see, people would always help their neighbours whenever there was need. And should they get to
 owing they would settle up at Yuletide. Jack blushed to think that this year there had been very little to offer anyone.
-And the Blacksmith was chief among their creditors. According to custom, Jack bowed and asked how he might
+The Blacksmith was chief among their creditors. So according to custom, Jack bowed and asked how he might
 be of service.
 
 Errand
@@ -118,13 +118,18 @@ He fell asleep before the grate, happy for the first time in months.
 Reporting for Duty
 ------------------
 
-In the morning he would fill it with water from the stream behind the house.
+In the morning Jack rose early and bade goodbye to his parents. He went outside to unhitch Morten and strap on
+his gear. On the way to the Forge they stopped by a little stream to fill up the bottle.
+
+The Blacksmith was already waiting for them. He saw straight away how lightly equipped Jack was.
 
 The Trivet
 ----------
 
-The Blacksmith reached under the bench and pulled out a chunk of iron, round in shape, and about the size of his hand.
+So he reached under the bench and pulled out a chunk of iron, round in shape, and about the size of his hand.
 He looked at it thoughtfully for a moment, before taking a rough brush to scrub away the rust.
+
+"You'll need that", said he, handing it to Jack.
 
 It was a trivet, such as you'd use to balance a kettle above a fire. This one was solidly made, but in a decorative
 design; it had curved spokes like the wheel of some fantastic chariot. Around the circumference were embossed letters,
@@ -133,7 +138,7 @@ not yet clear enough to read.
 A token
 -------
 
-The Blacksmith opened a small tin box, taking from it a wrap of waxed paper and a metal tool, like a saddler's punch.
+Then the Blacksmith opened a small tin box, taking from it a wrap of waxed paper and a metal tool, like a saddler's punch.
 
 Then he heated a small billet of iron, about the size of a pea pod, which had a hole in one end.
 Peeling apart the paper, despite his grimy fingers, he carefully removed a small thin sheet of white metal foil.
