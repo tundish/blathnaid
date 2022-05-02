@@ -459,6 +459,7 @@ Jack urgently needed to find the Master of Smiths, so he was out again early to 
 He in his turn had been eager to check the third set of markings. After applying
 some paste, and rubbing with a cloth, he could make out its meaning. "This one reads 'Cognition'", he declared.
 
+Then Fell took up his story of Ingomer.
 Recently he'd forbidden the Smiths from making blades or any edged tools, and arranged for his
 Guild of Cutlers to be licensed exclusively for those operations. Their factories were in a protected area near the Armoury.
 
@@ -467,7 +468,7 @@ They were all blade and no tang. So when the Guards got their new glaives, they 
 they might beat people with the handle, since it was safer for all concerned.
 
 And that was all that Fell would say, and he went back to his work. So Jack wandered over to where two groups of youths
-were fighting over a basket of cabbages. When the Guards arrived he headed of to the cellar for the evening.
+were fighting over a basket of cabbages. When the Guards arrived he headed off to the cellar for the evening.
 
 
 T 3
@@ -476,14 +477,14 @@ T 3
 And there was Krol again, but looking unhappy this evening. Straight away he said to Jack, "Tomorrow comes a crescent moon.
 And so all my time is done."
 
-And Jack looked down at his locket which was beginning to fade, and he knew that he had only seven days to carry out his
+And Jack looked down at his locket which was beginning to fade, and he knew that he hadn't long to carry out his
 task in the City. And so he went over to The Other, and poured out a draft into the dish. Krol took it, and nodded his
 thanks before knocking it back.
 
 S 3
 ---
 
-Krol reached out for the trivet, and he held it up into a faint pool of moonlight so Jack could see. He laid his
+Krol reached out for the trivet, and he held it up in the faint pool of moonlight so Jack could see. He laid his
 finger on the third spoke, and said, "This is Spontaneity."
 He raised his finger in the air dramatically, and wagged it at Jack.
 "Try to train that. It can be cultivated, can spontaneity."
@@ -492,6 +493,8 @@ There was a clatter as the trivet fell to the floor and rolled back against Jack
 
 F 4
 ---
+
+So Fell explained.
 
 It used to be that rich merchants would introduce their daughters to court, in the hope that they would marry into
 the nobility. Likewise the artisans would raise their girls to set their sights on a son of a merchant. It was a
@@ -542,6 +545,10 @@ The Journey home
 And he taught them Cognition; how to figure things out. How to be sensitive to the Universe in all its music
 and how to perceive the simple processes at play.
 
+And he taught them how to find Courage; which comes spontaneously, unbidden, and is simple in its expression.
+
+And he taught them where Compassion comes from; how human sensitivity is manifest spontaneously and authentically.
+
 And so they began to organise themselves again.
 
 Payback
@@ -567,14 +574,3 @@ Weave
 Sensitivity             Simplicity          Spontaneity
             Cognition              Courage             Compassion
 
-Ideas
------
-
-* Smiths in the city have been forbidden from making knives, locks, or pressure vessels.
-* New guilds of Cutlers. Locksmiths. Boilermakers.
-* Only guards and smiths allowed fires
-* The bats eavesdrop (listen)
-
-... on how the Boilermakers were so proud of the prooving of their seams, but they had no care at all that the flux leeched into the Gin.
-... or how the Locksmiths made sure there was not one key in the City would match another, yet the tumblers of their padlocks jammed up if you dropped them.
-... And that the Cutlers were all blade and no tang, to the point that the Guards, after having been given new glaives, preferred to beat people with the handle, as it was safer for all concerned.
