@@ -328,13 +328,14 @@ Krol
 Jack awoke on the stroke of midnight. He first thought he'd been roused by a clock bell, but he immediately felt very much as
 though he was not alone in the cellar.
 
-And sure enough, standing in a pool of moonlight in fromt of him was a strange little figure. He looked like an old man,
-only about three feet high. He wore no clothes and had no hair, except for a few wisps on his chin.
+And sure enough, squatting in a pool of moonlight in front of him was a strange little figure. He looked like an old man,
+skinny, and only about three feet high. He wore no clothes and had no hair, except for a few wisps on his chin. He sat
+with legs half-crossed, as a prisoner might in a cell with no furniture.
 
 The name of this creature is Krol. I am not the world expert on Krol.
 What I have heard about him would fill a book, although not all of that can have been the truth.
 
-I do know he'd been an important figure in antiquity. And he did walk again as a man in our modern age,
+I do know he'd been an important figure in antiquity. And he did again walk as a man in our modern age,
 and performed many brave deeds here.
 
 But at the time of this story he was held back in the Netherworld. For reasons I don't understand,
