@@ -320,8 +320,51 @@ They stood near some steps which quickly ended in a locked door, and nothing Jac
 But he went to work on the main cellar hatch, and contrived with his knife to make sure that the bolt would allow him in and
 out, notwithstanding any padlock above.
 
+Then, weary from all that had transpired, he rolled himself up in his blanket for the night, hidden in the shadows.
+
+Krol
+----
+
+Jack awoke on the stroke of midnight. He first thought he'd been roused by a clock bell, but he immediately felt very much as
+though he was not alone in the cellar.
+
+And sure enough, standing in a pool of moonlight in fromt of him was a strange little figure. He looked like an old man,
+only about three feet high. He wore no clothes and had no hair, except for a few wisps on his chin.
+
+The name of this spirit is Krol. I am not the world expert on Krol.
+What I have heard about him would fill a book, although not all of that can have been the truth.
+
+I do know he'd been an important figure in antiquity. And he did walk again in our modern age,
+and performed many brave deeds here.
+
+But at the time of this story he was held back in the Netherworld. For reasons I don't understand,
+his spirit was bound to the City, and the best he could manage was to manifest in the cellar
+of that tavern, when the moon was full enough to shine through the bars of the windows.
+
+T 1
+---
+
+So Krol said, "I am cursed to be here while there is light from the moon. And I may eat only what is offered to me".
+Jack thought about this for a moment and went over to one of the big barrels, which was called 'This'.
+He opened up the tap a little, so it half-filled the tundish below.
+And he passed it to the little Imp, who grinned and straight away started drinking it down.
+
+S 1
+---
+
+Then Krol caught sight of Jack's trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
+"Do you know what this one is?", he asked.
+
+Jack didn't have a clue what he was talking about.
+
+"This spoke stands for Sensitivity", said Krol. He continued, sounding slightly tipsy.
+"Sensitivity. Try to train that. It can be cultivated, can sensitivity ."
+Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
+
 Refuge
 ------
+
+Jack awoke next morning to find he was alone again. He gathered his things and stole out from the cellar into the street.
 
 .. TODO::
 
@@ -348,23 +391,6 @@ And Fell told him of the old days, when Smiths had such skill it would be though
 And how Ingomer, brother-in-law to the General of the Guards, on becoming Mayor, had brought in new rules.
 
 
-Krol
-----
-
-The name of that spirit is Krol.
-
-I am not the world expert on Krol.
-What I have heard about him would fill a book, although not all of that can have been the truth.
-
-I do know he'd been an important figure in antiquity. And he did take shape again in our modern age,
-and performed many brave deeds here.
-
-But at the time of this story he was held back in the Netherworld. For reasons I don't understand,
-his spirit was bound to the City, and the best he could manage was to manifest in the cellar
-of that tavern, when the moon was full enough to shine through the bars of the windows.
-
-Only when Gibbous. That leaves 7 nights of waning crescent before New Moon.
-
 F 1
 ---
 
@@ -372,27 +398,7 @@ First he created a licence for making locks, which the Smiths had to purchase fr
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
 the right in perpetuity a year later.
 
-... on how the Boilermakers were so proud of the prooving of their seams, but they had no care at all that the flux leeched into the Gin.
-
-T 1
----
-
-So Krol said, "I am cursed to be here while there is light from the moon. And I may eat only what is offered to me".
-Jack thought about this for a moment and went over to one of the big barrels, which was called 'This'.
-He opened up the tap a little, so it half-filled the tundish below.
-And he passed it to the little Imp, who grinned and straight away started drinking it down.
-
-S 1
----
-
-Then Krol caught sight of Jack's trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
-"Do you know what this one is?", he asked.
-
-Jack didn't have a clue what he was talking about.
-
-"This spoke stands for Sensitivity", said Krol. He continued, sounding slightly tipsy.
-"Sensitivity. Try to train that. It can be cultivated, can sensitivity ."
-Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
+... or how the Locksmiths made sure there was not one key in the City would match another, yet the tumblers of their padlocks jammed up if you dropped them.
 
 Standing
 --------
@@ -416,7 +422,7 @@ for pressure vessels, whose eyewatering fees nearly put the Smiths out of busine
 Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on
 the burden of both manufacture and assurance of all such things in the City.
 
-... or how the Locksmiths made sure there was not one key in the City would match another, yet the tumblers of their padlocks jammed up if you dropped them.
+... on how the Boilermakers were so proud of the prooving of their seams, but they had no care at all that the flux leeched into the Gin.
 
 T 2
 ---
