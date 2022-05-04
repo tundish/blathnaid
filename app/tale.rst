@@ -589,5 +589,5 @@ His breath steady, his step light, and they do not perceive him.
 He borrows their badge; so must thieves stand aside, daring not to delay him.
 
 Or he takes up dancing; he spins with arms oddly up and aloft, until beggars laugh to throw him their
-pennies. Those guards in disgust turn him afresh to their back.
+pennies. Those guards in disgust face him afresh to their back.
 
