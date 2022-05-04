@@ -582,12 +582,12 @@ Chi gung
 From time to time he would become aware of an old emotion. Like a scrap of burnt newspaper, interesting but ultimately for
 the bin.
 
-He was a spy in enemy territory.
+Spine stretch. Invites movement.
 
 Therefore he creeps behind so close as to slap them on the forehead.
 His breath steady, his step light, and they do not perceive him.
-He borrows their power; so must thieves stand aside, dare not to delay him.
+He borrows their power; so must thieves stand aside, daring not to delay him.
 
 Or he takes up dancing; he spins with arms oddly up and aloft, until beggars laugh to throw him their
-pennies; those guards in disgust show him their backs again.
+pennies. Those guards in disgust put him to their backs again.
 
