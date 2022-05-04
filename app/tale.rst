@@ -576,3 +576,8 @@ Weave
 Sensitivity             Simplicity          Spontaneity
             Cognition              Courage             Compassion
 
+Chi gung
+--------
+
+From time to time he would become aware of an old emotion. Like a scrap of burnt newspaper, interesting but ultimately for
+the bin.
