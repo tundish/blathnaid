@@ -586,8 +586,8 @@ Spine stretch. Invites movement.
 
 Therefore he creeps behind so close as to slap them on the forehead.
 His breath steady, his step light, and they do not perceive him.
-He borrows their power; so must thieves stand aside, daring not to delay him.
+He borrows their badge; so must thieves stand aside, daring not to delay him.
 
 Or he takes up dancing; he spins with arms oddly up and aloft, until beggars laugh to throw him their
-pennies. Those guards in disgust put him to their backs again.
+pennies. Those guards in disgust turn him afresh to their back.
 
