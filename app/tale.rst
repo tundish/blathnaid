@@ -69,7 +69,7 @@ The forge
 ---------
 
 Jack knew he had no way to pay the Blacksmith, so he found it difficult to stand and watch him work.
-Instead he wandered across to the other end of the forge, where he was out of sight for a while.
+Instead he wandered into the back of the forge, where he was out of sight for a while.
 
 Up above, the roof was supported by a sturdy iron frame, from which a chain hoist dangled. From the dark
 corners of the eves, Jack could hear rustling and squeaking.
@@ -99,7 +99,7 @@ be of service.
 Errand
 ------
 
-"I do have an errand for you", says the Blacksmith. "There is a message to deliver. It will be some days travel."
+"I do have an errand for you", says the Blacksmith. "There is a message to deliver. It will be some days travelling."
 
 Packing
 -------
@@ -147,7 +147,7 @@ it smartly with a hammer.
 
 After it had cooled, the Blacksmith slipped a leather cord through the hole and placed it around the boy's neck.
 Jack saw that within the metal was now a circular seal of an intricate design, which by some strange
-chemistry glowed green.
+chemistry glowed a milky grey.
 
 The Mission
 -----------
@@ -172,7 +172,7 @@ As the miles rolled on, and the day grew late, he started to notice a change in 
 well kept than before. The ditches were choked and the signposts and milestones overgrown with weed.
 
 In the evening he spied ahead a group of tents and carts. He guessed this would be tinkers, who move about
-wherever there is work. When he was younger they'd occasionally passed by, and his Mother had brought out the old tin bath
+wherever there is work. When he was younger they had sometimes passed by, and his Mother had brought out the old tin bath
 for them to mend.
 
 The encampment was at the side of the road, and several people were tending fires or smoking pipes or feeding donkeys.
@@ -263,10 +263,11 @@ So Jack was able to trapse only a quarter of a mile back and forth, and quickly 
 In the streets near the gates of the City were sheds and offices for the receipt of goods; likewise at the dock on the river.
 There were two or three large cobbled squares, with taverns and boarding houses on every side.
 
-Set up at intervals were wooden market stalls. Many of them were shuttered or empty.
+Set up there at intervals were wooden market stalls. Many of them were shuttered or empty.
 Long lines of people stood at those who had any stock.
 
-Everywhere else was boarded up, or blocked off, or tumbled down.
+Everywhere else was boarded up, or blocked off, or tumbled down. Until you came to a gated arch near the Eastern wall.
+Behind that was a high tower, barracks for the Guard, and the mansion of the Mayor.
 
 
 .. todo:: street life, guards
@@ -281,7 +282,7 @@ Instead what he found all around him were notices. Mostly they forbade you from 
 "No fires or braziers by order" was regularly posted on walls around the city, and in the name of Mayor Ingomer.
 
 Ingomer controlled the supply of food into the city. It was in his name that the guards stopped the wagons at the gate.
-They diverted the best goods to his favoured merchants, and shook down the hauliers for revenue.
+They diverted the best goods to his favoured merchants, and shook down the hauliers for cash.
 
 The mayor also had a system of licenses which meant you had to pay a fee for lighting fires.
 So finding the Guild of Smiths was simple enough; they all worked together in an area near the docks, having had to
@@ -298,14 +299,14 @@ those big cellar doors banged shut, the hasp on it shook a little loose.
 Now when the dreymen left, they were careful to place a padlock on the door. But they couldn't seem to fasten it
 properly, and after a minute or two, they gave up and left it dangling.
 
-So Jack waited until there was some commotion further up the street, and all heads were turned. Then went over to
+So Jack waited until there was some commotion further up the street, and all heads were turned. Then he went over to
 the doors and was able to work one bolt out of its seat, lift up one half of the hatchway, and slip inside.
 
 The cellar
 ----------
 
-Down below it was not fully dark. Some light streamed in by gratings which gave sight of the street above.
-Jack saw the cellar was lined and vaulted in brick. It was all one room about ten feet high which got lower and darker towards
+Down below in the cellar it was not fully dark. Some light streamed in by gratings which gave sight of the street above.
+Jack saw that the place was lined and vaulted in brick. It was all one room about ten feet high which got lower and darker towards
 the back.
 
 But he saw that as you went further inside, it got dusty, which made him think no one troubled to go there. And by
@@ -524,7 +525,10 @@ Jack stepped forward and raised up his locket saying, "I carry a message!"
 
 .. todo:: Ingomer foresees his doom.
 
+His love of Gin had paled his skin.
+
 .. progenitis vitiosioris! (Oh, unhappy progeny!) From Horace III.6, adopting Vocative Feminine Plural
+.. progeniem vitiosiorem
 
 Kicked out
 ----------
@@ -539,6 +543,13 @@ Escape
 ------
 
 But the locket shone no longer.
+
+Therefore he creeps behind so close as to slap them on the forehead.
+His breath steady, his step light, and they do not perceive him.
+He borrows their badge; so must thieves stand aside, daring not to delay him.
+
+Or he takes up dancing; he spins with arms oddly up and aloft, until beggars laugh to throw him their
+pennies. They show him their backs, those guards, in disgust, and he hurries along to the gateway.
 
 
 The Journey home
@@ -565,29 +576,17 @@ This haze rose up until the sun itself burned white and fierce like a gas mantle
 
 Then all together they turned and headed east towards the City.
 
-The End
--------
-
-Ingomer starts hitting the Gin.
-
 Weave
 -----
 
 Sensitivity             Simplicity          Spontaneity
             Cognition              Courage             Compassion
 
-Chi gung
+Nei gung
 --------
 
 From time to time he would become aware of an old emotion. Like a scrap of burnt newspaper, interesting but ultimately for
 the bin.
 
 Spine stretch. Invites movement.
-
-Therefore he creeps behind so close as to slap them on the forehead.
-His breath steady, his step light, and they do not perceive him.
-He borrows their badge; so must thieves stand aside, daring not to delay him.
-
-Or he takes up dancing; he spins with arms oddly up and aloft, until beggars laugh to throw him their
-pennies. Those guards in disgust face him afresh to their back.
 
