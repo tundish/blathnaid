@@ -291,6 +291,8 @@ club together to get enough money to pay for the privilege of heating their forg
 A refuge
 --------
 
+.. todo:: Jack brews tea for Smiths
+
 Every building in the main thoroughfare, and at the dock next to the river, was barred and locked and secured against
 strangers.
 
@@ -453,6 +455,8 @@ He paused for a moment, trying not to stumble over his words.
 
 And before Jack could get him to explain any more, Krol had curled up and was off to sleep.
 
+.. todo:: Standing
+
 F 3
 ---
 
@@ -482,6 +486,8 @@ And so all my time is done."
 And Jack looked down at his locket which was beginning to fade, and he knew that he hadn't long to carry out his
 task in the City. And so he went over to The Other, and poured out a draft into the dish. Krol took it, and nodded his
 thanks before knocking it back.
+
+.. todo:: Standing
 
 S 3
 ---
@@ -515,6 +521,7 @@ There then followed a very suspiciously conducted election.
 At the end of it Ingomer had become Master of the Guild of Smiths,
 a position which hitherto had been attained only by the most skilled and respected of craftsmen.
 
+.. todo:: Parade
 
 Ingomer
 -------
@@ -543,6 +550,8 @@ Escape
 ------
 
 But the locket shone no longer.
+
+.. todo:: Standing
 
 Therefore he creeps behind so close as to slap them on the forehead.
 His breath steady, his step light, and they do not perceive him.
