@@ -562,9 +562,13 @@ He borrows their badge; so must thieves stand aside, daring not to delay him.
 Or he takes up dancing; he spins with arms oddly up and aloft, until beggars laugh to throw him their
 pennies. They show him their backs, those guards, in disgust, and he hurries along to the gateway.
 
+And outside! Jack threads his way past the bullying Guards and the chiselling merchants, and heads
+West along the road home.
 
 The Journey home
 ----------------
+
+.. todo:: slower journey, more people
 
 And he taught them Cognition; how to figure things out. How to be sensitive to the Universe in all its music
 and how to perceive the simple processes at play.
@@ -577,6 +581,8 @@ And so they began to organise themselves again.
 
 Payback
 -------
+
+A fortnight after escaping the City, Jack stood once again at the Forge.
 
 All at once there was a strange shift in the structure of the Smithy. From the space in the roof poured out
 in their hundreds a thick swarm of bats. In a flurry of fur and leather they ascended in a column like the smoke of a
