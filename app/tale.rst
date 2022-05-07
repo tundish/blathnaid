@@ -269,13 +269,18 @@ Long lines of people stood at those who had any stock.
 Everywhere else was boarded up, or blocked off, or tumbled down. Until you came to a gated arch near the Eastern wall.
 Behind that was a high tower, barracks for the Guard, and the mansion of the Mayor.
 
+Wherever there was food for sale, there were Guards to keep order. The people looked pinched, hungry and resentful.
+They picked each others pockets in the queues, and when they were discovered, they would take to arguing and fighting.
+Then in jump the Guards, and all run and scatter for fear of a cracked skull.
 
-.. todo:: street life, guards
+Twice Jack was stopped and asked to explain who he was. Luckily the locket did the trick; whatever it stood for, the
+Guards evidently knew it, though Jack himself was none the wiser.
 
-.. todo:: mayoral proclamations
 
 Scarcity
 --------
+
+.. todo:: mayoral proclamations
 
 Jack's first priority was to make contact with the Guild of Smiths, and he started by looking everywhere for their symbol.
 Instead what he found all around him were notices. Mostly they forbade you from doing things.
@@ -285,19 +290,15 @@ Ingomer controlled the supply of food into the city. It was in his name that the
 They diverted the best goods to his favoured merchants, and shook down the hauliers for cash.
 
 The mayor also had a system of licenses which meant you had to pay a fee for lighting fires.
-So finding the Guild of Smiths was simple enough; they all worked together in an area near the docks, having had to
+So finding the Guild of Smiths was simple enough; they all worked together in an area near the dock, having had to
 club together to get enough money to pay for the privilege of heating their forges.
 
 A refuge
 --------
 
-.. todo:: Jack brews tea for Smiths
-
-Every building in the main thoroughfare, and at the dock next to the river, was barred and locked and secured against
-strangers.
-
-Jack found himself watching as two dreymen brought in barrels to the cellar. And he saw that every time one half of
-those big cellar doors banged shut, the hasp on it shook a little loose.
+While exploring one of the squares, Jack found himself gazing at a grand-looking Tavern, three storeys high.
+He watched as two dreymen brought in barrels for the cellar.
+And he saw that every time one half of those big cellar doors banged shut, the hasp on it shook a little loose.
 Now when the dreymen left, they were careful to place a padlock on the door. But they couldn't seem to fasten it
 properly, and after a minute or two, they gave up and left it dangling.
 
@@ -369,10 +370,11 @@ Refuge
 ------
 
 Jack awoke next morning to find he was alone again. He gathered his things and stole out from the cellar into the street.
-He went over to the place by the docks where the Smiths worked. He tried to think of a way to befriend them, and asked
-politely of one of them if he might heat up his can on their embers.
-The Smiths for the most part got along with each other, and they never minded Jack making a brew on some embers with
-his trivet. There were plenty of scraps of bark around the place, and Jack used that.
+He went over to the place by the dock where the Smiths worked.
+He tried to think of a way to befriend them, and so he gathered up some scraps of bark which lay around a nearby wood store.
+
+Jack went politely up to one of them and asked if he might heat up his little kettle on their embers.
+The Smiths all needed cheering up, so they welcomed him to share a brew from his trivet.
 
 
 The Friend
