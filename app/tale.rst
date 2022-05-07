@@ -259,15 +259,15 @@ their own to pass through.
 Exploring
 ---------
 
-.. fixme::
-.. todo:: explain locations
+So Jack was able to trapse only a quarter of a mile back and forth, and quickly learned his way about the place.
+In the streets near the gates of the City were sheds and offices for the receipt of goods; likewise at the dock on the river.
+There were two or three large cobbled squares, with taverns and boarding houses on every side.
 
-So Jack was able to trapse only a quarter of a mile back and forth, and quickly learned his way about the place. Mostly
-the streets were well cobbled, and the buildings both old and new, were in use by someone for something.
+Set up at intervals were wooden market stalls. Many of them were shuttered or empty.
+Long lines of people stood at those who had any stock.
 
-This main district was shared by all sorts. And to a large extent there was order.
-The beggars were at begging, the guards were loafing about, the hawkers were ringing their bells, the merchants were
-showing off their wares. The bankers were busy dodging everyone; most especially each other.
+Everywhere else was boarded up, or blocked off, or tumbled down.
+
 
 .. todo:: street life, guards
 
