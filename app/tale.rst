@@ -271,9 +271,9 @@ Behind that was a high tower, barracks for the Guard, and the mansion of the May
 
 Wherever there was food for sale, there were Guards to keep order. The people looked pinched, hungry and resentful.
 They picked each others pockets in the queues, and when they were discovered, they would take to arguing and fighting.
-Then in jump the Guards, and all run and scatter for fear of a cracked skull.
+Then in would jump the Guards, and all run and scatter for fear of a cracked skull.
 
-Twice Jack was stopped and asked to explain who he was. Luckily the locket did the trick; whatever it stood for, the
+Twice Jack was stopped and asked to explain who he was. Luckily the locket did the trick. Whatever it stood for, the
 Guards evidently knew it, though Jack himself was none the wiser.
 
 
@@ -506,17 +506,17 @@ There was a clatter as the trivet fell to the floor and rolled back against Jack
 
 Jack was too anxious to sleep. He kept standing there in the dark, letting his shoulders go forward a little,
 until the tension in his neck dropped out, and he heard the bones in his back letting go of each other.
-Then in lumps it fell into his legs, and ran like hot sweat on the inside of his skin.
+Then in lumps it fell into his legs, and ran like hot sweat down the inside of his skin.
 
 
 F 4
 ---
 
+First thing next morning, Jack ran over to see Fell, and begged hime to reveal who was Master of the Guild.
 So Fell explained.
 
 It used to be that rich merchants would introduce their daughters to court, in the hope that they would marry into
-the nobility. Likewise the artisans would raise their girls to set their sights on a son of a merchant. It was a
-good system, because over time there grew alliances which served very much to secure a stable society.
+the nobility. Likewise the artisans would raise their girls to set their sights on a son of a merchant.
 The families relied on their seniors to make the connections, and so it had become the tradition to announce
 one's offspring to the head of one's Guild, and they would go and make enquiries as to a suitable match.
 
@@ -524,10 +524,10 @@ But Ingomer declared that there was to be no more marrying to the advantage of S
 Instead, any young girls of a Blacksmith family would be sent to work in the Temple.
 
 No one really knew what went on the Temple, but the less they knew, the more they could guess.
-Many Smiths left the City at that point. The ones who could not flee, organised themselves, and there was rioting.
-but Ingomer called an emergency, and the unrest was put down by the Guard.
+From then on, the Smiths started to leave the City. The ones who could not flee, organised themselves, and there was rioting.
+But Ingomer called an emergency, and the unrest was put down by the Guard.
 
-There then followed a very suspiciously conducted election.
+After that there was a hasty election, for which some were very well prepared.
 At the end of it Ingomer had become Master of the Guild of Smiths,
 a position which hitherto had been attained only by the most skilled and respected of craftsmen.
 
