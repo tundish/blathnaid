@@ -658,3 +658,5 @@ As they beat their wings, they raised an evil cloud of dust and metal.
 This haze rose up until the sun itself burned white and fierce like a gas mantle.
 
 Then all together they turned and headed East.
+
+"They carry a message", remarked the Blacksmith.
