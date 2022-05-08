@@ -529,12 +529,16 @@ Ingomer
 -------
 
 And there before him stood Ingomer, in all his Mayoral finery, and surrounded by guards.
-He looked older than the portrait on the notices, and altogether less noble.
+
 Jack stepped forward and raised up his locket saying, "I carry a message!"
 
-.. todo:: Ingomer foresees his doom.
+Ingomer was always in fear of bad news, and he raised his hand to halt the advance.
+He glanced at the locket, and then back at Jack's. "What is it? Quickly!"
 
-His love of Gin had paled his skin.
+He looked older than the portrait on the notices, and altogether less noble.
+Ingomer hadn't been feeling well lately. His love of Gin had paled his skin.
+Where he had tried to shave, his face was sore and blotchy.
+
 
 .. progenitis vitiosioris! (Oh, unhappy progeny!) From Horace III.6, adopting Vocative Feminine Plural
 .. progeniem vitiosiorem
@@ -553,6 +557,7 @@ Escape
 
 But the locket shone no longer.
 
+He remained Jack, who had grown with Jack's body, but he was in other places now too.
 .. todo:: Standing
 
 Therefore he creeps behind so close as to slap them on the forehead.
