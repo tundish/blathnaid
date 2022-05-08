@@ -531,12 +531,13 @@ After that there was a hasty election, for which some were very well prepared.
 At the end of it Ingomer had become Master of the Guild of Smiths,
 a position which hitherto had been attained only by the most skilled and respected of craftsmen.
 
-.. todo:: Parade
-
 Ingomer
 -------
 
-And there before him stood Ingomer, in all his Mayoral finery, and surrounded by guards.
+It was the eve of the New Moon. Jack was at the gated arch in the east of the City.
+
+Trumpets called out, the gates swung open and through it came the Mayoral parade.
+And there before him was Ingomer, in all his robes and finery, surrounded by guards.
 
 Jack stepped forward and raised up his locket saying, "I carry a message!"
 
