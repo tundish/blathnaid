@@ -202,8 +202,7 @@ him for miles at a time by the bridle. He would pat the horse's flank, and worry
 
 Jack had ceased to greet other travellers on the road, and preferred very much to camp alone. As he lay looking up
 at the stars, he would take out the locket the Blacksmith had made for him, and marvel at how it glowed in the darkness.
-The New Moon was yet two weeks away. Plenty of time to deliver a message, thought Jack. And as he looked east he spied
-another glow. The bonfires and braziers of the City were only a few hours away now.
+The New Moon was yet two weeks away. Plenty of time to deliver a message, thought Jack.
 
 The City
 --------
@@ -264,7 +263,7 @@ In the streets near the gates of the City were sheds and offices for the receipt
 There were two or three large cobbled squares, with taverns and boarding houses on every side.
 
 Set up there at intervals were wooden market stalls. Many of them were shuttered or empty.
-Long lines of people stood at those who had any stock.
+Long lines of people formed up at those who had any stock.
 
 Everywhere else was boarded up, or blocked off, or tumbled down. Until you came to a gated arch near the Eastern wall.
 Behind that was a high tower, barracks for the Guard, and the mansion of the Mayor.
@@ -374,7 +373,7 @@ Refuge
 
 Jack awoke next morning to find he was alone again. He gathered his things and stole out from the cellar into the street.
 He went over to the place by the dock where the Smiths worked.
-He tried to think of a way to befriend them, and so he gathered up some scraps of bark which lay around a nearby wood store.
+He tried to think of a way to befriend them, and so he gathered up some scraps of bark which lay around the wood stored nearby .
 
 Jack went politely up to one of them and asked if he might heat up his little kettle on their embers.
 The Smiths all needed cheering up, so they welcomed him to share a brew from his trivet.
@@ -394,16 +393,16 @@ Fell
 ----
 
 Jack asked who was the Master of the Guild, but Fell shook his head.
-He began to tell him of the old days, when Smiths had such skill it would be thought magic today.
+He began to tell him of the old days, when Smiths had such skill it would be thought magical today.
 And how Ingomer, brother-in-law to the General of the Guards, on becoming Mayor, had brought in new rules.
 
 First he'd created a licence for making locks, which the Smiths had to purchase from him at great cost.
-Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
-the right in perpetuity a year later.
+Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom then he granted
+permission instead.
 
-But the Locksmiths did not understand tolerances.
-They made sure there was not one key in the City that would match another.
-And yet the tumblers of their padlocks jammed up if you dropped them.
+"But", said Fell, "the Locksmiths have no idea about tolerances."
+"They make sure there is not one key in the City that will match another.
+And yet the tumblers of those padlocks jam up if you drop them".
 
 And that was all that Fell would say, and he turned back to his work. So Jack wandered around for a while
 and went back to the cellar to sleep.
@@ -473,12 +472,13 @@ He in his turn had been eager to check the trivet and its third set of markings.
 some paste, and rubbing with a cloth, he could make out its meaning. "This one reads 'Cognition'", he declared.
 
 Then Fell took up his story of Ingomer.
-Recently he'd forbidden the Smiths from making blades or any edged tools, and arranged for his own
+Recently he'd forbidden the Smiths from forging blades or any edged tools, and arranged for his own
 Guild of Cutlers to be licensed exclusively for those items. Their factories were in a protected area near the Armoury.
 
-But the Cutlers did not understand the process of design.
-They were all blade and no tang. So when the Guards got their new glaives, they would take off the head in order that
-they might beat people with the handle, since it was that much safer for all concerned.
+Fell had only contempt for the Cutlers. He said they were all blade and no tang.
+Tdey did not understand the process of design.
+So when the Guards got their new glaives, they would take off the head in order that they might beat people with the
+handle, since it was very much safer for all concerned.
 
 And that was all that Fell would say, and he went back to his work. So Jack wandered over to where two groups of youths
 were fighting over a basket of cabbages. When the Guards arrived he headed off to the cellar for the evening.
@@ -487,7 +487,7 @@ were fighting over a basket of cabbages. When the Guards arrived he headed off t
 T 3
 ---
 
-And there was Krol again, but looking unhappy this evening. Straight away he said to Jack, "Tomorrow comes a crescent moon.
+And there was Krol again, but looking mopy and unhappy this evening. Straight away he said to Jack, "Tomorrow comes a crescent moon.
 And so all my time is done."
 
 And Jack looked down at his locket which was beginning to fade, and he knew that he hadn't long to carry out his
@@ -548,21 +548,20 @@ He looked older than the portrait on the notices, and altogether less noble.
 Ingomer hadn't been feeling well lately. His love of Gin had paled his skin.
 Where he had tried to shave, his face was sore and blotchy.
 
-The parade fell silent, and it seemd to Jack that the whole world had hushed too.
+The parade fell silent, and it seemed to Jack that the whole world had hushed too.
 He opened his mouth again. There was no effort to be made. The words came from a deep place of their own.
 
 "Bláthnaid is of age to marry."
 
 The effect this had on Ingomer was a shock to all around him.
-He recognised the name. It was one of the peasant names that Blacksmiths gave their daughters.
+Because he recognised the name. It was one of the peasant names that Blacksmiths gave their daughters.
 
 It was ten years since he'd brought servitude, and worse, to the children
 of his enemies. But they had escaped him, and found ways to prosper, and now saw fit to taunt him.
 
-Ingomer shook with rage. "Progeniem Vitiosiorem!", he bellowed.
+Ingomer shook with rage. "Progeniem Vitiosiorem!", he cursed, in the secret language of the Temple.
 
-Alongside his anger, there was fear in him too. "Progeniem Vitiosiorem!", he cursed, in the secret language
-of the Temple.
+Alongside his anger, there was fear in him too. "Progeniem Vitiosiorem!", he bellowed again.
 
 He felt very old now.
 
@@ -581,7 +580,7 @@ By the time the Captain of Guard had rung the general alarm, Jack was already on
 off by obscure ways to get back to his hiding place.
 
 A couple of the Guard were more alert than the others, and they tried to run after him.
-But being on parade they were wearing the newest and shiniest armour, and they were quite badly injured.
+But being on parade they had been wearing the newest and shiniest armour, consequently they got quite badly injured in the chase.
 
 Escape
 ------
@@ -596,8 +595,8 @@ Then he drew it up until he was filled again, and with it he watered the dark ab
 
 He remained Jack, the boy who had grown up into Jack's body. But the boy lived in other places now too.
 
-In the morning, Jack looks down at his locket
-But the locket shines no longer. And he knows he has to go.
+In the morning, Jack looked down at his locket.
+But the locket shone no longer. And he knew he he had to go.
 
 Evasion
 -------
@@ -614,8 +613,8 @@ pennies. They show him their backs, those guards, in disgust, and he hurries alo
 The Journey home
 ----------------
 
-Outside the City walls again, Jack threads his way past the bullying Guards and the chiselling merchants.
-He heads West now along the home road.
+Outside the City walls again, Jack threaded his way past the bullying Guards and the chiselling merchants.
+He headed West now along the home road.
 
 .. todo:: slower journey, more people
 
