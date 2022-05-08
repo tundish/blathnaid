@@ -473,12 +473,12 @@ He in his turn had been eager to check the trivet and its third set of markings.
 some paste, and rubbing with a cloth, he could make out its meaning. "This one reads 'Cognition'", he declared.
 
 Then Fell took up his story of Ingomer.
-Recently he'd forbidden the Smiths from making blades or any edged tools, and arranged for his
-Guild of Cutlers to be licensed exclusively for those operations. Their factories were in a protected area near the Armoury.
+Recently he'd forbidden the Smiths from making blades or any edged tools, and arranged for his own
+Guild of Cutlers to be licensed exclusively for those items. Their factories were in a protected area near the Armoury.
 
-But the Cutlers did not understand design.
+But the Cutlers did not understand the process of design.
 They were all blade and no tang. So when the Guards got their new glaives, they would take off the head in order that
-they might beat people with the handle, since it was safer for all concerned.
+they might beat people with the handle, since it was that much safer for all concerned.
 
 And that was all that Fell would say, and he went back to his work. So Jack wandered over to where two groups of youths
 were fighting over a basket of cabbages. When the Guards arrived he headed off to the cellar for the evening.
@@ -540,16 +540,28 @@ And there before him stood Ingomer, in all his Mayoral finery, and surrounded by
 
 Jack stepped forward and raised up his locket saying, "I carry a message!"
 
-Ingomer was always in fear of bad news, and he raised his hand to halt the advance.
-He glanced at the locket, and then back at Jack's. "What is it? Quickly!"
+Ingomer was always attentive to bad news, and he raised his hand to halt the procession.
+He glanced at the locket, and then back at Jack. "What is it? Quickly!"
 
 He looked older than the portrait on the notices, and altogether less noble.
 Ingomer hadn't been feeling well lately. His love of Gin had paled his skin.
 Where he had tried to shave, his face was sore and blotchy.
 
+The parade fell silent, and it seemd to Jack, the whole world had hushed too.
+He opened his mouth again. There was no effort to be made. The words came from a deep place of their own.
 
-.. progenitis vitiosioris! (Oh, unhappy progeny!) From Horace III.6, adopting Vocative Feminine Plural
-.. progeniem vitiosiorem
+"Bláthnaid is of age to marry."
+
+The effect this had on Ingomer was a shock to all around him. I guess you could think of
+it from his point of view. It was ten years since he'd brought servitude, and worse, to the children
+of his rivals. But they had escaped him, and found ways to prosper, and now saw fit to taunt him.
+
+Ingomer shook with rage. "Progeniem Vitiosiorem!", he bellowed.
+
+Despite his anger, there was fear in him too. "Progeniem Vitiosiorem!", he cursed, in the secret language
+of the Temple.
+
+"Progeniem Vitiosiorem!"
 
 Kicked out
 ----------
@@ -557,16 +569,27 @@ Kicked out
 Some guards rushed forward to grab Jack, and two of them pushed through the crowd in advance of their captive.
 They carried him as far as the next street corner, threw him down, and cursed him.
 
-But Jack wasn't badly beaten, nor did the Guards arrest him.
+But Jack wasn't badly beaten, nor did the Guards at first try to arrest him.
 They took him for one of Ingomer's spies, no doubt out of favour for having delivered bad news.
+
+By the time the Captain of Guard had rung the general alarm, Jack was already on his feet, and he raced
+off by obscure ways to get back to his hiding place.
+
+A couple of the Guard were more alert than the others, and they tried to run after him.
+But being on parade they were wearing the newest and shiniest armour, and they were quite badly injured.
 
 Escape
 ------
 
-But the locket shone no longer.
+That night, back in the cellar, Jack had no idea what to do next. He wondered if he should stay in the
+City, and ask Fell to teach him Smithing. Or should he find his way home with no horse and no way to
+make a living? He had delivered the message, after a fashion. He could even recall the reply. Ingomer's
+odd words had somehow lodged themselves in Jack's brain.
 
 He remained Jack, who had grown with Jack's body, but he was in other places now too.
 .. todo:: Standing
+
+But the locket shone no longer. And Jack knew he had to go.
 
 Therefore he creeps behind so close as to slap them on the forehead.
 His breath steady, his step light, and they do not perceive him.
