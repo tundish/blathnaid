@@ -457,12 +457,14 @@ He paused for a moment, trying not to stumble over his words.
 
 And before Jack could get him to explain any more, Krol had curled up and was off to sleep.
 
-.. todo:: Standing
+But Jack could not sleep. He felt very alone, in a very strange world. So he stood there in his little spot in the dark.
+And he calmed his breathing, until it moved down from his chest into his belly. Breathing slower, and softer.
+Until nearly half a minute to breathe in, and nearly half a minute to breathe out.
 
 F 3
 ---
 
-Jack urgently needed to find the Master of Smiths, so he was out again early to see his friend Fell.
+The next morning Jack felt he urgently needed to find the Master of Smiths, so he was out again early to see his friend Fell.
 
 He in his turn had been eager to check the trivet and its third set of markings. After applying
 some paste, and rubbing with a cloth, he could make out its meaning. "This one reads 'Cognition'", he declared.
@@ -489,8 +491,6 @@ And Jack looked down at his locket which was beginning to fade, and he knew that
 task in the City. And so he went over to The Other, and poured out a draft into the dish. Krol took it, and nodded his
 thanks before knocking it back.
 
-.. todo:: Standing
-
 S 3
 ---
 
@@ -500,6 +500,11 @@ He raised his finger in the air dramatically, and wagged it at Jack.
 "Try to train that. It can be cultivated, can spontaneity."
 
 There was a clatter as the trivet fell to the floor and rolled back against Jack's foot. Krol had fallen asleep.
+
+Jack was too anxious to sleep. He kept standing there in the dark, letting his shoulders go forward a little,
+until the tension in his neck dropped out, and he heard the bones in his back letting go of each other.
+Then in lumps it fell into his legs, and ran like hot sweat on the inside of his skin.
+
 
 F 4
 ---
