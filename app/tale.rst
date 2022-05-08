@@ -601,7 +601,7 @@ But the locket shone no longer. And he knew he he had to go.
 Evasion
 -------
 
-Patrols in the streets, in pairs, and Jack no permit to pass.
+Patrols in the streets, in pairs, and Jack has no permit to pass.
 
 Therefore he creeps behind so close as to slap them on the forehead.
 His breath steady, his step light, and they do not perceive him.
@@ -634,32 +634,27 @@ So he began to knock at the doors of cottages and offer to tell tales of the Cit
 their doors he would talk with them about Compassion; how human sensitivity is manifest spontaneously and authentically.
 
 
-
 Payback
 -------
 
 A fortnight after escaping the City, Jack stood once again at the Forge.
 
-All at once there was a strange shift in the structure of the Smithy. From the space in the roof poured out
-in their hundreds a thick swarm of bats. In a flurry of fur and leather they ascended in a column like the smoke of a
+"Did you meet with the Master?" asked the Blacksmith.
+
+"Yes", said Jack.
+
+"And what did he say?"
+
+Jack had on his mind to explain the full story, but as soon as he opened his mouth to do so, the words
+of Ingomer announced themselves unbidden.
+
+"Progeniem Vitiosiorem!"
+
+All at once there was a shift in the structure of the Smithy. The bats, who had been listening, began to stir.
+From the space in the roof they swarmed out in their hundreds. With a flurry of fur and leather they ascended in a column like the smoke of a
 wet chimney.
 
 As they beat their wings, they raised an evil cloud of dust and metal.
 This haze rose up until the sun itself burned white and fierce like a gas mantle.
 
-Then all together they turned and headed east towards the City.
-
-Weave
------
-
-Sensitivity             Simplicity          Spontaneity
-            Cognition              Courage             Compassion
-
-Nei gung
---------
-
-From time to time he would become aware of an old emotion. Like a scrap of burnt newspaper, interesting but ultimately for
-the bin.
-
-Spine stretch. Invites movement.
-
+Then all together they turned and headed East.
