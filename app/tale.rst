@@ -280,17 +280,20 @@ Guards evidently knew it, though Jack himself was none the wiser.
 Scarcity
 --------
 
-.. todo:: mayoral proclamations
-
 Jack's first priority was to make contact with the Guild of Smiths, and he started by looking everywhere for their symbol.
-Instead what he found all around him were notices. Mostly they forbade you from doing things.
-"No fires or braziers by order" was regularly posted on walls around the city, and in the name of Mayor Ingomer.
+Instead what he found all around him were notices. They were all of a type, and were pasted on buildings, and pinned to
+street posts.
+
+They all bore the image of Mayor Ingomer; a rather heroic woodcut of him which would have been some years old by then.
+Ingomer was reminding everyone to stay safe. Stayng safe meant not lighting fires. Staying safe meant handing in long knives.
+Stayng safe meant not leaving home to look for food.
 
 Ingomer controlled the supply of food into the city. It was in his name that the guards stopped the wagons at the gate.
 They diverted the best goods to his favoured merchants, and shook down the hauliers for cash.
 
-The mayor also had a system of licenses which meant you had to pay a fee for lighting fires.
-So finding the Guild of Smiths was simple enough; they all worked together in an area near the dock, having had to
+The mayor also had a system of licenses which meant you had to pay a fee for lighting a fire.
+So for Jack, finding the Guild of Smiths was simple enough.
+They all worked together in an area near the dock, having had to
 club together to get enough money to pay for the privilege of heating their forges.
 
 A refuge
@@ -428,13 +431,13 @@ They had been worn down by use, but after a little time cleaning, Fell started t
 "This one says 'Compassion'", he said.
 
 Then Fell resumed his account of Mayor Ingomer.
-How, after some strange accident which no one could explain, Ingomer instituted an inspectorate
-for pressure vessels, whose eyewatering fees nearly put the Smiths entirely out of business.
+How, after some strange accident which no one could explain, Ingomer set up an inspectorate
+for pressure vessels, whose punishing fees nearly put the Smiths entirely out of business.
 Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on
 the burden of both manufacture and assurance of all such things in the City.
 
-But the Boilermakers did not understand metallurgy.
-They were proud of the prooving of their seams, yet they had no care at all that the flux leeched into the Gin.
+But the Boilermakers it seemed did not understand metallurgy.
+They were diligent in the prooving of their seams, yet they had no care at all that the flux was contaminating the Gin.
 
 And that was all that Fell would say, and he went back to his work. So Jack dangled his legs over the dock for a bit,
 then went back to the cellar to sleep.
