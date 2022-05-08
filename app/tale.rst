@@ -659,4 +659,5 @@ This haze rose up until the sun itself burned white and fierce like a gas mantle
 
 Then all together they turned and headed East.
 
-"They carry a message", remarked the Blacksmith.
+The Blacksmith turned his eyes to follow them.
+"They carry a message", he said.
