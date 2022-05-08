@@ -594,10 +594,10 @@ odd words had somehow lodged themselves in Jack's brain.
 He stood all night. He took in heaven at the crown of his head, and passed it down into the earth.
 Then he drew it up until he was filled again, and with it he watered the dark abyss.
 
-He remained Jack, the boy who had grown up into Jack's body. But the boy lived in other places now too.
+He remained Jack, the boy who had grown up in Jack's body. But now he could find himself wherever he looked.
 
 In the morning, Jack looked down at his locket.
-But the locket shone no longer. And he knew he he had to go.
+But the locket shone no longer. And he knew he had to go.
 
 Evasion
 -------
