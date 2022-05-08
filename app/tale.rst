@@ -614,18 +614,26 @@ The Journey home
 ----------------
 
 Outside the City walls again, Jack threaded his way past the bullying Guards and the chiselling merchants.
-He headed West now along the home road.
+He headed West, now gladly on the road home.
 
-.. todo:: slower journey, more people
+The first thing he noticed was how crowded the way was; he saw that many more people were trying to get to the City.
+All hungry, all cold, and all seeking shelter. On the far side of the first barricade, more settlements had sprung up,
+filled with people who had not been allowed through.
 
-And he taught them Cognition; how to figure things out. How to be sensitive to the Universe in all its music
+Many were distressed, especially those with young children.
+And wherever he could he taught them how to find Courage; which comes spontaneously, unbidden, and is simple in its expression.
+
+He tramped on for two more days and nights, at a steady pace, trying not to tire himself.
+
+Some people, when they saw that Jack was going the other way, would stop him to ask him what was the news.
+And he would advise them on Cognition; how to figure things out. How to be sensitive to the Universe in all its music
 and how to perceive the simple processes at play.
 
-And he taught them how to find Courage; which comes spontaneously, unbidden, and is simple in its expression.
+All the time the weather was turning for the worse, and Jack was starting to suffer from sleeping in the open.
+So he began to knock at the doors of cottages and offer to tell tales of the City. And when the people opened
+their doors he would talk with them about Compassion; how human sensitivity is manifest spontaneously and authentically.
 
-And he taught them where Compassion comes from; how human sensitivity is manifest spontaneously and authentically.
 
-And so they began to organise themselves again.
 
 Payback
 -------
