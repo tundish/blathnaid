@@ -590,10 +590,18 @@ City, and ask Fell to teach him Smithing. Or should he find his way home with no
 make a living? He had delivered the message, after a fashion. He could even recall the reply. Ingomer's
 odd words had somehow lodged themselves in Jack's brain.
 
-He remained Jack, who had grown with Jack's body, but he was in other places now too.
-.. todo:: Standing
+He stood all night. He took in heaven at the crown of his head, and passed it down into the earth.
+Then he drew it up until he was filled again, and with it he watered the dark abyss.
 
-But the locket shone no longer. And Jack knew he had to go.
+He remained Jack, the boy who had grown up into Jack's body. But the boy lived in other places now too.
+
+In the morning, Jack looks down at his locket
+But the locket shines no longer. And he knows he has to go.
+
+Evasion
+-------
+
+Patrols in the streets, in pairs, and Jack no permit to pass.
 
 Therefore he creeps behind so close as to slap them on the forehead.
 His breath steady, his step light, and they do not perceive him.
@@ -602,11 +610,11 @@ He borrows their badge; so must thieves stand aside, daring not to delay him.
 Or he takes up dancing; he spins with arms oddly up and aloft, until beggars laugh to throw him their
 pennies. They show him their backs, those guards, in disgust, and he hurries along to the gateway.
 
-And outside! Jack threads his way past the bullying Guards and the chiselling merchants, and heads
-West along the road home.
-
 The Journey home
 ----------------
+
+Outside the City walls again, Jack threads his way past the bullying Guards and the chiselling merchants.
+He heads West now along the home road.
 
 .. todo:: slower journey, more people
 
