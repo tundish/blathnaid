@@ -571,16 +571,17 @@ Kicked out
 ----------
 
 Some guards rushed forward to grab Jack, and two of them pushed through the crowd in advance of their captive.
-They carried him as far as the next street corner, threw him down, and cursed him.
+They carried him as far as the next street corner, threw him down, and beat him.
 
-But Jack wasn't badly beaten, nor did the Guards at first try to arrest him.
+But Jack wasn't badly hurt, nor did the Guards really try to arrest him.
 They took him for one of Ingomer's spies, no doubt out of favour for having delivered bad news.
 
 By the time the Captain of Guard had rung the general alarm, Jack was already on his feet, and he raced
 off by obscure ways to get back to his hiding place.
 
-A couple of the Guard were more alert than the others, and they tried to run after him.
-But being on parade they had been wearing the newest and shiniest armour, consequently they got quite badly injured in the chase.
+A couple of the Guard were more alert than the others, and they started to run after him.
+Unfortunately, being on parade they had on the shiniest armour the Cutlers could make, and so they got some
+quite awful lacerations when they tried to give chase.
 
 Escape
 ------
