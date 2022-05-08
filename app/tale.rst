@@ -512,11 +512,11 @@ Then in lumps it fell into his legs, and ran like hot sweat down the inside of h
 F 4
 ---
 
-First thing next morning, Jack ran over to see Fell, and begged hime to reveal who was Master of the Guild.
+First thing next morning, Jack ran over to see Fell, and begged him to reveal who was Master of the Guild.
 So Fell explained.
 
-It used to be that rich merchants would introduce their daughters to court, in the hope that they would marry into
-the nobility. Likewise the artisans would raise their girls to set their sights on a son of a merchant.
+In the same way that merchants would introduce their daughters to court, hoping them to marry into
+the nobility; so likewise the artisans would raise their girls to set their sights on a son of a rich merchant.
 The families relied on their seniors to make the connections, and so it had become the tradition to announce
 one's offspring to the head of one's Guild, and they would go and make enquiries as to a suitable match.
 
@@ -540,26 +540,30 @@ And there before him stood Ingomer, in all his Mayoral finery, and surrounded by
 
 Jack stepped forward and raised up his locket saying, "I carry a message!"
 
-Ingomer was always attentive to bad news, and he raised his hand to halt the procession.
+Ingomer was always attentive to news, and he raised his hand to halt the procession.
 He glanced at the locket, and then back at Jack. "What is it? Quickly!"
 
 He looked older than the portrait on the notices, and altogether less noble.
 Ingomer hadn't been feeling well lately. His love of Gin had paled his skin.
 Where he had tried to shave, his face was sore and blotchy.
 
-The parade fell silent, and it seemd to Jack, the whole world had hushed too.
+The parade fell silent, and it seemd to Jack that the whole world had hushed too.
 He opened his mouth again. There was no effort to be made. The words came from a deep place of their own.
 
 "Bláthnaid is of age to marry."
 
-The effect this had on Ingomer was a shock to all around him. I guess you could think of
-it from his point of view. It was ten years since he'd brought servitude, and worse, to the children
-of his rivals. But they had escaped him, and found ways to prosper, and now saw fit to taunt him.
+The effect this had on Ingomer was a shock to all around him.
+He recognised the name. It was one of the peasant names that Blacksmiths gave their daughters.
+
+It was ten years since he'd brought servitude, and worse, to the children
+of his enemies. But they had escaped him, and found ways to prosper, and now saw fit to taunt him.
 
 Ingomer shook with rage. "Progeniem Vitiosiorem!", he bellowed.
 
-Despite his anger, there was fear in him too. "Progeniem Vitiosiorem!", he cursed, in the secret language
+Alongside his anger, there was fear in him too. "Progeniem Vitiosiorem!", he cursed, in the secret language
 of the Temple.
+
+He felt very old now.
 
 "Progeniem Vitiosiorem!"
 
