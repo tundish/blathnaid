@@ -114,7 +114,7 @@ Characters
 * Fell
 * Guards
 * Ingomer Billwiggin (Mayor)
-* Anderson Cradely (Blacksmith)
+* Nathan Cradely (Blacksmith)
 
 
 The Hydrogen Plant
