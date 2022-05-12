@@ -18,8 +18,6 @@ classifiers = [
 ]
 
 [build-system]
-requires = ["setuptools", "wheel", "setuptools_scm>=6.2"]
+requires = ["setuptools", "wheel"]
 build-backend = "backend"
 backend-path = ["tools"]
-
-[tool.setuptools_scm]
