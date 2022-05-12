@@ -16,3 +16,10 @@ classifiers = [
   "Development Status :: 4 - Beta",
   "Programming Language :: Python"
 ]
+
+[build-system]
+requires = ["setuptools", "wheel", "setuptools_scm>=6.2"]
+build-backend = "backend"
+backend-path = ["tools"]
+
+[tool.setuptools_scm]
