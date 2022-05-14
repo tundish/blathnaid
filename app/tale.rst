@@ -396,8 +396,8 @@ The mayor also had a system of licenses which meant you had to pay a fee for lig
 Guild of Smiths was simple enough.  They all worked together in an area near the dock, having had to club together to
 get enough money to pay for the privilege of heating their forges.
 
-CH 4 - Kroll
-============
+CH 4 - Krol
+===========
 
 A refuge
 --------
@@ -415,65 +415,85 @@ The cellar
 ----------
 
 Down below in the cellar it was not fully dark. Some light streamed in by gratings which gave sight of the street above.
-Jack saw that the place was lined and vaulted in brick. It was all one room about ten feet high which got lower and darker towards
-the back.
+Jack saw that the place was lined and vaulted in brick. It was all one room about ten feet high which got lower and
+darker towards the back.
+
+A Vacancy
+---------
 
 But he saw that as you went further inside, it got dusty, which made him think no one troubled to go there. And by
 hopping over the floor into the shadows, he found a spot where he was sure he could sleep without being seen, even if
 someone came in for some reason.
 
+Tuns
+----
+
 Now down in the cellar were many barrels all stacked up. But three stood separately on their side, and they were enormous.
 Each with a tap, and a dish below to catch the drips.
 And on the first barrel was painted "This", and on the second "That", and on the last one, "The Other".
+
+Upstairs
+--------
 
 They stood near some steps which quickly ended in a locked door, and nothing Jack could do could open that.
 But he went to work on the main cellar hatch, and contrived with his knife to make sure that the bolt would allow him in and
 out, notwithstanding any padlock above.
 
+Get some kip
+------------
+
 Then, weary from all that had transpired, he rolled himself up in his blanket for the night, hidden in the shadows.
+
+Awoken
+------
+
+Jack awoke on the stroke of midnight. He first thought he'd been roused by a clock bell, but he immediately felt very
+much as though he was not alone in the cellar.
 
 Krol
 ----
 
-Jack awoke on the stroke of midnight. He first thought he'd been roused by a clock bell, but he immediately felt very much as
-though he was not alone in the cellar.
+And sure enough, squatting in a pool of moonlight in front of him was a strange little figure. He looked like an old
+man, skinny, and only about three feet high. He wore no clothes and had no hair, except for a few wisps on his chin. He
+sat with legs half-crossed, as a prisoner might in a cell with no furniture.
 
-And sure enough, squatting in a pool of moonlight in front of him was a strange little figure. He looked like an old man,
-skinny, and only about three feet high. He wore no clothes and had no hair, except for a few wisps on his chin. He sat
-with legs half-crossed, as a prisoner might in a cell with no furniture.
+The name of this creature is Krol.
 
-The name of this creature is Krol. I am not the world expert on Krol.
-What I have heard about him would fill a book, although not all of that can have been the truth.
+The legend
+----------
 
-I do know he'd been an important figure in antiquity. And he did again walk as a man in our modern age,
-and performed many brave deeds here.
+I am not the world expert on Krol.  What I have heard about him would fill a book,
+although not all of that can have been the truth.
 
-But at the time of this story he was held back in the Netherworld. For reasons I don't understand,
-his spirit was bound to the City, and the best he could manage was to manifest in the cellar
-of that tavern, when the moon was full enough to shine through the bars of the windows.
+I do know he'd been an important figure in antiquity. And he did again walk as a man in our modern age, and performed
+many brave deeds here.
 
-T 1
----
+But at the time of this story he was held back in the Netherworld. For reasons I don't understand, his spirit was bound
+to the City, and the best he could manage was to manifest in the cellar of that tavern, when the moon was full enough to
+shine through the bars of the windows.
+
+Try This
+--------
 
 So Krol said, "I am cursed to be here while there is light from the moon. And I may eat only what is offered to me".
-Jack thought about this for a moment and went over to one of the big barrels, which was called 'This'.
-He opened up the tap a little, so it half-filled the tundish below.
-And he passed it to the little Imp, who grinned and straight away started drinking it down.
+Jack thought about this for a moment and went over to one of the big barrels, which was called 'This'.  He opened up the
+tap a little, so it half-filled the tundish below.  And he passed it to the little Imp, who grinned and straight away
+started drinking it down.
 
-S 1
----
+Simplicity
+----------
 
 Then Krol caught sight of Jack's trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
 "Do you know what this one is?", he asked.
 
 Jack didn't have a clue what he was talking about.
 
-"This spoke stands for Sensitivity", said Krol. He continued, sounding slightly tipsy.
-"Sensitivity. Try to train that. It can be cultivated, can sensitivity ."
+"This spoke stands for Simplicity", said Krol. He continued, sounding slightly tipsy.
+"Simplicity. Try to train that. It can be cultivated, can simplicity."
 Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
 
-Refuge
-------
+The Smiths
+----------
 
 Jack awoke next morning to find he was alone again. He gathered his things and stole out from the cellar into the street.
 He went over to the place by the dock where the Smiths worked.
@@ -482,6 +502,8 @@ He tried to think of a way to befriend them, and so he gathered up some scraps o
 Jack went politely up to one of them and asked if he might heat up his little kettle on their embers.
 The Smiths all needed cheering up, so they welcomed him to share a brew from his trivet.
 
+CH 5 - Fell
+===========
 
 The Friend
 ----------
@@ -552,14 +574,14 @@ At midnight in the cellar, up popped Krol. Jack was pleased to see him, and went
 'That'. Jack opened the tap until the tundish was half to the brim and he passed it into the beam of moonlight which held
 the ghostly shape.
 
-S 2
----
+Sensitivity
+-----------
 
 Krol needed no second invitation, and drank the beer gratefully. Then he set the dish down again, and went back to
 the trivet, which was there on the floor. And he indicated one of the spokes and said, "Do you know what this one is?",
-and of course Jack did not. "This one stands for Simplicity", said Krol.
+and of course Jack did not. "This one stands for Sensitivity", said Krol.
 He paused for a moment, trying not to stumble over his words.
-"Simplicity. Try to train that. It can be cultivated, can simplicity."
+"Sensitivity. Try to train that. It can be cultivated, can sensitivity."
 
 And before Jack could get him to explain any more, Krol had curled up and was off to sleep.
 
