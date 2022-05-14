@@ -509,32 +509,44 @@ The Friend
 ----------
 
 One of them, a man named Fell, took an interest in the trivet. He fancied he knew who might have made it. So he asked
-Jack if he might take a closer look. But Jack was reluctant; all the time in the City he feared being robbed or tricked somehow.
+Jack if he might take a closer look. But Jack was reluctant; all the time in the City he feared being robbed or tricked
+somehow.
 
-So Fell said, "My guess is there is a motto around the edge of that gadget you have. Do you know what it is?"
-Jack did not, but he held up the trivet in both hands for the Smith to see. "Ah", says the Smith, "I recognize that one word. It is 'Courage'".
-He would have liked to study the rest of the lettering, but Jack dared not risk any loss, and he hid the trivet again in his bundle.
+Courage
+-------
 
-Fell
-----
+So Fell said, "My guess is there is a motto around the edge of that gadget you have. Do you know what it is?" Jack did
+not, but he held up the trivet in both hands for the Smith to see. "Ah", says the Smith, "I recognize that one word. It
+is 'Courage'".  He would have liked to study the rest of the lettering, but Jack dared not risk any loss, and he hid the
+trivet again in his bundle.
+
+In the old days
+---------------
 
 Jack asked who was the Master of the Guild, but Fell shook his head.
 He began to tell him of the old days, when Smiths had such skill it would be thought magical today.
 And how Ingomer, brother-in-law to the General of the Guards, on becoming Mayor, had brought in new rules.
+
+Locksmiths
+----------
 
 First he'd created a licence for making locks, which the Smiths had to purchase from him at great cost.
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom then he granted
 permission instead.
 
 "But", said Fell, "the Locksmiths have no idea about tolerances."
-"They make sure there is not one key in the City that will match another.
-And yet the tumblers of those padlocks jam up if you drop them".
+
+"They make sure there is not one key in the City that will match another.  And yet the tumblers of those padlocks jam up
+if you drop them".
+
+First wish gone
+---------------
 
 And that was all that Fell would say, and he turned back to his work. So Jack wandered around for a while
 and went back to the cellar to sleep.
 
-Standing
---------
+Hiding
+------
 
 During the night, the inner door of the cellar would frequently open and someone from the tavern above would come down
 to fetch a cask back upstairs. Jack never saw who it was because he took care always to be far back in the shadows.
@@ -542,37 +554,44 @@ to fetch a cask back upstairs. Jack never saw who it was because he took care al
 He had also to remember not to leave tracks in the dust or to tear down any cobwebs lest he be discovered. So when he
 was not rolled up in his blanket he was standing motionless, sometimes for hours.
 
+Standing
+--------
+
 Now this can be a very good thing to do, although not many people know the secret. For the first few minutes, you can't
 stop your mind from wandering, but then slowly you start to breathe with your belly, and your shoulders open up, and
 your hips find their shape again. Everything sinks through your legs into the ground, and then all things become
 possible.
 
-F 2
----
+Compassion
+----------
 
-As soon as Jack awoke, he would be out again to learn more from the Smiths.
-Fell remained interested in the trivet, and Jack allowed him to inspect the strange markings on the edge.
-They had been worn down by use, but after a little time cleaning, Fell started to understand another word.
-"This one says 'Compassion'", he said.
+As soon as Jack awoke, he would be out again to learn more from the Smiths.  Fell remained interested in the trivet, and
+Jack allowed him to inspect the strange markings on the edge. They had been worn down by use, but after a little time
+cleaning, Fell started to understand another word. "This one says 'Compassion'", he said.
 
-Then Fell resumed his account of Mayor Ingomer.
-How, after some strange accident which no one could explain, Ingomer set up an inspectorate
-for pressure vessels, whose punishing fees nearly put the Smiths entirely out of business.
-Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on
-the burden of both manufacture and assurance of all such things in the City.
+Boilermakers
+------------
 
-But the Boilermakers it seemed did not understand metallurgy.
-They were diligent in the prooving of their seams, yet they had no care at all that the flux was contaminating the Gin.
+Then Fell resumed his account of Mayor Ingomer.  How, after some strange accident which no one could explain, Ingomer
+set up an inspectorate for pressure vessels, whose punishing fees nearly put the Smiths entirely out of business.
+Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on the burden of both
+manufacture and assurance of all such things in the City.
+
+But the Boilermakers it seemed did not understand metallurgy.  They were diligent in the prooving of their seams, yet
+they had no care at all that the flux was contaminating the Gin.
+
+Second wish gone
+----------------
 
 And that was all that Fell would say, and he went back to his work. So Jack dangled his legs over the dock for a bit,
 then went back to the cellar to sleep.
 
-T 2
----
+Try That
+--------
 
-At midnight in the cellar, up popped Krol. Jack was pleased to see him, and went over to the second barrel, upon which was painted
-'That'. Jack opened the tap until the tundish was half to the brim and he passed it into the beam of moonlight which held
-the ghostly shape.
+At midnight in the cellar, up popped Krol. Jack was pleased to see him, and went over to the second barrel, upon which
+was painted 'That'. Jack opened the tap until the tundish was half to the brim and he passed it into the beam of
+moonlight which held the ghostly shape.
 
 Sensitivity
 -----------
@@ -585,17 +604,23 @@ He paused for a moment, trying not to stumble over his words.
 
 And before Jack could get him to explain any more, Krol had curled up and was off to sleep.
 
+Longevity
+---------
+
 But Jack could not sleep. He felt very alone, in a very strange world. So he stood there in his little spot in the dark.
 And he calmed his breathing, until it moved down from his chest into his belly. Breathing slower, and softer.
 Until nearly half a minute to breathe in, and nearly half a minute to breathe out.
 
-F 3
----
+Cognition
+---------
 
 The next morning Jack felt he urgently needed to find the Master of Smiths, so he was out again early to see his friend Fell.
 
 He in his turn had been eager to check the trivet and its third set of markings. After applying
 some paste, and rubbing with a cloth, he could make out its meaning. "This one reads 'Cognition'", he declared.
+
+Cutlers
+-------
 
 Then Fell took up his story of Ingomer.
 Recently he'd forbidden the Smiths from forging blades or any edged tools, and arranged for his own
@@ -605,6 +630,9 @@ Fell had only contempt for the Cutlers. He said they were all blade and no tang.
 Tdey did not understand the process of design.
 So when the Guards got their new glaives, they would take off the head in order that they might beat people with the
 handle, since it was very much safer for all concerned.
+
+Third wish gone
+---------------
 
 And that was all that Fell would say, and he went back to his work. So Jack wandered over to where two groups of youths
 were fighting over a basket of cabbages. When the Guards arrived he headed off to the cellar for the evening.
