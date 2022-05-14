@@ -3,27 +3,34 @@
 :copyright: 2022 D E Haynes
 
 
+CH 1 - Morten
+=============
+
 Once upon a time
-================
-
-.. Bláthnaid is a name from the Gaeilge tradition. In England we would say 'Blawnid'.
-
-Jack and Morten
----------------
+----------------
 
 Once upon a time, not far from here, there was a young Farm Boy, called Jack.
 
-His parents were elderly and sick. He had no brothers or sisters nor cousins nor aunts or uncles.
+Jack
+----
+
+Jack's parents were elderly and sick. He had no brothers or sisters nor cousins nor aunts or uncles.
 
 And the land they lived on was very poor.
 
 This boy Jack had a plough horse, and every day he would take Morten (that was his name)
 to try to work a bit of good, whether it was clearing a ditch, or turning over some dirt, or mending a wall.
 
+Morten
+------
+
 Now Morten was a stout horse and very obedient, but he was past his prime.
 
-Ageing too was the kit that Jack had.
+Likewise the kit that Jack had to work with.
 The bridles were mouldy, and the harrows were rusty, and the buckets came apart in your hand.
+
+Clay
+----
 
 Also the ground, which was a horrible stodge of stone and clay, must have had some curse upon it.
 It bent the plough, it clogged the bridges, it pulled every shoe from poor Morten's spongy old feet.
@@ -36,7 +43,15 @@ And so it was that Jack was a regular visitor to the local Blacksmith.
 And one day, when Morten had shed a shoe, and Jack couldn't see where it had fallen,
 he led his horse onto the narrow track and over to the Forge.
 
+Bláthnaid
+---------
+
 Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was Bláthnaid.
+
+.. Bláthnaid is a name from the Gaeilge tradition. In England we would say 'Blawnid'.
+
+Chaste
+------
 
 We aren't going to hear much about Bláthnaid just now though, because the Blacksmith keeps her hidden
 whenever Jack shows up. He worries that Bláthnaid, who sketches pictures of young men with their horses,
@@ -50,7 +65,7 @@ Open for business
 
 The front part of the forge, where the anvil sat, was open on three sides.
 There stood the Blacksmith, warming against the furnace. He had been watching Jack approach up the path,
-and could tell from Morten's stepping what the matter was about.
+and he could tell from Morten's stepping what the matter was about.
 
 He took the end of rope from Jack's hand and steadied Morten for a moment.
 Then he led the horse to a rail where he tied him up next to a butt of water.
@@ -65,20 +80,23 @@ He wasn't only a skilled Blacksmith, but also a clever Armourer, and a reliable 
 He hated to see people sick, or animals hurt. And so without a word he began to check on Morten; his eyes,
 his teeth, his belly. And then to his hooves, whereupon he groaned quietly on seeing the state of each of them.
 
-The forge
+The Forge
 ---------
 
 Jack knew he had no way to pay the Blacksmith, so he found it difficult to stand and watch him work.
 Instead he wandered into the back of the forge, where he was out of sight for a while.
 
-Up above, the roof was supported by a sturdy iron frame, from which a chain hoist dangled. From the dark
+Rafters
+-------
+
+Twenty feet above, the roof was supported by a sturdy iron frame, from which a chain hoist dangled. From the dark
 corners of the eves, Jack could hear rustling and squeaking.
 
 In the middle of the workshop was the bottom half of a great casting mold.
 And here was all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
 broken hasps and gears and levers. All damp and coated in bat droppings and bloom.
 
-Send me the Bill
+Send me the bill
 ----------------
 
 Finally, when the horse was fully shod, the Blacksmith ducked back into where Jack had been standing.
@@ -101,12 +119,15 @@ Errand
 
 "I do have an errand for you", says the Blacksmith. "There is a message to deliver. It will be some days travelling."
 
-Packing
--------
+Unprepared
+----------
 
 So Jack went home, and hunted around the little cottage for whatever might be useful on a journey.
 He found so little food in the place that he dared not take any, for fear of leaving his parents in
 want while he was away.
+
+Packing
+-------
 
 He picked out a woollen blanket to sleep in, which he laid out before the fire so the damp would drive away.
 He found a leather bottle, which he warmed up and replenished with wax.
@@ -114,6 +135,9 @@ He had some kindling, a blade, a flint, and a can with a lid so he could boil up
 
 Morten would have to forage. And Jack would go hungry. But he was not dismayed.
 He fell asleep before the grate, happy for the first time in months.
+
+CH 2 - A Trivet
+===============
 
 Reporting for Duty
 ------------------
@@ -634,6 +658,9 @@ All the time the weather was turning for the worse, and Jack was starting to suf
 So he began to knock at the doors of cottages and offer to tell tales of the City. And when the people opened
 their doors he would talk with them about Compassion; how human sensitivity is manifest spontaneously and authentically.
 
+
+CH 6 - Bláthnaid
+================
 
 Payback
 -------
