@@ -136,8 +136,8 @@ He had some kindling, a blade, a flint, and a can with a lid so he could boil up
 Morten would have to forage. And Jack would go hungry. But he was not dismayed.
 He fell asleep before the grate, happy for the first time in months.
 
-CH 2 - A Trivet
-===============
+CH 2 - The Trivet
+=================
 
 Reporting for Duty
 ------------------
@@ -145,15 +145,18 @@ Reporting for Duty
 In the morning Jack rose early and bade goodbye to his parents. He went outside to unhitch Morten and strap on
 his gear. On the way to the Forge they stopped by a little stream to fill up the bottle.
 
-The Blacksmith was already waiting for them. He saw straight away how lightly equipped Jack was.
+Lightly equipped
+----------------
 
-The Trivet
-----------
+The Blacksmith was already waiting for them. He saw straight away how lightly equipped Jack was.
 
 So he reached under the bench and pulled out a chunk of iron, round in shape, and about the size of his hand.
 He looked at it thoughtfully for a moment, before taking a rough brush to scrub away the rust.
 
 "You'll need that", said he, handing it to Jack.
+
+The Trivet
+----------
 
 It was a trivet, such as you'd use to balance a kettle above a fire. This one was solidly made, but in a decorative
 design; it had curved spokes like the wheel of some fantastic chariot. Around the circumference were embossed letters,
@@ -165,12 +168,19 @@ A token
 Then the Blacksmith opened a small tin box, taking from it a wrap of waxed paper and a metal tool, like a saddler's punch.
 
 Then he heated a small billet of iron, about the size of a pea pod, which had a hole in one end.
+
+Activated
+---------
+
 Peeling apart the paper, despite his grimy fingers, he carefully removed a small thin sheet of white metal foil.
 With the iron still hot, he deftly dropped the metal foil upon the surface, and placing the punch on top, struck
 it smartly with a hammer.
 
+Issued
+------
+
 After it had cooled, the Blacksmith slipped a leather cord through the hole and placed it around the boy's neck.
-Jack saw that within the metal was now a circular seal of an intricate design, which by some strange
+Jack saw that within the metal there was stamped a circular seal of an intricate design, which by some strange
 chemistry glowed a milky grey.
 
 The Mission
@@ -179,6 +189,9 @@ The Mission
 The Blacksmith led Jack away from the building and on to the open road. "Jack, you are to go to the City", he said.
 "Follow the road East. The charm I have given you will allow you in. But listen; the rise of the New Moon will
 stop it shining. After that it is useless."
+
+The Message
+-----------
 
 "When you get inside, seek out the Master of the Guild of Smiths. The guild sign looks very like this trivet you carry.
 He will know who sends you by the charm around your neck."
@@ -195,41 +208,68 @@ He felt very proud and important to be on an errand to the City.
 As the miles rolled on, and the day grew late, he started to notice a change in the country. The hedges were less
 well kept than before. The ditches were choked and the signposts and milestones overgrown with weed.
 
-In the evening he spied ahead a group of tents and carts. He guessed this would be tinkers, who move about
+In the evening he spied ahead a group of tents and carts.
+
+Tinkers
+-------
+
+He guessed this would be tinkers, who move about
 wherever there is work. When he was younger they had sometimes passed by, and his Mother had brought out the old tin bath
 for them to mend.
 
+The camp
+--------
+
 The encampment was at the side of the road, and several people were tending fires or smoking pipes or feeding donkeys.
+
+Hungry
+------
+
 Jack greeted them every one, and some replied and some did not. They did not seem to be tinkers at all. There were many
 children, and some old folk. And they were not very organised, and they all looked tired, and cold, and hungry.
 
+Brew up
+-------
+
 Of course, Jack had no food, and none was offered to him. So he built a little fire away from the main group, and
 set up the trivet, and boiled some water.
+
+Boon
+----
 
 Now this trivet was very special; only a few Blacksmiths know how to make such a thing.
 Because whatever you brewed upon it, however little tea you had; in fact, no matter if you were only boiling hay,
 that brew would nourish and cheer you throughout, and you would not feel the lack of a meal.
 
+Camping
+-------
+
 So Jack rolled himself up in his blanket, near to the fire, all warm and comfy.
 Morten settled down under a tree, happy to be away from the plough, and very pleased with his new shoes.
 
-Towards the City
-----------------
+Onward
+------
 
 They awoke in the grey of early dawn, and were soon on their way again.
 As they they went on, the road east got broader.
 The Villages they passed through were more frequent. The bigger they got, the more shabby they seemed to be.
 The countryside around was ever more sad and bare, with less and less forage for Morten.
 
+Yet onward
+----------
+
 And so for three more days they travelled. Jack could tell Morten was getting tired, and tried not to ride him, but led
 him for miles at a time by the bridle. He would pat the horse's flank, and worry about how skinny his ribs were becoming.
+
+Optimism
+--------
 
 Jack had ceased to greet other travellers on the road, and preferred very much to camp alone. As he lay looking up
 at the stars, he would take out the locket the Blacksmith had made for him, and marvel at how it glowed in the darkness.
 The New Moon was yet two weeks away. Plenty of time to deliver a message, thought Jack.
 
-The City
---------
+CH 3 - The City
+===============
 
 The last few miles were grim. There was not a tree or bush to be seen now; only a blasted and boggy heath. The road was
 lined on both sides by ragged camps; turves piled up for walls, rooved with the wreckage of tattered wagons.
