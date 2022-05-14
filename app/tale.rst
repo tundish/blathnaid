@@ -687,11 +687,17 @@ Ostracised
 But Ingomer declared that there was to be no more marrying to the advantage of Smiths.
 Instead, any young girls of a Blacksmith family would be sent to work in the Temple.
 
-No one really knew what went on the Temple, but the less they knew, the more they could guess.
-From then on, the Smiths started to leave the City. The ones who could not flee, organised themselves, and there was rioting.
-But Ingomer called an emergency, and the unrest was put down by the Guard.
+Suspicion
+---------
 
-After that there was a hasty election, for which some were very well prepared.
+No one really knew what went on the Temple, but the less they knew, the more they could guess.  From then on, the Smiths
+started to leave the City. The ones who could not flee, organised themselves, and there was rioting.  But Ingomer called
+an emergency, and the unrest was put down by the Guard.
+
+Insurrection
+------------
+
+After that there was a hasty election, for which only some were prepared.
 At the end of it Ingomer had become Master of the Guild of Smiths,
 a position which hitherto had been attained only by the most skilled and respected of craftsmen.
 
@@ -718,10 +724,10 @@ He opened his mouth again. There was no effort to be made. The words came from a
 "Bláthnaid is of age to marry."
 
 The effect this had on Ingomer was a shock to all around him.
-Because he recognised the name. It was one of the peasant names that Blacksmiths gave their daughters.
+He recognised the name. It was one of the peasant names that Blacksmiths gave their daughters.
 
-It was ten years since he'd brought servitude, and worse, to the children
-of his enemies. But they had escaped him, and found ways to prosper, and now saw fit to taunt him.
+It had been ten years since he'd brought servitude, and much worse, to the children
+of his enemies. But they had escaped him, and found ways to prosper, and now saw fit to mock him.
 
 Ingomer shook with rage. "Progeniem Vitiosiorem!", he cursed, in the secret language of the Temple.
 
@@ -738,14 +744,14 @@ Some guards rushed forward to grab Jack, and two of them pushed through the crow
 They carried him as far as the next street corner, threw him down, and beat him.
 
 But Jack wasn't badly hurt, nor did the Guards really try to arrest him.
-They took him for one of Ingomer's spies, no doubt out of favour for having delivered bad news.
+They had taken him for one of Ingomer's spies, for sure out of favour for having delivered bad news.
 
 By the time the Captain of Guard had rung the general alarm, Jack was already on his feet, and he raced
 off by obscure ways to get back to his hiding place.
 
 A couple of the Guard were more alert than the others, and they started to run after him.
-Unfortunately, being on parade they had on the shiniest armour the Cutlers could make, and so they got some
-quite awful lacerations when they tried to give chase.
+Unfortunately, having been deployed on parade they were wearing the shiniest armour the Cutlers could make, and so they
+got some quite awful lacerations when they tried to give chase.
 
 Escape
 ------
@@ -755,10 +761,16 @@ City, and ask Fell to teach him Smithing. Or should he find his way home with no
 make a living? He had delivered the message, after a fashion. He could even recall the reply. Ingomer's
 odd words had somehow lodged themselves in Jack's brain.
 
+Dissolving
+----------
+
 He stood all night. He took in heaven at the crown of his head, and passed it down into the earth.
 Then he drew it up until he was filled again, and with it he watered the dark abyss.
 
 He remained Jack, the boy who had grown up in Jack's body. But now he could find himself wherever he looked.
+
+Time's up
+---------
 
 In the morning, Jack looked down at his locket.
 But the locket shone no longer. And he knew he had to go.
@@ -768,12 +780,14 @@ Evasion
 
 Patrols in the streets, in pairs, and Jack has no permit to pass.
 
-Therefore he creeps behind so close as to slap them on the forehead.
+Therefore he creeps behind so close as to tap them on the forehead.
 His breath steady, his step light, and they do not perceive him.
 He borrows their badge; so must thieves stand aside, daring not to delay him.
 
 Or he takes up dancing; he spins with arms oddly up and aloft, until beggars laugh to throw him their
-pennies. They show him their backs, those guards, in disgust, and he hurries along to the gateway.
+pennies.
+
+They show him their backs, those Guards, in disgust, and he hurries along to the gateway.
 
 The Journey home
 ----------------
