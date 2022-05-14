@@ -271,29 +271,51 @@ The New Moon was yet two weeks away. Plenty of time to deliver a message, though
 CH 3 - The City
 ===============
 
+Hinterland
+----------
+
 The last few miles were grim. There was not a tree or bush to be seen now; only a blasted and boggy heath. The road was
 lined on both sides by ragged camps; turves piled up for walls, rooved with the wreckage of tattered wagons.
 And everywhere, the sounds and smells of sad and hungry people.
 
-The road was controlled by troops, who barred the way to the City and only opened the barricades at certain times of day.
+Blocked
+-------
+
+Up ahead the road was controlled by troops, who barred the way to the City and only opened the barricades at certain
+times of day.
+
+Challenged
+----------
 
 In his whole life, Jack had never stood in a line for anything, and the longer he waited the less sure of himself he
 became. Finally, at the barrier, whereupon a sourfaced man in a leather tunic demanded to know what was his business,
 Jack could only hold up the locket and say, "I carry a message". That seemed to suffice; the guard lifted his truncheon
 and waved him through.
 
-The walls of the City lay before them, and the road led up to an enormous gate. There was another line here. Scores of carts
-stood by, piled up with all kinds of goods. There were angry voices as traders argued with guards and revenue men. Jack went on
-past. He gathered his few belongings from Morten's back, and hoisted them on his own. Then he aimed for a smaller door next
-to the main entry which seemed to be open to those on foot.
+Traffic
+-------
 
-The smaller gate was flanked by two guards, sternly on duty. They held short, solid bills with evil-looking hooks at the end.
-One of the men stepped forward to take Morten's bridle. The other offered the point of his weapon and advised Jack he should
-explain himself or go back where he came.
+The walls of the City lay before them, and the road led up to an enormous gate. There was another line here. Scores of
+carts stood by, piled up with all kinds of goods. There were angry voices as traders argued with guards and revenue men.
+Jack went on past. He gathered his few belongings from Morten's back, and hoisted them on his own. Then he aimed for a
+smaller door next to the main entry which seemed to be open to those on foot.
+
+The Postern
+-----------
+
+The smaller gate was flanked by two guards, sternly on duty. They held short, solid bills with evil-looking hooks at the
+end.  One of the men stepped forward to take Morten's bridle. The other offered the point of his weapon and advised Jack
+he should explain himself or go back where he came.
+
+Password
+--------
 
 Jack repeated the words that had got him past the previous challenge. This time, the guard studied the locket
 carefully, before finally nodding. Then he asked, in a mocking way, whether the horse carried a message too, and where
 was his token for entry?
+
+Separated
+---------
 
 The first guard tied poor Morten to a gatepost, saying, "if you can't feed him, you shouldn't keep him".
 The second man joked, "sure, he'll eat very well presently!" There was nothing that Jack could do but step through the
@@ -302,11 +324,15 @@ gate while he was able, to the laughter of the guards as he passed.
 Inside
 ------
 
-Inside the wall, Jack found himself on a raised buttress, with stone battlements on either side. Two flights of steps led
-down to the street below. He tripped and tumbled down them, so upset was he at the loss of Morten. In the street,
-several fellows who were gathered there took notice of him and Jack realised he had better recover his wits or else be
-robbed again. He hurried ahead until he got to a spot where he could not be surprised. There he sank to his
-haunches, steadied his breathing, and began to look around.
+Inside the wall, Jack found himself on a raised buttress, with stone battlements on either side. Two flights of steps
+led down to the street below. He tripped and tumbled down them, so upset was he at the loss of Morten.
+
+Ambush
+------
+
+In the street, several fellows who were gathered there took notice of him and Jack realised he had better recover his
+wits or else be robbed again. He hurried ahead until he got to a spot where he could not be surprised. There he sank to
+his haunches, steadied his breathing, and began to look around.
 
 Environment
 -----------
@@ -319,18 +345,25 @@ As for losing his way he had scant chance, since only a few main streets of the 
 where families were established, had set up gates and pickets, protecting their own, and permitting only
 their own to pass through.
 
+So Jack was able to trapse only a quarter of a mile back and forth, and quickly learned his way about the place.
+
 Exploring
 ---------
 
-So Jack was able to trapse only a quarter of a mile back and forth, and quickly learned his way about the place.
 In the streets near the gates of the City were sheds and offices for the receipt of goods; likewise at the dock on the river.
 There were two or three large cobbled squares, with taverns and boarding houses on every side.
+
+Market
+------
 
 Set up there at intervals were wooden market stalls. Many of them were shuttered or empty.
 Long lines of people formed up at those who had any stock.
 
 Everywhere else was boarded up, or blocked off, or tumbled down. Until you came to a gated arch near the Eastern wall.
 Behind that was a high tower, barracks for the Guard, and the mansion of the Mayor.
+
+Queues
+------
 
 Wherever there was food for sale, there were Guards to keep order. The people looked pinched, hungry and resentful.
 They picked each others pockets in the queues, and when they were discovered, they would take to arguing and fighting.
@@ -339,25 +372,32 @@ Then in would jump the Guards, and all run and scatter for fear of a cracked sku
 Twice Jack was stopped and asked to explain who he was. Luckily the locket did the trick. Whatever it stood for, the
 Guards evidently knew it, though Jack himself was none the wiser.
 
-
-Scarcity
---------
+Safety
+------
 
 Jack's first priority was to make contact with the Guild of Smiths, and he started by looking everywhere for their symbol.
 Instead what he found all around him were notices. They were all of a type, and were pasted on buildings, and pinned to
 street posts.
 
 They all bore the image of Mayor Ingomer; a rather heroic woodcut of him which would have been some years old by then.
-Ingomer was reminding everyone to stay safe. Stayng safe meant not lighting fires. Staying safe meant handing in long knives.
+Ingomer was reminding everyone to stay safe. Staying safe meant not lighting fires. Staying safe meant handing in long knives.
 Stayng safe meant not leaving home to look for food.
+
+Scarcity
+--------
 
 Ingomer controlled the supply of food into the city. It was in his name that the guards stopped the wagons at the gate.
 They diverted the best goods to his favoured merchants, and shook down the hauliers for cash.
 
-The mayor also had a system of licenses which meant you had to pay a fee for lighting a fire.
-So for Jack, finding the Guild of Smiths was simple enough.
-They all worked together in an area near the dock, having had to
-club together to get enough money to pay for the privilege of heating their forges.
+Numbers
+-------
+
+The mayor also had a system of licenses which meant you had to pay a fee for lighting a fire.  So for Jack, finding the
+Guild of Smiths was simple enough.  They all worked together in an area near the dock, having had to club together to
+get enough money to pay for the privilege of heating their forges.
+
+CH 4 - Kroll
+============
 
 A refuge
 --------
