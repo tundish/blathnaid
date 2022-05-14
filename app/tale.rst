@@ -637,9 +637,8 @@ Third wish gone
 And that was all that Fell would say, and he went back to his work. So Jack wandered over to where two groups of youths
 were fighting over a basket of cabbages. When the Guards arrived he headed off to the cellar for the evening.
 
-
-T 3
----
+Try the Other
+-------------
 
 And there was Krol again, but looking mopy and unhappy this evening. Straight away he said to Jack, "Tomorrow comes a crescent moon.
 And so all my time is done."
@@ -648,8 +647,8 @@ And Jack looked down at his locket which was beginning to fade, and he knew that
 task in the City. And so he went over to The Other, and poured out a draft into the dish. Krol took it, and nodded his
 thanks before knocking it back.
 
-S 3
----
+Spontaneity
+-----------
 
 Krol reached out for the trivet, and he held it up in the faint pool of moonlight so Jack could see. He laid his
 finger on the third spoke, and said, "This is Spontaneity."
@@ -658,21 +657,32 @@ He raised his finger in the air dramatically, and wagged it at Jack.
 
 There was a clatter as the trivet fell to the floor and rolled back against Jack's foot. Krol had fallen asleep.
 
+Sinking
+-------
+
 Jack was too anxious to sleep. He kept standing there in the dark, letting his shoulders go forward a little,
 until the tension in his neck dropped out, and he heard the bones in his back letting go of each other.
 Then in lumps it fell into his legs, and ran like hot sweat down the inside of his skin.
 
+CH 6 - Ingomer
+==============
 
-F 4
----
+The Master
+----------
 
 First thing next morning, Jack ran over to see Fell, and begged him to reveal who was Master of the Guild.
 So Fell explained.
+
+Advancement
+-----------
 
 In the same way that merchants would introduce their daughters to court, hoping them to marry into
 the nobility; so likewise the artisans would raise their girls to set their sights on a son of a rich merchant.
 The families relied on their seniors to make the connections, and so it had become the tradition to announce
 one's offspring to the head of one's Guild, and they would go and make enquiries as to a suitable match.
+
+Ostracised
+----------
 
 But Ingomer declared that there was to be no more marrying to the advantage of Smiths.
 Instead, any young girls of a Blacksmith family would be sent to work in the Temple.
