@@ -20,8 +20,9 @@
 from balladeer import Drama
 from balladeer import Story
 
+from pathlib import Path
 drama = Drama()
-drama.folder = ["dlg/tale.rst"]
+drama.folder = ["blathnaid/dlg/tale.rst"]
 
 story = Story(context=drama)
 presenter = story.represent()
