@@ -17,4 +17,18 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+from balladeer import Drama
+from balladeer import Story
+
+drama = Drama()
+drama.folder = ["dlg/tale.rst"]
+
+story = Story(context=drama)
+presenter = story.represent()
+
+for frame in presenter.frames:
+    animation = presenter.animate(frame)
+
+    for line, duration in story.render_frame_to_terminal(animation):
+        print(line)
 
