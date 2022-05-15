@@ -789,31 +789,49 @@ pennies.
 
 They show him their backs, those Guards, in disgust, and he hurries along to the gateway.
 
-The Journey home
-----------------
+Escape
+------
 
-Outside the City walls again, Jack threaded his way past the bullying Guards and the chiselling merchants.
-He headed West, now gladly on the road home.
+Outside the City walls again, Jack threaded his way past the bullying Guards and the chiselling merchants.  He headed
+West, now gladly on the road home.
+
+Evacuation
+----------
 
 The first thing he noticed was how crowded the way was; he saw that many more people were trying to get to the City.
 All hungry, all cold, and all seeking shelter. On the far side of the first barricade, more settlements had sprung up,
 filled with people who had not been allowed through.
 
-Many were distressed, especially those with young children.
-And wherever he could he taught them how to find Courage; which comes spontaneously, unbidden, and is simple in its expression.
+With Courage
+------------
+
+Many were distressed, especially those with young children.  And wherever he could he taught them how to find Courage;
+which comes spontaneously, unbidden, and is simple in its expression.
+
+Legging it
+----------
 
 He tramped on for two more days and nights, at a steady pace, trying not to tire himself.
 
+With Cognition
+--------------
+
 Some people, when they saw that Jack was going the other way, would stop him to ask him what was the news.
-And he would advise them on Cognition; how to figure things out. How to be sensitive to the Universe in all its music
-and how to perceive the simple processes at play.
+And he would advise them on Cognition; how to figure things out. How to be sensitive to the Universe in all
+its music and how to perceive the simple processes at play.
+
+Roughing it
+-----------
 
 All the time the weather was turning for the worse, and Jack was starting to suffer from sleeping in the open.
-So he began to knock at the doors of cottages and offer to tell tales of the City. And when the people opened
-their doors he would talk with them about Compassion; how human sensitivity is manifest spontaneously and authentically.
 
+With Compassion
+---------------
 
-CH 6 - Bláthnaid
+So he began to knock at the doors of cottages and offer to tell tales of the City. And when the people opened their
+doors he would talk with them about Compassion; how human sensitivity is manifest spontaneously and authentically.
+
+CH 7 - Bláthnaid
 ================
 
 Payback
@@ -827,19 +845,32 @@ A fortnight after escaping the City, Jack stood once again at the Forge.
 
 "And what did he say?"
 
+The long version
+----------------
+
 Jack had on his mind to explain the full story, but as soon as he opened his mouth to do so, the words
 of Ingomer announced themselves unbidden.
 
+The short version
+-----------------
+
 "Progeniem Vitiosiorem!"
 
-All at once there was a shift in the structure of the Smithy. The bats, who had been listening, began to stir.
-From the space in the roof they swarmed out in their hundreds. With a flurry of fur and leather they ascended in a column like the smoke of a
-wet chimney.
+Curse
+-----
 
-As they beat their wings, they raised an evil cloud of dust and metal.
+Right away there was a response from inside the Smithy. The bats, who had been listening, began to stir.
+From the space in the roof they swarmed out in their thousands.
+With a flurry of fur and leather they ascended in a column like the smoke of a wet chimney.
+
+Karma
+-----
+
+The bats beat their wings, and they raised an evil cloud of dust and metal.
 This haze rose up until the sun itself burned white and fierce like a gas mantle.
 
 Then all together they turned and headed East.
 
 The Blacksmith turned his eyes to follow them.
+
 "They carry a message", he said.
