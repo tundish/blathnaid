@@ -2,6 +2,7 @@
 :author:    D E Haynes
 :copyright: 2022 D E Haynes
 
+.. [NARRATOR]   May be an audio voice-over or a video clip.
 
 CH 1 - Morten
 =============
@@ -848,8 +849,10 @@ A fortnight after escaping the City, Jack stood once again at the Forge.
 The long version
 ----------------
 
-Jack had on his mind to explain the full story, but as soon as he opened his mouth to do so, the words
-of Ingomer announced themselves unbidden.
+[NARRATOR]_
+
+    Jack had on his mind to explain the full story, but as soon as he opened his mouth to do so,
+    the words of Ingomer announced themselves unbidden.
 
 The short version
 -----------------
@@ -859,9 +862,11 @@ The short version
 Curse
 -----
 
-Right away there was a response from inside the Smithy. The bats, who had been listening, began to stir.
-From the space in the roof they swarmed out in their thousands.
-With a flurry of fur and leather they ascended in a column like the smoke of a wet chimney.
+[NARRATOR]_
+
+    Right away there was a response from inside the Smithy. The bats, who had been listening, began to stir.
+    From the space in the roof they swarmed out in their thousands.
+    With a flurry of fur and leather they ascended in a column like the smoke of a wet chimney.
 
 Karma
 -----
