@@ -54,12 +54,14 @@ Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name
 Chaste
 ------
 
-We aren't going to hear much about Bláthnaid just now though, because the Blacksmith keeps her hidden
-whenever Jack shows up. He worries that Bláthnaid, who sketches pictures of young men with their horses,
-might be thinking of Jack more often than is good for her.
+[NARRATOR]_
 
-He has hopes she will marry into money, and doesn't want her going off with
-some young villain who can't pay his bills.
+    We aren't going to hear much about Bláthnaid just now though, because the Blacksmith keeps her hidden
+    whenever Jack shows up. He worries that Bláthnaid, who sketches pictures of young men with their horses,
+    might be thinking of Jack more often than is good for her.
+
+    He has hopes she will marry into money, and doesn't want her going off with
+    some young villain who can't pay his bills.
 
 Open for business
 -----------------
@@ -74,12 +76,14 @@ Then he led the horse to a rail where he tied him up next to a butt of water.
 Shoes
 -----
 
-I should tell you a little more about the Blacksmith, but I don't want to hold up the rest of the story.
-I'll just say that he was a very wise man. He spoke easily with people, and he listened carefully to animals.
-He wasn't only a skilled Blacksmith, but also a clever Armourer, and a reliable Farrier.
+[NARRATOR]_
 
-He hated to see people sick, or animals hurt. And so without a word he began to check on Morten; his eyes,
-his teeth, his belly. And then to his hooves, whereupon he groaned quietly on seeing the state of each of them.
+    I should tell you a little more about the Blacksmith, but I don't want to hold up the rest of the story.
+    I'll just say that he was a very wise man. He spoke easily with people, and he listened carefully to animals.
+    He wasn't only a skilled Blacksmith, but also a clever Armourer, and a reliable Farrier.
+
+    He hated to see people sick, or animals hurt. And so without a word he began to check on Morten; his eyes,
+    his teeth, his belly. And then to his hooves, whereupon he groaned quietly on seeing the state of each of them.
 
 The Forge
 ---------
@@ -90,12 +94,14 @@ Instead he wandered into the back of the forge, where he was out of sight for a 
 Rafters
 -------
 
-Twenty feet above, the roof was supported by a sturdy iron frame, from which a chain hoist dangled. From the dark
-corners of the eves, Jack could hear rustling and squeaking.
+[NARRATOR]_
 
-In the middle of the workshop was the bottom half of a great casting mold.
-And here was all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
-broken hasps and gears and levers. All damp and coated in bat droppings and bloom.
+    Twenty feet above, the roof was supported by a sturdy iron frame, from which a chain hoist dangled.
+    From the dark corners of the eves, Jack could hear rustling and squeaking.
+
+    In the middle of the workshop was the bottom half of a great casting mold.
+    And here was all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
+    broken hasps and gears and levers. All damp and coated in bat droppings and bloom.
 
 Send me the bill
 ----------------
