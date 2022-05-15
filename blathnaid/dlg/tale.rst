@@ -317,52 +317,55 @@ times of day.
 Challenged
 ----------
 
-In his whole life, Jack had never stood in a line for anything, and the longer he waited the less sure of himself he
-became. Finally, at the barrier, whereupon a sourfaced man in a leather tunic demanded to know what was his business,
-Jack could only hold up the locket and say, "I carry a message". That seemed to suffice; the guard lifted his truncheon
-and waved him through.
+In his whole life, Jack had never stood in a line for anything, and the longer he waited the less sure of himself
+he became. Finally, at the barrier, whereupon a sourfaced man in a leather tunic demanded to know what was his
+business, Jack could only hold up the locket and say, "I carry a message". That seemed to suffice; the guard lifted
+his truncheon and waved him through.
 
 Traffic
 -------
 
-The walls of the City lay before them, and the road led up to an enormous gate. There was another line here. Scores of
-carts stood by, piled up with all kinds of goods. There were angry voices as traders argued with guards and revenue men.
-Jack went on past. He gathered his few belongings from Morten's back, and hoisted them on his own. Then he aimed for a
-smaller door next to the main entry which seemed to be open to those on foot.
+The walls of the City lay before them, and the road led up to an enormous gate. There was another line here.
+Scores of carts stood by, piled up with all kinds of goods. There were angry voices as traders argued with guards
+and revenue men. Jack went on past. He gathered his few belongings from Morten's back, and hoisted them on his own.
+Then he aimed for a smaller door next to the main entry which seemed to be open to those on foot.
 
 The Postern
 -----------
 
-The smaller gate was flanked by two guards, sternly on duty. They held short, solid bills with evil-looking hooks at the
-end.  One of the men stepped forward to take Morten's bridle. The other offered the point of his weapon and advised Jack
-he should explain himself or go back where he came.
+The smaller gate was flanked by two guards, sternly on duty. They held short, solid bills with evil-looking hooks at
+the end.  One of the men stepped forward to take Morten's bridle. The other offered the point of his weapon and 
+dvised Jack he should explain himself or go back where he came.
 
 Password
 --------
 
 Jack repeated the words that had got him past the previous challenge. This time, the guard studied the locket
-carefully, before finally nodding. Then he asked, in a mocking way, whether the horse carried a message too, and where
-was his token for entry?
+carefully, before finally nodding. Then he asked, in a mocking way, whether the horse carried a message too,
+and where was his token for entry?
 
 Separated
 ---------
 
 The first guard tied poor Morten to a gatepost, saying, "if you can't feed him, you shouldn't keep him".
-The second man joked, "sure, he'll eat very well presently!" There was nothing that Jack could do but step through the
-gate while he was able, to the laughter of the guards as he passed.
+The second man joked, "sure, he'll eat very well presently!" There was nothing that Jack could do but step through
+the gate while he was able, to the laughter of the guards as he passed.
 
 Inside
 ------
 
-Inside the wall, Jack found himself on a raised buttress, with stone battlements on either side. Two flights of steps
-led down to the street below. He tripped and tumbled down them, so upset was he at the loss of Morten.
+Inside the wall, Jack found himself on a raised buttress, with stone battlements on either side.
+Two flights of steps led down to the street below. He tripped and tumbled down them, so upset was he at the loss of 
+Morten.
 
 Ambush
 ------
 
-In the street, several fellows who were gathered there took notice of him and Jack realised he had better recover his
-wits or else be robbed again. He hurried ahead until he got to a spot where he could not be surprised. There he sank to
-his haunches, steadied his breathing, and began to look around.
+[NARRATOR]_
+
+    In the street, several fellows who were gathered there took notice of him and Jack realised he had better
+    recover his wits or else be robbed again. He hurried ahead until he got to a spot where he could not be
+    surprised. There he sank to his haunches, steadied his breathing, and began to look around.
 
 Environment
 -----------
