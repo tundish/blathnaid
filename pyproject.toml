@@ -1,0 +1,28 @@
+# For possible options see https://peps.python.org/pep-0621/
+ 
+# This project includes a custom builder which accepts configuration options, eg:
+# python -m build -C all -C bar=baz -C--foo=fab
+
+[project]
+name = "blathnaid"
+version = "0.2.0"
+description = "A Web-native interactive Folk tale."
+readme = "README.rst"
+requires-python = ">=3.8"
+license = {file = "LICENSE"}
+keywords = ["IF"]
+authors = [
+  {name="Tundish", email = "tundish@gigeconomy.org.uk"}
+]
+maintainers = [
+  {name="Tundish", email = "tundish@gigeconomy.org.uk"}
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "backend"
+backend-path = ["tools"]
