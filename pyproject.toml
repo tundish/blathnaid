@@ -12,14 +12,17 @@ requires-python = ">=3.8"
 license = {file = "LICENSE"}
 keywords = ["IF"]
 authors = [
-  {name="Tundish", email = "tundish@gigeconomy.org.uk"}
+    {namei = "Tundish", email = "tundish@gigeconomy.org.uk"}
 ]
 maintainers = [
-  {name="Tundish", email = "tundish@gigeconomy.org.uk"}
+    {name = "Tundish", email = "tundish@gigeconomy.org.uk"}
 ]
 classifiers = [
-  "Development Status :: 4 - Beta",
-  "Programming Language :: Python"
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python"
+]
+dependencies = [
+    "balladeer>=0.26.0"
 ]
 
 [build-system]

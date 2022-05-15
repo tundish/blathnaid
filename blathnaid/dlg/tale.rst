@@ -753,8 +753,8 @@ A couple of the Guard were more alert than the others, and they started to run a
 Unfortunately, having been deployed on parade they were wearing the shiniest armour the Cutlers could make, and so they
 got some quite awful lacerations when they tried to give chase.
 
-Escape
-------
+Options
+-------
 
 That night, back in the cellar, Jack had no idea what to do next. He wondered if he should stay in the
 City, and ask Fell to teach him Smithing. Or should he find his way home with no horse and no way to
