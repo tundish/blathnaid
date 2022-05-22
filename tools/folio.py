@@ -17,6 +17,13 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+"""
+TODO: Generate orders as per turberfield-dialogue:main.
+
+.. _WeasyPrint: http://weasyprint.org/
+
+"""
+
 import argparse
 import logging
 from pathlib import Path
