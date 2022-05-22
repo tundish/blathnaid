@@ -18,15 +18,18 @@
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 import argparse
+import logging
+from pathlib import Path
 import sys
 
 from balladeer import Drama
 from balladeer import Story
-
-from pathlib import Path
+from turberfield.dialogue.cli import add_common_options
+from turberfield.utils.misc import log_setup
 
 
 def main(args):
+    log = logging.getLogger(log_setup(args))
     drama = Drama()
     drama.folder = ["blathnaid/dlg/tale.rst"]
 
@@ -37,13 +40,16 @@ def main(args):
         animation = presenter.animate(frame)
 
         for line, duration in story.render_frame_to_terminal(animation):
-            print(line)
+            #print(line)
+            pass
 
     return 0
 
 
 def parser():
-    rv = argparse.ArgumentParser()
+    rv = add_common_options(
+        argparse.ArgumentParser()
+    )
     return rv
 
 

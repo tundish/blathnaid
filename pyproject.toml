@@ -22,7 +22,8 @@ classifiers = [
     "Programming Language :: Python"
 ]
 dependencies = [
-    "balladeer>=0.26.0"
+    "balladeer>=0.26.0",
+    "turberfield-utils>=0.40.0"  # FIXME: remove after balladeer update.
 ]
 
 [build-system]
