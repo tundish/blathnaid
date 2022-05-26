@@ -32,11 +32,20 @@ import sys
 from balladeer import Drama
 from balladeer import Story
 from turberfield.dialogue.cli import add_common_options
-from turberfield.utils.misc import log_setup
+from turberfield.utils.logger import LogAdapter
+from turberfield.utils.logger import LogManager
 
 
 def main(args):
-    log = logging.getLogger(log_setup(args))
+    log_manager = LogManager()
+    log = log_manager.get_logger("main")
+
+    if args.log_path:
+        log_manager.set_route(log, args.log_level, LogAdapter(), sys.stderr)
+        log_manager.set_route(log, log.Level.NOTSET, LogAdapter(), args.log_path)
+    else:
+        log_manager.set_route(log, args.log_level, LogAdapter(), sys.stderr)
+
     drama = Drama()
     drama.folder = ["blathnaid/dlg/tale.rst"]
 
