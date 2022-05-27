@@ -55,14 +55,18 @@ class ColourAdapter(LogAdapter):
                 (c for r, c in self.patterns if r.search(word)),
                 (200, 200, 200)
             )
-            return f"\033[38;2;{r};{g};{b}m{word}\033[0m"
+            if platform.system().lower() == "windows":
+                return f"\033[38;2;{r};{g};{b}m{word}\033[0m"
+            else:
+                return f"\033[38;2;{r};{g};{b}m{word}\033[0m"
+        elif "line" in field:
+                return f"\033[1m{word}\033[0m"
+        elif "{0}" in field:
+                return f"\033[3m{word}\033[0m"
         else:
             return word
 
     def render(self, entry):
-        if platform.system().lower() == "windows":
-            return super().render(entry)
-
         frame = entry.origin.frame
         return " ".join(
             self.colour_field(n, f, w)
@@ -94,6 +98,7 @@ def main(args):
             #print(line)
             pass
 
+    print(log_manager.get_logger("turberfield.dialogue.model").frame)
     return 0
 
 
