@@ -25,8 +25,11 @@ TODO: Generate orders as per turberfield-dialogue:main.
 """
 
 import argparse
+import itertools
 import logging
 from pathlib import Path
+import platform
+import re
 import sys
 
 from balladeer import Drama
@@ -36,15 +39,47 @@ from turberfield.utils.logger import LogAdapter
 from turberfield.utils.logger import LogManager
 
 
+class ColourAdapter(LogAdapter):
+
+    patterns = [
+        (re.compile("NOTE"), (234, 0, 255)),
+        (re.compile("INFO"), (0, 255, 255)),
+        (re.compile("ERROR"), (234, 255, 0)),
+        (re.compile("WARNING"), (255, 106, 0)),
+        (re.compile("CRITICAL"), (255, 0, 106)),
+    ]
+
+    def colour_field(self, n, field, word):
+        if "level" in field:
+            r, g, b = next(
+                (c for r, c in self.patterns if r.search(word)),
+                (200, 200, 200)
+            )
+            return f"\033[38;2;{r};{g};{b}m{word}\033[0m"
+        else:
+            return word
+
+    def render(self, entry):
+        if platform.system().lower() == "windows":
+            return super().render(entry)
+
+        frame = entry.origin.frame
+        return " ".join(
+            self.colour_field(n, f, w)
+            for n, f, w in zip(itertools.count(len(frame)), frame, entry.tokens)
+            if f not in ("{now}", "{logger.name}")
+        )
+
+
 def main(args):
     log_manager = LogManager()
     log = log_manager.get_logger("main")
 
     if args.log_path:
-        log_manager.set_route(log, args.log_level, LogAdapter(), sys.stderr)
+        log_manager.set_route(log, args.log_level, ColourAdapter(), sys.stderr)
         log_manager.set_route(log, log.Level.NOTSET, LogAdapter(), args.log_path)
     else:
-        log_manager.set_route(log, args.log_level, LogAdapter(), sys.stderr)
+        log_manager.set_route(log, args.log_level, ColourAdapter(), sys.stderr)
 
     drama = Drama()
     drama.folder = ["blathnaid/dlg/tale.rst"]
