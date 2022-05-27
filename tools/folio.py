@@ -28,6 +28,7 @@ import argparse
 import itertools
 import logging
 from pathlib import Path
+import os
 import platform
 import re
 import sys
@@ -55,18 +56,18 @@ class ColourAdapter(LogAdapter):
                 (c for r, c in self.patterns if r.search(word)),
                 (200, 200, 200)
             )
-            if platform.system().lower() == "windows":
-                return f"\033[38;2;{r};{g};{b}m{word}\033[0m"
-            else:
-                return f"\033[38;2;{r};{g};{b}m{word}\033[0m"
+            return f"\033[38;2;{r};{g};{b}m{word}\033[0m"
         elif "line" in field:
-                return f"\033[1m{word}\033[0m"
+            return f"\033[1m{word}\033[0m"
         elif "{0}" in field:
-                return f"\033[3m{word}\033[0m"
+            return f"\033[3m{word}\033[0m"
         else:
             return word
 
     def render(self, entry):
+        if platform.system().lower() == "windows":
+            os.system("color")
+
         frame = entry.origin.frame
         return " ".join(
             self.colour_field(n, f, w)
@@ -98,7 +99,6 @@ def main(args):
             #print(line)
             pass
 
-    print(log_manager.get_logger("turberfield.dialogue.model").frame)
     return 0
 
 
