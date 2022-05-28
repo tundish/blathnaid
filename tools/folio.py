@@ -25,12 +25,15 @@ TODO: Generate orders as per turberfield-dialogue:main.
 """
 
 import argparse
+import pathlib
 import sys
 
 from balladeer import Drama
 from balladeer import Story
 from turberfield.dialogue.adapters import ColourAdapter
 from turberfield.dialogue.cli import add_common_options
+from turberfield.dialogue.cli import add_performance_options
+from turberfield.dialogue.main import HTMLHandler
 from turberfield.utils.logger import LogAdapter
 from turberfield.utils.logger import LogManager
 
@@ -48,6 +51,7 @@ def main(args):
     drama = Drama()
     drama.folder = ["blathnaid/dlg/tale.rst"]
 
+    handler = HTMLHandler(dwell=args.dwell, pause=args.pause)
     story = Story(context=drama)
     presenter = story.represent()
 
@@ -62,8 +66,14 @@ def main(args):
 
 
 def parser():
-    rv = add_common_options(
-        argparse.ArgumentParser()
+    rv = add_performance_options(
+        add_common_options(
+            argparse.ArgumentParser()
+        )
+    )
+    rv.add_argument(
+        "paths", nargs="+", type=pathlib.Path,
+        help="Supply one or more paths to dialogue files."
     )
     return rv
 
