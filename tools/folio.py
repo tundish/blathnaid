@@ -37,24 +37,130 @@ from turberfield.dialogue.main import HTMLHandler
 from turberfield.utils.logger import LogAdapter
 from turberfield.utils.logger import LogManager
 
+import textwrap
+
 class Folio(Story):
 
-    def __init__(self, **kwargs):
-        super().__init__(**kwargs)
-        #self.handler = HTMLHandler(dwell=args.dwell, pause=args.pause)
-        """
-        for seq in frame.values():
-            for obj in seq:
-                try:
-                    next(handler(obj))
-                except Exception as e:
-                    raise
-                    log.error(str(e))
-        """
+    style = textwrap.dedent("""
+        @page {
+            size: A4;
+            margin: 15mm 5mm 10mm 20mm;
+            @top-center {
+                content: counter(page) " / " counter(pages);
+                width: 100%;
+                vertical-align: bottom;
+                border-bottom: .5pt solid;
+                margin-bottom: .7cm;
+            }
+        }
+        html {
+            font-family: 'helvetica neue', helvetica, arial, sans-serif;
+        }
+        section {
+            break-before: page;
+        }
+        table {
+          table-layout: fixed;
+          width: 100%;
+          border-collapse: collapse;
+        }
 
-    @staticmethod
-    def render_body_html(title="", **kwargs):
-        return f"{{0}}{{1}}{{2}}"
+        thead th:nth-child(1) {
+          width: 10%;
+        }
+
+        thead th:nth-child(2) {
+          width: 65%;
+        }
+
+        thead th:nth-child(3) {
+          width: 20%;
+        }
+
+        td.cue {
+          border-top: #c5c5c5 dotted 1px;
+        }
+
+        tr td:nth-child(1) {
+          padding: 0.5em;
+          padding-left: 0.1em;
+          text-align: left;
+        }
+
+        tr td:nth-child(2) {
+          padding: 1.5em;
+        }
+
+        tr td:nth-child(3) {
+          font-size: 0.7em;
+          padding: 0 0.5em 0.5em 0.5em;
+          text-align: left;
+          vertical-align: top;
+        }
+
+        table caption {
+          break-after: avoid;
+        }
+
+        td {
+          padding: 1em 0 1em 0;
+          font-family: monospace;
+        }
+
+        dt {
+        clear: left;
+        color: olive;
+        float: left;
+        font-family: "monospace";
+        padding-right: 0.3em;
+        text-align: right;
+        text-transform:capitalize;
+        width: 100px;
+        }
+
+        dt:after {
+        content: ":";
+        }
+
+    """)
+
+    @classmethod
+    def render_animated_frame_to_html(cls, frame, **kwargs):
+        html = super().render_animated_frame_to_html(frame)
+        html =  html.replace("<main", "<section").replace("</main", "</section")
+        return  html.replace("<nav", "<div").replace("</nav", "</div")
+
+    def __init__(self, dwell, pause, **kwargs):
+        super().__init__(**kwargs)
+        self.dwell = dwell
+        self.pause = pause
+        self.sections = []
+
+    def animate_frame(self, presenter, frame, dwell=None, pause=None):
+        dwell = presenter.dwell if dwell is None else dwell
+        pause = presenter.pause if pause is None else pause
+        animation = presenter.animate(frame, dwell=dwell, pause=pause)
+        return self.render_animated_frame_to_html(animation)
+
+    def read(self, presenter=None, reply=None):
+        presenter = self.represent(reply, previous=presenter)
+
+        for frame in presenter.frames:
+            section = self.animate_frame(presenter, frame, self.dwell, self.pause)
+            self.sections.append(section)
+
+        reply = self.context.deliver(cmd="", presenter=presenter)
+        return presenter, reply
+
+    def run(self, n=0):
+        presenter, reply = None, None
+        while True:
+            presenter, reply = self.read(presenter, reply)
+
+            if not n:
+                break
+            else:
+                n -= 1
 
 
 def main(args):
@@ -70,37 +176,41 @@ def main(args):
     drama = Drama()
     drama.folder = args.paths
 
-    story = Folio(context=drama)
+    folio = Folio(args.dwell, args.pause, context=drama)
+    folio.run(args.repeat)
+    log.info(folio.sections)
 
+    return 0
     n = args.repeat
     reply = None
     presenter = None
     while True:
-        presenter = story.represent(reply, previous=presenter)
+        presenter = folio.represent(reply, previous=presenter)
 
         log.info(len(presenter.frames))
         for frame in presenter.frames:
             dwell = presenter.dwell if args.dwell is None else args.dwell
             pause = presenter.pause if args.pause is None else args.pause
             animation = presenter.animate(frame, dwell=dwell, pause=pause)
-            for line, duration in story.render_frame_to_terminal(animation):
-                log.debug(line)
+            #print(story.render_animated_frame_to_html(animation))
 
-        reply = story.context.deliver(cmd="", presenter=presenter)
+        reply = folio.context.deliver(cmd="", presenter=presenter)
 
         if not n:
             break
         else:
             n -= 1
 
-    return 0
-    #print(handler.to_html(metadata=presenter.metadata))
+    style = "\n".join((
+        folio.render_dict_to_css(vars(folio.settings)),
+        folio.style,
+    ))
     print(
-        story.render_body_html(title="Folio").format(
-        story.render_dict_to_css(vars(story.settings)),
+        folio.render_body_html(title="Folio", base_style="").format(
         "",
+        style,
         ""
-        # story.render_animated_frame_to_html(story.animation, controls)
+        # folio.render_animated_frame_to_html(story.animation, controls)
     ))
     return 0
 
