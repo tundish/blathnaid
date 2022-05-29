@@ -56,12 +56,19 @@ def main(args):
     presenter = story.represent()
 
     for frame in presenter.frames:
+        for seq in frame.values():
+            for obj in seq:
+                try:
+                    next(handler(obj))
+                except Exception as e:
+                    raise
+                    log.error(str(e))
+
         animation = presenter.animate(frame)
-
         for line, duration in story.render_frame_to_terminal(animation):
-            #print(line)
-            pass
+            log.debug(line)
 
+    print(handler.to_html(metadata=presenter.metadata))
     return 0
 
 
