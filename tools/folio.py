@@ -71,14 +71,29 @@ def main(args):
     drama.folder = args.paths
 
     story = Folio(context=drama)
-    presenter = story.represent()
 
-    log.info(len(presenter.frames))
-    for frame in presenter.frames:
-        animation = presenter.animate(frame)
-        for line, duration in story.render_frame_to_terminal(animation):
-            log.debug(line)
+    n = args.repeat
+    reply = None
+    presenter = None
+    while True:
+        presenter = story.represent(reply, previous=presenter)
 
+        log.info(len(presenter.frames))
+        for frame in presenter.frames:
+            dwell = presenter.dwell if args.dwell is None else args.dwell
+            pause = presenter.pause if args.pause is None else args.pause
+            animation = presenter.animate(frame, dwell=dwell, pause=pause)
+            for line, duration in story.render_frame_to_terminal(animation):
+                log.debug(line)
+
+        reply = story.context.deliver(cmd="", presenter=presenter)
+
+        if not n:
+            break
+        else:
+            n -= 1
+
+    return 0
     #print(handler.to_html(metadata=presenter.metadata))
     print(
         story.render_body_html(title="Folio").format(
