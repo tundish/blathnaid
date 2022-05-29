@@ -37,25 +37,12 @@ from turberfield.dialogue.main import HTMLHandler
 from turberfield.utils.logger import LogAdapter
 from turberfield.utils.logger import LogManager
 
+class Folio(Story):
 
-def main(args):
-    log_manager = LogManager()
-    log = log_manager.get_logger("main")
-
-    if args.log_path:
-        log_manager.set_route(log, args.log_level, ColourAdapter(), sys.stderr)
-        log_manager.set_route(log, log.Level.NOTSET, LogAdapter(), args.log_path)
-    else:
-        log_manager.set_route(log, args.log_level, ColourAdapter(), sys.stderr)
-
-    drama = Drama()
-    drama.folder = ["blathnaid/dlg/tale.rst"]
-
-    handler = HTMLHandler(dwell=args.dwell, pause=args.pause)
-    story = Story(context=drama)
-    presenter = story.represent()
-
-    for frame in presenter.frames:
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+        #self.handler = HTMLHandler(dwell=args.dwell, pause=args.pause)
+        """
         for seq in frame.values():
             for obj in seq:
                 try:
@@ -63,12 +50,43 @@ def main(args):
                 except Exception as e:
                     raise
                     log.error(str(e))
+        """
 
+    @staticmethod
+    def render_body_html(title="", **kwargs):
+        return f"{{0}}{{1}}{{2}}"
+
+
+def main(args):
+    log_manager = LogManager()
+    log = log_manager.get_logger("main")
+
+    if args.log_path:
+        log(args.log_level, ColourAdapter(), sys.stderr)
+        log.set_route(log.Level.NOTSET, LogAdapter(), args.log_path)
+    else:
+        log.set_route(args.log_level, ColourAdapter(), sys.stderr)
+
+    drama = Drama()
+    drama.folder = args.paths
+
+    story = Folio(context=drama)
+    presenter = story.represent()
+
+    log.info(len(presenter.frames))
+    for frame in presenter.frames:
         animation = presenter.animate(frame)
         for line, duration in story.render_frame_to_terminal(animation):
             log.debug(line)
 
-    print(handler.to_html(metadata=presenter.metadata))
+    #print(handler.to_html(metadata=presenter.metadata))
+    print(
+        story.render_body_html(title="Folio").format(
+        story.render_dict_to_css(vars(story.settings)),
+        "",
+        ""
+        # story.render_animated_frame_to_html(story.animation, controls)
+    ))
     return 0
 
 
