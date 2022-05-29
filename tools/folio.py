@@ -41,7 +41,7 @@ import textwrap
 
 class Folio(Story):
 
-    style = textwrap.dedent("""
+    static_style = textwrap.dedent("""
         @page {
             size: A4;
             margin: 15mm 5mm 10mm 20mm;
@@ -162,6 +162,17 @@ class Folio(Story):
             else:
                 n -= 1
 
+    @property
+    def html(self, title="Folio"):
+        style = "\n".join((
+            self.render_dict_to_css(vars(self.settings)),
+            self.static_style,
+        ))
+        return self.render_body_html(title=title, base_style="").format(
+            "",
+            style,
+            "\n".join(self.sections)
+        )
 
 def main(args):
     log_manager = LogManager()
@@ -178,40 +189,9 @@ def main(args):
 
     folio = Folio(args.dwell, args.pause, context=drama)
     folio.run(args.repeat)
-    log.info(folio.sections)
 
-    return 0
-    n = args.repeat
-    reply = None
-    presenter = None
-    while True:
-        presenter = folio.represent(reply, previous=presenter)
+    print(folio.html)
 
-        log.info(len(presenter.frames))
-        for frame in presenter.frames:
-            dwell = presenter.dwell if args.dwell is None else args.dwell
-            pause = presenter.pause if args.pause is None else args.pause
-            animation = presenter.animate(frame, dwell=dwell, pause=pause)
-            #print(story.render_animated_frame_to_html(animation))
-
-        reply = folio.context.deliver(cmd="", presenter=presenter)
-
-        if not n:
-            break
-        else:
-            n -= 1
-
-    style = "\n".join((
-        folio.render_dict_to_css(vars(folio.settings)),
-        folio.style,
-    ))
-    print(
-        folio.render_body_html(title="Folio", base_style="").format(
-        "",
-        style,
-        ""
-        # folio.render_animated_frame_to_html(story.animation, controls)
-    ))
     return 0
 
 
