@@ -34,6 +34,7 @@ from turberfield.dialogue.adapters import ColourAdapter
 from turberfield.dialogue.cli import add_common_options
 from turberfield.dialogue.cli import add_performance_options
 from turberfield.dialogue.main import HTMLHandler
+from turberfield.dialogue.model import Model
 from turberfield.utils.logger import LogAdapter
 from turberfield.utils.logger import LogManager
 
@@ -135,6 +136,29 @@ class Folio(Story):
         self.dwell = dwell
         self.pause = pause
         self.sections = []
+
+    def render_animated_frame_to_html(self, frame, controls=[], **kwargs):
+        dialogue = "\n".join(self.animated_line_to_html(i, **kwargs) for i in frame[Model.Line])
+        stills = "\n".join(self.animated_still_to_html(i, **kwargs) for i in frame[Model.Still])
+        audio = "\n".join(self.animated_audio_to_html(i, **kwargs) for i in frame[Model.Audio])
+        video = "\n".join(self.animated_video_to_html(i, **kwargs) for i in frame[Model.Video])
+        last = frame[Model.Line][-1] if frame[Model.Line] else Presenter.Animation(0, 0, None)
+        controls = "\n".join(
+            self.animate_controls(*controls, delay=last.delay + last.duration, dwell=0.3, **kwargs)
+        )
+        return textwrap.dedent(
+            f"""
+            {audio}
+            {video}
+            <aside class="catchphrase-reveal">
+            {stills}
+            </aside>
+            <section class="catchphrase-reveal">
+            <ul>
+            {dialogue}
+            </ul>
+            </section>"""
+        )
 
     def animate_frame(self, presenter, frame, dwell=None, pause=None):
         dwell = presenter.dwell if dwell is None else dwell
