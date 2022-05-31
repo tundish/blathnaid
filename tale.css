@@ -1,0 +1,79 @@
+@page {
+    size: A4;
+    margin: 15mm 5mm 10mm 20mm;
+    @top-center {
+        content: counter(page) " / " counter(pages);
+        width: 100%;
+        vertical-align: bottom;
+        border-bottom: .5pt solid;
+        margin-bottom: .7cm;
+    }
+}
+html {
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+section {
+    break-before: page;
+}
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead th:nth-child(1) {
+  width: 10%;
+}
+
+thead th:nth-child(2) {
+  width: 65%;
+}
+
+thead th:nth-child(3) {
+  width: 20%;
+}
+
+td.cue {
+  border-top: #c5c5c5 dotted 1px;
+}
+
+tr td:nth-child(1) {
+  padding: 0.5em;
+  padding-left: 0.1em;
+  text-align: left;
+}
+
+tr td:nth-child(2) {
+  padding: 1.5em;
+}
+
+tr td:nth-child(3) {
+  font-size: 0.7em;
+  padding: 0 0.5em 0.5em 0.5em;
+  text-align: left;
+  vertical-align: top;
+}
+
+table caption {
+  break-after: avoid;
+}
+
+td {
+  padding: 1em 0 1em 0;
+  font-family: monospace;
+}
+
+dt {
+clear: left;
+color: olive;
+float: left;
+font-family: "monospace";
+padding-right: 0.3em;
+text-align: right;
+text-transform:capitalize;
+width: 100px;
+}
+
+dt:after {
+content: ":";
+}
