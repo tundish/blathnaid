@@ -25,6 +25,7 @@ TODO: Generate orders as per turberfield-dialogue:main.
 """
 
 import argparse
+import mimetypes
 import pathlib
 import sys
 
@@ -39,6 +40,18 @@ from turberfield.utils.logger import LogAdapter
 from turberfield.utils.logger import LogManager
 
 import textwrap
+
+#  Iterate over multiple .rst files
+#  Retain Scene titles as chapter headings
+#  Each shot to become a section
+#  Format images
+#  Prepend sections from .html files
+#  Create metadata links from producer.metadata
+#  Plan for break-before break-inside break-after
+#  Insert CSS
+#  Output is a directory, ?.html + images
+#  Generate the required command for weasyprint
+
 
 class Folio(Story):
 
@@ -198,6 +211,12 @@ class Folio(Story):
             "\n".join(self.sections)
         )
 
+def guess_type(path):
+    if str(path).endswith(".rst"):
+        return ("text/x-rst", None)
+    else:
+        return mimetypes.guess_type(path, strict=False)
+
 def main(args):
     log_manager = LogManager()
     log = log_manager.get_logger("main")
@@ -208,13 +227,19 @@ def main(args):
     else:
         log.set_route(args.log_level, ColourAdapter(), sys.stderr)
 
+    #  Iterate over multiple .rst files
+    #  Retain Scene titles as chapter headings
+    #  Each shot to become a section
     drama = Drama()
     drama.folder = args.paths
+
+    for p in args.paths:
+        print(guess_type(p))
 
     folio = Folio(args.dwell, args.pause, context=drama)
     folio.run(args.repeat)
 
-    print(folio.html)
+    # print(folio.html)
 
     return 0
 

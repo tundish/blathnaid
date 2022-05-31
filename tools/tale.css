@@ -1,5 +1,16 @@
+@page:first {
+}
+
+@page:left {
+}
+
+@page:right {
+}
+
 @page {
-    size: A4;
+    size: 5in 7.75in;
+    widows: 4;
+    orphans: 4;
     margin: 15mm 5mm 10mm 20mm;
     @top-center {
         content: counter(page) " / " counter(pages);
@@ -9,6 +20,7 @@
         margin-bottom: .7cm;
     }
 }
+
 html {
     font-family: 'helvetica neue', helvetica, arial, sans-serif;
 }

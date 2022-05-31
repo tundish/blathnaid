@@ -1,6 +1,7 @@
 :project:   Bláthnaid
 :author:    D E Haynes
 :copyright: 2022 D E Haynes
+:title:     Bláthnaid
 
 .. [NARRATOR]   May be an audio voice-over or a video clip.
 
