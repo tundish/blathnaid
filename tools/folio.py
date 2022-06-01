@@ -138,17 +138,15 @@ class Folio(Story):
 
     """)
 
-    @classmethod
-    def render_animated_frame_to_html(cls, frame, **kwargs):
-        html = super().render_animated_frame_to_html(frame)
-        html =  html.replace("<main", "<section").replace("</main", "</section")
-        return  html.replace("<nav", "<div").replace("</nav", "</div")
-
     def __init__(self, dwell, pause, **kwargs):
         super().__init__(**kwargs)
         self.dwell = dwell
         self.pause = pause
+        self.chapters = []
         self.sections = []
+        self.seconds = 0
+        lm = LogManager()
+        self.log = lm.clone(lm.get_logger("main"), "folio")
 
     def render_animated_frame_to_html(self, frame, controls=[], **kwargs):
         dialogue = "\n".join(self.animated_line_to_html(i, **kwargs) for i in frame[Model.Line])
@@ -156,28 +154,36 @@ class Folio(Story):
         audio = "\n".join(self.animated_audio_to_html(i, **kwargs) for i in frame[Model.Audio])
         video = "\n".join(self.animated_video_to_html(i, **kwargs) for i in frame[Model.Video])
         last = frame[Model.Line][-1] if frame[Model.Line] else Presenter.Animation(0, 0, None)
-        controls = "\n".join(
-            self.animate_controls(*controls, delay=last.delay + last.duration, dwell=0.3, **kwargs)
-        )
-        return textwrap.dedent(
-            f"""
-            {audio}
-            {video}
-            <aside class="catchphrase-reveal">
-            {stills}
-            </aside>
-            <section class="catchphrase-reveal">
-            <ul>
-            {dialogue}
-            </ul>
-            </section>"""
-        )
+        if not self.chapters or self.chapters[-1] != frame["scene"]:
+            if self.chapters:
+                yield "</section>"
+            self.chapters.append(frame["scene"])
+
+            yield '<section class="scene">'
+            yield f"<h1>{frame['scene']}</h1>"
+            yield '<div class="shot">'
+            yield f"<h2>{frame['name']}</h2>"
+            yield f"{audio}"
+            yield f"{video}"
+            yield f"{stills}"
+            yield f"{dialogue}"
+            yield "</div>"
+        else:
+            yield f"<h2>{frame['name']}</h2>"
+            yield f"{audio}"
+            yield f"{video}"
+            yield f"{stills}"
+            yield f"{dialogue}"
+            yield "</div>"
+
+        self.seconds += last.delay + last.duration
+        self.log.info(self.seconds)
 
     def animate_frame(self, presenter, frame, dwell=None, pause=None):
         dwell = presenter.dwell if dwell is None else dwell
         pause = presenter.pause if pause is None else pause
         animation = presenter.animate(frame, dwell=dwell, pause=pause)
-        return self.render_animated_frame_to_html(animation)
+        return "\n".join(self.render_animated_frame_to_html(animation))
 
     def read(self, presenter=None, reply=None):
         presenter = self.represent(reply, previous=presenter)
@@ -191,13 +197,15 @@ class Folio(Story):
 
     def run(self, n=0):
         presenter, reply = None, None
-        while True:
+        while self.context.folder:
             presenter, reply = self.read(presenter, reply)
 
             if not n:
                 break
             else:
                 n -= 1
+        else:
+            self.log.warning("Folder is empty")
 
     @property
     def html(self, title="Folio"):
@@ -229,8 +237,7 @@ class TypeSetter:
 
 
 def main(args):
-    log_manager = LogManager()
-    log = log_manager.get_logger("main")
+    log = LogManager().get_logger("main")
 
     if args.log_path:
         log(args.log_level, ColourAdapter(), sys.stderr)
@@ -238,20 +245,19 @@ def main(args):
     else:
         log.set_route(args.log_level, ColourAdapter(), sys.stderr)
 
+    setter = TypeSetter(args.paths)
+
+    drama = Drama()
     #  Iterate over multiple .rst files
+    drama.folder = setter.rst
+
+    folio = Folio(args.dwell, args.pause, context=drama)
     #  Retain Scene titles as chapter headings
     #  Each shot to become a section
 
-    setter = TypeSetter(args.paths)
-    print(setter.rst)
-
-    drama = Drama()
-    drama.folder = args.paths
-
-    folio = Folio(args.dwell, args.pause, context=drama)
     folio.run(args.repeat)
 
-    # print(folio.html)
+    print(folio.html)
 
     return 0
 
