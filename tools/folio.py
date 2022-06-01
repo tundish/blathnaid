@@ -211,11 +211,22 @@ class Folio(Story):
             "\n".join(self.sections)
         )
 
-def guess_type(path):
-    if str(path).endswith(".rst"):
-        return ("text/x-rst", None)
-    else:
-        return mimetypes.guess_type(path, strict=False)
+class TypeSetter:
+
+    def __init__(self, paths):
+        self.paths = [i for p in paths for i in (p.iterdir() if p.is_dir() else [p])]
+
+    @staticmethod
+    def guess_type(path):
+        if str(path).endswith(".rst"):
+            return ("text/x-rst", None)
+        else:
+            return mimetypes.guess_type(path, strict=False)
+
+    @property
+    def rst(self):
+        return [p for p in self.paths if self.guess_type(p)[0] == "text/x-rst"]
+
 
 def main(args):
     log_manager = LogManager()
@@ -230,11 +241,12 @@ def main(args):
     #  Iterate over multiple .rst files
     #  Retain Scene titles as chapter headings
     #  Each shot to become a section
+
+    setter = TypeSetter(args.paths)
+    print(setter.rst)
+
     drama = Drama()
     drama.folder = args.paths
-
-    for p in args.paths:
-        print(guess_type(p))
 
     folio = Folio(args.dwell, args.pause, context=drama)
     folio.run(args.repeat)
