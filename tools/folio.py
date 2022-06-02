@@ -41,9 +41,7 @@ from turberfield.utils.logger import LogManager
 
 import textwrap
 
-#  Iterate over multiple .rst files
-#  Retain Scene titles as chapter headings
-#  Each shot to become a section
+# TODO
 #  Format images
 #  Prepend sections from .html files
 #  Create metadata links from producer.metadata
@@ -72,53 +70,6 @@ class Folio(Story):
         }
         section {
             break-before: page;
-        }
-        table {
-          table-layout: fixed;
-          width: 100%;
-          border-collapse: collapse;
-        }
-
-        thead th:nth-child(1) {
-          width: 10%;
-        }
-
-        thead th:nth-child(2) {
-          width: 65%;
-        }
-
-        thead th:nth-child(3) {
-          width: 20%;
-        }
-
-        td.cue {
-          border-top: #c5c5c5 dotted 1px;
-        }
-
-        tr td:nth-child(1) {
-          padding: 0.5em;
-          padding-left: 0.1em;
-          text-align: left;
-        }
-
-        tr td:nth-child(2) {
-          padding: 1.5em;
-        }
-
-        tr td:nth-child(3) {
-          font-size: 0.7em;
-          padding: 0 0.5em 0.5em 0.5em;
-          text-align: left;
-          vertical-align: top;
-        }
-
-        table caption {
-          break-after: avoid;
-        }
-
-        td {
-          padding: 1em 0 1em 0;
-          font-family: monospace;
         }
 
         dt {
@@ -151,7 +102,9 @@ class Folio(Story):
     def animated_line_to_html(self, anim, **kwargs):
         name = getattr(anim.element.persona, "name", anim.element.persona)
         name = "{0.firstname} {0.surname}".format(name) if hasattr(name, "firstname") else name
-        yield f'<div style="animation-delay: {anim.delay:.2f}s; animation-duration: {anim.duration:.2f}s">'
+        delay = self.seconds + anim.delay
+        duration = self.seconds + anim.duration
+        yield f'<div class="line" style="animation-delay: {delay:.2f}s; animation-duration: {duration:.2f}s">'
         if name:
             yield "<blockquote>"
             yield f"<header>{name}</header>"
@@ -164,8 +117,6 @@ class Folio(Story):
     def render_animated_frame_to_html(self, frame, controls=[], **kwargs):
         dialogue = "\n".join(i for l in frame[Model.Line] for i in self.animated_line_to_html(l, **kwargs))
         stills = "\n".join(self.animated_still_to_html(i, **kwargs) for i in frame[Model.Still])
-        audio = "\n".join(self.animated_audio_to_html(i, **kwargs) for i in frame[Model.Audio])
-        video = "\n".join(self.animated_video_to_html(i, **kwargs) for i in frame[Model.Video])
         last = frame[Model.Line][-1] if frame[Model.Line] else Presenter.Animation(0, 0, None)
         if not self.chapters or self.chapters[-1] != frame["scene"]:
             if self.chapters:
@@ -176,21 +127,19 @@ class Folio(Story):
             yield f"<h1>{frame['scene']}</h1>"
             yield '<div class="shot">'
             yield f"<h2>{frame['name']}</h2>"
-            for i in (audio, video, stills):
-                if i.strip():
-                    yield i
+            if stills.strip():
+                yield f"{stills}"
             yield f"{dialogue}"
             yield "</div>"
         else:
             yield '<div class="shot">'
             yield f"<h2>{frame['name']}</h2>"
-            for i in (audio, video, stills):
-                if i.strip():
-                    yield i
+            if stills.strip():
+                yield f"{stills}"
             yield f"{dialogue}"
             yield "</div>"
 
-        self.seconds += last.delay + last.duration
+        self.seconds += last.duration
         self.log.info(self.seconds)
 
     def animate_frame(self, presenter, frame, dwell=None, pause=None):
@@ -230,7 +179,7 @@ class Folio(Story):
         return self.render_body_html(title=title, base_style="").format(
             "",
             style,
-            "\n".join(self.sections)
+            "\n".join(self.sections + ["</section>"])
         )
 
 class TypeSetter:
@@ -262,12 +211,9 @@ def main(args):
     setter = TypeSetter(args.paths)
 
     drama = Drama()
-    #  Iterate over multiple .rst files
     drama.folder = setter.rst
 
     folio = Folio(args.dwell, args.pause, context=drama)
-    #  Retain Scene titles as chapter headings
-    #  Each shot to become a section
 
     folio.run(args.repeat)
 
