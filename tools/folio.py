@@ -148,8 +148,21 @@ class Folio(Story):
         lm = LogManager()
         self.log = lm.clone(lm.get_logger("main"), "folio")
 
+    def animated_line_to_html(self, anim, **kwargs):
+        name = anim.element.persona.name if hasattr(anim.element.persona, "name") else ""
+        name = "{0.firstname} {0.surname}".format(name) if hasattr(name, "firstname") else name
+        yield f'<div style="animation-delay: {anim.delay:.2f}s; animation-duration: {anim.duration:.2f}s">'
+        if name:
+            yield "<blockquote>"
+            yield "<header>{name}</header>"
+            yield f"{anim.element.html}".rstrip()
+            yield "</blockquote>"
+        else:
+            yield f"{anim.element.html}".rstrip()
+        yield "</div>"
+
     def render_animated_frame_to_html(self, frame, controls=[], **kwargs):
-        dialogue = "\n".join(self.animated_line_to_html(i, **kwargs) for i in frame[Model.Line])
+        dialogue = "\n".join(i for l in frame[Model.Line] for i in self.animated_line_to_html(l, **kwargs))
         stills = "\n".join(self.animated_still_to_html(i, **kwargs) for i in frame[Model.Still])
         audio = "\n".join(self.animated_audio_to_html(i, **kwargs) for i in frame[Model.Audio])
         video = "\n".join(self.animated_video_to_html(i, **kwargs) for i in frame[Model.Video])
@@ -163,16 +176,17 @@ class Folio(Story):
             yield f"<h1>{frame['scene']}</h1>"
             yield '<div class="shot">'
             yield f"<h2>{frame['name']}</h2>"
-            yield f"{audio}"
-            yield f"{video}"
-            yield f"{stills}"
+            for i in (audio, video, stills):
+                if i.strip():
+                    yield i
             yield f"{dialogue}"
             yield "</div>"
         else:
+            yield '<div class="shot">'
             yield f"<h2>{frame['name']}</h2>"
-            yield f"{audio}"
-            yield f"{video}"
-            yield f"{stills}"
+            for i in (audio, video, stills):
+                if i.strip():
+                    yield i
             yield f"{dialogue}"
             yield "</div>"
 
