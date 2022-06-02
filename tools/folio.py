@@ -44,7 +44,6 @@ import textwrap
 # TODO
 #  Format images
 #  Prepend sections from .html files
-#  Create metadata links from producer.metadata
 #  Plan for break-before break-inside break-after
 #  Insert CSS
 #  Output is a directory, ?.html + images
@@ -108,6 +107,7 @@ class Folio(Story):
         self.dwell = dwell
         self.pause = pause
         self.chapters = []
+        self.metadata = {}
         self.sections = []
         self.seconds = 0
         lm = LogManager()
@@ -136,6 +136,7 @@ class Folio(Story):
             if self.chapters:
                 yield "</section>"
             self.chapters.append(frame["scene"])
+            yield from self.render_metadata()
 
             yield '<section class="scene">'
             yield f"<h1>{frame['scene']}</h1>"
@@ -154,7 +155,7 @@ class Folio(Story):
             yield "</div>"
 
         self.seconds += last.duration
-        self.log.info(self.seconds)
+        self.log.debug(self.seconds)
 
     def animate_frame(self, presenter, frame, dwell=None, pause=None):
         dwell = presenter.dwell if dwell is None else dwell
@@ -162,8 +163,19 @@ class Folio(Story):
         animation = presenter.animate(frame, dwell=dwell, pause=pause)
         return "\n".join(self.render_animated_frame_to_html(animation))
 
+    def render_metadata(self):
+        yield '<section class="metadata">'
+        yield "<dl>"
+        for k, v in self.metadata.items():
+            if v:
+                yield f"<dt>{k}</dt>"
+                yield from (f"<dd>{i}</dd>" for i in v)
+        yield "</dl>"
+        yield "</section>"
+
     def read(self, presenter=None, reply=None):
         presenter = self.represent(reply, previous=presenter)
+        self.metadata.update(presenter.metadata)
 
         for frame in presenter.frames:
             section = self.animate_frame(presenter, frame, self.dwell, self.pause)
@@ -190,10 +202,12 @@ class Folio(Story):
             self.render_dict_to_css(vars(self.settings)),
             self.static_style,
         ))
+        body = [
+            *self.sections,
+            "</section>"
+        ]
         return self.render_body_html(title=title, base_style="").format(
-            "",
-            style,
-            "\n".join(self.sections + ["</section>"])
+            "", style, "\n".join(body)
         )
 
 class TypeSetter:
