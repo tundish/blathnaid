@@ -180,6 +180,7 @@ class Folio(Story):
         for frame in presenter.frames:
             section = self.animate_frame(presenter, frame, self.dwell, self.pause)
             self.sections.append(section)
+        self.sections[-1] += "\n</section>"
 
         reply = self.context.deliver(cmd="", presenter=presenter)
         return presenter, reply
@@ -197,23 +198,29 @@ class Folio(Story):
             self.log.warning("Folder is empty")
 
     @property
-    def html(self, title="Folio"):
-        style = "\n".join((
+    def css(self):
+        return  "\n".join((
             self.render_dict_to_css(vars(self.settings)),
             self.static_style,
         ))
-        body = [
-            *self.sections,
-            "</section>"
-        ]
+
+    def render_html(self, links=[], style="", sections=[]):
+        title = next(iter(self.metadata.get("title", [self.__class__.__name__])), self.__class__.__name__)
         return self.render_body_html(title=title, base_style="").format(
-            "", style, "\n".join(body)
+            "\n".join(links), style, "\n".join(sections)
         )
 
-class TypeSetter:
+
+class TypeGetter:
 
     def __init__(self, paths):
         self.paths = [i for p in paths for i in (p.iterdir() if p.is_dir() else [p])]
+        self.log = LogManager().get_logger("main").clone("getter")
+        for p, t in zip(self.paths, map(self.guess_type, self.paths)):
+            if t[0]:
+                self.log.info(f"Recognized {p} as type {t[0]}")
+            else:
+                self.log.warning(f"Unrecognized file type: {p}")
 
     @staticmethod
     def guess_type(path):
@@ -221,6 +228,10 @@ class TypeSetter:
             return ("text/x-rst", None)
         else:
             return mimetypes.guess_type(path, strict=False)
+
+    @property
+    def css(self):
+        return [p for p in self.paths if self.guess_type(p)[0] == "text/css"]
 
     @property
     def rst(self):
@@ -236,16 +247,20 @@ def main(args):
     else:
         log.set_route(args.log_level, ColourAdapter(), sys.stderr)
 
-    setter = TypeSetter(args.paths)
+    getter = TypeGetter(args.paths)
 
     drama = Drama()
-    drama.folder = setter.rst
+    drama.folder = getter.rst
 
     folio = Folio(args.dwell, args.pause, context=drama)
 
     folio.run(args.repeat)
 
-    print(folio.html)
+    if args.css:
+        print(folio.css)
+    else:
+        style = "\n".join([p.read_text() for p in getter.css]) or folio.css
+        print(folio.render_html(style=style, sections=folio.sections))
 
     return 0
 
@@ -257,7 +272,11 @@ def parser():
         )
     )
     rv.add_argument(
-        "paths", nargs="+", type=pathlib.Path,
+        "--css", default=False, action="store_true",
+        help="Emit internal styles as CSS."
+    )
+    rv.add_argument(
+        "paths", nargs="*", type=pathlib.Path,
         help="Supply one or more paths to dialogue files."
     )
     return rv
