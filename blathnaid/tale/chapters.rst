@@ -5,8 +5,8 @@
 
 .. [NARRATOR]   May be an audio voice-over or a video clip.
 
-CH 1 - Morten
-=============
+Morten
+======
 
 Once upon a time
 ----------------
@@ -23,8 +23,8 @@ And the land they lived on was very poor.
 This boy Jack had a plough horse, and every day he would take Morten (that was his name)
 to try to work a bit of good, whether it was clearing a ditch, or turning over some dirt, or mending a wall.
 
-Morten
-------
+About Morten
+------------
 
 Now Morten was a stout horse and very obedient, but he was past his prime.
 
@@ -45,8 +45,8 @@ And so it was that Jack was a regular visitor to the local Blacksmith.
 And one day, when Morten had shed a shoe, and Jack couldn't see where it had fallen,
 he led his horse onto the narrow track and over to the Forge.
 
-Bláthnaid
----------
+About Bláthnaid
+---------------
 
 Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was Bláthnaid.
 
@@ -149,8 +149,8 @@ Packing
     Morten would have to forage. And Jack would go hungry. But he was not dismayed.
     He fell asleep before the grate, happy for the first time in months.
 
-CH 2 - The Trivet
-=================
+The Trivet
+==========
 
 Reporting for Duty
 ------------------
@@ -168,8 +168,8 @@ He looked at it thoughtfully for a moment, before taking a rough brush to scrub 
 
 "You'll need that", said he, handing it to Jack.
 
-The Trivet
-----------
+About The Trivet
+----------------
 
 [NARRATOR]_
 
@@ -297,8 +297,8 @@ Optimism
     at how it glowed in the darkness. The New Moon was yet two weeks away. Plenty of time to deliver a message,
     thought Jack.
 
-CH 3 - The City
-===============
+The City
+========
 
 Hinterland
 ----------
@@ -430,8 +430,8 @@ The mayor also had a system of licenses which meant you had to pay a fee for lig
 Guild of Smiths was simple enough.  They all worked together in an area near the dock, having had to club together to
 get enough money to pay for the privilege of heating their forges.
 
-CH 4 - Krol
-===========
+Krol
+====
 
 A refuge
 --------
@@ -484,8 +484,8 @@ Awoken
 Jack awoke on the stroke of midnight. He first thought he'd been roused by a clock bell, but he immediately felt very
 much as though he was not alone in the cellar.
 
-Krol
-----
+About Krol
+----------
 
 And sure enough, squatting in a pool of moonlight in front of him was a strange little figure. He looked like an old
 man, skinny, and only about three feet high. He wore no clothes and had no hair, except for a few wisps on his chin. He
@@ -536,8 +536,8 @@ He tried to think of a way to befriend them, and so he gathered up some scraps o
 Jack went politely up to one of them and asked if he might heat up his little kettle on their embers.
 The Smiths all needed cheering up, so they welcomed him to share a brew from his trivet.
 
-CH 5 - Fell
-===========
+Fell
+====
 
 The Friend
 ----------
@@ -698,8 +698,8 @@ Jack was too anxious to sleep. He kept standing there in the dark, letting his s
 until the tension in his neck dropped out, and he heard the bones in his back letting go of each other.
 Then in lumps it fell into his legs, and ran like hot sweat down the inside of his skin.
 
-CH 6 - Ingomer
-==============
+Ingomer
+=======
 
 The Master
 ----------
@@ -735,8 +735,8 @@ After that there was a hasty election, for which only some were prepared.
 At the end of it Ingomer had become Master of the Guild of Smiths,
 a position which hitherto had been attained only by the most skilled and respected of craftsmen.
 
-Ingomer
--------
+Finally, Ingomer
+----------------
 
 It was the eve of the New Moon. Jack was at the gated arch in the east of the City.
 
@@ -865,8 +865,8 @@ With Compassion
 So he began to knock at the doors of cottages and offer to tell tales of the City. And when the people opened their
 doors he would talk with them about Compassion; how human sensitivity is manifest spontaneously and authentically.
 
-CH 7 - Bláthnaid
-================
+Bláthnaid
+=========
 
 Payback
 -------
