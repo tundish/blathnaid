@@ -50,6 +50,19 @@ import textwrap
 #  Output is a directory, ?.html + images
 #  Generate the required command for weasyprint
 
+# 10 formatting rules:
+#  1. Single spacing
+#  2. Justify text to both sides
+#  3. Indent first line of each paragraph (0.3")
+#  4. ... except first line of chapter or scene break
+#  5. Chapter headers on a new page
+#  6. ... sp page break before each chapter
+#  7. Chapter header begins 1/3 to 2/3 way down the page
+#  8. Page numbers
+#  9. Page numbers not displayed on chapter header page
+# 10. Author name, Book title on opposite leaves
+# 11. Drop caps or all caps/italics on chapter start?
+
 
 class Folio(Story):
 
@@ -65,26 +78,27 @@ class Folio(Story):
                 margin-bottom: .7cm;
             }
         }
-        html {
-            font-family: 'helvetica neue', helvetica, arial, sans-serif;
-        }
+
         section {
-            break-before: page;
+        break-before: page;
         }
 
-        dt {
-        clear: left;
-        color: olive;
-        float: left;
-        font-family: "monospace";
-        padding-right: 0.3em;
-        text-align: right;
-        text-transform:capitalize;
-        width: 100px;
+        blockquote {
+        display: flex;
+        flex-direction: row;
         }
 
-        dt:after {
-        content: ":";
+        .shot h2 {
+        display: none;
+        }
+
+        blockquote header {
+        display: none;
+        }
+
+        .line:first-of-type blockquote header {
+        display: block;
+        font-weight: bold;
         }
 
     """)
