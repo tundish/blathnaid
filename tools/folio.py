@@ -149,12 +149,12 @@ class Folio(Story):
         self.log = lm.clone(lm.get_logger("main"), "folio")
 
     def animated_line_to_html(self, anim, **kwargs):
-        name = anim.element.persona.name if hasattr(anim.element.persona, "name") else ""
+        name = getattr(anim.element.persona, "name", anim.element.persona)
         name = "{0.firstname} {0.surname}".format(name) if hasattr(name, "firstname") else name
         yield f'<div style="animation-delay: {anim.delay:.2f}s; animation-duration: {anim.duration:.2f}s">'
         if name:
             yield "<blockquote>"
-            yield "<header>{name}</header>"
+            yield f"<header>{name}</header>"
             yield f"{anim.element.html}".rstrip()
             yield "</blockquote>"
         else:
