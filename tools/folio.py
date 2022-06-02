@@ -136,7 +136,7 @@ class Folio(Story):
         if not self.chapters or self.chapters[-1].get("scene") != frame["scene"]:
             if self.chapters:
                 yield "</section>"
-            metadata = {"chapter": len(self.chapters) + 1, "scene": frame["scene"], "path": witness.path}
+            metadata = {"path": witness.path, "chapter": len(self.chapters) + 1, "scene": frame["scene"]}
             self.chapters.append(metadata)
             yield from self.render_metadata(**metadata)
 
