@@ -129,14 +129,16 @@ class Folio(Story):
         yield "</div>"
 
     def render_animated_frame_to_html(self, frame, controls=[], **kwargs):
+        witness = next(i.element for v in frame.values() for i in v if hasattr(i, "element"))
         dialogue = "\n".join(i for l in frame[Model.Line] for i in self.animated_line_to_html(l, **kwargs))
         stills = "\n".join(self.animated_still_to_html(i, **kwargs) for i in frame[Model.Still])
         last = frame[Model.Line][-1] if frame[Model.Line] else Presenter.Animation(0, 0, None)
-        if not self.chapters or self.chapters[-1] != frame["scene"]:
+        if not self.chapters or self.chapters[-1].get("scene") != frame["scene"]:
             if self.chapters:
                 yield "</section>"
-            self.chapters.append(frame["scene"])
-            yield from self.render_metadata()
+            metadata = {"chapter": len(self.chapters) + 1, "scene": frame["scene"], "path": witness.path}
+            self.chapters.append(metadata)
+            yield from self.render_metadata(**metadata)
 
             yield '<section class="scene">'
             yield f"<h1>{frame['scene']}</h1>"
@@ -163,13 +165,19 @@ class Folio(Story):
         animation = presenter.animate(frame, dwell=dwell, pause=pause)
         return "\n".join(self.render_animated_frame_to_html(animation))
 
-    def render_metadata(self):
+    def render_metadata(self, **kwargs):
         yield '<section class="metadata">'
         yield "<dl>"
-        for k, v in self.metadata.items():
-            if v:
-                yield f"<dt>{k}</dt>"
+        metadata = dict(self.metadata, **kwargs)
+        for k, v in metadata.items():
+            if not v:
+                continue
+
+            yield f"<dt>{k}</dt>"
+            if isinstance(v, list):
                 yield from (f"<dd>{i}</dd>" for i in v)
+            else:
+                yield f"<dd>{v}</dd>"
         yield "</dl>"
         yield "</section>"
 
