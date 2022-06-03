@@ -46,9 +46,7 @@ import textwrap
 # TODO
 #  Format images
 #  Prepend sections from .html files
-#  Plan for break-before break-inside break-after
 #  Output is a directory, ?.html + images
-#  Generate the required command for weasyprint
 
 # 10 formatting rules:
 #  1. Single spacing
@@ -90,20 +88,24 @@ class Folio(Story):
         }
 
         @media print {
-        dl {
-            display: none;
-        }
-
         .shot h2 {
         display: none;
         }
 
-        blockquote header {
-        display: none;
+        section {
+        break-before: page;
         }
 
-        blockquote {
-        font-style: italic;
+        .shot {
+        page-break-inside: avoid;
+        }
+
+        .shot:first-of-type p {
+        text-indent: 0rem;
+        }
+
+        blockquote header {
+        display: none;
         }
 
         .line:last-of-type blockquote::after {
@@ -114,6 +116,17 @@ class Folio(Story):
         text-align: center;
         }
 
+        .shot .line:last-of-type blockquote + .shot .line > p {
+        text-indent: 0rem;
+        }
+
+        blockquote {
+        font-style: italic;
+        }
+
+        dl {
+            display: none;
+        }
         }
 
         * {
@@ -130,25 +143,12 @@ class Folio(Story):
         vertical-align: baseline;
         }
 
-        section {
-        break-before: page;
-        }
-
-        .shot {
-        page-break-inside: avoid;
-        }
-
         h1 {
         font-size: 200%;
         margin-bottom: 18%;
         margin-top: 28%;
         text-transform: capitalize;
         text-align: center;
-        }
-
-        .line:first-of-type blockquote header {
-        font-weight: bold;
-        text-transform: capitalize;
         }
 
         p {
@@ -159,9 +159,11 @@ class Folio(Story):
         text-indent: 0.5rem;
         }
 
-        .shot:first-of-type p {
-        text-indent: 0rem;
+        .line:first-of-type blockquote header {
+        font-weight: bold;
+        text-transform: capitalize;
         }
+
     """)
 
     def __init__(self, dwell, pause, **kwargs):
