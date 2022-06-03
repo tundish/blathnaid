@@ -89,7 +89,10 @@ class Folio(Story):
         }
 
         h1 {
+        margin-bottom: 18%;
+        margin-top: 28%;
         text-transform: capitalize;
+        text-align: center;
         }
 
         .shot h2 {
