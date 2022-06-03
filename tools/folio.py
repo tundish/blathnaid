@@ -20,7 +20,9 @@
 """
 TODO: Generate orders as per turberfield-dialogue:main.
 
-.. _WeasyPrint: http://weasyprint.org/
+Usage::
+
+    python -m tools.folio blathnaid/tale/ | weasyprint - folio.pdf
 
 """
 
@@ -104,6 +106,17 @@ class Folio(Story):
         text-transform: capitalize;
         }
 
+        p {
+        font-family: serif;
+        font-size: large;
+        margin-bottom: 2rem;
+        text-align: justify;
+        text-indent: 3rem;
+        }
+
+        .shot:first-of-type p {
+        text-indent: 0rem;
+        }
     """)
 
     def __init__(self, dwell, pause, **kwargs):
