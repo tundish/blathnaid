@@ -128,3 +128,21 @@ The Book of Secrets
 * Aerodynamics
 * Resonant structures
 
+Shortlist of Fonts
+------------------
+
+* Almendra
+* Aref_Ruqaa
+* Bembo
+* Cinzel
+* IBM_Plex_Serif
+* IM_Fell_English_SC
+* IM_Fell_Great_Primer
+* Junge
+* Libre_Baskerville
+* Libre_Caslon_Display
+* Libre_Caslon_Text
+* Markazi_Text
+* Source_Serif_Pro
+* Stoke
+* Vollkorn

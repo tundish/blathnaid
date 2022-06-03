@@ -45,7 +45,6 @@ import textwrap
 #  Format images
 #  Prepend sections from .html files
 #  Plan for break-before break-inside break-after
-#  Insert CSS
 #  Output is a directory, ?.html + images
 #  Generate the required command for weasyprint
 
@@ -87,6 +86,10 @@ class Folio(Story):
         flex-direction: row;
         }
 
+        h1 {
+        text-transform: capitalize;
+        }
+
         .shot h2 {
         display: none;
         }
@@ -98,6 +101,7 @@ class Folio(Story):
         .line:first-of-type blockquote header {
         display: block;
         font-weight: bold;
+        text-transform: capitalize;
         }
 
     """)
