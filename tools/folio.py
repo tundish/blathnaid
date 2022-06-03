@@ -107,7 +107,7 @@ class Folio(Story):
         }
 
         .line:last-of-type blockquote::after {
-        content: "***";
+        content: "-";
         display: block;
         margin-bottom: 1rem;
         margin-top: 1rem;
@@ -152,7 +152,7 @@ class Folio(Story):
         }
 
         p {
-        font-family: serif;
+        font-family: "Libre Baskerville", serif;
         font-size: small;
         margin-bottom: 1.3rem;
         text-align: justify;
