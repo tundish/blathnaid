@@ -89,6 +89,21 @@ class Folio(Story):
             margin: 0.6in 0.5in 0.6in 0.75in;
         }
 
+        @media print {
+        dl {
+            display: none;
+        }
+
+        .shot h2 {
+        display: none;
+        }
+
+        blockquote header {
+        display: none;
+        }
+
+        }
+
         * {
         box-sizing: border-box;
         border: 0;
@@ -116,14 +131,6 @@ class Folio(Story):
         margin-top: 28%;
         text-transform: capitalize;
         text-align: center;
-        }
-
-        .shot h2 {
-        display: none;
-        }
-
-        blockquote header {
-        display: none;
         }
 
         .line:first-of-type blockquote header {
