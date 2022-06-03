@@ -27,6 +27,7 @@ Usage::
 """
 
 import argparse
+import datetime
 import mimetypes
 import pathlib
 import sys
@@ -81,10 +82,22 @@ class Folio(Story):
 
         @page:left{
             margin: 0.6in 0.75in 0.6in 0.5in;
+            @top-left {
+                content: var(--balladeer-metadata-project);
+                font-size: 0.7rem;
+                vertical-align: middle;
+                width: 100%;
+            }
         }
 
         @page:right{
             margin: 0.6in 0.5in 0.6in 0.75in;
+            @top-right {
+                content: var(--balladeer-metadata-now);
+                font-size: 0.7rem;
+                vertical-align: middle;
+                width: 100%;
+            }
         }
 
         @media print {
@@ -171,11 +184,12 @@ class Folio(Story):
         self.dwell = dwell
         self.pause = pause
         self.chapters = []
-        self.metadata = {}
+        self.metadata = {
+            "now": datetime.datetime.utcnow()
+        }
         self.sections = []
         self.seconds = 0
-        lm = LogManager()
-        self.log = lm.clone(lm.get_logger("main"), "folio")
+        self.log = LogManager().get_logger("main").clone("folio")
 
     def animated_line_to_html(self, anim, **kwargs):
         name = getattr(anim.element.persona, "name", anim.element.persona)
@@ -278,9 +292,20 @@ class Folio(Story):
 
     @property
     def css(self):
+        settings = dict(
+            {f"balladeer-metadata-{k}": next(iter(v if isinstance(v, list) else [v]))
+            for k, v in self.metadata.items() if v},
+            **vars(self.settings)
+        )
+
+        # Awful hack to avoid errors from weasyprint, which is otherwise awesome
+        static_style = self.static_style
+        for k, v in settings.items():
+            static_style = static_style.replace(f"var(--{k})", f'"{v!s}"')
+
         return  "\n".join((
-            self.render_dict_to_css(vars(self.settings)),
-            self.static_style,
+            self.render_dict_to_css(settings),
+            static_style,
         ))
 
     def render_html(self, links=[], style="", sections=[]):
