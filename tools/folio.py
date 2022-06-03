@@ -116,7 +116,7 @@ class Folio(Story):
         text-align: center;
         }
 
-        .shot .line:last-of-type blockquote + .shot .line > p {
+        .spoken + .unspoken .line:first-of-type p {
         text-indent: 0rem;
         }
 
@@ -197,6 +197,7 @@ class Folio(Story):
         dialogue = "\n".join(i for l in frame[Model.Line] for i in self.animated_line_to_html(l, **kwargs))
         stills = "\n".join(self.animated_still_to_html(i, **kwargs) for i in frame[Model.Still])
         last = frame[Model.Line][-1] if frame[Model.Line] else Presenter.Animation(0, 0, None)
+        spoken = any(anim.element.persona for anim in frame[Model.Line])
         if not self.chapters or self.chapters[-1].get("scene") != frame["scene"]:
             if self.chapters:
                 yield "</section>"
@@ -206,14 +207,20 @@ class Folio(Story):
 
             yield '<section class="scene">'
             yield f"<h1>{frame['scene']}</h1>"
-            yield '<div class="shot">'
+            if spoken:
+                yield '<div class="shot spoken">'
+            else:
+                yield '<div class="shot unspoken">'
             yield f"<h2>{frame['name']}</h2>"
             if stills.strip():
                 yield f"{stills}"
             yield f"{dialogue}"
             yield "</div>"
         else:
-            yield '<div class="shot">'
+            if spoken:
+                yield '<div class="shot spoken">'
+            else:
+                yield '<div class="shot unspoken">'
             yield f"<h2>{frame['name']}</h2>"
             if stills.strip():
                 yield f"{stills}"
