@@ -102,6 +102,18 @@ class Folio(Story):
         display: none;
         }
 
+        blockquote {
+        font-style: italic;
+        }
+
+        .line:last-of-type blockquote::after {
+        content: "***";
+        display: block;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+        text-align: center;
+        }
+
         }
 
         * {
@@ -122,7 +134,8 @@ class Folio(Story):
         break-before: page;
         }
 
-        blockquote {
+        .shot {
+        page-break-inside: avoid;
         }
 
         h1 {
