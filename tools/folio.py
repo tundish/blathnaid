@@ -68,15 +68,39 @@ class Folio(Story):
 
     static_style = textwrap.dedent("""
         @page {
-            size: A4;
-            margin: 15mm 5mm 10mm 20mm;
-            @top-center {
-                content: counter(page) " / " counter(pages);
+            size: 5in 7.75in;
+            @bottom-center {
+                content: counter(page);
                 width: 100%;
-                vertical-align: bottom;
-                border-bottom: .5pt solid;
-                margin-bottom: .7cm;
+                vertical-align: top;
+                border-top: 0.5pt solid;
+                margin-top: 0.25in;
+                margin-bottom: 0.6in;
+                padding-top: 0.1in;
             }
+
+        }
+
+        @page:left{
+            margin: 0.6in 0.75in 0.6in 0.5in;
+        }
+
+        @page:right{
+            margin: 0.6in 0.5in 0.6in 0.75in;
+        }
+
+        * {
+        box-sizing: border-box;
+        border: 0;
+        font: inherit;
+        font-size: 100%;
+        line-height: 1.2em;
+        list-style-type: none;
+        margin: 0;
+        outline: 0;
+        padding: 0;
+        text-decoration: none;
+        vertical-align: baseline;
         }
 
         section {
@@ -84,11 +108,10 @@ class Folio(Story):
         }
 
         blockquote {
-        display: flex;
-        flex-direction: row;
         }
 
         h1 {
+        font-size: 200%;
         margin-bottom: 18%;
         margin-top: 28%;
         text-transform: capitalize;
@@ -104,17 +127,16 @@ class Folio(Story):
         }
 
         .line:first-of-type blockquote header {
-        display: block;
         font-weight: bold;
         text-transform: capitalize;
         }
 
         p {
         font-family: serif;
-        font-size: large;
-        margin-bottom: 2rem;
+        font-size: small;
+        margin-bottom: 1.3rem;
         text-align: justify;
-        text-indent: 3rem;
+        text-indent: 0.5rem;
         }
 
         .shot:first-of-type p {
