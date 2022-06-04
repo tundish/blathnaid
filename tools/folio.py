@@ -93,7 +93,7 @@ class Folio(Story):
         @page:right{
             margin: 0.6in 0.5in 0.6in 0.75in;
             @top-right {
-                content: var(--balladeer-metadata-now);
+                content: var(--balladeer-metadata-version);
                 font-size: 0.7rem;
                 vertical-align: middle;
                 width: 100%;
@@ -359,6 +359,8 @@ def main(args):
     folio = Folio(args.dwell, args.pause, context=drama)
 
     folio.run(args.repeat)
+    if "version" not in folio.metadata:
+        folio.metadata["version"] = args.tag
 
     if args.css:
         print(folio.css)
@@ -380,6 +382,10 @@ def parser():
         help="Emit internal styles as CSS."
     )
     rv.add_argument(
+        "--tag", default="draft",
+        help="Supply a version tag for use as metadata."
+    )
+    rv.add_argument(
         "paths", nargs="*", type=pathlib.Path,
         help="Supply one or more paths to dialogue files."
     )
@@ -391,6 +397,7 @@ def run():
     args = p.parse_args()
     rv = main(args)
     sys.exit(rv)
+
 
 if __name__ == "__main__":
     run()
