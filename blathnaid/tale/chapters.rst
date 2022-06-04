@@ -5,7 +5,7 @@
 :version:   |VERSION|
 
 .. [NARRATOR]   May be an audio voice-over or a video clip.
-.. |VERSION| property:: blathnaid.version
+.. |VERSION| property:: blathnaid.tale.__version__
 
 Morten
 ======
