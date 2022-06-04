@@ -49,19 +49,6 @@ import textwrap
 #  Prepend sections from .html files
 #  Output is a directory, ?.html + images
 
-# 10 formatting rules:
-#  1. Single spacing
-#  2. Justify text to both sides
-#  3. Indent first line of each paragraph (0.3")
-#  4. ... except first line of chapter or scene break
-#  5. Chapter headers on a new page
-#  6. ... sp page break before each chapter
-#  7. Chapter header begins 1/3 to 2/3 way down the page
-#  8. Page numbers
-#  9. Page numbers not displayed on chapter header page
-# 10. Author name, Book title on opposite leaves
-# 11. Drop caps or all caps/italics on chapter start?
-
 
 class Folio(Story):
 
@@ -105,8 +92,8 @@ class Folio(Story):
         display: none;
         }
 
-        section {
-        break-before: page;
+        .scene {
+        page-break-before: right;
         }
 
         .shot {
@@ -140,7 +127,7 @@ class Folio(Story):
         dl {
             display: none;
         }
-        }
+        }   /* End of print media */
 
         * {
         box-sizing: border-box;
