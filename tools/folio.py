@@ -359,8 +359,8 @@ def main(args):
     folio = Folio(args.dwell, args.pause, context=drama)
 
     folio.run(args.repeat)
-    if "version" not in folio.metadata:
-        folio.metadata["version"] = args.tag
+    if args.tag or "version" not in folio.metadata:
+        folio.metadata["version"] = args.tag or "draft"
 
     if args.css:
         print(folio.css)
@@ -382,7 +382,7 @@ def parser():
         help="Emit internal styles as CSS."
     )
     rv.add_argument(
-        "--tag", default="draft",
+        "--tag", default=None,
         help="Supply a version tag for use as metadata."
     )
     rv.add_argument(
