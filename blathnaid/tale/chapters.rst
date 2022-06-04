@@ -2,7 +2,7 @@
 :author:    D E Haynes
 :copyright: 2022 D E Haynes
 :title:     Bláthnaid
-:version:   |VERSION|
+:version:   Version |VERSION|
 
 .. [NARRATOR]   May be an audio voice-over or a video clip.
 .. |VERSION| property:: blathnaid.tale.__version__

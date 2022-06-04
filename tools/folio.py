@@ -93,7 +93,7 @@ class Folio(Story):
         @page:right{
             margin: 0.6in 0.5in 0.6in 0.75in;
             @top-right {
-                content: "Version: " var(--balladeer-metadata-version);
+                content: var(--balladeer-metadata-version);
                 font-size: 0.7rem;
                 vertical-align: middle;
                 width: 100%;
