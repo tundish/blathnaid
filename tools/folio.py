@@ -360,7 +360,7 @@ def main(args):
 
     folio.run(args.repeat)
     if args.tag or "version" not in folio.metadata:
-        folio.metadata["version"] = args.tag or "draft"
+        folio.metadata["version"] = args.tag or "DRAFT"
 
     if args.css:
         print(folio.css)
