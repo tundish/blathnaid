@@ -52,7 +52,7 @@ About Bláthnaid
 
 Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was Bláthnaid. [*]_
 
-.. [*] Bláthnaid is a name from the Gaeilge tradition. In England we would say 'Blawnid'.
+.. [*] Bláthnaid is a name from the Gaeilge tradition. In England we would say *Blawnid*.
 
 Chaste
 ------

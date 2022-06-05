@@ -181,6 +181,14 @@ class Folio(Story):
         text-indent: 0.5rem;
         }
 
+        em {
+        font-style: italic;
+        }
+
+        strong {
+        font-weight: bold;
+        }
+
         .line:first-of-type blockquote header {
         font-weight: bold;
         text-transform: capitalize;
@@ -203,7 +211,7 @@ class Folio(Story):
     def animated_line_to_html(self, anim, **kwargs):
         name = getattr(anim.element.persona, "name", anim.element.persona)
         name = "{0.firstname} {0.surname}".format(name) if hasattr(name, "firstname") else name
-        delay = self.seconds + anim.delay
+        delay = self.seconds
         yield f'<div class="line" style="animation-delay: {delay:.2f}s; animation-duration: {anim.duration:.2f}s">'
         if name:
             yield "<blockquote>"
