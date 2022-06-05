@@ -50,7 +50,7 @@ he led his horse onto the narrow track and over to the Forge.
 About Bláthnaid
 ---------------
 
-Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was Bláthnaid [*]_.
+Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was Bláthnaid. [*]_
 
 .. [*] Bláthnaid is a name from the Gaeilge tradition. In England we would say 'Blawnid'.
 

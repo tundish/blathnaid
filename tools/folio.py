@@ -55,6 +55,7 @@ class Folio(Story):
     static_style = textwrap.dedent("""
         @page {
             size: 5in 7.75in;
+            counter-reset: footnote;
             @bottom-center {
                 content: counter(page);
                 width: 100%;
@@ -65,6 +66,8 @@ class Folio(Story):
                 padding-top: 0.1in;
             }
             @footnote {
+                footnote-display: inline;
+                max-height: 2rem;
             }
 
         }
@@ -130,8 +133,21 @@ class Folio(Story):
             display: none;
         }
 
+        span.call{
+        display: inline;
+        }
+
         span.footnote {
             float: footnote;
+            font-family: "Libre Baskerville", serif;
+            font-size: 0.7rem;
+        }
+
+        ::footnote-call {
+        display: inline;
+        }
+
+        ::footnote-marker {
         }
         }   /* End of print media */
 
