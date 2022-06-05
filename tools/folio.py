@@ -64,6 +64,8 @@ class Folio(Story):
                 margin-bottom: 0.6in;
                 padding-top: 0.1in;
             }
+            @footnote {
+            }
 
         }
 
@@ -127,6 +129,10 @@ class Folio(Story):
         dl {
             display: none;
         }
+
+        span.footnote {
+            float: footnote;
+        }
         }   /* End of print media */
 
         * {
@@ -182,8 +188,7 @@ class Folio(Story):
         name = getattr(anim.element.persona, "name", anim.element.persona)
         name = "{0.firstname} {0.surname}".format(name) if hasattr(name, "firstname") else name
         delay = self.seconds + anim.delay
-        duration = self.seconds + anim.duration
-        yield f'<div class="line" style="animation-delay: {delay:.2f}s; animation-duration: {duration:.2f}s">'
+        yield f'<div class="line" style="animation-delay: {delay:.2f}s; animation-duration: {anim.duration:.2f}s">'
         if name:
             yield "<blockquote>"
             yield f"<header>{name}</header>"
@@ -192,12 +197,12 @@ class Folio(Story):
         else:
             yield f"{anim.element.html}".rstrip()
         yield "</div>"
+        self.seconds += anim.duration
 
     def render_animated_frame_to_html(self, frame, controls=[], **kwargs):
         witness = next(i.element for v in frame.values() for i in v if hasattr(i, "element"))
         dialogue = "\n".join(i for l in frame[Model.Line] for i in self.animated_line_to_html(l, **kwargs))
         stills = "\n".join(self.animated_still_to_html(i, **kwargs) for i in frame[Model.Still])
-        last = frame[Model.Line][-1] if frame[Model.Line] else Presenter.Animation(0, 0, None)
         spoken = any(anim.element.persona for anim in frame[Model.Line])
         if not self.chapters or self.chapters[-1].get("scene") != frame["scene"]:
             if self.chapters:
@@ -228,7 +233,6 @@ class Folio(Story):
             yield f"{dialogue}"
             yield "</div>"
 
-        self.seconds += last.duration
         self.log.debug(self.seconds)
 
     def animate_frame(self, presenter, frame, dwell=None, pause=None):
