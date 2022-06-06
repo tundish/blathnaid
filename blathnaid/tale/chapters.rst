@@ -304,8 +304,8 @@ Hinterland
 ----------
 
 The last few miles were grim. There was not a tree or bush to be seen now; only a blasted and boggy heath.
-The road was lined on both sides by ragged camps; turves piled up for walls, rooved with the wreckage of
-tattered wagons. And everywhere, the sounds and smells of sad and hungry people.
+The road was lined on both sides by ragged camps; turves piled up for walls, rooved with the remnants of
+smashed-up wagons. And everywhere, the sounds and smells of sad and hungry people.
 
 Blocked
 -------
@@ -326,15 +326,19 @@ That seemed to suffice; the man lowered his truncheon and waved him through.
 Traffic
 -------
 
-The walls of the City lay before them, and the road led up to an enormous gate. There was another line here.
-Scores of carts stood by, piled up with all kinds of goods. There were angry voices as traders argued with guards
-and revenue men. Jack went on past. He gathered his few belongings from Morten's back, and hoisted them on his own.
-Then he aimed for a smaller door next to the main entry which seemed to be open to those on foot.
+The walls of the City lay before them, and the road led up to an enormous gate.
+
+[NARRATOR]_
+
+    There is another line here. Scores of carts stand by, piled up with all kinds of goods.
+    There are angry voices as traders argue with Guards and revenue men. Jack goes on past.
+    He gathers his few belongings from Morten's back, and hoists them on his own.
+    Then he aims for a smaller door next to the main entry which seems to be open to those on foot.
 
 The Postern
 -----------
 
-The smaller gate was flanked by two Guards, sternly on duty. They held short, solid bills with evil-looking hooks
+The postern door was flanked by two Guards, sternly on duty. They held short, solid bills with evil-looking hooks
 at the end.  One of the men stepped forward to take Morten's bridle.
 The other offered the point of his weapon and advised Jack he should explain himself or go back where he came.
 
@@ -349,84 +353,97 @@ Separated
 ---------
 
 The first Guard tied poor Morten to a gatepost, saying, "if you can't feed him, you shouldn't keep him".
-The second man joked, "sure, he'll eat very well presently!" There was nothing that Jack could do but step through
-the gate while he was able, to the laughter of the Guards as he passed.
+The second man scoffed, "sure, he'll eat very well presently!" There was nothing that Jack could do but
+step through the gate while he was able, to the laughter of the Guards as he passed.
 
 Inside
 ------
 
-Inside the wall, Jack found himself on a raised buttress, with stone battlements on either side.
+Inside the wall, Jack found himself on a raised buttress, with battlements on either side.
 Two flights of steps led down to the street below.
 He tripped and tumbled down them, confused and upset at how he had just lost Morten.
 
 Ambush
 ------
 
-In the street, several fellows who were gathered there took notice of him and Jack realised he had better
-recover his wits or else be robbed again. He hurried ahead until he got to a spot where he could not be
-surprised. There he sank to his haunches, steadied his breathing, and began to look around.
+[NARRATOR]_
 
-Environment
------------
-
-Jack feared two things. First was to be robbed, which seemed to be not merely a common occurrence, but the very
-commerce of half the city. The second concern was getting lost, and while looking lost, then to be cornered in some
-alley by thieves.
-
-As for losing his way he had scant chance, since only a few main streets of the city were open to all. Every neighbourhood,
-where families were established, had set up gates and pickets, protecting their own, and permitting only
-their own to pass through.
-
-So Jack was able to trapse only a quarter of a mile back and forth, and quickly learned his way about the place.
+    Several fellows are gathered by the stair. They take notice of him and Jack realises he had better
+    recover his wits or else be robbed again. He hurries ahead until he gets to a spot where he can't be
+    surprised. There he sinks to his haunches, steadies his breathing, and begins to look around.
 
 Exploring
 ---------
 
-In the streets near the gates of the City were sheds and offices for the receipt of goods; likewise at the dock on the river.
-There were two or three large cobbled squares, with taverns and boarding houses on every side.
+In the streets near the gates of the City there were sheds and offices for the receipt of goods.
+Further towards the centre was a large cobbled square, with taverns and boarding houses on every side.
 
 Market
 ------
 
-Set up there at intervals were wooden market stalls. Many of them were shuttered or empty.
-Long lines of people formed up at those who had any stock.
+Set up at intervals were wooden market stalls. Many of them were shuttered or empty.
+Long lines of people formed up at those who had stock.
 
-Everywhere else was boarded up, or blocked off, or tumbled down. Until you came to a gated arch near the Eastern wall.
+Everywhere else was boarded up, or blocked off, or tumbled down.
+Until you came to a gated arch near the Eastern wall.
 Behind that was a high tower, barracks for the Guard, and the mansion of the Mayor.
 
 Queues
 ------
 
-Wherever there was food for sale, there were Guards to keep order. The people looked pinched, hungry and resentful.
-They picked each others pockets in the queues, and when they were discovered, they would take to arguing and fighting.
-Then in would jump the Guards, and all run and scatter for fear of a cracked skull.
+[NARRATOR]_
 
-Twice Jack was stopped and asked to explain who he was. Luckily the locket did the trick. Whatever it stood for, the
-Guards evidently knew it, though Jack himself was none the wiser.
+    Wherever there is food for sale, there are Guards to keep order.
+    The people look anxious and resentful. They pick each others pockets in the queues, and when they are
+    discovered, they fall to arguing and fighting.
+    Then in jump the Guards, and all run and scatter for fear of a cracked skull.
+
+Environment
+-----------
+
+Jack sensed trouble. He was sure to be robbed; it seemed to be not merely a common occurrence, but the very
+commerce of half the City. The second concern was getting lost, and while looking lost,
+then to be cornered in some alley by thieves.
+
+But only a few main streets of the City were open to all. Every neighbourhood,
+where families were established, had set up gates and pickets, protecting their own, and permitting only
+their own to pass through.
+
+So Jack was able to trapse only a quarter of a mile back and forth, and quickly learned his way about the place.
 
 Safety
 ------
 
-Jack's first priority was to make contact with the Guild of Smiths, and he started by looking everywhere for their symbol.
-Instead what he found all around him were notices. They were all of a type, and were pasted on buildings, and pinned to
-street posts.
+[NARRATOR]_
 
-They all bore the image of Mayor Ingomer; a rather heroic woodcut of him which would have been some years old by then.
-Ingomer was reminding everyone to stay safe. Staying safe meant not lighting fires. Staying safe meant handing in long knives.
-Stayng safe meant not leaving home to look for food.
+    Everywhere you look there are notices. They are pasted on walls and pinned to the street posts.
+
+    They all bear the image of Mayor Ingomer.
+    He is made heroic by a woodcut which is now several years old.
+
+    Ingomer is reminding everyone to Stay Safe. By that he means not lighting fires.
+    Staying Safe is also very much about handing in your long knives, and not leaving home to find food.
 
 Scarcity
 --------
 
-Ingomer controlled the supply of food into the city. It was in his name that the guards stopped the wagons at the gate.
+Ingomer controlled the supply of food into the City. It was in his name that the guards stopped the wagons at the gate.
 They diverted the best goods to his favoured merchants, and shook down the hauliers for cash.
 
 Numbers
 -------
 
-The mayor also had a system of licenses which meant you had to pay a fee for lighting a fire.  So for Jack, finding the
-Guild of Smiths was simple enough.  They all worked together in an area near the dock, having had to club together to
-get enough money to pay for the privilege of heating their forges.
+The Mayor also ran a system of licences which meant you had to apply for permission to light a brazier.
+
+And that's how Jack found the Smiths, down at the dock by the river.
+They'd all built their workshops on the same wharf, having had to pool together to pay
+the fees for running their Forges.
+
+Checks
+------
+
+Many times Jack was stopped and asked to explain who he was. Luckily the locket did the trick.
+Whatever it stood for, the Guards evidently knew it, though Jack himself was none the wiser.
 
 Krol
 ====
@@ -462,7 +479,7 @@ Tuns
 
 Now down in the cellar were many barrels all stacked up. But three stood separately on their side, and they were enormous.
 Each with a tap, and a dish below to catch the drips.
-And on the first barrel was painted "This", and on the second "That", and on the last one, "The Other".
+And on the first barrel was painted **This**, and on the second **That**, and on the last one, **The Other**.
 
 Upstairs
 --------
@@ -489,38 +506,40 @@ And sure enough, squatting in a pool of moonlight in front of him was a strange 
 man, skinny, and only about three feet high. He wore no clothes and had no hair, except for a few wisps on his chin. He
 sat with legs half-crossed, as a prisoner might in a cell with no furniture.
 
-The name of this creature is Krol.
+The name of this creature was Krol.
 
 The legend
 ----------
 
-I am not the world expert on Krol.  What I have heard about him would fill a book,
-although not all of that can have been the truth.
+[NARRATOR]_
 
-I do know he'd been an important figure in antiquity. And he did again walk as a man in our modern age, and performed
-many brave deeds here.
+    I am not the world expert on Krol.  What I have heard about him would fill a book,
+    although only half of it is likely true.
 
-But at the time of this story he was held back in the Netherworld. For reasons I don't understand, his spirit was bound
-to the City, and the best he could manage was to manifest in the cellar of that tavern, when the moon was full enough to
-shine through the bars of the windows.
+    I do know he's been an important figure in Antiquity. He appears again as a man in our modern age, and
+    does do many brave deeds here.
+
+    But at the time of this story he is held back in the Netherworld. For reasons I don't understand, his spirit
+    is bound to the City, and the best he can manage is to manifest in the cellar of that Tavern, when the moon
+    is full enough to shine through the bars of the windows.
 
 Try This
 --------
 
-So Krol said, "I am cursed to be here while there is light from the moon. And I may eat only what is offered to me".
-Jack thought about this for a moment and went over to one of the big barrels, which was called 'This'.  He opened up the
-tap a little, so it half-filled the tundish below.  And he passed it to the little Imp, who grinned and straight away
-started drinking it down.
+So Krol said, "I am cursed to be here while there is light from the Moon. And I may eat only what is offered to me".
+Jack thought about this for a moment and went over to one of the big barrels, which was called **This**.
+He opened up the tap a little, so it half-filled the tundish below.
+And he passed it to the little Imp, who grinned and straight away started drinking it down.
 
 Simplicity
 ----------
 
-Then Krol caught sight of Jack's trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
+Then Krol caught sight of Jack's Trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
 "Do you know what this one is?", he asked.
 
-Jack didn't have a clue what he was talking about.
+Jack couldn't fathom what he meant.
 
-"This spoke stands for Simplicity", said Krol. He continued, sounding slightly tipsy.
+"This spoke stands for **Simplicity**", said Krol. He continued, sounding slightly tipsy.
 "Simplicity. Try to train that. It can be cultivated, can simplicity."
 Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
 
@@ -529,10 +548,11 @@ The Smiths
 
 Jack awoke next morning to find he was alone again. He gathered his things and stole out from the cellar into the street.
 He went over to the place by the dock where the Smiths worked.
-He tried to think of a way to befriend them, and so he gathered up some scraps of bark which lay around the wood stored nearby .
+He tried to think of a way to befriend them, and so he gathered up some scraps of bark which lay around the
+woodstore nearby.
 
 Jack went politely up to one of them and asked if he might heat up his little kettle on their embers.
-The Smiths all needed cheering up, so they welcomed him to share a brew from his trivet.
+The Smiths all needed cheering up, so they welcomed him to share a brew from his Trivet.
 
 Fell
 ====
@@ -540,17 +560,18 @@ Fell
 The Friend
 ----------
 
-One of them, a man named Fell, took an interest in the trivet. He fancied he knew who might have made it. So he asked
-Jack if he might take a closer look. But Jack was reluctant; all the time in the City he feared being robbed or tricked
-somehow.
+One of the Blacksmiths, a man named Fell, took an interest in the Trivet.
+He fancied he knew who might have made it. So he asked Jack if he could take a closer look.
+But Jack was reluctant; all the time in the City he feared being robbed or tricked somehow.
 
 Courage
 -------
 
-So Fell said, "My guess is there is a motto around the edge of that gadget you have. Do you know what it is?" Jack did
-not, but he held up the trivet in both hands for the Smith to see. "Ah", says the Smith, "I recognize that one word. It
-is 'Courage'".  He would have liked to study the rest of the lettering, but Jack dared not risk any loss, and he hid the
-trivet again in his bundle.
+So Fell said, "My guess is there is a motto around the edge of that article you have.
+Do you know what it is?" Jack did not, but he held up the Trivet in both hands for the Smith to see.
+"Ah", says the Smith, "I recognize that one word. It is **Courage**".
+He would have liked to study the rest of the lettering, but Jack dared not risk any loss, and he hid the
+Trivet again in his bundle.
 
 In the old days
 ---------------
@@ -563,13 +584,13 @@ Locksmiths
 ----------
 
 First he'd created a licence for making locks, which the Smiths had to purchase from him at great cost.
-Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom then he granted
+Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
 permission instead.
 
-"But", said Fell, "the Locksmiths have no idea about tolerances."
+"But the thing is", said Fell, "those Locksmiths have no idea about tolerances."
 
-"They make sure there is not one key in the City that will match another.  And yet the tumblers of those padlocks jam up
-if you drop them".
+"For sure, there is not one key in the City that will match another. And don't drop one of their padlocks.
+The tumblers jam up if you do".
 
 First wish gone
 ---------------
@@ -580,26 +601,29 @@ and went back to the cellar to sleep.
 Hiding
 ------
 
-During the night, the inner door of the cellar would frequently open and someone from the tavern above would come down
-to fetch a cask back upstairs. Jack never saw who it was because he took care always to be far back in the shadows.
+During the night, the inner door of the cellar would frequently open and someone from the Tavern above would
+come down to fetch a cask back upstairs.
+Jack never saw who it was because he took care always to be far back in the shadows.
 
-He had also to remember not to leave tracks in the dust or to tear down any cobwebs lest he be discovered. So when he
-was not rolled up in his blanket he was standing motionless, sometimes for hours.
+He had also to remember not to leave tracks in the dust or to tear down any cobwebs lest he be discovered.
+So when he was not rolled up in his blanket he was standing motionless, sometimes for hours.
 
 Standing
 --------
 
-Now this can be a very good thing to do, although not many people know the secret. For the first few minutes, you can't
-stop your mind from wandering, but then slowly you start to breathe with your belly, and your shoulders open up, and
-your hips find their shape again. Everything sinks through your legs into the ground, and then all things become
-possible.
+Now this can be a very good thing to do, although not many people know the secret.
+For the first few minutes, you can't stop your mind from wandering,
+but then slowly you start to breathe with your belly, and your shoulders open up,
+and your hips find their shape again.
+Everything sinks through your legs into the ground, and then all things become possible.
 
 Compassion
 ----------
 
-As soon as Jack awoke, he would be out again to learn more from the Smiths.  Fell remained interested in the trivet, and
-Jack allowed him to inspect the strange markings on the edge. They had been worn down by use, but after a little time
-cleaning, Fell started to understand another word. "This one says 'Compassion'", he said.
+As soon as Jack awoke, he would be out again to learn more from the Smiths.
+Fell remained interested in the Trivet, and Jack allowed him to inspect the strange markings on the edge.
+They had been worn down by use, but after a little time cleaning, Fell started to understand another word.
+"This one says **Compassion**", he said.
 
 Boilermakers
 ------------
@@ -609,28 +633,30 @@ set up an inspectorate for pressure vessels, whose punishing fees nearly put the
 Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on the burden of both
 manufacture and assurance of all such things in the City.
 
-But the Boilermakers it seemed did not understand metallurgy.  They were diligent in the prooving of their seams, yet
-they had no care at all that the flux was contaminating the Gin.
+But the Boilermakers it seemed did not understand metallurgy.
+They were diligent in the prooving of their seams, yet they had no care at all that the flux was contaminating the Gin.
 
 Second wish gone
 ----------------
 
-And that was all that Fell would say, and he went back to his work. So Jack dangled his legs over the dock for a bit,
-then went back to the cellar to sleep.
+And that was all that Fell would say, and he went back to his work.
+So Jack dangled his legs over the dock for a bit, then went back to the cellar to sleep.
 
 Try That
 --------
 
-At midnight in the cellar, up popped Krol. Jack was pleased to see him, and went over to the second barrel, upon which
-was painted 'That'. Jack opened the tap until the tundish was half to the brim and he passed it into the beam of
+At midnight in the cellar, up popped Krol.
+Jack was pleased to see him, and went over to the second barrel, upon which
+was painted **That**. Jack opened the tap until the tundish was half to the brim and he passed it into the beam of
 moonlight which held the ghostly shape.
 
 Sensitivity
 -----------
 
 Krol needed no second invitation, and drank the beer gratefully. Then he set the dish down again, and went back to
-the trivet, which was there on the floor. And he indicated one of the spokes and said, "Do you know what this one is?",
-and of course Jack did not. "This one stands for Sensitivity", said Krol.
+the Trivet, which was there on the floor. And he indicated one of the spokes and said,
+"Do you know what this one is?", and of course Jack did not.
+"This one stands for **Sensitivity**", said Krol.
 He paused for a moment, trying not to stumble over his words.
 "Sensitivity. Try to train that. It can be cultivated, can sensitivity."
 
@@ -648,20 +674,21 @@ Cognition
 
 The next morning Jack felt he urgently needed to find the Master of Smiths, so he was out again early to see his friend Fell.
 
-He in his turn had been eager to check the trivet and its third set of markings. After applying
-some paste, and rubbing with a cloth, he could make out its meaning. "This one reads 'Cognition'", he declared.
+He in his turn had been eager to check the Trivet and its third set of markings. After applying
+some paste, and rubbing with a cloth, he could make out its meaning. "This one reads **Cognition**", he declared.
 
 Cutlers
 -------
 
 Then Fell took up his story of Ingomer.
 Recently he'd forbidden the Smiths from forging blades or any edged tools, and arranged for his own
-Guild of Cutlers to be licensed exclusively for those items. Their factories were in a protected area near the Armoury.
+Guild of Cutlers to be licenced exclusively for those items. Their factories were in a protected area near the Armoury.
 
-Fell had only contempt for the Cutlers. He said they were all blade and no tang.
-Tdey did not understand the process of design.
-So when the Guards got their new glaives, they would take off the head in order that they might beat people with the
-handle, since it was very much safer for all concerned.
+Fell had nothing but contempt for the Cutlers. He said they were all blade and no tang.
+They did not understand the process of designing a product.
+So when the Guards were issued new glaives,
+they would take off the head in order that they could beat people with the handle.
+This made things very much safer for the operator.
 
 Third wish gone
 ---------------
@@ -676,18 +703,18 @@ And there was Krol again, but looking mopy and unhappy this evening. Straight aw
 And so all my time is done."
 
 And Jack looked down at his locket which was beginning to fade, and he knew that he hadn't long to carry out his
-task in the City. And so he went over to The Other, and poured out a draft into the dish. Krol took it, and nodded his
-thanks before knocking it back.
+task in the City. And so he went over to **The Other**, and poured out a draft into the dish.
+Krol took it, and nodded his thanks before knocking it back.
 
 Spontaneity
 -----------
 
 Krol reached out for the trivet, and he held it up in the faint pool of moonlight so Jack could see. He laid his
-finger on the third spoke, and said, "This is Spontaneity."
+finger on the third spoke, and said, "This is **Spontaneity**."
 He raised his finger in the air dramatically, and wagged it at Jack.
 "Try to train that. It can be cultivated, can spontaneity."
 
-There was a clatter as the trivet fell to the floor and rolled back against Jack's foot. Krol had fallen asleep.
+There was a clatter as the Trivet fell to the floor and rolled back against Jack's foot. Krol had fallen asleep.
 
 Sinking
 -------
@@ -724,7 +751,7 @@ Suspicion
 
 No one really knew what went on the Temple, but the less they knew, the more they could guess.  From then on, the Smiths
 started to leave the City. The ones who could not flee, organised themselves, and there was rioting.  But Ingomer called
-an emergency, and the unrest was put down by the Guard.
+an emergency, and the unrest was put down by the Guards.
 
 Insurrection
 ------------
@@ -736,7 +763,7 @@ a position which hitherto had been attained only by the most skilled and respect
 Finally, Ingomer
 ----------------
 
-It was the eve of the New Moon. Jack was at the gated arch in the east of the City.
+It was the eve of the New Moon. Jack was at the gated arch in the East of the City.
 
 Trumpets called out, the gates swung open and through it came the Mayoral parade.
 And there before him was Ingomer, in all his robes and finery, surrounded by guards.
