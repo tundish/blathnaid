@@ -13,7 +13,7 @@ Morten
 Once upon a time
 ----------------
 
-Once upon a time, not far from here, there was a young Farm Boy, called Jack.
+Once upon a time not far from here, there was a young farm boy called Jack.
 
 Jack
 ----
@@ -22,15 +22,15 @@ Jack's parents were elderly and sick. He had no brothers or sisters nor cousins 
 
 And the land they lived on was very poor.
 
-This boy Jack had a plough horse, and every day he would take Morten (that was his name)
+This boy Jack had a plough horse, whose name was Morten. Every day they would go out together
 to try to work a bit of good, whether it was clearing a ditch, or turning over some dirt, or mending a wall.
 
 About Morten
 ------------
 
-Now Morten was a stout horse and very obedient, but he was past his prime.
+Now Morten had been a strong horse and very loyal, but he was getting on in years.
 
-Likewise the kit that Jack had to work with.
+Likewise, the kit that Jack had to work with was all past its prime.
 The bridles were mouldy, and the harrows were rusty, and the buckets came apart in your hand.
 
 Clay
@@ -42,7 +42,7 @@ It bent the plough, it clogged the bridges, it pulled every shoe from poor Morte
 The Blacksmith
 --------------
 
-And so it was that Jack was a regular visitor to the local Blacksmith.
+And so consequently Jack was a regular visitor to the local Blacksmith.
 
 And one day, when Morten had shed a shoe, and Jack couldn't see where it had fallen,
 he led his horse onto the narrow track and over to the Forge.
@@ -52,7 +52,7 @@ About Bláthnaid
 
 Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was Bláthnaid. [*]_
 
-.. [*] Bláthnaid is a name from the Gaeilge tradition. In England we would say *Blawnid*.
+.. [*] Bláthnaid is a name from the Gaeilge tradition. In England we would likely say *Blawnid*.
 
 Chaste
 ------
@@ -69,15 +69,15 @@ Chaste
 Open for business
 -----------------
 
-The front part of the forge, where the anvil sat, was open on three sides.
+The front part of the Forge, where the anvil sat, was open on three sides.
 There stood the Blacksmith, warming against the furnace. He had been watching Jack approach up the path,
 and he could tell from Morten's stepping what the matter was about.
 
 He took the end of rope from Jack's hand and steadied Morten for a moment.
 Then he led the horse to a rail where he tied him up next to a butt of water.
 
-Shoes
------
+About the Blacksmith
+--------------------
 
 [NARRATOR]_
 
@@ -85,32 +85,36 @@ Shoes
     I'll just say that he was a very wise man. He spoke easily with people, and he listened carefully to animals.
     He wasn't only a skilled Blacksmith, but also a clever Armourer, and a reliable Farrier.
 
-    He hated to see people sick, or animals hurt. And so without a word he began to check on Morten; his eyes,
-    his teeth, his belly. And then to his hooves, whereupon he groaned quietly on seeing the state of each of them.
+Shoes
+-----
+
+The Blacksmith hated to see people sick, or animals hurt.
+And so without a word he began to check on Morten; his eyes, his teeth, his belly.
+And then to his hooves, whereupon he groaned quietly on seeing the state of each of them.
 
 The Forge
 ---------
 
 Jack knew he had no way to pay the Blacksmith, so he found it difficult to stand and watch him work.
-Instead he wandered into the back of the forge, where he was out of sight for a while.
+Instead he wandered into the back of the Forge, where he was out of sight for a while.
 
 Rafters
 -------
 
 [NARRATOR]_
 
-    Twenty feet above, the roof was supported by a sturdy iron frame, from which a chain hoist dangled.
-    From the dark corners of the eves, Jack could hear rustling and squeaking.
+    Twenty feet above his head, the roof is supported by a sturdy iron frame, from which a chain hoist dangles.
+    From the dark corners of the eves, Jack can hear rustling and squeaking.
 
-    In the middle of the workshop was the bottom half of a great casting mold.
-    And here was all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
+    In the middle of the workshop is the bottom half of a great casting mold.
+    And there's all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
     broken hasps and gears and levers. All damp and coated in bat droppings and bloom.
 
 Send me the bill
 ----------------
 
 Finally, when the horse was fully shod, the Blacksmith ducked back into where Jack had been standing.
-"All's done", said the smith, standing fully in the doorway.
+"All's done", said the Smith, standing fully in the doorway.
 
 "Dad thanks you", said Jack without much conviction.
 
@@ -122,15 +126,16 @@ Broke
 [NARRATOR]_
 
     In those days you see, people would always help their neighbours whenever there was need.
-    And should they get to owing they would settle up at Yuletide.
-    Jack blushed to think that this year there had been very little to offer anyone.
-    The Blacksmith was chief among their creditors.
-    So according to custom, Jack bowed and asked how he might be of service.
+    And should they get to owing too many favours they would settle up with coin at Yuletide.
+    Jack is in a difficult spot because this year his family have very little to offer.
+    The Blacksmith is chief among their creditors.
+    So according to custom, Jack bows and he asks how he may be of service.
 
 Errand
 ------
 
-"I do have an errand for you", says the Blacksmith. "There is a message to deliver. It will be some days travelling."
+"I do have an errand you can do for me", says the Blacksmith.
+"There is a message to deliver. It will be some days travelling."
 
 Unprepared
 ----------
@@ -142,14 +147,12 @@ want while he was away.
 Packing
 -------
 
-[NARRATOR]_
+He picked out a woollen blanket to sleep in, which he laid out before the fire so the damp would drive away.
+He found a leather bottle, which he warmed up and replenished with wax.
+He had some kindling, a blade, a flint, and a can with a lid so he could boil up water.
 
-    He picked out a woollen blanket to sleep in, which he laid out before the fire so the damp would drive away.
-    He found a leather bottle, which he warmed up and replenished with wax.
-    He had some kindling, a blade, a flint, and a can with a lid so he could boil up water.
-
-    Morten would have to forage. And Jack would go hungry. But he was not dismayed.
-    He fell asleep before the grate, happy for the first time in months.
+Morten would have to forage. And Jack would go hungry. But he was not dismayed.
+He fell asleep before the grate, and dreamt of voyaging and adventure.
 
 The Trivet
 ==========
@@ -165,7 +168,7 @@ Lightly equipped
 
 The Blacksmith was already waiting for them. He saw straight away how lightly equipped Jack was.
 
-So he reached under the bench and pulled out a chunk of iron, round in shape, and about the size of his hand.
+So he reached under the bench and pulled out a chunk of iron. Round in shape, it clanged and sang.
 He looked at it thoughtfully for a moment, before taking a rough brush to scrub away the rust.
 
 "You'll need that", said he, handing it to Jack.
@@ -173,16 +176,15 @@ He looked at it thoughtfully for a moment, before taking a rough brush to scrub 
 About The Trivet
 ----------------
 
-[NARRATOR]_
-
-    It was a trivet, such as you'd use to balance a kettle above a fire.
-    This one was solidly made, but in a decorative design; it had curved spokes like the wheel of some
-    fantastic chariot. Around the circumference were embossed letters, not yet clear enough to read.
+It was a Trivet, such as you'd use to sit a kettle on a fire.
+This one was solidly made, but with a decorative design. It had curved spokes like the wheel of some
+fantastic chariot. Around the circumference were embossed letters, not yet clear enough to read.
 
 A token
 -------
 
-Then the Blacksmith opened a small tin box, taking from it a wrap of waxed paper and a metal tool, like a saddler's punch.
+Then the Blacksmith opened a small tin box, taking from it a wrap of waxed paper and a metal tool,
+like a saddler's punch.
 
 Then he heated a small billet of iron, about the size of a pea pod, which had a hole in one end.
 
@@ -191,9 +193,9 @@ Activated
 
 [NARRATOR]_
 
-    Peeling apart the paper, despite his grimy fingers, he carefully removed a small thin sheet of
-    white metal foil. With the iron still hot, he deftly dropped the metal foil upon the surface, and placing
-    the punch on top, struck it smartly with a hammer.
+    Peeling apart the paper, despite his grimy fingers, he carefully removes a small thin sheet of
+    white metal foil. With the iron still hot, he deftly drops the metal foil upon the surface, and placing
+    the punch on top, strikes it smartly with a hammer.
 
 Issued
 ------
@@ -213,7 +215,7 @@ The Message
 -----------
 
 "When you get inside, seek out the Master of the Guild of Smiths.
-The guild sign looks very like this trivet you carry.
+The Guild sign looks very like this Trivet you carry.
 He will know who sends you by the charm around your neck."
 
 "Tell him this; that Bláthnaid is of age to marry. And now you must go."
@@ -221,7 +223,7 @@ He will know who sends you by the charm around your neck."
 They set off
 ------------
 
-So Jack set off. The first few miles east were familiar to him, passing through places he had been before.
+So Jack set off. The first few miles East were familiar to him, passing through places he had been before.
 At the little hamlets on the way, he would look to catch the eye of anyone around, and wave and bid them good day.
 He felt very proud and important to be on an errand to the City.
 
@@ -233,7 +235,7 @@ In the evening he spied ahead a group of tents and carts.
 Tinkers
 -------
 
-He guessed this would be tinkers, who move about wherever there is work. When he was younger they had
+He guessed they might be tinkers, who move about wherever there is work. When he was younger they had
 sometimes passed by, and his Mother had brought out the old tin bath for them to mend.
 
 The camp
@@ -247,24 +249,22 @@ Hungry
 
 [NARRATOR]_
 
-    Jack greeted them every one, and some replied and some did not. They did not seem to be tinkers at all.
-    There were many children, and some old folk. And they were not very organised, and they all looked tired,
+    Jack greets them every one, and some reply and some do not. They do not seem to be tinkers at all.
+    There are many children, and some old folk. They are not very organised, and they all look tired,
     and cold, and hungry.
 
 Brew up
 -------
 
 Of course, Jack had no food, and none was offered to him. So he built a little fire away from the main group, and
-set up the trivet, and boiled some water.
+set up the Trivet, and boiled some water.
 
 Boon
 ----
 
-[NARRATOR]_
-
-    Now this trivet was very special; only a few Blacksmiths know how to make such a thing.
-    Because whatever you brewed upon it, however little tea you had; in fact, no matter if you were only
-    boiling hay, that brew would nourish and cheer you throughout, and you would not feel the lack of a meal.
+Now this Trivet was very special; only a few Blacksmiths know how to make such a thing.
+Because whatever you brewed upon it, however little tea you had; in fact, no matter if you were only
+boiling hay, that brew would nourish and cheer you throughout, and you would not feel the lack of a meal.
 
 Camping
 -------
@@ -275,29 +275,27 @@ Morten settled down under a tree, happy to be away from the plough, and very ple
 Onward
 ------
 
-[NARRATOR]_
-
-    They awoke in the grey of early dawn, and were soon on their way again.
-    As they they went on, the road east got broader.
-    The Villages they passed through were more frequent. The bigger they got, the more shabby they seemed to be.
-    The countryside around was ever more sad and bare, with less and less forage for Morten.
+They awoke in the grey of early dawn, and were soon on their way again.
+As they they went on, the road East got broader.
+The villages they passed through were more frequent. The bigger they got, the more shabby they seemed to be.
+The countryside around was ever more sad and bare, with less and less forage for Morten.
 
 Yet onward
 ----------
 
-And so for three more days they travelled. Jack could tell Morten was getting tired, and tried not to ride him,
-but led him for miles at a time by the bridle. He would pat the horse's flank, and worry about how skinny his ribs
-were becoming.
+[NARRATOR]_
+
+    And so for three more days they travel. Jack can tell Morten is getting tired, and tries not to ride him
+    He leads him for miles at a time by the bridle. He pats his horse's flank, and worries about how skinny
+    his ribs are becoming.
 
 Optimism
 --------
 
-[NARRATOR]_
-
-    Jack had ceased to greet other travellers on the road, and preferred very much to camp alone.
-    As he lay looking up at the stars, he would take out the locket the Blacksmith had made for him, and marvel
-    at how it glowed in the darkness. The New Moon was yet two weeks away. Plenty of time to deliver a message,
-    thought Jack.
+Jack had ceased to greet other travellers on the road, and preferred very much to camp alone.
+As he lay looking up at the stars, he would take out the locket the Blacksmith had made for him, and marvel
+at how it glowed in the darkness. The New Moon was yet two weeks away. Plenty of time to deliver a message,
+thought Jack.
 
 The City
 ========
@@ -305,11 +303,9 @@ The City
 Hinterland
 ----------
 
-[NARRATOR]_
-
-    The last few miles were grim. There was not a tree or bush to be seen now; only a blasted and boggy heath.
-    The road was lined on both sides by ragged camps; turves piled up for walls, rooved with the wreckage of
-    tattered wagons. And everywhere, the sounds and smells of sad and hungry people.
+The last few miles were grim. There was not a tree or bush to be seen now; only a blasted and boggy heath.
+The road was lined on both sides by ragged camps; turves piled up for walls, rooved with the wreckage of
+tattered wagons. And everywhere, the sounds and smells of sad and hungry people.
 
 Blocked
 -------
@@ -321,9 +317,11 @@ Challenged
 ----------
 
 In his whole life, Jack had never stood in a line for anything, and the longer he waited the less sure of himself
-he became. Finally, at the barrier, whereupon a sourfaced man in a leather tunic demanded to know what was his
-business, Jack could only hold up the locket and say, "I carry a message". That seemed to suffice; the guard lifted
-his truncheon and waved him through.
+he became. Finally, at the barrier, a sourfaced man in a leather tunic demanded to know what was his
+business.
+
+Jack could only hold up the locket and say, "I carry a message".
+That seemed to suffice; the man lowered his truncheon and waved him through.
 
 Traffic
 -------
@@ -336,39 +334,37 @@ Then he aimed for a smaller door next to the main entry which seemed to be open 
 The Postern
 -----------
 
-The smaller gate was flanked by two guards, sternly on duty. They held short, solid bills with evil-looking hooks at
-the end.  One of the men stepped forward to take Morten's bridle. The other offered the point of his weapon and 
-dvised Jack he should explain himself or go back where he came.
+The smaller gate was flanked by two Guards, sternly on duty. They held short, solid bills with evil-looking hooks
+at the end.  One of the men stepped forward to take Morten's bridle.
+The other offered the point of his weapon and advised Jack he should explain himself or go back where he came.
 
 Password
 --------
 
-Jack repeated the words that had got him past the previous challenge. This time, the guard studied the locket
+Jack repeated the words that had got him past the previous challenge. This time, the Guard studied the locket
 carefully, before finally nodding. Then he asked, in a mocking way, whether the horse carried a message too,
 and where was his token for entry?
 
 Separated
 ---------
 
-The first guard tied poor Morten to a gatepost, saying, "if you can't feed him, you shouldn't keep him".
+The first Guard tied poor Morten to a gatepost, saying, "if you can't feed him, you shouldn't keep him".
 The second man joked, "sure, he'll eat very well presently!" There was nothing that Jack could do but step through
-the gate while he was able, to the laughter of the guards as he passed.
+the gate while he was able, to the laughter of the Guards as he passed.
 
 Inside
 ------
 
 Inside the wall, Jack found himself on a raised buttress, with stone battlements on either side.
-Two flights of steps led down to the street below. He tripped and tumbled down them, so upset was he at the loss of 
-Morten.
+Two flights of steps led down to the street below.
+He tripped and tumbled down them, confused and upset at how he had just lost Morten.
 
 Ambush
 ------
 
-[NARRATOR]_
-
-    In the street, several fellows who were gathered there took notice of him and Jack realised he had better
-    recover his wits or else be robbed again. He hurried ahead until he got to a spot where he could not be
-    surprised. There he sank to his haunches, steadied his breathing, and began to look around.
+In the street, several fellows who were gathered there took notice of him and Jack realised he had better
+recover his wits or else be robbed again. He hurried ahead until he got to a spot where he could not be
+surprised. There he sank to his haunches, steadied his breathing, and began to look around.
 
 Environment
 -----------
