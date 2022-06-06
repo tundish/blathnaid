@@ -687,8 +687,8 @@ Guild of Cutlers to be licenced exclusively for those items. Their factories wer
 Fell had nothing but contempt for the Cutlers. He said they were all blade and no tang.
 They did not understand the process of designing a product.
 So when the Guards were issued new glaives,
-they would take off the head in order that they could beat people with the handle.
-This made things very much safer for the operator.
+they would take off the head in order that they could at least beat people with the handle.
+It was so very much safer for the operator.
 
 Third wish gone
 ---------------
@@ -709,7 +709,7 @@ Krol took it, and nodded his thanks before knocking it back.
 Spontaneity
 -----------
 
-Krol reached out for the trivet, and he held it up in the faint pool of moonlight so Jack could see. He laid his
+Krol reached out for the Trivet, and he held it up in the faint pool of moonlight so Jack could see. He laid his
 finger on the third spoke, and said, "This is **Spontaneity**."
 He raised his finger in the air dramatically, and wagged it at Jack.
 "Try to train that. It can be cultivated, can spontaneity."
@@ -756,7 +756,7 @@ an emergency, and the unrest was put down by the Guards.
 Insurrection
 ------------
 
-After that there was a hasty election, for which only some were prepared.
+After that there was a hasty election, for which some parties were very well prepared.
 At the end of it Ingomer had become Master of the Guild of Smiths,
 a position which hitherto had been attained only by the most skilled and respected of craftsmen.
 
@@ -837,16 +837,18 @@ But the locket shone no longer. And he knew he had to go.
 Evasion
 -------
 
-Patrols in the streets, in pairs, and Jack has no permit to pass.
+[NARRATOT]_
 
-Therefore he creeps behind so close as to tap them on the forehead.
-His breath steady, his step light, and they do not perceive him.
-He borrows their badge; so must thieves stand aside, daring not to delay him.
+    Patrols in the streets, in pairs, and Jack has no permit to pass.
 
-Or he takes up dancing; he spins with arms oddly up and aloft, until beggars laugh to throw him their
-pennies.
+    Therefore he creeps behind so close as to tap them on the forehead.
+    His breath steady, his step light, and they do not perceive him.
+    He borrows their badge; so must thieves stand aside, daring not to delay him.
 
-They show him their backs, those Guards, in disgust, and he hurries along to the gateway.
+    Or he takes up dancing; he spins with arms oddly up and aloft, until beggars laugh to throw him their
+    pennies.
+
+    They show him their backs, those Guards, in disgust, and he hurries along to the gateway.
 
 Escape
 ------
@@ -907,10 +909,8 @@ A fortnight after escaping the City, Jack stood once again at the Forge.
 The long version
 ----------------
 
-[NARRATOR]_
-
-    Jack had on his mind to explain the full story, but as soon as he opened his mouth to do so,
-    the words of Ingomer announced themselves unbidden.
+Jack had on his mind to explain the full story, but as soon as he opened his mouth to do so,
+the words of Ingomer announced themselves unbidden.
 
 The short version
 -----------------
@@ -920,11 +920,9 @@ The short version
 Curse
 -----
 
-[NARRATOR]_
-
-    Right away there was a response from inside the Smithy. The bats, who had been listening, began to stir.
-    From the space in the roof they swarmed out in their thousands.
-    With a flurry of fur and leather they ascended in a column like the smoke of a wet chimney.
+Right away there was a response from inside the Smithy. The bats, who had been listening, began to stir.
+From the space in the roof they swarmed out in their thousands.
+With a flurry of fur and leather they ascended in a column like the smoke of a wet chimney.
 
 Karma
 -----
