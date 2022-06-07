@@ -687,13 +687,13 @@ Cutlers
 
 Then Fell took up his story of Ingomer.
 Recently he'd forbidden the Smiths from forging blades or any edged tools, and arranged for his own
-Guild of Cutlers to be licenced exclusively for those items. Their factories were in a protected area near the Armoury.
+Guild of Cutlers to be licensed exclusively for those items. Their factories were in a protected area near the Armoury.
 
 Fell had nothing but contempt for the Cutlers. He said they were all blade and no tang.
 They did not understand the process of designing a product.
 So when the Guards were issued new glaives,
 they would take off the head in order that they could at least beat people with the handle.
-It was so very much safer for the operator.
+It was significantly safer for the operator.
 
 Third wish gone
 ---------------
@@ -728,7 +728,7 @@ Sinking
 
     Jack is too anxious to sleep. He keeps standing there in the dark, letting his shoulders go forward a little,
     until the tension in his neck drops out, and he hears the bones in his back letting go of each other.
-    Then in lumps it fall into his legs, and runs like hot sweat down the inside of his skin.
+    Then in lumps it falls into his legs, and runs like hot sweat down the inside of his skin.
 
 The Master
 ----------
@@ -783,7 +783,7 @@ Jack stepped forward and raised up his locket saying, "I carry a message!"
 Ingomer always kept his ears open for news, and he raised his hand to halt the procession.
 He glanced at the locket, and then back at Jack. "What is it? Quickly!"
 
-He looked older than the portrait on the notices, and altogether less noble.
+He looked older than the portrait on his notices, and altogether less noble.
 Ingomer hadn't been feeling well lately. His weakness for Gin had paled his skin.
 Where he had tried to shave, his face was sore and blotchy.
 
@@ -824,18 +824,21 @@ They assumed him to be one of Ingomer's spies, albeit now out of favour for havi
 Chase is on
 -----------
 
-By the time the Captain of Guard had rung the general alarm, Jack was already on his feet, and he raced
-off by obscure ways to get back to his hiding place.
+By the time the Captain of Guard had rung the general alarm, Jack was already on his feet and he took
+off, dodging through the crowd until it thinned out, and then he sprinted away.
 
 Some of the Guards made after him though. Three or four were just back from the war;
 freshly assigned to parade detail. They hadn't yet had time to adjust to the Cutlers' shiny new armour.
 The injuries they sustained from their equipment as they ran were later to be the subject of an inquiry.
 
+Jack was careful to shake them off before he stopped for breath, and then took an obscure route to get
+back to the hiding place under the Tavern.
+
 Options
 -------
 
 That night, back in the cellar, Jack had no idea what to do next. He wondered if he should stay in the
-City, and ask Fell to teach him Smithing. Or should he find his way home with no horse and no way to
+City, and ask Fell to teach him Smithing. For how could he try to go home with no horse and no way to
 make a living? He had delivered the message, after a fashion. He could even recall the reply. Ingomer's
 odd words had somehow lodged themselves in Jack's brain.
 
@@ -852,8 +855,6 @@ Time's up
 
 In the morning, Jack looked down at his locket.
 But the locket shone no longer. And he knew he had to go.
-
-He remained Jack, the boy who had grown up in Jack's body. But now he could find himself wherever he looked.
 
 Evasion
 -------
@@ -923,7 +924,7 @@ A fortnight after escaping the City, Jack stood once again at the Forge.
 
 "Did you meet with the Master?" asked the Blacksmith.
 
-"Yes", said Jack.
+"Yes, I did", said Jack.
 
 "And what did he say?"
 
