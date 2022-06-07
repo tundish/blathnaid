@@ -611,11 +611,13 @@ So when he was not rolled up in his blanket he was standing motionless, sometime
 Standing
 --------
 
-Now this can be a very good thing to do, although not many people know the secret.
-For the first few minutes, you can't stop your mind from wandering,
-but then slowly you start to breathe with your belly, and your shoulders open up,
-and your hips find their shape again.
-Everything sinks through your legs into the ground, and then all things become possible.
+[NARRATOR]_
+
+    Now this can be a very good thing to do, although not many people know the secret.
+    For the first few minutes, you can't stop your mind from wandering,
+    but then slowly you start to breathe with your belly, and your shoulders open up,
+    and your hips find their shape again.
+    Everything sinks through your legs into the ground, and then all things become possible.
 
 Compassion
 ----------
@@ -633,7 +635,7 @@ set up an inspectorate for pressure vessels, whose punishing fees nearly put the
 Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on the burden of both
 manufacture and assurance of all such things in the City.
 
-But the Boilermakers it seemed did not understand metallurgy.
+But according to Fell, the Boilermakers still had a lot to learn when it came to metallurgy.
 They were diligent in the prooving of their seams, yet they had no care at all that the flux was contaminating the Gin.
 
 Second wish gone
@@ -665,9 +667,12 @@ And before Jack could get him to explain any more, Krol had curled up and was of
 Longevity
 ---------
 
-But Jack could not sleep. He felt very alone, in a very strange world. So he stood there in his little spot in the dark.
-And he calmed his breathing, until it moved down from his chest into his belly. Breathing slower, and softer.
-Until nearly half a minute to breathe in, and nearly half a minute to breathe out.
+[NARRATOR]_
+
+    But Jack can't sleep. He feels very alone, in a very strange world. So he stands there in his little spot
+    in the dark. And he calms his breathing, until it moves down from his chest into his belly.
+    Breathing slower, and softer. Until nearly half a minute to breathe in, and nearly half a minute to
+    breathe out.
 
 Cognition
 ---------
@@ -719,12 +724,11 @@ There was a clatter as the Trivet fell to the floor and rolled back against Jack
 Sinking
 -------
 
-Jack was too anxious to sleep. He kept standing there in the dark, letting his shoulders go forward a little,
-until the tension in his neck dropped out, and he heard the bones in his back letting go of each other.
-Then in lumps it fell into his legs, and ran like hot sweat down the inside of his skin.
+[NARRATOR]_
 
-Ingomer
-=======
+    Jack is too anxious to sleep. He keeps standing there in the dark, letting his shoulders go forward a little,
+    until the tension in his neck drops out, and he hears the bones in his back letting go of each other.
+    Then in lumps it fall into his legs, and runs like hot sweat down the inside of his skin.
 
 The Master
 ----------
@@ -760,32 +764,44 @@ After that there was a hasty election, for which some parties were very well pre
 At the end of it Ingomer had become Master of the Guild of Smiths,
 a position which hitherto had been attained only by the most skilled and respected of craftsmen.
 
-Finally, Ingomer
-----------------
+Ingomer
+=======
+
+So it's Ingomer
+---------------
 
 It was the eve of the New Moon. Jack was at the gated arch in the East of the City.
 
 Trumpets called out, the gates swung open and through it came the Mayoral parade.
-And there before him was Ingomer, in all his robes and finery, surrounded by guards.
+And there in an armoured carriage was Ingomer, in all his robes and finery, surrounded by Guards.
+
+Last time for the Locket
+------------------------
 
 Jack stepped forward and raised up his locket saying, "I carry a message!"
 
-Ingomer was always attentive to news, and he raised his hand to halt the procession.
+Ingomer always kept his ears open for news, and he raised his hand to halt the procession.
 He glanced at the locket, and then back at Jack. "What is it? Quickly!"
 
 He looked older than the portrait on the notices, and altogether less noble.
-Ingomer hadn't been feeling well lately. His love of Gin had paled his skin.
+Ingomer hadn't been feeling well lately. His weakness for Gin had paled his skin.
 Where he had tried to shave, his face was sore and blotchy.
+
+Here's my Message
+-----------------
 
 The parade fell silent, and it seemed to Jack that the whole world had hushed too.
 He opened his mouth again. There was no effort to be made. The words came from a deep place of their own.
 
 "Bláthnaid is of age to marry."
 
-The effect this had on Ingomer was a shock to all around him.
-He recognised the name. It was one of the peasant names that Blacksmiths gave their daughters.
+Ingomer's reaction
+------------------
 
-It had been ten years since he'd brought servitude, and much worse, to the children
+The effect this had on Ingomer was a shock to all around him.
+He recognised the name, you see. It was one of the peasant names that Blacksmiths gave their daughters.
+
+It had been ten years since he'd brought servitude, and worse, to the children
 of his enemies. But they had escaped him, and found ways to prosper, and now saw fit to mock him.
 
 Ingomer shook with rage. "Progeniem Vitiosiorem!", he cursed, in the secret language of the Temple.
@@ -799,18 +815,21 @@ He felt very old now.
 Kicked out
 ----------
 
-Some guards rushed forward to grab Jack, and two of them pushed through the crowd in advance of their captive.
-They carried him as far as the next street corner, threw him down, and beat him.
+Bodyguards rushed forward and grabbed Jack, and two of them pushed through the crowd in advance
+of their captive. They carried him as far as the next street corner, threw him down, and beat him.
 
-But Jack wasn't badly hurt, nor did the Guards really try to arrest him.
-They had taken him for one of Ingomer's spies, for sure out of favour for having delivered bad news.
+But Jack wasn't too much hurt, nor did the Guards really try to arrest him.
+They assumed him to be one of Ingomer's spies, albeit now out of favour for having delivered bad news.
+
+Chase is on
+-----------
 
 By the time the Captain of Guard had rung the general alarm, Jack was already on his feet, and he raced
 off by obscure ways to get back to his hiding place.
 
-A couple of the Guard were more alert than the others, and they started to run after him.
-Unfortunately, having been deployed on parade they were wearing the shiniest armour the Cutlers could make, and so they
-got some quite awful lacerations when they tried to give chase.
+Some of the Guards made after him though. Three or four were just back from the war;
+freshly assigned to parade detail. They hadn't yet had time to adjust to the Cutlers' shiny new armour.
+The injuries they sustained from their equipment as they ran were later to be the subject of an inquiry.
 
 Options
 -------
@@ -823,16 +842,18 @@ odd words had somehow lodged themselves in Jack's brain.
 Dissolving
 ----------
 
-He stood all night. He took in heaven at the crown of his head, and passed it down into the earth.
-Then he drew it up until he was filled again, and with it he watered the dark abyss.
+[NARRATOT]_
 
-He remained Jack, the boy who had grown up in Jack's body. But now he could find himself wherever he looked.
+    He stands all night. He takes in heaven at the crown of his head, and passes it down into the earth.
+    Then he draws it up until he is filled again, and with it he waters the dark abyss.
 
 Time's up
 ---------
 
 In the morning, Jack looked down at his locket.
 But the locket shone no longer. And he knew he had to go.
+
+He remained Jack, the boy who had grown up in Jack's body. But now he could find himself wherever he looked.
 
 Evasion
 -------
