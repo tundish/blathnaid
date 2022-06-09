@@ -1,11 +1,13 @@
 :project:   Bláthnaid
 :author:    D E Haynes
-:copyright: 2022 D E Haynes
+:copyright: |COPYRIGHT|
 :title:     Bláthnaid
-:version:   Version |VERSION|
+:version:   |VERSION|
+
+.. |COPYRIGHT| replace:: 2022 D E Haynes
+.. |VERSION| property:: blathnaid.tale.__version__
 
 .. [NARRATOR]   May be an audio voice-over or a video clip.
-.. |VERSION| property:: blathnaid.tale.__version__
 
 Morten
 ======

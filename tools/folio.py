@@ -109,6 +109,14 @@ class Folio(Story):
         text-indent: 0rem;
         }
 
+        h1 {
+        font-size: 200%;
+        margin-bottom: 18%;
+        margin-top: 28%;
+        text-transform: capitalize;
+        text-align: center;
+        }
+
         blockquote header {
         display: none;
         }
@@ -138,9 +146,9 @@ class Folio(Story):
         }
 
         span.footnote {
-            float: footnote;
-            font-family: "Libre Baskerville", serif;
-            font-size: 0.7rem;
+        float: footnote;
+        font-family: "Libre Baskerville", serif;
+        font-size: 0.7rem;
         }
 
         ::footnote-call {
@@ -150,6 +158,44 @@ class Folio(Story):
         ::footnote-marker {
         }
         }   /* End of print media */
+
+        @media screen {
+        dl {
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        flex-flow: wrap;
+        flex-wrap: wrap;
+        font-family: "DejaVu Sans", sans-serif;
+        justify-content: space-around;
+        letter-spacing: 0.125rem;
+        margin-left: 1rem;
+        }
+
+        dt {
+        font-size: 0.7rem;
+        font-weight: lighter;
+        margin-bottom: 0.4rem;
+        margin-right: 0.3rem;
+        }
+
+        dt::after {
+        content: ":";
+        }
+
+        dd {
+        margin-bottom: 0.9rem;
+        margin-right: 1.0rem;
+        }
+
+        h1 {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+        text-transform: capitalize;
+        }
+
+
+        }   /* End of screen media */
 
         * {
         box-sizing: border-box;
@@ -165,12 +211,8 @@ class Folio(Story):
         vertical-align: baseline;
         }
 
-        h1 {
-        font-size: 200%;
-        margin-bottom: 18%;
-        margin-top: 28%;
-        text-transform: capitalize;
-        text-align: center;
+        .catchphrase-banner {
+        display: none;
         }
 
         p {
@@ -202,7 +244,7 @@ class Folio(Story):
         self.pause = pause
         self.chapters = []
         self.metadata = {
-            "now": datetime.datetime.utcnow()
+            "print": datetime.date.today()
         }
         self.sections = []
         self.seconds = 0
@@ -228,20 +270,29 @@ class Folio(Story):
         dialogue = "\n".join(i for l in frame[Model.Line] for i in self.animated_line_to_html(l, **kwargs))
         stills = "\n".join(self.animated_still_to_html(i, **kwargs) for i in frame[Model.Still])
         spoken = any(anim.element.persona for anim in frame[Model.Line])
+        chapter = ([i.get("chapter", 0) for i in self.chapters] or [0])[-1]
         if not self.chapters or self.chapters[-1].get("scene") != frame["scene"]:
-            if self.chapters:
+            if chapter:
                 yield "</section>"
-            metadata = {"path": witness.path, "chapter": len(self.chapters) + 1, "scene": frame["scene"]}
+            metadata = {"path": witness.path}
+            if frame["scene"]:
+                metadata.update({"chapter": chapter + 1, "scene": frame["scene"]})
             self.chapters.append(metadata)
             yield from self.render_metadata(**metadata)
 
             yield '<section class="scene">'
-            yield f"<h1>{frame['scene']}</h1>"
+
+            if frame["scene"]:
+                yield f"<h1>{frame['scene']}</h1>"
+
             if spoken:
                 yield '<div class="shot spoken">'
             else:
                 yield '<div class="shot unspoken">'
-            yield f"<h2>{frame['name']}</h2>"
+
+            if frame["name"]:
+                yield f"<h2>{frame['name']}</h2>"
+
             if stills.strip():
                 yield f"{stills}"
             yield f"{dialogue}"
@@ -273,11 +324,13 @@ class Folio(Story):
             if not v:
                 continue
 
+            yield '<div class="field">'
             yield f"<dt>{k}</dt>"
             if isinstance(v, list):
                 yield from (f"<dd>{i}</dd>" for i in v)
             else:
                 yield f"<dd>{v}</dd>"
+            yield  "</div>"
         yield "</dl>"
         yield "</section>"
 
@@ -299,7 +352,7 @@ class Folio(Story):
             presenter, reply = self.read(presenter, reply)
 
             if not n:
-                break
+                self.context.folder.pop(0)
             else:
                 n -= 1
         else:
