@@ -325,10 +325,13 @@ business.
 Jack could only hold up the locket and say, "I carry a message".
 That seemed to suffice; the man lowered his truncheon and waved him through.
 
-Traffic
+Through
 -------
 
 The walls of the City lay before them, and the road led up to an enormous gate.
+
+Traffic
+-------
 
 [NARRATOR]_
 
@@ -847,7 +850,7 @@ odd words had somehow lodged themselves in Jack's brain.
 Dissolving
 ----------
 
-[NARRATOT]_
+[NARRATOR]_
 
     He stands all night. He takes in heaven at the crown of his head, and passes it down into the earth.
     Then he draws it up until he is filled again, and with it he waters the dark abyss.
@@ -861,7 +864,7 @@ But the locket shone no longer. And he knew he had to go.
 Evasion
 -------
 
-[NARRATOT]_
+[NARRATOR]_
 
     Patrols in the streets, in pairs, and Jack has no permit to pass.
 

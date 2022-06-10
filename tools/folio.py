@@ -121,6 +121,14 @@ class Folio(Story):
         display: none;
         }
 
+        p {
+        font-family: "Libre Baskerville", serif;
+        font-size: small;
+        margin-bottom: 1.3rem;
+        text-align: justify;
+        text-indent: 0.5rem;
+        }
+
         .line:last-of-type blockquote::after {
         content: "-";
         display: block;
@@ -162,6 +170,9 @@ class Folio(Story):
         @media screen {
         dl {
         align-items: center;
+        border-color: gray;
+        border-top-style: dotted;
+        border-width: thin;
         display: flex;
         flex-direction: row;
         flex-flow: wrap;
@@ -169,6 +180,7 @@ class Folio(Story):
         font-family: "DejaVu Sans", sans-serif;
         justify-content: space-around;
         letter-spacing: 0.125rem;
+        padding-top: 1.6rem;
         margin-left: 1rem;
         }
 
@@ -184,16 +196,70 @@ class Folio(Story):
         }
 
         dd {
+        font-weight: lighter;
         margin-bottom: 0.9rem;
         margin-right: 1.0rem;
         }
 
         h1 {
-        font-size: 1rem;
+        /* font-family: "Cinzel", "Libre Baskerville", serif; */
+        font-size: 1.2rem;
+        font-weight: bold;
+        letter-spacing: 0.125rem;
+        margin-top: 1rem;
         margin-bottom: 1rem;
-        text-transform: capitalize;
+        text-align: center;
+        text-transform: uppercase;
         }
 
+        h2 {
+        border-color: gray;
+        border-left-style: dotted;
+        border-width: thin;
+        font-family: "DejaVu Sans", sans-serif;
+        font-size: 0.7rem;
+        padding-left: 0.4rem;
+        margin-bottom: 0.6rem;
+        margin-left: 24rem;
+        }
+
+        section {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 6.0rem;
+        width: 32rem;
+        }
+
+        .scene {
+        margin-top: 1.8rem;
+        }
+
+        .shot {
+        margin-bottom: 1.6rem;
+        page-break-inside: avoid;
+        }
+
+        p {
+        font-family: "IBM Plex Serif", "Junge", "Libre Baskerville", "FreeSerif", serif;
+        line-height: 1.6rem;
+        padding-bottom: 0.4rem;
+        padding-top: 0.4rem;
+        word-spacing: 0.3rem;
+        }
+
+        .spoken p {
+        font-style: italic;
+        }
+
+        .spoken .line:first-of-type header {
+        display: block;
+        font-family: "DejaVu Sans", sans-serif;
+        margin-bottom: 0.6rem;
+        }
+
+        blockquote header {
+        display: none;
+        }
 
         }   /* End of screen media */
 
@@ -215,14 +281,6 @@ class Folio(Story):
         display: none;
         }
 
-        p {
-        font-family: "Libre Baskerville", serif;
-        font-size: small;
-        margin-bottom: 1.3rem;
-        text-align: justify;
-        text-indent: 0.5rem;
-        }
-
         em {
         font-style: italic;
         }
@@ -232,8 +290,7 @@ class Folio(Story):
         }
 
         .line:first-of-type blockquote header {
-        font-weight: bold;
-        text-transform: capitalize;
+        text-transform: uppercase;
         }
 
     """)
