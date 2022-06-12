@@ -916,7 +916,7 @@ All the time the weather was turning for the worse, and Jack was starting to suf
 With Compassion
 ---------------
 
-So he began to knock at the doors of cottages and offer to tell tales of the City. And when the people opened their
+So he began to knock at the farms and cottages and offer to tell tales of the City. And when the people opened their
 doors he would talk with them about Compassion; how human sensitivity is manifest spontaneously and authentically.
 
 Bláthnaid
