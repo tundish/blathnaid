@@ -25,14 +25,14 @@ Jack's parents were elderly and sick. He had no brothers or sisters nor cousins 
 And the land they lived on was very poor.
 
 This boy Jack had a plough horse, whose name was Morten. Every day they would go out together
-to try to work a bit of good, whether it was clearing a ditch, or turning over some dirt, or mending a wall.
+to work a bit of good, whether it was clearing a ditch, or turning over some dirt, or mending a wall.
 
 About Morten
 ------------
 
 Now Morten had been a strong horse and very loyal, but he was getting on in years.
 
-Likewise, the kit that Jack had to work with was all past its prime.
+Likewise, the kit and the tools Jack had were all past their prime.
 The bridles were mouldy, and the harrows were rusty, and the buckets came apart in your hand.
 
 Clay
@@ -118,7 +118,7 @@ Send me the bill
 Finally, when the horse was fully shod, the Blacksmith ducked back into where Jack had been standing.
 "All's done", said the Smith, standing fully in the doorway.
 
-"Dad thanks you", said Jack without much conviction.
+"Dad thanks you", said Jack without much confidence.
 
 "That's certain, Jack. And we must reckon up, presently. For today and for times past."
 
@@ -128,7 +128,7 @@ Broke
 [NARRATOR]_
 
     In those days you see, people would always help their neighbours whenever there was need.
-    And should they get to owing too many favours they would settle up with coin at Yuletide.
+    And should they get to owing too many favours they would settle up in coin at Yuletide.
     Jack is in a difficult spot because this year his family have very little to offer.
     The Blacksmith is chief among their creditors.
     So according to custom, Jack bows and he asks how he may be of service.
@@ -271,7 +271,7 @@ boiling hay, that brew would nourish and cheer you throughout, and you would not
 Camping
 -------
 
-So Jack rolled himself up in his blanket, near to the fire, all warm and comfy.
+So Jack rolled himself up in his blanket, near to the fire, warm and quite comfy.
 Morten settled down under a tree, happy to be away from the plough, and very pleased with his new shoes.
 
 Onward
@@ -287,7 +287,7 @@ Yet onward
 
 [NARRATOR]_
 
-    And so for three more days they travel. Jack can tell Morten is getting tired, and tries not to ride him
+    And so for three more days they travel. Jack can tell Morten is getting tired, and tries not to ride him.
     He leads him for miles at a time by the bridle. He pats his horse's flank, and worries about how skinny
     his ribs are becoming.
 
@@ -592,7 +592,7 @@ First he'd created a licence for making locks, which the Smiths had to purchase 
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
 permission instead.
 
-"But the thing is", said Fell, "those Locksmiths have no idea about tolerances."
+"But the thing is", said Fell, "those Locksmiths, they can't maintain their tolerances."
 
 "For sure, there is not one key in the City that will match another. And don't drop one of their padlocks.
 The tumblers jam up if you do".
@@ -635,7 +635,7 @@ They had been worn down by use, but after a little time cleaning, Fell started t
 Boilermakers
 ------------
 
-Then Fell resumed his account of Mayor Ingomer.  How, after some strange accident which no one could explain, Ingomer
+Then Fell resumed his account of Mayor Ingomer.  How, after some sudden accident which no one could explain, Ingomer
 set up an inspectorate for pressure vessels, whose punishing fees nearly put the Smiths entirely out of business.
 Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on the burden of both
 manufacture and assurance of all such things in the City.
@@ -778,7 +778,7 @@ So it's Ingomer
 It was the eve of the New Moon. Jack was at the gated arch in the East of the City.
 
 Trumpets called out, the gates swung open and through it came the Mayoral parade.
-And there in an armoured carriage was Ingomer, in all his robes and finery, surrounded by Guards.
+And there on an armoured carriage was Ingomer, in all his robes and finery, surrounded by Guards.
 
 Last time for the Locket
 ------------------------
@@ -806,7 +806,7 @@ Ingomer's reaction
 The effect this had on Ingomer was a shock to all around him.
 He recognised the name, you see. It was one of the peasant names that Blacksmiths gave their daughters.
 
-It had been ten years since he'd brought servitude, and worse, to the children
+It had been ten years since he'd brought servitude and violation to the children
 of his enemies. But they had escaped him, and found ways to prosper, and now saw fit to mock him.
 
 Ingomer shook with rage. "Progeniem Vitiosiorem!", he cursed, in the secret language of the Temple.
@@ -837,7 +837,7 @@ freshly assigned to parade detail. They hadn't yet had time to adjust to the Cut
 The injuries they sustained from their equipment as they ran were later to be the subject of an inquiry.
 
 Jack was careful to shake them off before he stopped for breath, and then took an obscure route to get
-back to the hiding place under the Tavern.
+back to his hiding place under the Tavern.
 
 Options
 -------
