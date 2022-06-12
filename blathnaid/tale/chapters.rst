@@ -154,7 +154,7 @@ He found a leather bottle, which he warmed up and replenished with wax.
 He had some kindling, a blade, a flint, and a can with a lid so he could boil up water.
 
 Morten would have to forage. And Jack would go hungry. But he was not dismayed.
-He fell asleep before the grate, and dreamt of voyaging and adventure.
+He fell asleep before the grate, and dreamed of voyaging and adventure.
 
 The Trivet
 ==========
