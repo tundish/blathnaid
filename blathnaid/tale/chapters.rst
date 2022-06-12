@@ -149,7 +149,7 @@ want while he was away.
 Packing
 -------
 
-He picked out a woollen blanket to sleep in, which he laid out before the fire so the damp would drive away.
+He picked out a woollen blanket to sleep in, which he laid before the fire to drive off the damp.
 He found a leather bottle, which he warmed up and replenished with wax.
 He had some kindling, a blade, a flint, and a can with a lid so he could boil up water.
 
@@ -278,7 +278,7 @@ Onward
 ------
 
 They awoke in the grey of early dawn, and were soon on their way again.
-As they they went on, the road East got broader.
+As they went on, the road East got broader.
 The villages they passed through were more frequent. The bigger they got, the more shabby they seemed to be.
 The countryside around was ever more sad and bare, with less and less forage for Morten.
 
@@ -424,10 +424,11 @@ Safety
     Everywhere you look there are notices. They are pasted on walls and pinned to the street posts.
 
     They all bear the image of Mayor Ingomer.
-    He is made heroic by a woodcut which is now several years old.
+    He is pictured heroically in a woodcut which is now several years old.
 
     Ingomer is reminding everyone to Stay Safe. By that he means not lighting fires.
-    Staying Safe is also very much about handing in your long knives, and not leaving home to find food.
+    Staying Safe is also very much about handing in all your long knives,
+    and remaining at home even if you don't have any food.
 
 Scarcity
 --------
@@ -457,12 +458,12 @@ A refuge
 --------
 
 While exploring one of the squares, Jack found himself gazing at a grand-looking Tavern, three storeys high.
-He watched as two dreymen brought in barrels for the cellar.
+He watched as two draymen brought in barrels for the cellar.
 And he saw that every time one half of those big cellar doors banged shut, the hasp on it shook a little loose.
-Now when the dreymen left, they were careful to place a padlock on the door. But they couldn't seem to fasten it
+Now when the draymen left, they were careful to place a padlock on the door. But they couldn't seem to fasten it
 properly, and after a minute or two, they gave up and left it dangling.
 
-So Jack waited until there was some commotion further up the street, and all heads were turned. Then he went over to
+So Jack waited until there was a commotion further up the street, and all heads were turned. Then he went over to
 the doors and was able to work one bolt out of its seat, lift up one half of the hatchway, and slip inside.
 
 The cellar
@@ -572,7 +573,7 @@ But Jack was reluctant; all the time in the City he feared being robbed or trick
 Courage
 -------
 
-So Fell said, "My guess is there is a motto around the edge of that article you have.
+So Fell said, "I'll wager there is a motto around the edge of that article you have.
 Do you know what it is?" Jack did not, but he held up the Trivet in both hands for the Smith to see.
 "Ah", says the Smith, "I recognize that one word. It is **Courage**".
 He would have liked to study the rest of the lettering, but Jack dared not risk any loss, and he hid the
@@ -592,9 +593,9 @@ First he'd created a licence for making locks, which the Smiths had to purchase 
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
 permission instead.
 
-"But the thing is", said Fell, "those Locksmiths, they can't maintain their tolerances."
+"But the thing is", said Fell, "they can't seem to maintain their tolerances."
 
-"For sure, there is not one key in the City that will match another. And don't drop one of their padlocks.
+"For sure, there is not one key in this City that will match another. And don't drop one of their padlocks.
 The tumblers jam up if you do".
 
 First wish gone
@@ -641,7 +642,7 @@ Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon 
 manufacture and assurance of all such things in the City.
 
 But according to Fell, the Boilermakers still had a lot to learn when it came to metallurgy.
-They were diligent in the prooving of their seams, yet they had no care at all that the flux was contaminating the Gin.
+They were diligent in the proving of their seams, yet they had no care at all that the flux was contaminating the Gin.
 
 Second wish gone
 ----------------
@@ -697,7 +698,7 @@ Guild of Cutlers to be licensed exclusively for those items. Their factories wer
 Fell had nothing but contempt for the Cutlers. He said they were all blade and no tang.
 They did not understand the process of designing a product.
 So when the Guards were issued new glaives,
-they would take off the head in order that they could at least beat people with the handle.
+they preferred to take off the head in order that they could beat people with the handle.
 It was significantly safer for the operator.
 
 Third wish gone
@@ -709,7 +710,7 @@ were fighting over a basket of cabbages. When the Guards arrived he headed off t
 Try the Other
 -------------
 
-And there was Krol again, but looking mopy and unhappy this evening. Straight away he said to Jack, "Tomorrow comes a crescent moon.
+And there was Krol again, but looking mopey this evening. Straight away he said to Jack, "Tomorrow comes a crescent moon.
 And so all my time is done."
 
 And Jack looked down at his locket which was beginning to fade, and he knew that he hadn't long to carry out his
@@ -744,8 +745,8 @@ So Fell explained.
 Advancement
 -----------
 
-In the same way that merchants would introduce their daughters to court, hoping them to marry into
-the nobility; so likewise the artisans would raise their girls to set their sights on a son of a rich merchant.
+In the same way that rich merchants introduce their daughters to Court, hoping them to marry into
+the nobility; so likewise the artisans would raise their girls to set their sights on the son of a merchant.
 The families relied on their seniors to make the connections, and so it had become the tradition to announce
 one's offspring to the head of one's Guild, and they would go and make enquiries as to a suitable match.
 
