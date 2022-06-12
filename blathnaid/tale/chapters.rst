@@ -958,7 +958,7 @@ Karma
 -----
 
 From the space in the roof they burst out in their thousands.
-In a blur of fur and leather they ascended in a column like the smoke of a wet chimney.
+In a blur of fur and leather they ascended in a column like smoke from a hot chimney.
 
 The bats beat their wings, and they raised up an evil cloud of dust and metal.
 This haze rose up until the sun itself burned white and fierce like a gas mantle.
