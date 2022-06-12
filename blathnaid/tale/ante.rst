@@ -7,6 +7,8 @@
 .. |COPYRIGHT| replace:: 2022 D E Haynes
 .. |VERSION| property:: blathnaid.tale.__version__
 
+**Bláthnaid**
+
 © |COPYRIGHT|
 
 Published in the United Kingdom by Thuswise Limited.
@@ -20,3 +22,4 @@ The stuff about magic and meditation is established historical fact,
 although it would never wash nowadays.*
 
 For Fynn.
+
