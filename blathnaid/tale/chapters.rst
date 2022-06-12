@@ -947,17 +947,23 @@ The short version
 Curse
 -----
 
-Right away there was a response from inside the Smithy. The bats, who had been listening, began to stir.
-From the space in the roof they swarmed out in their thousands.
-With a flurry of fur and leather they ascended in a column like the smoke of a wet chimney.
+[NARRATOR]_
+
+    The faint squeaking in the roof of the Smithy gives way to silence.
+    The bats, who have been listening, fall to grave contemplation.
+    There is a change in the mood.
 
 Karma
 -----
 
+From the space in the roof they burst out in their thousands.
+In a blur of fur and leather they ascended in a column like the smoke of a wet chimney.
+
 The bats beat their wings, and they raised up an evil cloud of dust and metal.
 This haze rose up until the sun itself burned white and fierce like a gas mantle.
 
-Then all together they turned and headed East.
+When the very last creature had got out of the Smithy, they swarmed in the air for a moment.
+Then they headed East.
 
 The Blacksmith turned his head to follow them.
 
