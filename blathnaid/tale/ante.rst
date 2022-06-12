@@ -18,8 +18,7 @@ the names they are given.
 Only the author is a real person. Being lazy he has chosen to
 draw on current events for inspiration, instead of making it up
 like proper writers do.
-The stuff about magic and meditation is established historical fact,
-although it would never wash nowadays.*
+The stuff about magic and meditation is established scientific fact.*
 
 For Fynn.
 
