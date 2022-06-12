@@ -15,10 +15,11 @@ Published in the United Kingdom by Thuswise Limited.
 
 *The characters in this story are fictitious, notwithstanding
 the names they are given.
-Only the author is a real person. Being lazy he has chosen to
-draw on current events for inspiration, instead of making it up
-like proper writers do.
-The stuff about magic and meditation is established scientific fact.*
+The only real person is the author. Being lazy he has chosen to
+draw on current events for his inspiration, instead of making it
+all up like the proper writers do.*
+
+*The stuff about magic and meditation is established scientific fact.*
 
 For Fynn.
 
