@@ -954,11 +954,11 @@ With a flurry of fur and leather they ascended in a column like the smoke of a w
 Karma
 -----
 
-The bats beat their wings, and they raised an evil cloud of dust and metal.
+The bats beat their wings, and they raised up an evil cloud of dust and metal.
 This haze rose up until the sun itself burned white and fierce like a gas mantle.
 
 Then all together they turned and headed East.
 
-The Blacksmith turned his eyes to follow them.
+The Blacksmith turned his head to follow them.
 
 "They carry a message", he said.
