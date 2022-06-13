@@ -3,6 +3,8 @@
 :title:     Bláthnaid
 :version:   |VERSION|
 
+.. Left hand page
+.. Centre aligned
 
 .. |COPYRIGHT| replace:: 2022 D E Haynes
 .. |VERSION| property:: blathnaid.tale.__version__
@@ -11,15 +13,26 @@
 
 © |COPYRIGHT|
 
-Published in the United Kingdom by Thuswise Limited.
+First published 2022 in the United Kingdom by Thuswise Limited.
+
+1 King Street
+Worcester
+WR1 2NX
+UK.
+
+Typeset in IBM Plex Serif by Balladeer.
 
 *The characters in this story are fictitious, notwithstanding
 the names they are given.
-The only real person is the author. Being lazy he has chosen to
+The only real person is the Author. Being lazy he has chosen to
 draw on current events for his inspiration, instead of making it
-all up like the proper writers do.*
+all up like a proper writer would.*
 
 *The stuff about magic and meditation is established scientific fact.*
+
+
+Dedication
+----------
 
 For Fynn.
 

@@ -9,6 +9,10 @@
 
 .. [NARRATOR]   May be an audio voice-over or a video clip.
 
+.. raw:: html
+
+    <div style="page:reset"></div>
+
 Morten
 ======
 
