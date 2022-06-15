@@ -47,7 +47,3 @@ For Fynn.
 Foreword
 --------
 
-.. raw:: html
-
-    <div style="page:reset"></div>
-
