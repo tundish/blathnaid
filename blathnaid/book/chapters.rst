@@ -5,13 +5,9 @@
 :version:   |VERSION|
 
 .. |COPYRIGHT| replace:: 2022 D E Haynes
-.. |VERSION| property:: blathnaid.tale.__version__
+.. |VERSION| property:: blathnaid.book.__version__
 
 .. [NARRATOR]   May be an audio voice-over or a video clip.
-
-.. raw:: html
-
-    <div style="page:reset"></div>
 
 Morten
 ======

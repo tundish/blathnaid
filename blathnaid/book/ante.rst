@@ -3,11 +3,14 @@
 :title:     Bláthnaid
 :version:   |VERSION|
 
-.. Left hand page
-.. Centre aligned
-
 .. |COPYRIGHT| replace:: 2022 D E Haynes
-.. |VERSION| property:: blathnaid.tale.__version__
+.. |VERSION| property:: blathnaid.book.__version__
+
+Technicals
+==========
+
+Printing
+--------
 
 **Bláthnaid**
 
@@ -22,6 +25,9 @@ UK.
 
 Typeset in IBM Plex Serif by Balladeer.
 
+Legals
+------
+
 *The characters in this story are fictitious, notwithstanding
 the names they are given.
 The only real person is the Author. Being lazy he has chosen to
@@ -30,9 +36,18 @@ all up like a proper writer would.*
 
 *The stuff about magic and meditation is established scientific fact.*
 
+Opening
+=======
 
 Dedication
 ----------
 
 For Fynn.
+
+Foreword
+--------
+
+.. raw:: html
+
+    <div style="page:reset"></div>
 
