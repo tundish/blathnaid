@@ -1,0 +1,303 @@
+:root {
+--balladeer-metadata-print: 2022-06-15;
+--balladeer-metadata-author: D E Haynes;
+--balladeer-metadata-copyright: 2022 D E Haynes;
+--balladeer-metadata-title: Bláthnaid;
+--balladeer-metadata-version: 0.8.0;
+--balladeer-metadata-project: Bláthnaid;
+--id: b8153431-8cca-4306-95fb-4055f3198f82;
+--catchphrase-colour-washout: hsl(50, 0%, 100%, 1.0);
+--catchphrase-colour-shadows: hsl(202.86, 100%, 4.12%);
+--catchphrase-colour-midtone: hsl(203.39, 96.72%, 11.96%);
+--catchphrase-colour-hilight: hsl(203.06, 97.3%, 56.47%);
+--catchphrase-colour-glamour: hsl(353.33, 96.92%, 12.75%);
+--catchphrase-colour-gravity: hsl(293.33, 96.92%, 12.75%);
+--catchphrase-reveal-extends: both;
+--catchphrase-states-scrolls: visible;
+}
+
+@page {
+    size: 5in 7.75in;
+    counter-reset: footnote;
+    @bottom-center {
+        content: counter(page);
+        width: 100%;
+        vertical-align: top;
+        border-top: 0.5pt solid;
+        margin-top: 0.25in;
+        margin-bottom: 0.6in;
+        padding-top: 0.1in;
+    }
+    @footnote {
+        footnote-display: inline;
+        max-height: 2rem;
+    }
+
+}
+
+@page:first {
+    @bottom-center {
+        border: 0;
+        content: "";
+    }
+}
+
+@page empty {
+    @bottom-center {
+        border: 0;
+        content: "";
+    }
+    @top-left {
+        content: "";
+    }
+}
+
+@page front{
+    @bottom-center {
+        content: counter(page, lower-roman);
+    }
+    @top-left {
+        content: "";
+    }
+}
+
+@page:left{
+    margin: 0.6in 0.75in 0.6in 0.5in;
+    @top-left {
+        content: "Bláthnaid";
+        font-size: 0.7rem;
+        vertical-align: middle;
+        width: 100%;
+    }
+}
+
+@page:right{
+    margin: 0.6in 0.5in 0.6in 0.75in;
+    @top-right {
+        content: "0.8.0";
+        font-size: 0.7rem;
+        vertical-align: middle;
+        width: 100%;
+    }
+}
+
+@media print {
+.shot h2 {
+display: none;
+}
+
+.scene {
+page-break-before: right;
+}
+
+.shot {
+page-break-inside: avoid;
+}
+
+.shot:first-of-type p {
+text-indent: 0rem;
+}
+
+h1 {
+font-size: 200%;
+margin-bottom: 18%;
+margin-top: 28%;
+text-transform: capitalize;
+text-align: center;
+}
+
+blockquote header {
+display: none;
+}
+
+p {
+font-family: "Libre Baskerville", serif;
+font-size: small;
+margin-bottom: 1.3rem;
+text-align: justify;
+text-indent: 0.5rem;
+}
+
+.line:last-of-type blockquote::after {
+content: "-";
+display: block;
+margin-bottom: 1rem;
+margin-top: 1rem;
+text-align: center;
+}
+
+.spoken + .unspoken .line:first-of-type p {
+text-indent: 0rem;
+}
+
+blockquote {
+font-style: italic;
+}
+
+dl {
+display: none;
+}
+
+span.call{
+display: inline;
+}
+
+span.footnote {
+float: footnote;
+font-family: "Libre Baskerville", serif;
+font-size: 0.7rem;
+}
+
+::footnote-call {
+display: inline;
+}
+
+::footnote-marker {
+}
+}   /* End of print media */
+
+@media screen {
+dl {
+align-items: center;
+border-color: gray;
+border-top-style: dotted;
+border-width: thin;
+display: flex;
+flex-direction: row;
+flex-flow: wrap;
+flex-wrap: wrap;
+font-family: "DejaVu Sans", sans-serif;
+justify-content: space-around;
+letter-spacing: 0.125rem;
+padding-top: 1.6rem;
+margin-left: 1rem;
+}
+
+dt {
+font-size: 0.7rem;
+font-weight: lighter;
+margin-bottom: 0.4rem;
+margin-right: 0.3rem;
+}
+
+dt::after {
+content: ":";
+}
+
+dd {
+font-weight: lighter;
+margin-bottom: 0.9rem;
+margin-right: 1.0rem;
+}
+
+h1 {
+/* font-family: "Cinzel", "Libre Baskerville", serif; */
+font-size: 1.2rem;
+font-weight: bold;
+letter-spacing: 0.125rem;
+margin-top: 1rem;
+margin-bottom: 1rem;
+text-align: center;
+text-transform: uppercase;
+}
+
+h2 {
+border-color: gray;
+border-left-style: dotted;
+border-width: thin;
+font-family: "DejaVu Sans", sans-serif;
+font-size: 0.7rem;
+padding-left: 0.4rem;
+margin-bottom: 0.6rem;
+margin-left: 24rem;
+}
+
+section {
+margin-left: auto;
+margin-right: auto;
+margin-top: 6.0rem;
+width: 32rem;
+}
+
+.scene {
+margin-top: 1.8rem;
+}
+
+.shot {
+margin-bottom: 1.6rem;
+page-break-inside: avoid;
+}
+
+p {
+font-family: "IBM Plex Serif", "Junge", "Libre Baskerville", "FreeSerif", serif;
+line-height: 1.6rem;
+padding-bottom: 0.4rem;
+padding-top: 0.4rem;
+word-spacing: 0.3rem;
+}
+
+.spoken p {
+font-style: italic;
+}
+
+.spoken .line:first-of-type header {
+display: block;
+font-family: "DejaVu Sans", sans-serif;
+margin-bottom: 0.6rem;
+}
+
+blockquote header {
+display: none;
+}
+
+}   /* End of screen media */
+
+* {
+box-sizing: border-box;
+border: 0;
+font: inherit;
+font-size: 100%;
+line-height: 1.2em;
+list-style-type: none;
+margin: 0;
+outline: 0;
+padding: 0;
+text-decoration: none;
+vertical-align: baseline;
+}
+
+.catchphrase-banner h1::after{
+content: "D E Haynes";
+display: block;
+font-size: 0.8rem;
+margin-top: 1.2rem;
+}
+
+em {
+font-style: italic;
+}
+
+strong {
+font-weight: bold;
+}
+
+.line:first-of-type blockquote header {
+text-transform: uppercase;
+}
+
+section.scene:nth-of-type(3),
+section.scene:nth-of-type(5){
+page-break-before: auto;
+page: empty;
+}
+
+section.scene:nth-of-type(3) h1,
+section.scene:nth-of-type(5) h1{
+display: none;
+}
+
+section.scene:nth-of-type(3) p,
+section.scene:nth-of-type(5) p{
+text-align: center;
+}
+

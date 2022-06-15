@@ -1,0 +1,28 @@
+Flyleaves
+=========
+
+Front
+-----
+
+Allegorical, satirical.
+Corruption, Speech acts, Ancient wisdom. Personal growth.
+
+This is copy number 001 of a limited edition.
+
+Rear
+----
+
+The author was born during the 1970s in the Midlands of England.
+He was an Engineer; he designing electronics systems and developed software.
+
+This physical book is the basis of a larger multimedia project,
+which incorporates audio, video and online interactive fiction.
+
+You can find out more at https://github.com/tundish/blathnaid
+
+Sticker
+-------
+
+£25 goes to support the development of the Balladeer library.
+https://tundish.github.io/balladeer/
+
