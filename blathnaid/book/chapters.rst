@@ -590,7 +590,7 @@ Locksmiths
 ----------
 
 First he'd created a licence for making locks, which the Smiths had to purchase from him at great cost.
-Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, to whom he granted
+Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, for whom he secured
 permission instead.
 
 "But the thing is", said Fell, "they can't seem to maintain their tolerances."
@@ -638,8 +638,8 @@ Boilermakers
 
 Then Fell resumed his account of Mayor Ingomer.  How, after some sudden accident which no one could explain, Ingomer
 set up an inspectorate for pressure vessels, whose sky-high fees nearly put the Smiths entirely out of business.
-Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on the burden of both
-manufacture and assurance of all such things in the City.
+Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon installed to manufacture,
+test and supply all such things in the City.
 
 But according to Fell, the Boilermakers still had a lot to learn when it came to metallurgy.
 They were diligent in the proving of their seams, yet they had no care at all that the flux was contaminating the Gin.
@@ -692,8 +692,8 @@ Cutlers
 -------
 
 Then Fell took up his story of Ingomer.
-Recently he'd forbidden the Smiths from forging blades or any edged tools, and arranged for his own
-Guild of Cutlers to be licensed exclusively for those items. Their factories were in a protected area near the Armoury.
+Recently he'd forbidden the Smiths from forging blades or any edged tools, and deployed his own Guild of Cutlers
+to be licensed exclusively for those items. Their factories were in a protected area near the Armoury.
 
 Fell had nothing but contempt for the Cutlers. He said they were all blade and no tang.
 They did not understand the process of designing a product.
@@ -745,7 +745,7 @@ So Fell explained.
 Advancement
 -----------
 
-In the same way that rich merchants introduce their daughters to Court, hoping them to marry into
+Just as rich merchants introduce their daughters to Court, hoping them to marry into
 the nobility; so likewise the artisans would raise their girls to set their sights on the son of a merchant.
 The families relied on their seniors to make the connections, and so it had become the tradition to announce
 one's offspring to the head of one's Guild, and they would go and make enquiries as to a suitable match.
@@ -759,9 +759,9 @@ Instead, any young girls of a Blacksmith family would be sent to work in the Tem
 Suspicion
 ---------
 
-No one really knew what went on the Temple, but the less they knew, the more they could guess.  From then on, the Smiths
-started to leave the City. The ones who could not flee, organised themselves, and there was rioting.  But Ingomer called
-an emergency, and the unrest was put down by the Guards.
+No one really knew what went on the Temple, but the less they knew, the more they could guess. The Smiths
+made preparations to leave the City. Those who would not flee armed themselves, and there were riots.
+But Ingomer called an emergency, and the unrest was put down by the Guards.
 
 Insurrection
 ------------
@@ -937,7 +937,7 @@ A fortnight after escaping the City, Jack stood once again at the Forge.
 The long version
 ----------------
 
-Jack had on his mind to explain the full story, but as soon as he opened his mouth to do so,
+Jack had a mind to explain the full story, but as soon as he opened his mouth to do so,
 the words of Ingomer announced themselves unbidden.
 
 The short version
@@ -963,8 +963,8 @@ In a blur of fur and leather they ascended in a column like smoke from a hot chi
 The bats beat their wings, and they raised up an evil cloud of dust and metal.
 This haze rose up until the sun itself burned white and fierce like a gas mantle.
 
-When the very last creature had got out of the Smithy, they swarmed in the air for a moment.
-Then they headed East.
+They swarmed in the air until every last creature had got out of the Smithy.
+They took in the world for a moment. And then they headed East.
 
 The Blacksmith turned his head to follow them.
 
