@@ -30,11 +30,11 @@ Legals
 
 *The characters in this story are fictitious, notwithstanding
 the names they are given.
-There is a question as to how real is the Author. It seems he has
+There is a question as to how real the Author is. We think he has
 drawn on current events for his inspiration, instead of making it
 all up like a proper writer would.*
 
-*The stuff about magic and meditation is established scientific fact.*
+*The stuff about magic and meditation is now established scientific fact.*
 
 Opening
 =======
