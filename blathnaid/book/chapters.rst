@@ -637,7 +637,7 @@ Boilermakers
 ------------
 
 Then Fell resumed his account of Mayor Ingomer.  How, after some sudden accident which no one could explain, Ingomer
-set up an inspectorate for pressure vessels, whose punishing fees nearly put the Smiths entirely out of business.
+set up an inspectorate for pressure vessels, whose sky-high fees nearly put the Smiths entirely out of business.
 Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon in place to take on the burden of both
 manufacture and assurance of all such things in the City.
 
