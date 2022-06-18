@@ -12,7 +12,7 @@ requires-python = ">=3.8"
 license = {file = "LICENSE"}
 keywords = ["IF"]
 authors = [
-    {namei = "Tundish", email = "tundish@gigeconomy.org.uk"}
+    {name = "Tundish", email = "tundish@gigeconomy.org.uk"}
 ]
 maintainers = [
     {name = "Tundish", email = "tundish@gigeconomy.org.uk"}

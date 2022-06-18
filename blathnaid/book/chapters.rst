@@ -415,7 +415,7 @@ But only a few main streets of the City were open to all. Every neighbourhood,
 where families were established, had set up gates and pickets, protecting their own, and permitting only
 their own to pass through.
 
-So Jack was able to trapse only a quarter of a mile back and forth, and quickly learned his way about the place.
+So Jack trapsed about a quarter of a mile back and forth, and set himself the task of finding his way around.
 
 Safety
 ------
