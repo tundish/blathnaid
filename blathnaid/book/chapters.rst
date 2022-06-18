@@ -170,8 +170,9 @@ Lightly equipped
 
 The Blacksmith was already waiting for them. He saw straight away how lightly equipped Jack was.
 
-So he reached under the bench and pulled out a chunk of iron. Round in shape, it clanged and sang.
+So he reached under the bench and pulled out a chunk of iron.
 He looked at it thoughtfully for a moment, before taking a rough brush to scrub away the rust.
+It was round in shape, and it clanged and sang.
 
 "You'll need that", said he, handing it to Jack.
 
@@ -185,15 +186,15 @@ fantastic chariot. Around the circumference were embossed letters, not yet clear
 A token
 -------
 
-Then the Blacksmith opened a small tin box, taking from it a wrap of waxed paper and a metal tool,
-like a saddler's punch.
-
 Then he heated a small billet of iron, about the size of a pea pod, which had a hole in one end.
 
 Activated
 ---------
 
 [NARRATOR]_
+
+    The Blacksmith opens a small tin box. He takes from it a wrap of waxed paper and a metal tool,
+    like a saddler's punch.
 
     Peeling apart the paper, despite his grimy fingers, he carefully removes a small thin sheet of
     white metal foil. With the iron still hot, he deftly drops the metal foil upon the surface, and placing
@@ -204,7 +205,7 @@ Issued
 
 After it had cooled, the Blacksmith slipped a leather cord through the hole and placed it around the boy's neck.
 Jack saw that within the metal there was stamped a circular seal of an intricate design, which by some strange
-chemistry glowed a milky grey.
+chemistry glowed milky and grey, like a cloudy dawn.
 
 The Mission
 -----------
@@ -277,7 +278,7 @@ Morten settled down under a tree, happy to be away from the plough, and very ple
 Onward
 ------
 
-They awoke in the grey of early dawn, and were soon on their way again.
+They awoke in the early light of a new day, and were soon on their way again.
 As they went on, the road East got broader.
 The villages they passed through were more frequent. The bigger they got, the more shabby they seemed to be.
 The countryside around was ever more sad and bare, with less and less forage for Morten.
@@ -589,13 +590,13 @@ And how Ingomer, brother-in-law to the General of the Guards, on becoming Mayor,
 Locksmiths
 ----------
 
-First he'd created a licence for making locks, which the Smiths had to purchase from him at great cost.
+First he'd created a licence for making locks, which the Smiths had to redeem from him at great cost.
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, for whom he secured
 permission instead.
 
 "But the thing is", said Fell, "they can't seem to maintain their tolerances."
 
-"For sure, there is not one key in this City that will match another. And don't drop one of their padlocks.
+"You won't find one key in this City that will match another. And don't drop one of their padlocks.
 The tumblers jam up if you do".
 
 First wish gone
@@ -734,7 +735,7 @@ Sinking
 
     Jack is too anxious to sleep. He keeps standing there in the dark, letting his shoulders go forward a little,
     until the tension in his neck drops out, and he hears the bones in his back letting go of each other.
-    Then in lumps it falls into his legs, and runs like hot sweat down the inside of his skin.
+    Then in lumps it falls into his legs, and runs like a hot river down the inside of his skin.
 
 The Master
 ----------

@@ -30,8 +30,8 @@ Legals
 
 *The characters in this story are fictitious, notwithstanding
 the names they are given.
-The only real person is the Author. Being lazy he has chosen to
-draw on current events for his inspiration, instead of making it
+There is a question as to how real is the Author. It seems he has
+drawn on current events for his inspiration, instead of making it
 all up like a proper writer would.*
 
 *The stuff about magic and meditation is established scientific fact.*
