@@ -112,7 +112,7 @@ display: none;
 
 p {
 font-family: "IBM Plex Serif", serif;
-font-size: 1.02rem;
+font-size: 0.93rem;
 letter-spacing: 0.075rem;
 line-height: 1.4;
 margin-bottom: 1.3rem;
@@ -147,7 +147,6 @@ display: inline;
 span.footnote {
 float: footnote;
 font-family: "IBM Plex Serif", "Libre Baskerville", serif;
-font-family: "Libre Baskerville", serif;
 font-size: 0.7rem;
 }
 

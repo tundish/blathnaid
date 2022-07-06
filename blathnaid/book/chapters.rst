@@ -4,6 +4,8 @@
 :title:     Bláthnaid
 :version:   |VERSION|
 
+.. quotes:: “” ‘’
+
 .. |COPYRIGHT| replace:: 2022 D E Haynes
 .. |VERSION| property:: blathnaid.book.__version__
 
@@ -116,7 +118,7 @@ Send me the bill
 ----------------
 
 Finally, when the horse was fully shod, the Blacksmith ducked back into where Jack had been standing.
-"All's done", said the Smith, standing fully in the doorway.
+“All's done”, said the Smith, standing fully in the doorway.
 
 "Dad thanks you", said Jack without much confidence.
 
