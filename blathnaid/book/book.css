@@ -17,7 +17,7 @@
 }
 
 @page {
-    size: 5in 7.75in;
+    size: 129mm 198mm;
     counter-reset: footnote;
     @bottom-center {
         content: counter(page);
@@ -25,7 +25,7 @@
         vertical-align: top;
         border-top: 0.5pt solid;
         margin-top: 0.25in;
-        margin-bottom: 0.6in;
+        margin-bottom: 15mm;
         padding-top: 0.1in;
     }
     @footnote {
@@ -62,7 +62,7 @@
 }
 
 @page:left{
-    margin: 0.6in 0.75in 0.6in 0.5in;
+    margin: 15mm 18mm 15mm 12mm;
     @top-left {
         content: "Bláthnaid";
         font-size: 0.7rem;
@@ -72,7 +72,7 @@
 }
 
 @page:right{
-    margin: 0.6in 0.5in 0.6in 0.75in;
+    margin: 15mm 12mm 15mm 18mm;
     @top-right {
         content: var(--balladeer-metadata-version, "DRAFT");
         font-size: 0.7rem;
@@ -230,7 +230,6 @@ page-break-inside: avoid;
 
 p {
 font-family: "IBM Plex Serif", "Junge", "Libre Baskerville", "FreeSerif", serif;
-line-height: 1.6rem;
 padding-bottom: 0.4rem;
 padding-top: 0.4rem;
 word-spacing: 0.3rem;
