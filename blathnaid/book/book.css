@@ -3,7 +3,7 @@
 --balladeer-metadata-author: D E Haynes;
 --balladeer-metadata-copyright: 2022 D E Haynes;
 --balladeer-metadata-title: Bláthnaid;
---balladeer-metadata-version: "0.9.0";
+--balladeer-metadata-version: "0.10.0";
 --balladeer-metadata-project: Bláthnaid;
 --id: b8153431-8cca-4306-95fb-4055f3198f82;
 --catchphrase-colour-washout: hsl(50, 0%, 100%, 1.0);
@@ -24,7 +24,7 @@
         width: 100%;
         vertical-align: top;
         border-top: 0.5pt solid;
-        margin-top: 0.25in;
+        margin-top: 6mm;
         margin-bottom: 15mm;
         padding-top: 0.1in;
     }
@@ -62,7 +62,7 @@
 }
 
 @page:left{
-    margin: 15mm 18mm 15mm 12mm;
+    margin: 15mm 18mm 15mm 20mm;
     @top-left {
         content: "Bláthnaid";
         font-size: 0.7rem;
@@ -72,7 +72,7 @@
 }
 
 @page:right{
-    margin: 15mm 12mm 15mm 18mm;
+    margin: 15mm 20mm 15mm 18mm;
     @top-right {
         content: var(--balladeer-metadata-version, "DRAFT");
         font-size: 0.7rem;
@@ -111,8 +111,10 @@ display: none;
 }
 
 p {
-font-family: "Libre Baskerville", serif;
-font-size: small;
+font-family: "IBM Plex Serif", serif;
+font-size: 1.02rem;
+letter-spacing: 0.075rem;
+line-height: 1.4;
 margin-bottom: 1.3rem;
 text-align: justify;
 text-indent: 0.5rem;
@@ -144,6 +146,7 @@ display: inline;
 
 span.footnote {
 float: footnote;
+font-family: "IBM Plex Serif", "Libre Baskerville", serif;
 font-family: "Libre Baskerville", serif;
 font-size: 0.7rem;
 }
@@ -168,7 +171,7 @@ flex-flow: wrap;
 flex-wrap: wrap;
 font-family: "DejaVu Sans", sans-serif;
 justify-content: space-around;
-letter-spacing: 0.125rem;
+letter-spacing: 0.127rem;
 padding-top: 1.6rem;
 margin-left: 1rem;
 }
@@ -228,13 +231,6 @@ margin-bottom: 1.6rem;
 page-break-inside: avoid;
 }
 
-p {
-font-family: "IBM Plex Serif", "Junge", "Libre Baskerville", "FreeSerif", serif;
-padding-bottom: 0.4rem;
-padding-top: 0.4rem;
-word-spacing: 0.3rem;
-}
-
 .spoken p {
 font-style: italic;
 }
@@ -278,6 +274,7 @@ font-style: italic;
 
 strong {
 font-weight: bold;
+letter-spacing: 0.13rem;
 }
 
 .line:first-of-type blockquote header {
