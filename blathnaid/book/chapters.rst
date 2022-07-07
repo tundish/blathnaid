@@ -120,9 +120,9 @@ Send me the bill
 Finally, when the horse was fully shod, the Blacksmith ducked back into where Jack had been standing.
 “All's done”, said the Smith, standing fully in the doorway.
 
-"Dad thanks you", said Jack without much confidence.
+“Dad thanks you”, said Jack without much confidence.
 
-"That's certain, Jack. And we must reckon up, presently. For today and for times past."
+“That's certain, Jack. And we must reckon up, presently. For today and for times past.”
 
 Broke
 -----
@@ -138,8 +138,8 @@ Broke
 Errand
 ------
 
-"I do have an errand you can do for me", says the Blacksmith.
-"There is a message to deliver. It will be some days travelling."
+“I do have an errand you can do for me”, says the Blacksmith.
+“There is a message to deliver. It will be some days travelling.”
 
 Unprepared
 ----------
@@ -176,7 +176,7 @@ So he reached under the bench and pulled out a chunk of iron.
 He looked at it thoughtfully for a moment, before taking a rough brush to scrub away the rust.
 It was round in shape, and it clanged and sang.
 
-"You'll need that", said he, handing it to Jack.
+“You'll need that”, said he, handing it to Jack.
 
 About The Trivet
 ----------------
@@ -212,18 +212,18 @@ chemistry glowed milky and grey, like a cloudy dawn.
 The Mission
 -----------
 
-The Blacksmith led Jack away from the building and on to the open road. "Jack, you are to go to the City", he said.
-"Follow the road East. The charm I have given you will allow you in. But listen; the rise of the New Moon will
-stop it shining. After that it is useless."
+The Blacksmith led Jack away from the building and on to the open road. “Jack, you are to go to the City”, he said.
+“Follow the road East. The charm I have given you will allow you in. But listen; the rise of the New Moon will
+stop it shining. After that it is useless.”
 
 The Message
 -----------
 
-"When you get inside, seek out the Master of the Guild of Smiths.
+“When you get inside, seek out the Master of the Guild of Smiths.
 The Guild sign looks very like this Trivet you carry.
-He will know who sends you by the charm around your neck."
+He will know who sends you by the charm around your neck.”
 
-"Tell him this; that Bláthnaid is of age to marry. And now you must go."
+“Tell him this; that Bláthnaid is of age to marry. And now you must go.”
 
 They set off
 ------------
@@ -325,7 +325,7 @@ In his whole life, Jack had never stood in a line for anything, and the longer h
 he became. Finally, at the barrier, a sourfaced man in a leather tunic demanded to know what was his
 business.
 
-Jack could only hold up the locket and say, "I carry a message".
+Jack could only hold up the locket and say, “I carry a message”.
 That seemed to suffice; the man lowered his truncheon and waved him through.
 
 Through
@@ -360,8 +360,8 @@ and where was his token for entry?
 Separated
 ---------
 
-The first Guard tied poor Morten to a gatepost, saying, "if you can't feed him, you shouldn't keep him".
-The second man scoffed, "sure, he'll eat very well presently!" There was nothing that Jack could do but
+The first Guard tied poor Morten to a gatepost, saying, “if you can't feed him, you shouldn't keep him”.
+The second man scoffed, “sure, he'll eat very well presently!” There was nothing that Jack could do but
 step through the gate while he was able, to the laughter of the Guards as he passed.
 
 Inside
@@ -535,7 +535,7 @@ The legend
 Try This
 --------
 
-So Krol said, "I am cursed to be here while there is light from the Moon. And I may eat only what is offered to me".
+So Krol said, “I am cursed to be here while there is light from the Moon. And I may eat only what is offered to me”.
 Jack thought about this for a moment and went over to one of the big barrels, which was called **This**.
 He opened up the tap a little, so it half-filled the tundish below.
 And he passed it to the little Imp, who grinned and straight away started drinking it down.
@@ -544,12 +544,12 @@ Simplicity
 ----------
 
 Then Krol caught sight of Jack's Trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
-"Do you know what this one is?", he asked.
+“Do you know what this one is?”, he asked.
 
 Jack couldn't fathom what he meant.
 
-"This spoke stands for **Simplicity**", said Krol. He continued, sounding slightly tipsy.
-"Simplicity. Try to train that. It can be cultivated, can simplicity."
+“This spoke stands for **Simplicity** ”, said Krol. He continued, sounding slightly tipsy.
+“Simplicity. Try to train that. It can be cultivated, can simplicity.”
 Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
 
 The Smiths
@@ -576,9 +576,9 @@ But Jack was reluctant; all the time in the City he feared being robbed or trick
 Courage
 -------
 
-So Fell said, "I'll wager there is a motto around the edge of that article you have.
-Do you know what it is?" Jack did not, but he held up the Trivet in both hands for the Smith to see.
-"Ah", says the Smith, "I recognize that one word. It is **Courage**".
+So Fell said, “I'll wager there is a motto around the edge of that article you have.
+Do you know what it is?” Jack did not, but he held up the Trivet in both hands for the Smith to see.
+“Ah”, says the Smith, “I recognize that one word. It is **Courage** ”.
 He would have liked to study the rest of the lettering, but Jack dared not risk any loss, and he hid the
 Trivet again in his bundle.
 
@@ -596,10 +596,10 @@ First he'd created a licence for making locks, which the Smiths had to redeem fr
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, for whom he secured
 permission instead.
 
-"But the thing is", said Fell, "they can't seem to maintain their tolerances."
+“But the thing is”, said Fell, “they can't seem to maintain their tolerances.”
 
-"You won't find one key in this City that will match another. And don't drop one of their padlocks.
-The tumblers jam up if you do".
+“You won't find one key in this City that will match another. And don't drop one of their padlocks.
+The tumblers jam up if you do”.
 
 First wish gone
 ---------------
@@ -634,7 +634,7 @@ Compassion
 As soon as Jack awoke, he would be out again to learn more from the Smiths.
 Fell remained interested in the Trivet, and Jack allowed him to inspect the strange markings on the edge.
 They had been worn down by use, but after a little time cleaning, Fell started to understand another word.
-"This one says **Compassion**", he said.
+“This one says **Compassion** ”, he said.
 
 Boilermakers
 ------------
@@ -666,10 +666,10 @@ Sensitivity
 
 Krol needed no second invitation, and drank the beer gratefully. Then he set the dish down again, and went back to
 the Trivet, which was there on the floor. And he indicated one of the spokes and said,
-"Do you know what this one is?", and of course Jack did not.
-"This one stands for **Sensitivity**", said Krol.
+“Do you know what this one is?”, and of course Jack did not.
+“This one stands for **Sensitivity** ”, said Krol.
 He paused for a moment, trying not to stumble over his words.
-"Sensitivity. Try to train that. It can be cultivated, can sensitivity."
+“Sensitivity. Try to train that. It can be cultivated, can sensitivity.”
 
 And before Jack could get him to explain any more, Krol had curled up and was off to sleep.
 
@@ -689,7 +689,7 @@ Cognition
 The next morning Jack felt he urgently needed to find the Master of Smiths, so he was out again early to see his friend Fell.
 
 He in his turn had been eager to check the Trivet and its third set of markings. After applying
-some paste, and rubbing with a cloth, he could make out its meaning. "This one reads **Cognition**", he declared.
+some paste, and rubbing with a cloth, he could make out its meaning. “This one reads **Cognition** ”, he declared.
 
 Cutlers
 -------
@@ -713,8 +713,8 @@ were fighting over a basket of cabbages. When the Guards arrived he headed off t
 Try the Other
 -------------
 
-And there was Krol again, but looking mopey this evening. Straight away he said to Jack, "Tomorrow comes a crescent moon.
-And so all my time is done."
+And there was Krol again, but looking mopey this evening. Straight away he said to Jack, “Tomorrow comes a crescent moon.
+And so all my time is done.”
 
 And Jack looked down at his locket which was beginning to fade, and he knew that he hadn't long to carry out his
 task in the City. And so he went over to **The Other**, and poured out a draft into the dish.
@@ -724,9 +724,9 @@ Spontaneity
 -----------
 
 Krol reached out for the Trivet, and he held it up in the faint pool of moonlight so Jack could see. He laid his
-finger on the third spoke, and said, "This is **Spontaneity**."
+finger on the third spoke, and said, “This is **Spontaneity**. ”
 He raised his finger in the air dramatically, and wagged it at Jack.
-"Try to train that. It can be cultivated, can spontaneity."
+“Try to train that. It can be cultivated, can spontaneity.”
 
 There was a clatter as the Trivet fell to the floor and rolled back against Jack's foot. Krol had fallen asleep.
 
@@ -787,10 +787,10 @@ And there on an armoured carriage was Ingomer, in all his robes and finery, surr
 Last time for the Locket
 ------------------------
 
-Jack stepped forward and raised up his locket saying, "I carry a message!"
+Jack stepped forward and raised up his locket saying, “I carry a message!”
 
 Ingomer always kept his ears open for news, and he raised his hand to halt the procession.
-He glanced at the locket, and then back at Jack. "What is it? Quickly!"
+He glanced at the locket, and then back at Jack. “What is it? Quickly!”
 
 He looked older than the portrait on his notices, and altogether less noble.
 Ingomer hadn't been feeling well lately. His weakness for Gin had paled his skin.
@@ -802,7 +802,7 @@ Here's my Message
 The parade fell silent, and it seemed to Jack that the whole world had hushed too.
 He opened his mouth again. There was no effort to be made. The words came from a deep place of their own.
 
-"Bláthnaid is of age to marry."
+“Bláthnaid is of age to marry.”
 
 Ingomer's reaction
 ------------------
@@ -813,13 +813,13 @@ He recognised the name, you see. It was one of the peasant names that Blacksmith
 It had been ten years since he'd brought servitude and violation to the children
 of his enemies. But they had escaped him, and found ways to prosper, and now saw fit to mock him.
 
-Ingomer shook with rage. "Progeniem Vitiosiorem!", he cursed, in the secret language of the Temple.
+Ingomer shook with rage. “Progeniem Vitiosiorem!”, he cursed, in the secret language of the Temple.
 
-Alongside his anger, there was fear in him too. "Progeniem Vitiosiorem!", he bellowed again.
+Alongside his anger, there was fear in him too. “Progeniem Vitiosiorem!”, he bellowed again.
 
 He felt very old now.
 
-"Progeniem Vitiosiorem!"
+“Progeniem Vitiosiorem!”
 
 Kicked out
 ----------
@@ -931,11 +931,11 @@ Payback
 
 A fortnight after escaping the City, Jack stood once again at the Forge.
 
-"Did you meet with the Master?" asked the Blacksmith.
+“Did you meet with the Master?” asked the Blacksmith.
 
-"Yes, I did", said Jack.
+“Yes, I did”, said Jack.
 
-"And what did he say?"
+“And what did he say?”
 
 The long version
 ----------------
@@ -946,7 +946,7 @@ the words of Ingomer announced themselves unbidden.
 The short version
 -----------------
 
-"Progeniem Vitiosiorem!"
+“Progeniem Vitiosiorem!”
 
 Curse
 -----
@@ -971,4 +971,4 @@ They took in the world for a moment. And then they headed East.
 
 The Blacksmith turned his head to follow them.
 
-"They carry a message", he said.
+“They carry a message”, he said.
