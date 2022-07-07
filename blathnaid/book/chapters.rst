@@ -727,7 +727,7 @@ Spontaneity
 -----------
 
 Krol reached out for the Trivet, and he held it up in the faint pool of moonlight so Jack could see. He laid his
-finger on the third spoke, and said, “This is **Spontaneity**. ”
+finger on the third spoke, and said, “This is **Spontaneity**”.
 He raised his finger in the air dramatically, and wagged it at Jack.
 “Try to train that. It can be cultivated, can spontaneity.”
 
