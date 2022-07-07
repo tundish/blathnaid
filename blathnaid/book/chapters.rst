@@ -4,7 +4,7 @@
 :title:     Bláthnaid
 :version:   |VERSION|
 
-.. quotes:: “” ‘’
+.. quotes “” ‘’
 
 .. |COPYRIGHT| replace:: 2022 D E Haynes
 .. |VERSION| property:: blathnaid.book.__version__
