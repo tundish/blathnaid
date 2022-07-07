@@ -488,7 +488,7 @@ Tuns
 
 Now down in the cellar were many barrels all stacked up. But three stood separately on their side, and they were enormous.
 Each with a tap, and a dish below to catch the drips.
-And on the first barrel was painted **This**, and on the second **That**, and on the last one, **The Other**.
+And on the first barrel was painted ‘This’, and on the second ‘That’, and on the last one, ‘The Other’.
 
 Upstairs
 --------
@@ -536,7 +536,7 @@ Try This
 --------
 
 So Krol said, “I am cursed to be here while there is light from the Moon. And I may eat only what is offered to me”.
-Jack thought about this for a moment and went over to one of the big barrels, which was called **This**.
+Jack thought about this for a moment and went over to one of the big barrels, which was called ‘This’.
 He opened up the tap a little, so it half-filled the tundish below.
 And he passed it to the little Imp, who grinned and straight away started drinking it down.
 
@@ -604,8 +604,8 @@ The tumblers jam up if you do”.
 First wish gone
 ---------------
 
-And that was all that Fell would say, and he turned back to his work. So Jack wandered around for a while
-and went back to the cellar to sleep.
+And that was all that Fell would say, and he turned again to his work.
+So Jack wandered around for a while and went back to the cellar to sleep.
 
 Hiding
 ------
@@ -650,7 +650,7 @@ They were diligent in the proving of their seams, yet they had no care at all th
 Second wish gone
 ----------------
 
-And that was all that Fell would say, and he went back to his work.
+And that was all that Fell would say, and he turned once again to his work.
 So Jack dangled his legs over the dock for a bit, then went back to the cellar to sleep.
 
 Try That
@@ -658,7 +658,7 @@ Try That
 
 At midnight in the cellar, up popped Krol.
 Jack was pleased to see him, and went over to the second barrel, upon which
-was painted **That**. Jack opened the tap until the tundish was half to the brim and he passed it into the beam of
+was painted ‘That’. Jack opened the tap until the tundish was half to the brim and he passed it into the beam of
 moonlight which held the ghostly shape.
 
 Sensitivity
@@ -706,18 +706,21 @@ It was significantly safer for the operator.
 
 Third wish gone
 ---------------
-
-And that was all that Fell would say, and he went back to his work. So Jack wandered over to where two groups of youths
-were fighting over a basket of cabbages. When the Guards arrived he headed off to the cellar for the evening.
+ 
+And that was all that Fell would say, and he turned once again to his work.
+So Jack wandered over to where two groups of youths were fighting over
+a basket of cabbages.
+When the Guards arrived he headed off to the cellar for the evening.
 
 Try the Other
 -------------
 
-And there was Krol again, but looking mopey this evening. Straight away he said to Jack, “Tomorrow comes a crescent moon.
+And there was Krol again, but looking downcast and grave.
+Straight away he said to Jack, “Tomorrow comes a crescent moon.
 And so all my time is done.”
 
 And Jack looked down at his locket which was beginning to fade, and he knew that he hadn't long to carry out his
-task in the City. And so he went over to **The Other**, and poured out a draft into the dish.
+task in the City. And so he went over to ‘The Other’ and poured out a draft into the dish.
 Krol took it, and nodded his thanks before knocking it back.
 
 Spontaneity
