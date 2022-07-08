@@ -322,7 +322,7 @@ Challenged
 ----------
 
 In his whole life, Jack had never stood in a line for anything, and the longer he waited the less sure of himself
-he became. Finally, at the barrier, a sourfaced man in a leather tunic demanded to know what was his
+he became. Finally, at the barrier, a sour-faced man in a leather tunic demanded to know what was his
 business.
 
 Jack could only hold up the locket and say, “I carry a message”.
@@ -784,6 +784,8 @@ So it's Ingomer
 
 It was the eve of the New Moon. Jack was at the gated arch in the East of the City.
 
+.. TODO: more here.
+
 Trumpets called out, the gates swung open and through it came the Mayoral parade.
 And there on an armoured carriage was Ingomer, in all his robes and finery, surrounded by Guards.
 
@@ -839,12 +841,17 @@ Chase is on
 By the time the Captain of Guard had rung the general alarm, Jack was already on his feet and he took
 off, dodging through the crowd until it thinned out, and then he sprinted away.
 
+Too keen
+--------
+
 Some of the Guards made after him though. Three or four were just back from the war;
 freshly assigned to parade detail. They hadn't yet had time to adjust to the Cutlers' shiny new armour.
 The injuries they sustained from their equipment as they ran were later to be the subject of an inquiry.
 
 Jack was careful to shake them off before he stopped for breath, and then took an obscure route to get
 back to his hiding place under the Tavern.
+
+.. TODO: Even out length of paragraphs
 
 Options
 -------
@@ -887,8 +894,8 @@ Evasion
 Escape
 ------
 
-Outside the City walls again, Jack threaded his way past the bullying Guards and the chiselling merchants.  He headed
-West, now gladly on the road home.
+Outside the City walls again, Jack threaded his way past the bullying Guards and the chiselling taxmen.
+He headed West, now gladly on the road home.
 
 Evacuation
 ----------
@@ -907,6 +914,8 @@ Legging it
 ----------
 
 He tramped on for two more days and nights, at a steady pace, trying not to tire himself.
+
+.. TODO: Two more pages needed. Narration maybe?
 
 With Cognition
 --------------
@@ -974,4 +983,9 @@ They took in the world for a moment. And then they headed East.
 
 The Blacksmith turned his head to follow them.
 
+.. TODO: Jack says this line.
+
 “They carry a message”, he said.
+
+.. TODO: Bláthnaid comes down
+.. TODO: Bláthnaid's drawings
