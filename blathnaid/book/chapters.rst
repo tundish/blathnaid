@@ -767,7 +767,7 @@ Advancement
 
 Just as rich merchants introduce their daughters to Court, hoping them to marry into
 the nobility; so too the artisans would raise their girls to set their sights on the son of a merchant.
-The families relied on their seniors to make the connections, and so it had become the tradition to announce
+The families relied on their seniors to make the connections, and it had become the tradition to announce
 one's offspring to the head of one's Guild, and they would go and make enquiries as to a suitable match.
 
 Ostracised
@@ -947,7 +947,8 @@ Legging it
 
 He tramped on for two more days and nights, at a steady pace, trying not to tire himself.
 
-.. TODO: Two more pages needed. Narration maybe?
+He had run out of dry wood, and it was a struggle to fight off his hunger.
+He rose early to find mushrooms, and he climbed trees to rob eggs.
 
 With Cognition
 --------------
@@ -959,7 +960,10 @@ its music and how to perceive the simple processes at play.
 Roughing it
 -----------
 
-All the time the weather was turning for the worse, and Jack was starting to suffer from sleeping in the open.
+The weather took a turn for the worse, and Jack suffered badly
+from being always in the open.
+He was soaking wet when he woke, and still damp when it was time to go to
+sleep again.
 
 With Compassion
 ---------------
@@ -979,8 +983,14 @@ It was all shut up; the day was a Sunday.
 Jack had long since lost track of the calendar.
 
 He went around the side to where the habitation was and knocked at the
-Kitchen door. The Blacksmith came out presently and they stood together in
-the sunshine.
+Kitchen door.
+
+Looking up, he saw the lace of a high window twitch and fall back. He
+had a sudden feeling of being watched, but it was not unpleasant. There
+was someone who wanted to meet him.
+
+After a minute or two the door opened and out came the Blacksmith.
+They shook hands and stood together in the sunshine.
 
 A Gift
 ------
@@ -1041,11 +1051,22 @@ This haze rose up until the sun itself burned white and fierce like a gas mantle
 They swarmed in the air until every last creature had got out of the Smithy.
 They took in the world for a moment. And then they headed East.
 
-The Blacksmith turned his head to follow them.
-
-.. TODO: Jack says this line.
+Jack turned his head to follow them.
 
 “They carry a message”, he said.
+
+A Welcome
+---------
+
+The Kitchen door opened again.
+
+It was Bláthnaid. She had brushed her long hair over, and tied it with a
+ribbon.
+
+She hitched up her dress a little as she stepped across the cobbles.
+Jack could see she wore a silver anklet, but came barefoot towards them.
+
+“Hello, Jack”, she said.
 
 .. TODO: Bláthnaid comes down
 .. TODO: Bláthnaid's drawings
