@@ -727,7 +727,7 @@ Spontaneity
 -----------
 
 Krol reached out for the Trivet, and he held it up in the faint pool of moonlight so Jack could see. He laid his
-finger on the third spoke, and said, “This is **Spontaneity**”.
+finger on the third spoke, and said, “This is **Spontaneity** ”.
 He raised his finger in the air dramatically, and wagged it at Jack.
 “Try to train that. It can be cultivated, can spontaneity.”
 
@@ -938,10 +938,38 @@ doors he would talk with them about Compassion; how human sensitivity is manifes
 Bláthnaid
 =========
 
-Payback
--------
+Sunday
+------
 
 A fortnight after escaping the City, Jack stood once again at the Forge.
+
+It was all shut up; the day was a Sunday.
+Jack had long since lost track of the calendar.
+
+He went around the side to where the habitation was and knocked at the
+Kitchen door. The Blacksmith came out presently and they stood together in
+the sunshine.
+
+A Gift
+------
+
+Jack complimented the Smith on the Trivet. He would have liked to know whether
+he'd fully been aware of its function and significance.
+
+But the Blacksmith just laughed and bade him keep it.
+“I made another”, he said.
+
+A lost friend
+-------------
+
+“What happened to your horse?”, he asked. Jack didn't want to say frankly,
+still feeling at fault for not having saved him somehow.
+
+Still, the look on Jack's face told the Smith all he needed to know,
+and he changed the subject.
+
+Payback
+-------
 
 “Did you meet with the Master?” asked the Blacksmith.
 
