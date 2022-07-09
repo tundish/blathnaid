@@ -1073,6 +1073,6 @@ ribbon.
 
 “I drew this for you. But you can't show anyone.”
 
-The Blacksmith pretended not to hear that.
+The Blacksmith pretended not to hear this.
 He went back into the Kitchen to
 put on the kettle.
