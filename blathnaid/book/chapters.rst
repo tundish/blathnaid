@@ -945,7 +945,7 @@ which comes spontaneously, unbidden, and is simple in its expression.
 Legging it
 ----------
 
-He tramped on for two more days and nights, at a steady pace, trying not to tire himself.
+He tramped on for two more days at a steady pace, trying not to tire himself.
 
 He had run out of dry wood, and it was a struggle to fight off his hunger.
 He rose early to find mushrooms, and he climbed trees to rob eggs.
@@ -995,8 +995,8 @@ They shook hands and stood together in the sunshine.
 A Gift
 ------
 
-Jack complimented the Smith on the Trivet. He would have liked to know whether
-he'd fully been aware all along of its function and significance.
+Jack complimented the Smith on the Trivet. He would have liked to find out
+whether he'd been fully aware of its function and significance.
 
 But the Blacksmith pretended not to know.
 He simply laughed and bade him keep it.
@@ -1064,9 +1064,15 @@ It was Bláthnaid. She had brushed her long hair over, and tied it with a
 ribbon.
 
 She hitched up her dress a little as she stepped across the cobbles.
-Jack could see she wore a silver anklet, but came barefoot towards them.
+Jack could see that she wore a silver anklet, but came barefoot towards them.
 
-“Hello, Jack”, she said.
+“Hello, Jack”, she said. “Are you going to stay for a while?”
 
-.. TODO: Bláthnaid comes down
-.. TODO: Bláthnaid's drawings
+She took out of her petticoat a roll of linen paper, tied with more of her
+ribbon.
+
+“I drew this for you. But you can't show anyone.”
+
+The Blacksmith pretended not to hear that.
+He went back into the Kitchen to
+put on the kettle.
