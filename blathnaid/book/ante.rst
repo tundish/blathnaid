@@ -36,6 +36,11 @@ all up like a proper writer would.*
 
 *The stuff about magic and meditation is now established scientific fact.*
 
+ISBN
+----
+
+ISBN 978-1-7390955-0-5
+
 Opening
 =======
 
