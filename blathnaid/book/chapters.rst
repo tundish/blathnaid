@@ -806,7 +806,7 @@ Infamy
     They wrap themselves in honours and titles
     beneath which they hope to cloak against our understanding.
 
-    When with dismay we do discover them, what a spot they are in.
+    When with dismay we do discover them, what a spot they are in!
     But the degree to which they succeed is entirely to the detriment of our
     own true history, our present safety, and our future opportunity.
 
