@@ -795,8 +795,8 @@ Infamy
 
 [NARRATOR]_
 
-    Concealment is the practice of a thief,
-    applied equally before and after the fact.
+    Concealment is the practice of a thief, and it is often applied
+    sparingly before the fact and liberally thereafter.
 
     So likewise the great Swindlers of our time.
     They wrap themselves in honours and titles

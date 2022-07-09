@@ -23,7 +23,7 @@ She lines the roads that journey far.
 
 With shadow smears,
 And lonesome tears
-She shapes a paste of night-time fears.
+She shapes a paste of nightly fears.
 
 All walled around,
 And hunted down,
