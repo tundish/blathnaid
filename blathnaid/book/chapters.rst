@@ -757,7 +757,10 @@ The Master
 ----------
 
 First thing next morning, Jack ran over to see Fell, and begged him to reveal who was Master of the Guild.
-So Fell explained.
+
+This was a matter which caused Fell no little distress. He had been a witness to these events and had hoped to avoid the topic.
+
+But he explained.
 
 Advancement
 -----------
@@ -799,13 +802,13 @@ Infamy
     before the fact, so much more liberally is he obliged to apply it
     thereafter.
 
-    So likewise the great Swindlers of our time.
+    And likewise the great Swindlers of our time.
     They wrap themselves in honours and titles
     beneath which they hope to cloak against our understanding.
 
     When with dismay we do discover them, what a spot they are in.
     But the degree to which they succeed is entirely to the detriment of our
-    own true history, our present safety, and our future culture.
+    own true history, our present safety, and our future opportunity.
 
 So it's Ingomer
 ---------------
@@ -987,7 +990,7 @@ he'd fully been aware all along of its function and significance.
 
 But the Blacksmith pretended not to know.
 He simply laughed and bade him keep it.
-“I made another the while you were gone”, he said.
+“I made another while you were gone”, he said.
 
 A lost friend
 -------------
