@@ -752,7 +752,7 @@ Advancement
 -----------
 
 Just as rich merchants introduce their daughters to Court, hoping them to marry into
-the nobility; so likewise the artisans would raise their girls to set their sights on the son of a merchant.
+the nobility; so too the artisans would raise their girls to set their sights on the son of a merchant.
 The families relied on their seniors to make the connections, and so it had become the tradition to announce
 one's offspring to the head of one's Guild, and they would go and make enquiries as to a suitable match.
 
@@ -779,10 +779,27 @@ a position which hitherto had been attained only by the most skilled and respect
 Ingomer
 =======
 
+Infamy
+------
+
+[NARRATOR]_
+
+    Concealment is the practice of a thief,
+    applied equally before and after the fact.
+
+    So likewise the great Swindlers of our time.
+    They wrap themselves in honours and titles
+    beneath which they hope to cloak against our understanding.
+
+    When with dismay we do discover them, what a spot they are in.
+    But the degree to which they succeed is entirely to the detriment of our
+    own true history, our present safety, and our future culture.
+
 So it's Ingomer
 ---------------
 
-It was the eve of the New Moon. Jack was at the gated arch in the East of the City.
+It was the eve of the New Moon.
+Jack was at the gated arch in the East of the City.
 
 .. TODO: more here.
 
@@ -954,10 +971,11 @@ A Gift
 ------
 
 Jack complimented the Smith on the Trivet. He would have liked to know whether
-he'd fully been aware of its function and significance.
+he'd fully been aware all along of its function and significance.
 
-But the Blacksmith just laughed and bade him keep it.
-“I made another”, he said.
+But the Blacksmith pretended not to know.
+He simply laughed and bade him keep it.
+“I made another the while you were gone”, he said.
 
 A lost friend
 -------------
@@ -965,8 +983,7 @@ A lost friend
 “What happened to your horse?”, he asked. Jack didn't want to say frankly,
 still feeling at fault for not having saved him somehow.
 
-Still, the look on Jack's face told the Smith all he needed to know,
-and he changed the subject.
+Still, the look on Jack's face was hint enough, and he changed the subject.
 
 Payback
 -------
