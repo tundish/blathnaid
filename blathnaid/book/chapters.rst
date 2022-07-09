@@ -282,8 +282,19 @@ Onward
 
 They awoke in the early light of a new day, and were soon on their way again.
 As they went on, the road East got broader.
-The villages they passed through were more frequent. The bigger they got, the more shabby they seemed to be.
-The countryside around was ever more sad and bare, with less and less forage for Morten.
+
+High Streets
+------------
+
+The villages they passed through were more frequent. They were bigger too,
+and despite his intention to keep moving, Jack could not resist the
+temptation to explore them.
+
+Some had whole streets given over to shops and markets. Many empty now.
+And the bigger they got, the more shabby they seemed to be.
+
+The countryside around was ever more sad and bare,
+with less and less forage for Morten.
 
 Yet onward
 ----------
