@@ -21,8 +21,8 @@ The door ajar,
 In chalk and char
 She lines the roads that journey far.
 
-With shadow smears,
-And lonesome tears
+With lonesome tears,
+And shadow smears
 She shapes a paste of nightly fears.
 
 All walled around,
