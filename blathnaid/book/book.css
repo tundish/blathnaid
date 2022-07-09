@@ -62,7 +62,7 @@
 }
 
 @page:left{
-    margin: 15mm 18mm 15mm 20mm;
+    margin: 18mm 18mm 15mm 20mm;
     @top-left {
         content: "Bláthnaid";
         font-size: 0.7rem;
@@ -72,7 +72,7 @@
 }
 
 @page:right{
-    margin: 15mm 20mm 15mm 18mm;
+    margin: 18mm 20mm 15mm 18mm;
     @top-right {
         content: var(--balladeer-metadata-version, "DRAFT");
         font-size: 0.7rem;
