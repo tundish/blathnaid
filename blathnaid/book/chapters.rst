@@ -803,11 +803,11 @@ Infamy
     to it thereafter.
 
     And likewise the great Swindlers of our time.
-    They wrap themselves in honours and titles
+    They wrap themselves in titles and honours
     beneath which they hope to cloak against our understanding.
 
-    When with dismay we do discover them, what a spot they are in!
-    Their efforts to elude us comprise the detriment of our
+    When with dismay we do discover them, what a spot they will be in!
+    What they continually do to elude us is a calamity to our
     own true history, our present safety, and our future opportunity.
 
 So it's Ingomer
@@ -1008,7 +1008,7 @@ A lost friend
 “What happened to your horse?”, he asked. Jack didn't want to say frankly,
 still feeling at fault for not having saved him somehow.
 
-Still, the look on Jack's face was hint enough, and he changed the subject.
+He caught the look on Jack's face, and it hinted enough, so he changed the subject.
 
 Payback
 -------
@@ -1035,7 +1035,8 @@ Curse
 
 [NARRATOR]_
 
-    The attendant squeaking in the roof of the Smithy gives way to silence.
+    The attendant squeaking in the roof of the Smithy
+    gives way to a watchful silence.
     The bats, who have been listening, fall to grave contemplation.
 
     What can you do with a bat?
@@ -1083,7 +1084,7 @@ ribbon.
 
 “I drew this for you. But you can't show anyone.”
 
-The Blacksmith pretended not to hear this.
+The Blacksmith pretended not to hear them.
 He went back into the Kitchen to
 put on the kettle.
 

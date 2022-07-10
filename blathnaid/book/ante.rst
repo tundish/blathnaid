@@ -29,7 +29,7 @@ Legals
 ------
 
 *The characters in this story are fictitious, notwithstanding
-the names they are given.
+the names they have been given.
 There is a question as to how real the Author is. We think he has
 drawn on current events for his inspiration, instead of making it
 all up like a proper writer would.*
