@@ -1035,9 +1035,14 @@ Curse
 
 [NARRATOR]_
 
-    The faint squeaking in the roof of the Smithy gives way to silence.
+    The attendant squeaking in the roof of the Smithy gives way to silence.
     The bats, who have been listening, fall to grave contemplation.
-    There is a change in the mood.
+
+    What can you do with a bat?
+    You can't move him if he wishes not to be moved.
+
+    He has a time of his own, a place of his own.
+    A mood of his own.
 
 Karma
 -----

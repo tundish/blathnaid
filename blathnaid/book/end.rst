@@ -14,21 +14,38 @@
 Endpiece
 ========
 
-Verse
------
+1
+-
 
-The door ajar,
-In chalk and char
-She lines the roads that journey far.
+[NARRATOR]_
 
-With lonesome tears,
-And shadow smears
-She shapes a paste of nightly fears.
+    * The door ajar,
+    * In chalk and char
+    * She lines the roads that journey far.
 
-All walled around,
-And hunted down,
-No mount, her hero she picks out.
+2
+-
 
-And Bláthnaid,
-Daily, works on he
-Who as she draws, he dreams of she.
+[NARRATOR]_
+
+    * With lonesome tears,
+    * And shadow smears
+    * She shapes a paste of nightly fears.
+
+3
+-
+
+[NARRATOR]_
+
+    * All walled around,
+    * And hunted down
+    * (No mount), her hero she picks out.
+
+4
+-
+
+[NARRATOR]_
+
+    * And Bláthnaid,
+    * Daily, works on he
+    * Who as she draws, he dreams of she.
