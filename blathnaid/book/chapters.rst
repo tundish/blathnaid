@@ -63,9 +63,10 @@ Chaste
 
 [NARRATOR]_
 
-    We aren't going to hear much about Bláthnaid just now though, because the Blacksmith keeps her hidden
-    whenever Jack shows up. He worries that Bláthnaid, who sketches pictures of young men with their horses,
-    might be thinking of Jack more often than is good for her.
+    Bláthnaid is not seeing visitors today because the Blacksmith keeps her
+    hidden whenever Jack shows up. He worries that Bláthnaid, who sketches
+    pictures of young men with their horses, might be thinking of Jack more
+    often than is good for her.
 
     He has hopes she will marry into money, and doesn't want her going off with
     some young villain who can't pay his bills.
@@ -129,9 +130,9 @@ Broke
 
 [NARRATOR]_
 
-    In those days you see, people would always help their neighbours whenever there was need.
+    In those days people would usually help their neighbours wherever there was need.
     And should they get to owing too many favours they would settle up in coin at Yuletide.
-    Jack is in a difficult spot because this year his family have very little to offer.
+    Jack is in a difficult situation because this year his family have very little to offer.
     The Blacksmith is chief among their creditors.
     So according to custom, Jack bows and he asks how he may be of service.
 
