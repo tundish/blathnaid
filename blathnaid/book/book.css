@@ -21,6 +21,7 @@
     counter-reset: footnote;
     @bottom-center {
         content: counter(page);
+        font-size: 0.8rem;
         width: 100%;
         vertical-align: top;
         border-top: 0.5pt solid;
@@ -75,6 +76,7 @@
     margin: 18mm 20mm 15mm 18mm;
     @top-right {
         content: var(--balladeer-metadata-version, "DRAFT");
+        content: "";
         font-size: 0.7rem;
         vertical-align: middle;
         width: 100%;
