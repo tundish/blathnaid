@@ -193,7 +193,6 @@ margin-right: 1.0rem;
 }
 
 h1 {
-/* font-family: "Cinzel", "Libre Baskerville", serif; */
 font-size: 1.2rem;
 font-weight: bold;
 letter-spacing: 0.125rem;
@@ -297,7 +296,24 @@ text-align: center;
 }
 
 section.scene:nth-last-of-type(1){
-color: red;
 page-break-before: right;
 }
+
+section.scene:nth-last-of-type(1) h1{
+display: none;
+}
+
+section.scene:nth-last-of-type(1) .text{
+font-size: 0.8rem;
+font-style: italic;
+font-weight: lighter;
+line-height: 1.4;
+}
+
+section.scene:nth-last-of-type(1) blockquote::after {
+content: "";
+margin-bottom: 0.2rem;
+margin-top: 0.5rem;
+}
+
 
