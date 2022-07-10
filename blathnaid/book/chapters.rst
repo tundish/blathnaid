@@ -572,8 +572,8 @@ He went over to the place by the dock where the Smiths worked.
 He tried to think of a way to befriend them, and so he gathered up some scraps of bark which lay around the
 woodstore nearby.
 
-Jack went politely up to one of them and asked if he might heat up his little kettle on their embers.
-The Smiths all needed cheering up, so they welcomed him to share a brew from his Trivet.
+Jack went politely up to one of them and asked if he might set up his Trivet on their embers.
+The Smiths all needed cheering up, so they welcomed him in to brew up some bark tea.
 
 Fell
 ====
