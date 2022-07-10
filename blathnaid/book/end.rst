@@ -39,7 +39,7 @@ Endpiece
 
     * All walled around,
     * And hunted down
-    * Her mounted hero she picks out.
+    * Her mounted hero she decks out.
 
 4
 -
