@@ -296,3 +296,9 @@ section.scene:nth-of-type(5) p{
 text-align: center;
 }
 
+section.scene:nth-last-of-type(1){
+color: red;
+page-break-before: right;
+page: empty;
+}
+

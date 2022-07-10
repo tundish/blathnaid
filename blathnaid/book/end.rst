@@ -11,8 +11,8 @@
 
 .. [NARRATOR]   May be an audio voice-over or a video clip.
 
-Bláthnaid
-=========
+Endpiece
+========
 
 Verse
 -----

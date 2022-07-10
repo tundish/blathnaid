@@ -1053,6 +1053,11 @@ They took in the world for a moment. And then they headed East.
 
 Jack turned his head to follow them.
 
+“What does it mean?”, he wondered.
+
+“There is going to be trouble for a while”, replied the Blacksmith,
+“but it can't be helped”.
+
 “They carry a message”, he said.
 
 A Welcome
@@ -1076,3 +1081,4 @@ ribbon.
 The Blacksmith pretended not to hear this.
 He went back into the Kitchen to
 put on the kettle.
+
