@@ -798,16 +798,16 @@ Infamy
 
 [NARRATOR]_
 
-    Concealment is the precaution of the thief; wherever it is lacking
-    before the fact, so much more liberally is he obliged to apply it
-    thereafter.
+    Concealment is the precaution of the thief; if he is neglectful of it
+    before the fact, the more ever and often is he obliged to apply
+    to it thereafter.
 
     And likewise the great Swindlers of our time.
     They wrap themselves in honours and titles
     beneath which they hope to cloak against our understanding.
 
     When with dismay we do discover them, what a spot they are in!
-    But the degree to which they succeed is entirely to the detriment of our
+    Their efforts to elude us comprise the detriment of our
     own true history, our present safety, and our future opportunity.
 
 So it's Ingomer
