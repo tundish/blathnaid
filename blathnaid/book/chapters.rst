@@ -291,8 +291,8 @@ The villages they passed through were more frequent. They were bigger too,
 and despite his intention to keep moving, Jack could not resist the
 temptation to explore them.
 
-Some had whole streets given over to shops and markets. Many empty now.
-And the bigger they got, the more shabby they seemed to be.
+Some had whole streets given over to shops and markets. Mostly empty now.
+And the bigger they had been, the more shabby they seemed to have ended up.
 
 The countryside around was ever more sad and bare,
 with less and less forage for Morten.
