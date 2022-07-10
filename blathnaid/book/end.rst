@@ -28,7 +28,7 @@ Endpiece
 
 [NARRATOR]_
 
-    * With lonesome tears,
+    * With loving tears,
     * And shadow smears
     * She shapes a paste of nightly fears.
 
