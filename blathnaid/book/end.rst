@@ -21,7 +21,7 @@ Endpiece
 
     * The door ajar,
     * In chalk and char
-    * She lines the roads that journey far.
+    * She lines the roads for journey far.
 
 2
 -
