@@ -30,7 +30,7 @@ Endpiece
 
     * With loving tears,
     * And shadow smears
-    * She shapes a paste of nightly fears.
+    * A paste she shapes of nightly fears.
 
 3
 -
