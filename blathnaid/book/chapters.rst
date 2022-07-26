@@ -732,12 +732,12 @@ It was significantly safer for the operator.
 Ballistics
 ----------
 
-“We were sent for this week to pick up some scrap”, recalled Fell.
+“We were sent out this week to pick up some scrap”, recalled Fell.
 “One of the Guards at the gate held on too long to a bridle”.
 
 “Breastplate was rubbish, all smashed up. Couldn't do anything with it”.
 
-“They found a horseshoe actually inside the fellow, apparently”.
+“They found one horseshoe actually inside the fellow, I'm told”.
 
 “What happened to the horse?” asked Jack.
 
@@ -827,9 +827,8 @@ Infamy
 
 [NARRATOR]_
 
-    Concealment is the precaution of the thief; if he is neglectful of it
-    before the fact, the more ever and often is he obliged to apply
-    to it thereafter.
+    Concealment is the precaution of the thief; if he neglects that
+    before the fact, so much more is he obliged to apply to it thereafter.
 
     And likewise the great Swindlers of our time.
     They wrap themselves in titles and honours
@@ -890,8 +889,9 @@ He felt very old now.
 Kicked out
 ----------
 
-Bodyguards rushed forward and grabbed Jack, and two of them pushed through the crowd in advance
-of their captive. They carried him as far as the next street corner, threw him down, and beat him.
+A four-man team from his bodyguard rushed forward and grabbed at Jack.
+Two of them pushed through the crowd in advance of their captive.
+They carried him as far as the next street corner, threw him down, and beat him.
 
 But Jack wasn't too much hurt, nor did the Guards really try to arrest him.
 They assumed him to be one of Ingomer's spies, albeit now out of favour for having delivered bad news.
@@ -905,7 +905,7 @@ off, dodging through the crowd until it thinned out, and then he sprinted away.
 Too keen
 --------
 
-Some of the Guards made after him though. Three or four were just back from the war;
+Some of the other Guards made after him yet. Three or four were just back from the war;
 freshly assigned to parade detail. They hadn't yet had time to adjust to the Cutlers' shiny new armour.
 The injuries they sustained from their equipment as they ran were later to be the subject of an inquiry.
 
@@ -1014,9 +1014,9 @@ Jack had long since lost track of the calendar.
 He went around the side to where the habitation was and knocked at the
 Kitchen door.
 
-Looking up, he saw the lace of a high window twitch and fall back. He
-had a sudden feeling of being watched, but it was not unpleasant. There
-was someone who wanted to meet him.
+Looking up, he saw the lace of a high window twitch and fall back again.
+He had a sudden feeling of being watched, but it was not unpleasant.
+There was someone who wanted to meet him.
 
 After a minute or two the door opened and out came the Blacksmith.
 They shook hands and stood together in the sunshine.
