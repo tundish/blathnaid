@@ -737,7 +737,7 @@ Ballistics
 
 “Breastplate was rubbish, all smashed up. Couldn't do anything with it”.
 
-“They found one horseshoe actually inside the fellow, I'm told”.
+“They found one horseshoe actually inside the fellow, so I'm told”.
 
 “What happened to the horse?” asked Jack.
 
