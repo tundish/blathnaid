@@ -569,11 +569,11 @@ The Smiths
 
 Jack awoke next morning to find he was alone again. He gathered his things and stole out from the cellar into the street.
 He went over to the place by the dock where the Smiths worked.
-He tried to think of a way to befriend them, and so he gathered up some scraps of bark which lay around the
+He tried to think of a way to befriend them, and so he gathered up some curlings of beech and oak which lay around the
 woodstore nearby.
 
 Jack went politely up to one of them and asked if he might set up his Trivet on their embers.
-The Smiths all needed cheering up, so they welcomed him in to brew up some bark tea.
+The Smiths all needed cheering up, so they welcomed him in to brew up some fresh bark tea.
 
 Fell
 ====
