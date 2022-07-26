@@ -372,15 +372,28 @@ and where was his token for entry?
 Separated
 ---------
 
-The first Guard tied poor Morten to a gatepost, saying, “if you can't feed him, you shouldn't keep him”.
-The second man scoffed, “sure, he'll eat very well presently!” There was nothing that Jack could do but
-step through the gate while he was able, to the laughter of the Guards as he passed.
+One of the Guards started to tie poor Morten to a gatepost, saying,
+“If you can't feed him, you shouldn't keep him”.
+The other man chipped in, “Sure, he'll eat very well presently!”
+
+Morten did not like the sound of that, and ground his hooves in deep.
+
+Before the Law
+--------------
+
+“This door is only for you”, said the nearest to Jack.
+
+“Now get in, before I close it!”
+
+There was nothing that Jack could do but step through the gate while he was able.
+He flinched to hear behind him the laughter of the Guards as he passed.
 
 Inside
 ------
 
-Inside the wall, Jack found himself on a raised buttress, with battlements on either side.
-Two flights of steps led down to the street below.
+Inside the wall, as their laughter fell to cursing, Jack found himself on a raised buttress.
+There were stone battlements on either side. Two flights of steps led down to the street below.
+
 He tripped and tumbled down them, confused and upset at how he had just lost Morten.
 
 Ambush
@@ -719,10 +732,10 @@ It was significantly safer for the operator.
 Ballistics
 ----------
 
-“We were sent for last week to pick up some scrap”, recalled Fell.
+“We were sent for this week to pick up some scrap”, recalled Fell.
 “One of the Guards at the gate held on too long to a bridle”.
 
-“Breastplate was rubbish, all smashed up”.
+“Breastplate was rubbish, all smashed up. Couldn't do anything with it”.
 
 “They found a horseshoe actually inside the fellow, apparently”.
 
@@ -734,6 +747,7 @@ Third wish gone
 ---------------
  
 And that was all that Fell would say, and he turned once again to his work.
+
 So Jack wandered over to where two groups of youths were fighting over
 a basket of cabbages.
 When the Guards arrived he headed off to the cellar for the evening.
