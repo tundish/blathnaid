@@ -906,7 +906,7 @@ Too keen
 --------
 
 Some of the other Guards made after him yet. Three or four were just back from the war;
-freshly assigned to parade detail. They hadn't yet had time to adjust to the Cutlers' shiny new armour.
+freshly assigned to parade detail. They hadn't had time to adjust to the Cutlers' shiny new armour.
 The injuries they sustained from their equipment as they ran were later to be the subject of an inquiry.
 
 Jack was careful to shake them off before he stopped for breath, and then took an obscure route to get
