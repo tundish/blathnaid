@@ -716,6 +716,20 @@ So when the Guards were issued new glaives,
 they preferred to take off the head in order that they could beat people with the handle.
 It was significantly safer for the operator.
 
+Ballistics
+----------
+
+“We were sent for last week to pick up some scrap”, recalled Fell.
+“One of the Guards at the gate held on too long to a bridle”.
+
+“Breastplate was rubbish, all smashed up”.
+
+“They found a horseshoe actually inside the fellow, apparently”.
+
+“What happened to the horse?” asked Jack.
+
+“No idea.”
+
 Third wish gone
 ---------------
  
