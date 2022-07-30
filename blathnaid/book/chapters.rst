@@ -502,7 +502,7 @@ While exploring one of the squares, Jack found himself gazing at a grand-looking
 He watched as two draymen brought in barrels for the cellar.
 And he saw that every time one half of those big cellar doors banged shut, the hasp on it shook a little loose.
 Now when the draymen left, they were careful to place a padlock on the door. But they couldn’t seem to fasten it
-properly, and after a minute or two, they gave up and left it dangling.
+properly, and after a minute or two they gave up and left it dangling.
 
 So Jack waited until there was a commotion further up the street, and all heads were turned. Then he went over to
 the doors and was able to work one bolt out of its seat, lift up one half of the hatchway, and slip inside.
@@ -510,16 +510,17 @@ the doors and was able to work one bolt out of its seat, lift up one half of the
 The cellar
 ----------
 
-Down below in the cellar it was not fully dark. Some light streamed in by gratings which gave sight of the street above.
-Jack saw that the place was lined and vaulted in brick. It was all one room about ten feet high which got lower and
-darker towards the back.
+Down below in the cellar it was not fully dark.
+Some light streamed in through the gratings that gave sight of the street above.
+Jack saw that the place was lined and vaulted in brick.
+It was all one room about ten feet high, which got lower and darker towards the back.
 
 A Vacancy
 ---------
 
-But he saw that as you went further inside, it got dusty, which made him think no one troubled to go there. And by
-hopping over the floor into the shadows, he found a spot where he was sure he could sleep without being seen, even if
-someone came in for some reason.
+But he saw that as you went further inside it got dusty, which made him think no one troubled to go there.
+And by hopping over the floor into the shadows, he found a spot where he was sure he could sleep without
+being seen, even if someone came in for some reason.
 
 Tuns
 ----
@@ -531,9 +532,9 @@ And on the first barrel was painted ‘This’, and on the second ‘That’, an
 Upstairs
 --------
 
-They stood near some steps which quickly ended in a locked door, and nothing Jack could do could open that.
-But he went to work on the main cellar hatch, and contrived with his knife to make sure that the bolt would allow him in and
-out, notwithstanding any padlock above.
+They stood near some steps that ended in a locked door, and nothing Jack could do could open it.
+But he went to work on the main cellar hatch, and contrived with his knife to make sure that the bolt
+would allow him in and out, notwithstanding any padlock above.
 
 Get some kip
 ------------
@@ -549,9 +550,10 @@ much as though he was not alone in the cellar.
 About Krol
 ----------
 
-And sure enough, squatting in a pool of moonlight in front of him was a strange little figure. He looked like an old
-man, skinny, and only about three feet high. He wore no clothes and had no hair, except for a few wisps on his chin. He
-sat with legs half-crossed, as a prisoner might in a cell with no furniture.
+And sure enough, squatting in a pool of moonlight, in front of him was a strange little figure.
+He looked like an old man, skinny and only about three feet high.
+He wore no clothes and had no hair except for a few wisps on his chin.
+He sat with legs half-crossed, as a prisoner might in a cell with no furniture.
 
 The name of this creature was Krol.
 
@@ -560,7 +562,7 @@ The legend
 
 [NARRATOR]_
 
-    I am not the world expert on Krol.  What I have heard about him would fill a book,
+    Now, I am not the world expert on Krol.  What I have heard about him would fill a book,
     although only half of it is likely true.
 
     I do know he’s been an important figure in Antiquity. He appears again as a man in our modern age, and
@@ -587,7 +589,7 @@ Then Krol caught sight of Jack’s Trivet and thoughtfully traced the shape of o
 Jack couldn’t fathom what he meant.
 
 “This spoke stands for **Simplicity** ,” said Krol. He continued, sounding slightly tipsy.
-“Simplicity. Try to train that. It can be cultivated, can simplicity.”
+“Simplicity. Try to train that. It can be cultivated, can Simplicity.”
 Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
 
 The Smiths
@@ -634,7 +636,7 @@ First he’d created a licence for making locks, which the Smiths had to redeem 
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, for whom he secured
 permission instead.
 
-“But the thing is,” said Fell, “they can’t seem to maintain their tolerances.”
+“But the thing is,” said Fell, “they can’t seem to maintain their tolerances.
 
 “You won’t find one key in this City that will match another. And don’t drop one of their padlocks.
 The tumblers jam up if you do”.
@@ -707,7 +709,7 @@ the Trivet, which was there on the floor. And he indicated one of the spokes and
 “Do you know what this one is?” and of course Jack did not.
 “This one stands for **Sensitivity** ,” said Krol.
 He paused for a moment, trying not to stumble over his words.
-“Sensitivity. Try to train that. It can be cultivated, can sensitivity.”
+“Sensitivity. Try to train that. It can be cultivated, can Sensitivity.”
 
 And before Jack could get him to explain any more, Krol had curled up and was off to sleep.
 
@@ -726,8 +728,10 @@ Cognition
 
 The next morning Jack felt he urgently needed to find the Master of Smiths, so he was out again early to see his friend Fell.
 
-He in his turn had been eager to check the Trivet and its third set of markings. After applying
-some paste, and rubbing with a cloth, he could make out its meaning. “This one reads **Cognition** ,” he declared.
+He in his turn had been eager to check the Trivet and its third set of markings.
+
+After applying some paste, and rubbing with a cloth, he could make out its meaning.
+“This one reads **Cognition** ,” he declared.
 
 Cutlers
 -------
@@ -738,23 +742,29 @@ to be licensed exclusively for those items. Their factories were in a protected 
 
 Fell had nothing but contempt for the Cutlers. He said they were all blade and no tang.
 They did not understand the process of designing a product.
+
 So when the Guards were issued new glaives,
 they preferred to take off the head in order that they could beat people with the handle.
 It was significantly safer for the operator.
 
+Any old iron
+------------
+
+“We were sent out this week to pick up some scrap,” recalled Fell.
+“One of the Guards at the gate held on too long to a bridle.”
+
 Ballistics
 ----------
 
-“We were sent out this week to pick up some scrap,” recalled Fell.
-“One of the Guards at the gate held on too long to a bridle”.
+“Breastplate was cheap rubbish, all smashed up. Couldn’t do anything with it.
 
-“Breastplate was rubbish, all smashed up. Couldn’t do anything with it”.
+“They found one horseshoe actually inside the fellow, so I’m told.”
 
-“They found one horseshoe actually inside the fellow, so I’m told”.
+It cheered Jack no end to think that Morten might have gotten away.
 
-“What happened to the horse?” asked Jack.
+“What happened to the horse?”
 
-“No idea.”
+“I didn't ask.”
 
 Third wish gone
 ---------------
@@ -782,7 +792,7 @@ Spontaneity
 Krol reached out for the Trivet, and he held it up in the faint pool of moonlight so Jack could see. He laid his
 finger on the third spoke, and said, “This is **Spontaneity** ”.
 He raised his finger in the air dramatically, and wagged it at Jack.
-“Try to train that. It can be cultivated, can spontaneity.”
+“Try to train that. It can be cultivated, can Spontaneity.”
 
 There was a clatter as the Trivet fell to the floor and rolled back against Jack’s foot. Krol had fallen asleep.
 
@@ -1096,8 +1106,14 @@ In a blur of fur and leather they ascended in a column like smoke from a hot chi
 The bats beat their wings, and they raised up an evil cloud of dust and metal.
 This haze rose up until the sun itself burned white and fierce like a gas mantle.
 
+Eastward
+--------
+
 They swarmed in the air until every last creature had got out of the Smithy.
 They took in the world for a moment. And then they headed East.
+
+Omens
+-----
 
 Jack turned his head to follow them.
 
@@ -1119,6 +1135,9 @@ ribbon.
 She hitched up her dress a little as she stepped across the cobbles.
 Jack could see that she wore a silver anklet, but came barefoot towards them.
 
+Welcome
+-------
+
 “Hello, Jack,” she said. “Are you going to stay for a while?”
 
 She took out of her petticoat a roll of linen paper, tied with more of her
@@ -1129,4 +1148,14 @@ ribbon.
 The Blacksmith pretended not to hear them.
 He went back into the Kitchen to
 put on the kettle.
+
+Away again
+----------
+
+[NARRATOR]_
+
+    The Smith has another job for Jack.
+    Tomorrow he will show him the tracks which cross the little stream behind the cottage.
+
+    Three prints are sharp and shod. One marks the slip of a hoof that wants a shoe again.
 
