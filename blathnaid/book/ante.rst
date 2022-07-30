@@ -24,7 +24,7 @@ WR1 2NX
 UK.
 
 Typeset in IBM Plex Serif with Balladeer.
-Edit and Printing at Orphans Press, Leominster.
+Edit and Printing at Orphans Press, Leominster, UK.
 
 Legals
 ------

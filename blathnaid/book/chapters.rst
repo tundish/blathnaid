@@ -48,13 +48,13 @@ The Blacksmith
 
 And so consequently Jack was a regular visitor to the local Blacksmith.
 
-And one day, when Morten had shed a shoe, and Jack couldn’t see where it had fallen,
+One day, when Morten had shed a shoe and Jack couldn’t see where it had fallen,
 he led his horse onto the narrow track and over to the Forge.
 
 About Bláthnaid
 ---------------
 
-Now the Blacksmith had a daughter, who was very pretty, and Jack’s age. Her name was Bláthnaid. [*]_
+Now the Blacksmith had a daughter, who was Jack’s age and very pretty. Her name was Bláthnaid. [*]_
 
 .. [*] Bláthnaid is a name from the Gaeilge tradition. In England we would likely say *Blawnid* (and *Gaelic*).
 
@@ -94,14 +94,14 @@ Shoes
 -----
 
 The Blacksmith hated to see people sick, or animals hurt.
-And so without a word he began to check on Morten; his eyes, his teeth, his belly.
+And so, without a word, he began to check on Morten; his eyes, his teeth, his belly.
 And then to his hooves, whereupon he groaned quietly on seeing the state of each of them.
 
 The Forge
 ---------
 
 Jack knew he had no way to pay the Blacksmith, so he found it difficult to stand and watch him work.
-Instead he wandered into the back of the Forge, where he was out of sight for a while.
+Instead, he wandered into the back of the Forge, where he was out of sight for a while.
 
 Rafters
 -------
@@ -109,9 +109,9 @@ Rafters
 [NARRATOR]_
 
     Twenty feet above his head, the roof is supported by a sturdy iron frame, from which a chain hoist dangles.
-    From the dark corners of the eves, Jack can hear rustling and squeaking.
+    From the dark corners of the eaves, Jack can hear rustling and squeaking.
 
-    In the middle of the workshop is the bottom half of a great casting mold.
+    In the middle of the workshop is the bottom half of a great casting mould.
     And there’s all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
     broken hasps and gears and levers. All damp and coated in bat droppings and bloom.
 
@@ -119,9 +119,9 @@ Send me the bill
 ----------------
 
 Finally, when the horse was fully shod, the Blacksmith ducked back into where Jack had been standing.
-“All’s done”, said the Smith, standing fully in the doorway.
+“All’s done,” said the Smith, standing fully in the doorway.
 
-“Dad thanks you”, said Jack without much confidence.
+“Dad thanks you,” said Jack without much confidence.
 
 “That’s certain, Jack. And we must reckon up, presently. For today and for times past.”
 
@@ -130,16 +130,16 @@ Broke
 
 [NARRATOR]_
 
-    In those days people would usually help their neighbours wherever there was need.
+    In those days people would usually help their neighbours whenever there was need.
     And should they get to owing too many favours they would settle up in coin at Yuletide.
-    Jack is in a difficult situation because this year his family have very little to offer.
+    Jack was in a difficult situation because this year his family had very little to offer.
     The Blacksmith is chief among their creditors.
     So according to custom, Jack bows and he asks how he may be of service.
 
 Errand
 ------
 
-“I do have an errand you can do for me”, says the Blacksmith.
+“I do have an errand you can do for me,” says the Blacksmith.
 “There is a message to deliver. It will be some days travelling.”
 
 Unprepared
@@ -147,7 +147,7 @@ Unprepared
 
 So Jack went home, and hunted around the little cottage for whatever might be useful on a journey.
 He found so little food in the place that he dared not take any, for fear of leaving his parents in
-want while he was away.
+want whilst he was away.
 
 Packing
 -------
@@ -177,7 +177,7 @@ So he reached under the bench and pulled out a chunk of iron.
 He looked at it thoughtfully for a moment, before taking a rough brush to scrub away the rust.
 It was round in shape, and it clanged and sang.
 
-“You’ll need that”, said he, handing it to Jack.
+“You’ll need that,” said he, handing it to Jack.
 
 About The Trivet
 ----------------
@@ -213,7 +213,7 @@ chemistry glowed milky and grey, like a cloudy dawn.
 The Mission
 -----------
 
-The Blacksmith led Jack away from the building and on to the open road. “Jack, you are to go to the City”, he said.
+The Blacksmith led Jack away from the building and on to the open road. “Jack, you are to go to the City,” he said.
 “Follow the road East. The charm I have given you will allow you in. But listen; the rise of the New Moon will
 stop it shining. After that it is useless.”
 
@@ -381,7 +381,7 @@ Morten did not like the sound of that, and ground his hooves in deep.
 Before the Law
 --------------
 
-“This door is only for you”, said the nearest to Jack.
+“This door is only for you,” said the nearest to Jack.
 
 “Now get in, before I close it!”
 
@@ -569,11 +569,11 @@ Simplicity
 ----------
 
 Then Krol caught sight of Jack’s Trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
-“Do you know what this one is?”, he asked.
+“Do you know what this one is?,” he asked.
 
 Jack couldn’t fathom what he meant.
 
-“This spoke stands for **Simplicity** ”, said Krol. He continued, sounding slightly tipsy.
+“This spoke stands for **Simplicity** ,” said Krol. He continued, sounding slightly tipsy.
 “Simplicity. Try to train that. It can be cultivated, can simplicity.”
 Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
 
@@ -603,7 +603,7 @@ Courage
 
 So Fell said, “I’ll wager there is a motto around the edge of that article you have.
 Do you know what it is?” Jack did not, but he held up the Trivet in both hands for the Smith to see.
-“Ah”, says the Smith, “I recognize that one word. It is **Courage** ”.
+“Ah,” says the Smith, “I recognize that one word. It is **Courage** ”.
 He would have liked to study the rest of the lettering, but Jack dared not risk any loss, and he hid the
 Trivet again in his bundle.
 
@@ -621,7 +621,7 @@ First he’d created a licence for making locks, which the Smiths had to redeem 
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, for whom he secured
 permission instead.
 
-“But the thing is”, said Fell, “they can’t seem to maintain their tolerances.”
+“But the thing is,” said Fell, “they can’t seem to maintain their tolerances.”
 
 “You won’t find one key in this City that will match another. And don’t drop one of their padlocks.
 The tumblers jam up if you do”.
@@ -659,7 +659,7 @@ Compassion
 As soon as Jack awoke, he would be out again to learn more from the Smiths.
 Fell remained interested in the Trivet, and Jack allowed him to inspect the strange markings on the edge.
 They had been worn down by use, but after a little time cleaning, Fell started to understand another word.
-“This one says **Compassion** ”, he said.
+“This one says **Compassion** ,” he said.
 
 Boilermakers
 ------------
@@ -691,8 +691,8 @@ Sensitivity
 
 Krol needed no second invitation, and drank the beer gratefully. Then he set the dish down again, and went back to
 the Trivet, which was there on the floor. And he indicated one of the spokes and said,
-“Do you know what this one is?”, and of course Jack did not.
-“This one stands for **Sensitivity** ”, said Krol.
+“Do you know what this one is?,” and of course Jack did not.
+“This one stands for **Sensitivity** ,” said Krol.
 He paused for a moment, trying not to stumble over his words.
 “Sensitivity. Try to train that. It can be cultivated, can sensitivity.”
 
@@ -714,7 +714,7 @@ Cognition
 The next morning Jack felt he urgently needed to find the Master of Smiths, so he was out again early to see his friend Fell.
 
 He in his turn had been eager to check the Trivet and its third set of markings. After applying
-some paste, and rubbing with a cloth, he could make out its meaning. “This one reads **Cognition** ”, he declared.
+some paste, and rubbing with a cloth, he could make out its meaning. “This one reads **Cognition** ,” he declared.
 
 Cutlers
 -------
@@ -732,7 +732,7 @@ It was significantly safer for the operator.
 Ballistics
 ----------
 
-“We were sent out this week to pick up some scrap”, recalled Fell.
+“We were sent out this week to pick up some scrap,” recalled Fell.
 “One of the Guards at the gate held on too long to a bridle”.
 
 “Breastplate was rubbish, all smashed up. Couldn’t do anything with it”.
@@ -878,9 +878,9 @@ He recognised the name, you see. It was one of the peasant names that Blacksmith
 It had been ten years since he’d brought servitude and violation to the children
 of his enemies. But they had escaped him, and found ways to prosper, and now saw fit to mock him.
 
-Ingomer shook with rage. “Progeniem Vitiosiorem!”, he cursed, in the secret language of the Temple.
+Ingomer shook with rage. “Progeniem Vitiosiorem!,” he cursed, in the secret language of the Temple.
 
-Alongside his anger, there was fear in him too. “Progeniem Vitiosiorem!”, he bellowed again.
+Alongside his anger, there was fear in him too. “Progeniem Vitiosiorem!,” he bellowed again.
 
 He felt very old now.
 
@@ -1029,12 +1029,12 @@ whether he’d been fully aware of its function and significance.
 
 But the Blacksmith pretended not to know.
 He simply laughed and bade him keep it.
-“I made another while you were gone”, he said.
+“I made another while you were gone,” he said.
 
 A lost friend
 -------------
 
-“What happened to your horse?”, he asked. Jack didn’t want to say frankly,
+“What happened to your horse?,” he asked. Jack didn’t want to say frankly,
 still feeling at fault for not having saved him somehow.
 
 He caught the look on Jack’s face, and it hinted enough, so he changed the subject.
@@ -1044,7 +1044,7 @@ Payback
 
 “Did you meet with the Master?” asked the Blacksmith.
 
-“Yes, I did”, said Jack.
+“Yes, I did,” said Jack.
 
 “And what did he say?”
 
@@ -1088,12 +1088,12 @@ They took in the world for a moment. And then they headed East.
 
 Jack turned his head to follow them.
 
-“What does it mean?”, he wondered.
+“What does it mean?,” he wondered.
 
-“There is going to be trouble for a while”, replied the Blacksmith,
+“There is going to be trouble for a while,” replied the Blacksmith,
 “but it can’t be helped”.
 
-“They carry a message”, he said.
+“They carry a message,” he said.
 
 A Welcome
 ---------
@@ -1106,7 +1106,7 @@ ribbon.
 She hitched up her dress a little as she stepped across the cobbles.
 Jack could see that she wore a silver anklet, but came barefoot towards them.
 
-“Hello, Jack”, she said. “Are you going to stay for a while?”
+“Hello, Jack,” she said. “Are you going to stay for a while?”
 
 She took out of her petticoat a roll of linen paper, tied with more of her
 ribbon.
