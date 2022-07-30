@@ -314,7 +314,7 @@ Optimism
 --------
 
 Jack had ceased to greet other travellers on the road, and preferred very much to camp alone.
-As he lay looking up at the stars, he would take out the locket the Blacksmith had made for him, and marvel
+As he lay looking up at the stars, he would take out the Locket the Blacksmith had made for him, and marvel
 at how it glowed in the darkness. The New Moon was yet two weeks away. Plenty of time to deliver a message,
 thought Jack.
 
@@ -324,9 +324,10 @@ The City
 Hinterland
 ----------
 
-The last few miles were grim. There was not a tree or bush to be seen now; only a blasted and boggy heath.
-The road was lined on both sides by ragged camps; turves piled up for walls, rooved with the remnants of
-smashed-up wagons. And everywhere, the sounds and smells of sad and hungry people.
+The last few miles made for a grim approach.
+There was not a tree or bush to be seen now; only a blasted and boggy heath.
+The road was lined on both sides by ragged camps; turves piled up for walls, roofed with the remnants of
+smashed-up wagons. And from the clutter, the sounds and smells of disease and disaster.
 
 Blocked
 -------
@@ -341,7 +342,7 @@ In his whole life, Jack had never stood in a line for anything, and the longer h
 he became. Finally, at the barrier, a sour-faced man in a leather tunic demanded to know what was his
 business.
 
-Jack could only hold up the locket and say, “I carry a message”.
+Jack could only hold up the Locket and say, “I carry a message.”
 That seemed to suffice; the man lowered his truncheon and waved him through.
 
 Through
@@ -355,21 +356,25 @@ Traffic
 [NARRATOR]_
 
     There is another line here. Scores of carts stand by, piled up with all kinds of goods.
-    There are angry voices as traders argue with Guards and revenue men. Jack goes on past.
-    He gathers his few belongings from Morten’s back, and hoists them on his own.
-    Then he aims for a smaller door next to the main entry which seems to be open to those on foot.
+    There are angry voices as traders argue with Guards and revenue men.
+
+    Jack goes on past.
+
+    Prudently, he gathers his few belongings from Morten’s back, and hoists them on his own.
+    Then he aims for a smaller door next to the main entry, which seems to be open to those on foot.
 
 The Postern
 -----------
 
-The postern door was flanked by two Guards, sternly on duty. They held short, solid bills with evil-looking hooks
+The postern door was flanked by two Guards, stern and stocky.
+They held short, solid bills with evil-looking hooks
 at the end.  One of the men stepped forward to take Morten’s bridle.
-The other offered the point of his weapon and advised Jack he should explain himself or go back where he came.
+The other offered the point of his weapon and advised Jack he should explain himself or go back whence he came.
 
 Password
 --------
 
-Jack repeated the words that had got him past the previous challenge. This time, the Guard studied the locket
+Jack repeated the words that had got him past the previous challenge. This time, the Guard studied the Locket
 carefully, before finally nodding. Then he asked, in a mocking way, whether the horse carried a message too,
 and where was his token for entry?
 
@@ -389,25 +394,29 @@ Before the Law
 
 “Now get in, before I close it!”
 
-There was nothing that Jack could do but step through the gate while he was able.
-He flinched to hear behind him the laughter of the Guards as he passed.
+[NARRATOR]_
+
+    There is nothing that Jack can do but step through the gate while he is able.
+    He flinches on recognising the worried call of his horse.
+    He can't see back, but he hears indignant snorting, cursing and confusion.
 
 Inside
 ------
 
-Inside the wall, as their laughter fell to cursing, Jack found himself on a raised buttress.
-There were stone battlements on either side. Two flights of steps led down to the street below.
+Inside the archway, Jack found himself on a raised buttress, part of the battlements which
+protected the gate.
 
-He tripped and tumbled down them, confused and upset at how he had just lost Morten.
+Two flights of steps led down to the street below.
+
+Jack was that upset at how he had just lost Morten, and so trying to plan how to get around back to him,
+that he tripped and tumbled all the way down.
 
 Ambush
 ------
 
-[NARRATOR]_
-
-    Several fellows are gathered by the stair. They take notice of him and Jack realises he had better
-    recover his wits or else be robbed again. He hurries ahead until he gets to a spot where he can’t be
-    surprised. There he sinks to his haunches, steadies his breathing, and begins to look around.
+Several fellows were gathered by the stair. They took notice of him and Jack realised he had better
+recover his wits or else be robbed again. He hurried ahead until he got to a spot where he could not be
+surprised. There he sank to his haunches, steadied his breathing, and began to look around.
 
 Exploring
 ---------
@@ -419,10 +428,10 @@ Market
 ------
 
 Set up at intervals were wooden market stalls. Many of them were shuttered or empty.
-Long lines of people formed up at those who had stock.
+Long lines of people formed at those traders who had stock.
 
 Everywhere else was boarded up, or blocked off, or tumbled down.
-Until you came to a gated arch near the Eastern wall.
+Until, that is, you came to a gated arch near the Eastern wall.
 Behind that was a high tower, barracks for the Guard, and the mansion of the Mayor.
 
 Queues
@@ -431,22 +440,22 @@ Queues
 [NARRATOR]_
 
     Wherever there is food for sale, there are Guards to keep order.
-    The people look anxious and resentful. They pick each others pockets in the queues, and when they are
+    The people look defeated and resentful. They pick each others pockets in the queues, and when they are
     discovered, they fall to arguing and fighting.
-    Then in jump the Guards, and all run and scatter for fear of a cracked skull.
+    Then in jump the Guards, and all turn and scatter for fear of a cracked skull.
 
 Environment
 -----------
 
 Jack sensed trouble. He was sure to be robbed; it seemed to be not merely a common occurrence, but the very
-commerce of half the City. The second concern was getting lost, and while looking lost,
+commerce of half the City. The second concern was getting lost and, while looking lost,
 then to be cornered in some alley by thieves.
 
 But only a few main streets of the City were open to all. Every neighbourhood,
 where families were established, had set up gates and pickets, protecting their own, and permitting only
 their own to pass through.
 
-So Jack trapsed about a quarter of a mile back and forth, and set himself the task of finding his way around.
+So Jack traipsed about a quarter of a mile back and forth, and set himself the task of finding his way around.
 
 Safety
 ------
@@ -456,7 +465,7 @@ Safety
     Everywhere you look there are notices. They are pasted on walls and pinned to the street posts.
 
     They all bear the image of Mayor Ingomer.
-    He is pictured heroically in a woodcut which is now several years old.
+    He is pictured heroically in a woodcut that is now several years old.
 
     Ingomer is reminding everyone to Stay Safe. By that he means not lighting fires.
     Staying Safe is also very much about handing in all your long knives,
@@ -471,7 +480,7 @@ They diverted the best goods to his favoured merchants, and shook down the hauli
 Numbers
 -------
 
-The Mayor also ran a system of licences which meant you had to apply for permission to light a brazier.
+The Mayor also ran a system of licences, which meant you had to apply for permission to light a brazier.
 
 And that’s how Jack found the Smiths, down at the dock by the river.
 They’d all built their workshops on the same wharf, having had to pool together to pay
@@ -480,7 +489,7 @@ the fees for running their Forges.
 Checks
 ------
 
-Many times Jack was stopped and asked to explain who he was. Luckily the locket did the trick.
+Many times Jack was stopped and asked to explain who he was. Luckily the Locket did the trick.
 Whatever it stood for, the Guards evidently knew it, though Jack himself was none the wiser.
 
 Krol
@@ -763,7 +772,7 @@ And there was Krol again, but looking downcast and grave.
 Straight away he said to Jack, “Tomorrow comes a crescent moon.
 And so all my time is done.”
 
-And Jack looked down at his locket which was beginning to fade, and he knew that he hadn’t long to carry out his
+And Jack looked down at his Locket which was beginning to fade, and he knew that he hadn’t long to carry out his
 task in the City. And so he went over to ‘The Other’ and poured out a draft into the dish.
 Krol took it, and nodded his thanks before knocking it back.
 
@@ -856,10 +865,10 @@ And there on an armoured carriage was Ingomer, in all his robes and finery, surr
 Last time for the Locket
 ------------------------
 
-Jack stepped forward and raised up his locket saying, “I carry a message!”
+Jack stepped forward and raised up his Locket saying, “I carry a message!”
 
 Ingomer always kept his ears open for news, and he raised his hand to halt the procession.
-He glanced at the locket, and then back at Jack. “What is it? Quickly!”
+He glanced at the Locket, and then back at Jack. “What is it? Quickly!”
 
 He looked older than the portrait on his notices, and altogether less noble.
 Ingomer hadn’t been feeling well lately. His weakness for Gin had paled his skin.
@@ -937,8 +946,8 @@ Dissolving
 Time’s up
 ---------
 
-In the morning, Jack looked down at his locket.
-But the locket shone no longer. And he knew he had to go.
+In the morning, Jack looked down at his Locket.
+But the Locket shone no longer. And he knew he had to go.
 
 Evasion
 -------
