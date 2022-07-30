@@ -165,7 +165,7 @@ The Trivet
 Reporting for Duty
 ------------------
 
-In the morning Jack rose early and bade goodbye to his parents. He went outside to unhitch Morten and strap on
+In the morning, Jack rose early and bade goodbye to his parents. He went outside to unhitch Morten and strap on
 his gear. On the way to the Forge they stopped by a little stream to fill up the bottle.
 
 Lightly equipped
@@ -173,9 +173,9 @@ Lightly equipped
 
 The Blacksmith was already waiting for them. He saw straight away how lightly equipped Jack was.
 
-So he reached under the bench and pulled out a chunk of iron.
+So he reached down into a box and pulled out a round piece of ironwork.
+He dropped it on the bench before him. For several seconds it rang and sang.
 He looked at it thoughtfully for a moment, before taking a rough brush to scrub away the rust.
-It was round in shape, and it clanged and sang.
 
 “You’ll need that,” said he, handing it to Jack.
 
@@ -184,24 +184,23 @@ About The Trivet
 
 It was a Trivet, such as you’d use to sit a kettle on a fire.
 This one was solidly made, but with a decorative design. It had curved spokes like the wheel of some
-fantastic chariot. Around the circumference were embossed letters, not yet clear enough to read.
+fantastic battle chariot. Around the circumference were embossed letters, not yet clear enough to read.
 
 A token
 -------
 
-Then he heated a small billet of iron, about the size of a pea pod, which had a hole in one end.
+Then the Blacksmith heated up a small billet of iron.
+The little bar was about the size of a pea pod, and it had a hole in one end.
 
 Activated
 ---------
 
-[NARRATOR]_
+The Smith opened a small tin case. He took from it a wrap of waxed paper and a metal tool,
+like a saddler’s punch.
 
-    The Blacksmith opens a small tin box. He takes from it a wrap of waxed paper and a metal tool,
-    like a saddler’s punch.
-
-    Peeling apart the paper, despite his grimy fingers, he carefully removes a small thin sheet of
-    white metal foil. With the iron still hot, he deftly drops the metal foil upon the surface, and placing
-    the punch on top, strikes it smartly with a hammer.
+Peeling apart the paper, despite his grimy fingers, he carefully removed a thin sheet of
+white metal foil. With the iron still hot, he deftly dropped the metal foil upon the surface, and placing
+the punch on top, struck it smartly with a hammer.
 
 Issued
 ------
@@ -215,14 +214,14 @@ The Mission
 
 The Blacksmith led Jack away from the building and on to the open road. “Jack, you are to go to the City,” he said.
 “Follow the road East. The charm I have given you will allow you in. But listen; the rise of the New Moon will
-stop it shining. After that it is useless.”
+stop it shining. After that it is useless.
 
 The Message
 -----------
 
 “When you get inside, seek out the Master of the Guild of Smiths.
 The Guild sign looks very like this Trivet you carry.
-He will know who sends you by the charm around your neck.”
+He will know who sends you by the Locket around your neck.
 
 “Tell him this; that Bláthnaid is of age to marry. And now you must go.”
 
@@ -236,12 +235,12 @@ He felt very proud and important to be on an errand to the City.
 As the miles rolled on, and the day grew late, he started to notice a change in the country. The hedges were less
 well kept than before. The ditches were choked and the signposts and milestones overgrown with weed.
 
-In the evening he spied ahead a group of tents and carts.
+Later in the evening he spied ahead of him a group of tents and carts.
 
 Tinkers
 -------
 
-He guessed they might be tinkers, who move about wherever there is work. When he was younger they had
+He guessed they might belong to tinkers, who move about wherever there is work. When he was younger they had
 sometimes passed by, and his Mother had brought out the old tin bath for them to mend.
 
 The camp
@@ -250,14 +249,17 @@ The camp
 The encampment was at the side of the road, and several people were tending fires or smoking pipes
 or feeding donkeys.
 
-Hungry
+Weary
 ------
 
-[NARRATOR]_
+Jack greeted them every one, and some replied and some did not.
 
-    Jack greets them every one, and some reply and some do not. They do not seem to be tinkers at all.
-    There are many children, and some old folk. They are not very organised, and they all look tired,
-    and cold, and hungry.
+Anxious
+-------
+
+They did not seem to be tinkers at all.
+There were many children, and some old folk. They were not very organised, and they all looked weary
+and anxious.
 
 Brew up
 -------
@@ -268,20 +270,22 @@ set up the Trivet, and boiled some water.
 Boon
 ----
 
-Now this Trivet was very special; only a few Blacksmiths know how to make such a thing.
-Because whatever you brewed upon it, however little tea you had; in fact, no matter if you were only
-boiling hay, that brew would nourish and cheer you throughout, and you would not feel the lack of a meal.
+[NARRATOR]_
+
+    Now this Trivet is very special; only a few Blacksmiths know how to make such a thing.
+    Because whatever you brew upon it, however little tea you have; in fact, no matter if you are only
+    boiling hay, that brew will nourish and cheer you throughout, and you will not feel the lack of a meal.
 
 Camping
 -------
 
 So Jack rolled himself up in his blanket, near to the fire, warm and quite comfy.
-Morten settled down under a tree, happy to be away from the plough, and very pleased with his new shoes.
+Morten settled down under a tree, happy to be away from the plough and very pleased with his new shoes.
 
 Onward
 ------
 
-They awoke in the early light of a new day, and were soon on their way again.
+They were both awakened by dewfall in the half light of the next day, and were soon on their feet again.
 As they went on, the road East got broader.
 
 High Streets
@@ -291,7 +295,7 @@ The villages they passed through were more frequent. They were bigger too,
 and despite his intention to keep moving, Jack could not resist the
 temptation to explore them.
 
-Some had whole streets given over to shops and markets. Mostly empty now.
+Some had whole streets given over to shops and markets. But these were mostly empty now.
 And the bigger they had been, the more shabby they seemed to have ended up.
 
 The countryside around was ever more sad and bare,
