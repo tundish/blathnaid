@@ -1041,7 +1041,7 @@ It was all shut up; the day was a Sunday.
 Jack had long since lost track of the calendar.
 
 He went around the side to where the habitation was and knocked at the
-Kitchen door.
+kitchen door.
 
 Looking up, he saw the lace of a high window twitch and fall back again.
 He had a sudden feeling of being watched, but it was not unpleasant.
@@ -1126,14 +1126,14 @@ Jack turned his head to follow them.
 “What does it mean?” he wondered.
 
 “There is going to be trouble for a while,” replied the Blacksmith,
-“but it can’t be helped”.
+“but it can’t be helped.
 
 “They carry a message,” he said.
 
 A Welcome
 ---------
 
-The Kitchen door opened again.
+The kitchen door opened again.
 
 It was Bláthnaid. She had brushed her long hair over, and tied it with a
 ribbon.
@@ -1152,7 +1152,7 @@ ribbon.
 “I drew this for you. But you can’t show anyone.”
 
 The Blacksmith pretended not to hear them.
-He went back into the Kitchen to
+He went back into the kitchen to
 put on the kettle.
 
 Away again
@@ -1160,9 +1160,7 @@ Away again
 
 [NARRATOR]_
 
-    He will leave them for the moment.
-
-    Tomorrow he will take Jack aside. He will show him the tracks which cross the mud of
+    Tomorrow he will take Jack aside. He will show him the tracks in the mud of
     the little stream behind the cottage.
 
     Three prints are sharp and shod. One marks the slip of a hoof that wants a shoe again.
