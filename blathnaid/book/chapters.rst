@@ -1099,9 +1099,10 @@ Curse
 
     What can you do with a bat?
     You can’t move him if he wishes not to be moved.
+    And when he wants to go, he'll go.
 
     He has a time of his own, a place of his own.
-    A mood of his own.
+    You can't reason with him. Believe me. I've tried.
 
 Karma
 -----
