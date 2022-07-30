@@ -819,6 +819,10 @@ Advancement
 
 Just as rich merchants introduce their daughters to Court, hoping them to marry into
 the nobility; so too the artisans would raise their girls to set their sights on the son of a merchant.
+
+Connections
+-----------
+
 The families relied on their seniors to make the connections, and it had become the tradition to announce
 one’s offspring to the head of one’s Guild, and they would go and make enquiries as to a suitable match.
 
@@ -853,13 +857,10 @@ Infamy
     Concealment is the precaution of the thief; if he neglects that
     before the fact, so much more is he obliged to apply to it thereafter.
 
-    And likewise the great Swindlers of our time.
-    They wrap themselves in titles and honours
-    beneath which they hope to cloak against our understanding.
+    Know then, the great Swindlers of our time.
+    The strategies they employ to delude us give rise to calumny of our history,
+    injury to our present safety, and perfidy at every opportunity.
 
-    When with dismay we do discover them, what a spot they will be in!
-    What they continually do to elude us is a calamity to our
-    own true history, our present safety, and our future opportunity.
 
 So it’s Ingomer
 ---------------
@@ -942,7 +943,12 @@ Options
 
 That night, back in the cellar, Jack had no idea what to do next. He wondered if he should stay in the
 City, and ask Fell to teach him Smithing. For how could he try to go home with no horse and no way to
-make a living? He had delivered the message, after a fashion. He could even recall the reply. Ingomer’s
+make a living?
+
+Job done
+--------
+
+He had delivered the message, after a fashion. He could even recall the reply. Ingomer’s
 odd words had somehow lodged themselves in Jack’s brain.
 
 Dissolving
@@ -1154,8 +1160,10 @@ Away again
 
 [NARRATOR]_
 
-    The Smith has another job for Jack.
-    Tomorrow he will show him the tracks which cross the little stream behind the cottage.
+    He will leave them for the moment.
+
+    Tomorrow he will take Jack aside. He will show him the tracks which cross the mud of
+    the little stream behind the cottage.
 
     Three prints are sharp and shod. One marks the slip of a hoof that wants a shoe again.
 
