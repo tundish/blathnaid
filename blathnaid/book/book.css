@@ -14,6 +14,7 @@
 --catchphrase-colour-gravity: hsl(293.33, 96.92%, 12.75%);
 --catchphrase-reveal-extends: both;
 --catchphrase-states-scrolls: visible;
+--chapter: "";
 }
 
 @page {
@@ -53,13 +54,17 @@
     }
 }
 
-@page front{
+@page frontmatter{
     @bottom-center {
         content: counter(page, lower-roman);
     }
     @top-left {
         content: "";
     }
+}
+
+@page chapter_one {
+    counter-reset: page 1;
 }
 
 @page:left{
@@ -75,8 +80,7 @@
 @page:right{
     margin: 18mm 20mm 15mm 18mm;
     @top-right {
-        content: var(--balladeer-metadata-version, "DRAFT");
-        content: "";
+        content: var(--chapter);
         font-size: 0.7rem;
         vertical-align: middle;
         width: 100%;
@@ -299,6 +303,11 @@ display: none;
 section.scene:nth-of-type(3) p,
 section.scene:nth-of-type(5) p{
 text-align: center;
+}
+
+section.scene:nth-of-type(7)::before{
+content: "";
+page: chapter_one;
 }
 
 section.scene:nth-last-of-type(1){
