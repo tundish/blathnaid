@@ -123,11 +123,15 @@ text-indent: 0.5rem;
 }
 
 .line:last-of-type blockquote::after {
-content: "-";
+content: "ᔕ";
 display: block;
-margin-bottom: 1rem;
-margin-top: 1rem;
+font-size: 0.8rem;
+margin-bottom: 1.6rem;
+margin-left: auto;
+margin-right: auto;
+margin-top: 1.1rem;
 text-align: center;
+width: 1rem;
 }
 
 .spoken + .unspoken .line:first-of-type p {
