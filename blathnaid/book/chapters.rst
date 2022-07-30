@@ -22,7 +22,7 @@ Once upon a time not far from here, there was a young farm boy called Jack.
 Jack
 ----
 
-Jack's parents were elderly and sick. He had no brothers or sisters nor cousins nor aunts or uncles.
+Jack’s parents were elderly and sick. He had no brothers or sisters nor cousins nor aunts or uncles.
 
 And the land they lived on was very poor.
 
@@ -41,20 +41,20 @@ Clay
 ----
 
 Also the ground, which was a horrible stodge of stone and clay, must have had some curse upon it.
-It bent the plough, it clogged the bridges, it pulled every shoe from poor Morten's spongy old feet.
+It bent the plough, it clogged the bridges, it pulled every shoe from poor Morten’s spongy old feet.
 
 The Blacksmith
 --------------
 
 And so consequently Jack was a regular visitor to the local Blacksmith.
 
-And one day, when Morten had shed a shoe, and Jack couldn't see where it had fallen,
+And one day, when Morten had shed a shoe, and Jack couldn’t see where it had fallen,
 he led his horse onto the narrow track and over to the Forge.
 
 About Bláthnaid
 ---------------
 
-Now the Blacksmith had a daughter, who was very pretty, and Jack's age. Her name was Bláthnaid. [*]_
+Now the Blacksmith had a daughter, who was very pretty, and Jack’s age. Her name was Bláthnaid. [*]_
 
 .. [*] Bláthnaid is a name from the Gaeilge tradition. In England we would likely say *Blawnid* (and *Gaelic*).
 
@@ -68,17 +68,17 @@ Chaste
     pictures of young men with their horses, might be thinking of Jack more
     often than is good for her.
 
-    He has hopes she will marry into money, and doesn't want her going off with
-    some young villain who can't pay his bills.
+    He has hopes she will marry into money, and doesn’t want her going off with
+    some young villain who can’t pay his bills.
 
 Open for business
 -----------------
 
 The front part of the Forge, where the anvil sat, was open on three sides.
 There stood the Blacksmith, warming against the furnace. He had been watching Jack approach up the path,
-and he could tell from Morten's stepping what the matter was about.
+and he could tell from Morten’s stepping what the matter was about.
 
-He took the end of rope from Jack's hand and steadied Morten for a moment.
+He took the end of rope from Jack’s hand and steadied Morten for a moment.
 Then he led the horse to a rail where he tied him up next to a butt of water.
 
 About the Blacksmith
@@ -86,9 +86,9 @@ About the Blacksmith
 
 [NARRATOR]_
 
-    I should tell you a little more about the Blacksmith, but I don't want to hold up the rest of the story.
-    I'll just say that he was a very wise man. He spoke easily with people, and he listened carefully to animals.
-    He wasn't only a skilled Blacksmith, but also a clever Armourer, and a reliable Farrier.
+    I should tell you a little more about the Blacksmith, but I don’t want to hold up the rest of the story.
+    I’ll just say that he was a very wise man. He spoke easily with people, and he listened carefully to animals.
+    He wasn’t only a skilled Blacksmith, but also a clever Armourer, and a reliable Farrier.
 
 Shoes
 -----
@@ -112,18 +112,18 @@ Rafters
     From the dark corners of the eves, Jack can hear rustling and squeaking.
 
     In the middle of the workshop is the bottom half of a great casting mold.
-    And there's all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
+    And there’s all sorts of clutter piled up waiting for the next smelting; bags of bent and flaking nails,
     broken hasps and gears and levers. All damp and coated in bat droppings and bloom.
 
 Send me the bill
 ----------------
 
 Finally, when the horse was fully shod, the Blacksmith ducked back into where Jack had been standing.
-“All's done”, said the Smith, standing fully in the doorway.
+“All’s done”, said the Smith, standing fully in the doorway.
 
 “Dad thanks you”, said Jack without much confidence.
 
-“That's certain, Jack. And we must reckon up, presently. For today and for times past.”
+“That’s certain, Jack. And we must reckon up, presently. For today and for times past.”
 
 Broke
 -----
@@ -177,12 +177,12 @@ So he reached under the bench and pulled out a chunk of iron.
 He looked at it thoughtfully for a moment, before taking a rough brush to scrub away the rust.
 It was round in shape, and it clanged and sang.
 
-“You'll need that”, said he, handing it to Jack.
+“You’ll need that”, said he, handing it to Jack.
 
 About The Trivet
 ----------------
 
-It was a Trivet, such as you'd use to sit a kettle on a fire.
+It was a Trivet, such as you’d use to sit a kettle on a fire.
 This one was solidly made, but with a decorative design. It had curved spokes like the wheel of some
 fantastic chariot. Around the circumference were embossed letters, not yet clear enough to read.
 
@@ -197,7 +197,7 @@ Activated
 [NARRATOR]_
 
     The Blacksmith opens a small tin box. He takes from it a wrap of waxed paper and a metal tool,
-    like a saddler's punch.
+    like a saddler’s punch.
 
     Peeling apart the paper, despite his grimy fingers, he carefully removes a small thin sheet of
     white metal foil. With the iron still hot, he deftly drops the metal foil upon the surface, and placing
@@ -206,7 +206,7 @@ Activated
 Issued
 ------
 
-After it had cooled, the Blacksmith slipped a leather cord through the hole and placed it around the boy's neck.
+After it had cooled, the Blacksmith slipped a leather cord through the hole and placed it around the boy’s neck.
 Jack saw that within the metal there was stamped a circular seal of an intricate design, which by some strange
 chemistry glowed milky and grey, like a cloudy dawn.
 
@@ -303,7 +303,7 @@ Yet onward
 [NARRATOR]_
 
     And so for three more days they travel. Jack can tell Morten is getting tired, and tries not to ride him.
-    He leads him for miles at a time by the bridle. He pats his horse's flank, and worries about how skinny
+    He leads him for miles at a time by the bridle. He pats his horse’s flank, and worries about how skinny
     his ribs are becoming.
 
 Optimism
@@ -352,14 +352,14 @@ Traffic
 
     There is another line here. Scores of carts stand by, piled up with all kinds of goods.
     There are angry voices as traders argue with Guards and revenue men. Jack goes on past.
-    He gathers his few belongings from Morten's back, and hoists them on his own.
+    He gathers his few belongings from Morten’s back, and hoists them on his own.
     Then he aims for a smaller door next to the main entry which seems to be open to those on foot.
 
 The Postern
 -----------
 
 The postern door was flanked by two Guards, sternly on duty. They held short, solid bills with evil-looking hooks
-at the end.  One of the men stepped forward to take Morten's bridle.
+at the end.  One of the men stepped forward to take Morten’s bridle.
 The other offered the point of his weapon and advised Jack he should explain himself or go back where he came.
 
 Password
@@ -373,8 +373,8 @@ Separated
 ---------
 
 One of the Guards started to tie poor Morten to a gatepost, saying,
-“If you can't feed him, you shouldn't keep him”.
-The other man chipped in, “Sure, he'll eat very well presently!”
+“If you can’t feed him, you shouldn’t keep him”.
+The other man chipped in, “Sure, he’ll eat very well presently!”
 
 Morten did not like the sound of that, and ground his hooves in deep.
 
@@ -402,7 +402,7 @@ Ambush
 [NARRATOR]_
 
     Several fellows are gathered by the stair. They take notice of him and Jack realises he had better
-    recover his wits or else be robbed again. He hurries ahead until he gets to a spot where he can't be
+    recover his wits or else be robbed again. He hurries ahead until he gets to a spot where he can’t be
     surprised. There he sinks to his haunches, steadies his breathing, and begins to look around.
 
 Exploring
@@ -456,7 +456,7 @@ Safety
 
     Ingomer is reminding everyone to Stay Safe. By that he means not lighting fires.
     Staying Safe is also very much about handing in all your long knives,
-    and remaining at home even if you don't have any food.
+    and remaining at home even if you don’t have any food.
 
 Scarcity
 --------
@@ -469,8 +469,8 @@ Numbers
 
 The Mayor also ran a system of licences which meant you had to apply for permission to light a brazier.
 
-And that's how Jack found the Smiths, down at the dock by the river.
-They'd all built their workshops on the same wharf, having had to pool together to pay
+And that’s how Jack found the Smiths, down at the dock by the river.
+They’d all built their workshops on the same wharf, having had to pool together to pay
 the fees for running their Forges.
 
 Checks
@@ -488,7 +488,7 @@ A refuge
 While exploring one of the squares, Jack found himself gazing at a grand-looking Tavern, three storeys high.
 He watched as two draymen brought in barrels for the cellar.
 And he saw that every time one half of those big cellar doors banged shut, the hasp on it shook a little loose.
-Now when the draymen left, they were careful to place a padlock on the door. But they couldn't seem to fasten it
+Now when the draymen left, they were careful to place a padlock on the door. But they couldn’t seem to fasten it
 properly, and after a minute or two, they gave up and left it dangling.
 
 So Jack waited until there was a commotion further up the street, and all heads were turned. Then he went over to
@@ -530,7 +530,7 @@ Then, weary from all that had transpired, he rolled himself up in his blanket fo
 Awoken
 ------
 
-Jack awoke on the stroke of midnight. He first thought he'd been roused by a clock bell, but he immediately felt very
+Jack awoke on the stroke of midnight. He first thought he’d been roused by a clock bell, but he immediately felt very
 much as though he was not alone in the cellar.
 
 About Krol
@@ -550,10 +550,10 @@ The legend
     I am not the world expert on Krol.  What I have heard about him would fill a book,
     although only half of it is likely true.
 
-    I do know he's been an important figure in Antiquity. He appears again as a man in our modern age, and
+    I do know he’s been an important figure in Antiquity. He appears again as a man in our modern age, and
     does do many brave deeds here.
 
-    But at the time of this story he is held back in the Netherworld. For reasons I don't understand, his spirit
+    But at the time of this story he is held back in the Netherworld. For reasons I don’t understand, his spirit
     is bound to the City, and the best he can manage is to manifest in the cellar of that Tavern, when the moon
     is full enough to shine through the bars of the windows.
 
@@ -568,10 +568,10 @@ And he passed it to the little Imp, who grinned and straight away started drinki
 Simplicity
 ----------
 
-Then Krol caught sight of Jack's Trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
+Then Krol caught sight of Jack’s Trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
 “Do you know what this one is?”, he asked.
 
-Jack couldn't fathom what he meant.
+Jack couldn’t fathom what he meant.
 
 “This spoke stands for **Simplicity** ”, said Krol. He continued, sounding slightly tipsy.
 “Simplicity. Try to train that. It can be cultivated, can simplicity.”
@@ -601,7 +601,7 @@ But Jack was reluctant; all the time in the City he feared being robbed or trick
 Courage
 -------
 
-So Fell said, “I'll wager there is a motto around the edge of that article you have.
+So Fell said, “I’ll wager there is a motto around the edge of that article you have.
 Do you know what it is?” Jack did not, but he held up the Trivet in both hands for the Smith to see.
 “Ah”, says the Smith, “I recognize that one word. It is **Courage** ”.
 He would have liked to study the rest of the lettering, but Jack dared not risk any loss, and he hid the
@@ -617,13 +617,13 @@ And how Ingomer, brother-in-law to the General of the Guards, on becoming Mayor,
 Locksmiths
 ----------
 
-First he'd created a licence for making locks, which the Smiths had to redeem from him at great cost.
+First he’d created a licence for making locks, which the Smiths had to redeem from him at great cost.
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, for whom he secured
 permission instead.
 
-“But the thing is”, said Fell, “they can't seem to maintain their tolerances.”
+“But the thing is”, said Fell, “they can’t seem to maintain their tolerances.”
 
-“You won't find one key in this City that will match another. And don't drop one of their padlocks.
+“You won’t find one key in this City that will match another. And don’t drop one of their padlocks.
 The tumblers jam up if you do”.
 
 First wish gone
@@ -648,7 +648,7 @@ Standing
 [NARRATOR]_
 
     Now this can be a very good thing to do, although not many people know the secret.
-    For the first few minutes, you can't stop your mind from wandering,
+    For the first few minutes, you can’t stop your mind from wandering,
     but then slowly you start to breathe with your belly, and your shoulders open up,
     and your hips find their shape again.
     Everything sinks through your legs into the ground, and then all things become possible.
@@ -703,7 +703,7 @@ Longevity
 
 [NARRATOR]_
 
-    But Jack can't sleep. He feels very alone, in a very strange world. So he stands there in his little spot
+    But Jack can’t sleep. He feels very alone, in a very strange world. So he stands there in his little spot
     in the dark. And he calms his breathing, until it moves down from his chest into his belly.
     Breathing slower, and softer. Until nearly half a minute to breathe in, and nearly half a minute to
     breathe out.
@@ -720,7 +720,7 @@ Cutlers
 -------
 
 Then Fell took up his story of Ingomer.
-Recently he'd forbidden the Smiths from forging blades or any edged tools, and deployed his own Guild of Cutlers
+Recently he’d forbidden the Smiths from forging blades or any edged tools, and deployed his own Guild of Cutlers
 to be licensed exclusively for those items. Their factories were in a protected area near the Armoury.
 
 Fell had nothing but contempt for the Cutlers. He said they were all blade and no tang.
@@ -735,9 +735,9 @@ Ballistics
 “We were sent out this week to pick up some scrap”, recalled Fell.
 “One of the Guards at the gate held on too long to a bridle”.
 
-“Breastplate was rubbish, all smashed up. Couldn't do anything with it”.
+“Breastplate was rubbish, all smashed up. Couldn’t do anything with it”.
 
-“They found one horseshoe actually inside the fellow, so I'm told”.
+“They found one horseshoe actually inside the fellow, so I’m told”.
 
 “What happened to the horse?” asked Jack.
 
@@ -759,7 +759,7 @@ And there was Krol again, but looking downcast and grave.
 Straight away he said to Jack, “Tomorrow comes a crescent moon.
 And so all my time is done.”
 
-And Jack looked down at his locket which was beginning to fade, and he knew that he hadn't long to carry out his
+And Jack looked down at his locket which was beginning to fade, and he knew that he hadn’t long to carry out his
 task in the City. And so he went over to ‘The Other’ and poured out a draft into the dish.
 Krol took it, and nodded his thanks before knocking it back.
 
@@ -771,7 +771,7 @@ finger on the third spoke, and said, “This is **Spontaneity** ”.
 He raised his finger in the air dramatically, and wagged it at Jack.
 “Try to train that. It can be cultivated, can spontaneity.”
 
-There was a clatter as the Trivet fell to the floor and rolled back against Jack's foot. Krol had fallen asleep.
+There was a clatter as the Trivet fell to the floor and rolled back against Jack’s foot. Krol had fallen asleep.
 
 Sinking
 -------
@@ -797,7 +797,7 @@ Advancement
 Just as rich merchants introduce their daughters to Court, hoping them to marry into
 the nobility; so too the artisans would raise their girls to set their sights on the son of a merchant.
 The families relied on their seniors to make the connections, and it had become the tradition to announce
-one's offspring to the head of one's Guild, and they would go and make enquiries as to a suitable match.
+one’s offspring to the head of one’s Guild, and they would go and make enquiries as to a suitable match.
 
 Ostracised
 ----------
@@ -838,7 +838,7 @@ Infamy
     What they continually do to elude us is a calamity to our
     own true history, our present safety, and our future opportunity.
 
-So it's Ingomer
+So it’s Ingomer
 ---------------
 
 It was the eve of the New Moon.
@@ -858,10 +858,10 @@ Ingomer always kept his ears open for news, and he raised his hand to halt the p
 He glanced at the locket, and then back at Jack. “What is it? Quickly!”
 
 He looked older than the portrait on his notices, and altogether less noble.
-Ingomer hadn't been feeling well lately. His weakness for Gin had paled his skin.
+Ingomer hadn’t been feeling well lately. His weakness for Gin had paled his skin.
 Where he had tried to shave, his face was sore and blotchy.
 
-Here's my Message
+Here’s my Message
 -----------------
 
 The parade fell silent, and it seemed to Jack that the whole world had hushed too.
@@ -869,13 +869,13 @@ He opened his mouth again. There was no effort to be made. The words came from a
 
 “Bláthnaid is of age to marry.”
 
-Ingomer's reaction
+Ingomer’s reaction
 ------------------
 
 The effect this had on Ingomer was a shock to all around him.
 He recognised the name, you see. It was one of the peasant names that Blacksmiths gave their daughters.
 
-It had been ten years since he'd brought servitude and violation to the children
+It had been ten years since he’d brought servitude and violation to the children
 of his enemies. But they had escaped him, and found ways to prosper, and now saw fit to mock him.
 
 Ingomer shook with rage. “Progeniem Vitiosiorem!”, he cursed, in the secret language of the Temple.
@@ -893,8 +893,8 @@ A four-man team from his bodyguard rushed forward and grabbed at Jack.
 Two of them pushed through the crowd in advance of their captive.
 They carried him as far as the next street corner, threw him down, and beat him.
 
-But Jack wasn't too much hurt, nor did the Guards really try to arrest him.
-They assumed him to be one of Ingomer's spies, albeit now out of favour for having delivered bad news.
+But Jack wasn’t too much hurt, nor did the Guards really try to arrest him.
+They assumed him to be one of Ingomer’s spies, albeit now out of favour for having delivered bad news.
 
 Chase is on
 -----------
@@ -906,7 +906,7 @@ Too keen
 --------
 
 Some of the other Guards made after him yet. Three or four were just back from the war;
-freshly assigned to parade detail. They hadn't had time to adjust to the Cutlers' shiny new armour.
+freshly assigned to parade detail. They hadn’t had time to adjust to the Cutlers’ shiny new armour.
 The injuries they sustained from their equipment as they ran were later to be the subject of an inquiry.
 
 Jack was careful to shake them off before he stopped for breath, and then took an obscure route to get
@@ -919,8 +919,8 @@ Options
 
 That night, back in the cellar, Jack had no idea what to do next. He wondered if he should stay in the
 City, and ask Fell to teach him Smithing. For how could he try to go home with no horse and no way to
-make a living? He had delivered the message, after a fashion. He could even recall the reply. Ingomer's
-odd words had somehow lodged themselves in Jack's brain.
+make a living? He had delivered the message, after a fashion. He could even recall the reply. Ingomer’s
+odd words had somehow lodged themselves in Jack’s brain.
 
 Dissolving
 ----------
@@ -930,7 +930,7 @@ Dissolving
     He stands all night. He takes in heaven at the crown of his head, and passes it down into the earth.
     Then he draws it up until he is filled again, and with it he waters the dark abyss.
 
-Time's up
+Time’s up
 ---------
 
 In the morning, Jack looked down at his locket.
@@ -1025,7 +1025,7 @@ A Gift
 ------
 
 Jack complimented the Smith on the Trivet. He would have liked to find out
-whether he'd been fully aware of its function and significance.
+whether he’d been fully aware of its function and significance.
 
 But the Blacksmith pretended not to know.
 He simply laughed and bade him keep it.
@@ -1034,10 +1034,10 @@ He simply laughed and bade him keep it.
 A lost friend
 -------------
 
-“What happened to your horse?”, he asked. Jack didn't want to say frankly,
+“What happened to your horse?”, he asked. Jack didn’t want to say frankly,
 still feeling at fault for not having saved him somehow.
 
-He caught the look on Jack's face, and it hinted enough, so he changed the subject.
+He caught the look on Jack’s face, and it hinted enough, so he changed the subject.
 
 Payback
 -------
@@ -1069,7 +1069,7 @@ Curse
     The bats, who have been listening, fall to grave contemplation.
 
     What can you do with a bat?
-    You can't move him if he wishes not to be moved.
+    You can’t move him if he wishes not to be moved.
 
     He has a time of his own, a place of his own.
     A mood of his own.
@@ -1091,7 +1091,7 @@ Jack turned his head to follow them.
 “What does it mean?”, he wondered.
 
 “There is going to be trouble for a while”, replied the Blacksmith,
-“but it can't be helped”.
+“but it can’t be helped”.
 
 “They carry a message”, he said.
 
@@ -1111,7 +1111,7 @@ Jack could see that she wore a silver anklet, but came barefoot towards them.
 She took out of her petticoat a roll of linen paper, tied with more of her
 ribbon.
 
-“I drew this for you. But you can't show anyone.”
+“I drew this for you. But you can’t show anyone.”
 
 The Blacksmith pretended not to hear them.
 He went back into the Kitchen to
