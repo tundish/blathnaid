@@ -397,8 +397,8 @@ Before the Law
 [NARRATOR]_
 
     There is nothing that Jack can do but step through the gate while he is able.
-    He flinches on recognising the worried call of his horse.
-    He can't see back, but he hears indignant snorting, cursing and confusion.
+    He flinches at the worried call from his horse.
+    He doesn't look back, but he hears indignant snorting, cursing and confusion.
 
 Inside
 ------
@@ -758,9 +758,9 @@ Ballistics
 
 “Breastplate was cheap rubbish, all smashed up. Couldn’t do anything with it.
 
-“They found one horseshoe actually inside the fellow, so I’m told.”
+“They found a horseshoe actually inside the fellow, so I’m told.”
 
-It cheered Jack no end to think that Morten might have gotten away.
+It cheered Jack no end to think that Morten might have made it away.
 
 “What happened to the horse?”
 
@@ -1154,14 +1154,3 @@ ribbon.
 The Blacksmith pretended not to hear them.
 He went back into the kitchen to
 put on the kettle.
-
-Away again
-----------
-
-[NARRATOR]_
-
-    Tomorrow he will take Jack aside. He will show him the tracks in the mud of
-    the little stream behind the cottage.
-
-    Three prints are sharp and shod. One marks the slip of a hoof that wants a shoe again.
-
