@@ -569,7 +569,7 @@ Simplicity
 ----------
 
 Then Krol caught sight of Jack’s Trivet and thoughtfully traced the shape of one spoke with a thin bony finger.
-“Do you know what this one is?,” he asked.
+“Do you know what this one is?” he asked.
 
 Jack couldn’t fathom what he meant.
 
@@ -691,7 +691,7 @@ Sensitivity
 
 Krol needed no second invitation, and drank the beer gratefully. Then he set the dish down again, and went back to
 the Trivet, which was there on the floor. And he indicated one of the spokes and said,
-“Do you know what this one is?,” and of course Jack did not.
+“Do you know what this one is?” and of course Jack did not.
 “This one stands for **Sensitivity** ,” said Krol.
 He paused for a moment, trying not to stumble over his words.
 “Sensitivity. Try to train that. It can be cultivated, can sensitivity.”
@@ -1034,7 +1034,7 @@ He simply laughed and bade him keep it.
 A lost friend
 -------------
 
-“What happened to your horse?,” he asked. Jack didn’t want to say frankly,
+“What happened to your horse?” he asked. Jack didn’t want to say frankly,
 still feeling at fault for not having saved him somehow.
 
 He caught the look on Jack’s face, and it hinted enough, so he changed the subject.
@@ -1088,7 +1088,7 @@ They took in the world for a moment. And then they headed East.
 
 Jack turned his head to follow them.
 
-“What does it mean?,” he wondered.
+“What does it mean?” he wondered.
 
 “There is going to be trouble for a while,” replied the Blacksmith,
 “but it can’t be helped”.
