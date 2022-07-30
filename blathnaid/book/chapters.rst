@@ -392,7 +392,7 @@ Before the Law
 
 “This door is only for you,” said the nearest to Jack.
 
-“Now get in, before I close it!”
+“Now go in, before I close it!”
 
 [NARRATOR]_
 
