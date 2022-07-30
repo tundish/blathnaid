@@ -3,7 +3,7 @@
 :title:     Bláthnaid
 :version:   |VERSION|
 
-.. |COPYRIGHT| replace:: 2022 D E Haynes
+.. |COPYRIGHT| replace:: 2022 D. E. Haynes
 .. |VERSION| property:: blathnaid.book.__version__
 
 Technicals
@@ -23,10 +23,13 @@ Worcester
 WR1 2NX
 UK.
 
-Typeset in IBM Plex Serif by Balladeer.
+Typeset in IBM Plex Serif with Balladeer.
+Edit and Printing at Orphans Press, Leominster.
 
 Legals
 ------
+
+All rights reserved.
 
 *The characters in this story are fictitious, notwithstanding
 the names they have been given.
@@ -47,7 +50,7 @@ Opening
 Dedication
 ----------
 
-For Fynn.
+For Fynn
 
 Foreword
 --------

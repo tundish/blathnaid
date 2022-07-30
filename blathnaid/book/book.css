@@ -262,7 +262,7 @@ vertical-align: baseline;
 }
 
 .catchphrase-banner h1::after{
-content: "D E Haynes";
+content: "D. E. Haynes";
 display: block;
 font-size: 0.8rem;
 margin-top: 1.2rem;
