@@ -152,12 +152,12 @@ want whilst he was away.
 Packing
 -------
 
-He picked out a woollen blanket to sleep in, which he laid before the fire to drive off the damp.
+He picked out a woollen blanket to sleep under, which he laid before the fire to drive off the damp.
 He found a leather bottle, which he warmed up and replenished with wax.
 He had some kindling, a blade, a flint, and a can with a lid so he could boil up water.
 
-Morten would have to forage. And Jack would go hungry. But he was not dismayed.
-He fell asleep before the grate, and dreamed of voyaging and adventure.
+He would have to find forage for Morten along the way. He guessed he would be going hungry himself too.
+But Jack was not dismayed. He fell asleep before the grate, and dreamed of voyaging and adventure.
 
 The Trivet
 ==========
