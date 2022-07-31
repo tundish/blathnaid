@@ -799,19 +799,19 @@ It was significantly safer for the operator.
 Any old iron
 ------------
 
-“We were sent out last week to pick up some scrap,” recounted Fell.
+“We were sent out this week to pick up some scrap armour,” recounted Fell.
 
-“One of the Guards at the gate hung on too long to a bridle. Animal not happy.”
+“Apparently, one of the Guards at the gate hung on too long to a bridle. Animal not happy.”
 
 Ballistics
 ----------
 
-“Their breastplates are just cheap rubbish. This one was all smashed up.
+“Their breastplates are such cheap rubbish. This one was all smashed up.
 Couldn’t do anything with it.
 
 “They found a horseshoe actually inside the fellow, so I was told.”
 
-This changed Jack’s mood completely. Perhaps Morten might have made it away.
+Jack’s mood turned to wonder. Perhaps Morten might have made it away.
 
 “What day was this? What happened to the horse?”
 
@@ -822,7 +822,7 @@ Third wish gone
  
 And that was all that Fell would say, and he turned once again to his work.
 
-So Jack wandered over to where two groups of youths were fighting over
+So Jack drifted over to where two groups of youths were fighting over
 a basket of cabbages.
 When the Guards arrived, he headed off to the cellar for the evening.
 
@@ -1227,15 +1227,15 @@ Jack turned his head to follow them.
 
 “What does it mean?” he wondered.
 
-“There is going to be some trouble for a time,” replied the Blacksmith,
-“but it can’t be helped.
+“There is going to be trouble for a time,” replied the Blacksmith,
+“but I’m afraid it can’t be helped.
 
 “They carry a message,” he said.
 
 A Welcome
 ---------
 
-The kitchen door opened again.
+Then the kitchen door opened again.
 
 It was Bláthnaid. She had brushed her long hair over, and tied it with a
 ribbon.
