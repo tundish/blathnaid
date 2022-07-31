@@ -1240,7 +1240,7 @@ The kitchen door opened again.
 It was Bláthnaid. She had brushed her long hair over, and tied it with a
 ribbon.
 
-She hitched up her dress a little as she stepped across the cobbles.
+She hitched up her skirt a little as she stepped across the cobbles.
 Jack could see that she wore a silver anklet, but came barefoot towards them.
 
 Welcome
