@@ -240,7 +240,7 @@ At the little hamlets on the way, he would look to catch the eye of anyone aroun
 He felt very proud and important to be on an errand to the City.
 
 As the miles rolled on, and the day grew late, he started to notice a change in the country. The hedges were less
-well kept than before. The ditches were choked and the signposts and milestones overgrown with weed.
+well kept than before. The ditches were choked and the signposts and milestones were overgrown with weed.
 
 Later in the evening he spied ahead of him a group of tents and carts.
 
@@ -368,14 +368,14 @@ The walls of the City lay before them, and the road led up to an enormous gate.
 Traffic
 -------
 
-[NARRATOR]_
+There was another line here. Scores of carts stood by, piled up with all kinds of goods.
+There ere angry voices as traders argued with Guards and revenue men.
 
-    There is another line here. Scores of carts stand by, piled up with all kinds of goods.
-    There are angry voices as traders argue with Guards and revenue men.
+[NARRATOR]_
 
     Jack goes on past.
 
-    Prudently, he gathers his few belongings from Morten’s back, and hoists them on his own.
+    For prudence, he gathers his few belongings from Morten’s back, and hoists them on his own.
     Then he aims for a smaller door next to the main entry, which seems to be open to those on foot.
 
 The Postern
@@ -396,7 +396,7 @@ and where was his token for entry?
 Separated
 ---------
 
-One of the Guards started to tie poor Morten to a gatepost, saying,
+One of the Guards started to tie Morten to a gatepost, saying,
 “If you can’t feed him, you shouldn’t keep him.”
 The other man chipped in, “Sure, he’ll eat very well presently!”
 
@@ -462,7 +462,7 @@ Queues
 Environment
 -----------
 
-Jack sensed trouble. He was sure to be robbed; it seemed to be not merely a common occurrence, but the very
+Jack was on edge. He was sure to be robbed; it seemed to be not merely a common occurrence, but the very
 commerce of half the City. The second concern was getting lost and, while looking lost,
 then to be cornered in some alley by thieves.
 
@@ -572,7 +572,7 @@ much as though he was not alone in the cellar.
 About Krol
 ----------
 
-And sure enough, squatting in a pool of moonlight, in front of him was a strange little figure.
+And sure enough, in front of him, squatting in a pool of moonlight, was a strange little figure.
 He looked like an old man, skinny and only about three feet high.
 He wore no clothes and had no hair except for a few wisps on his chin.
 He sat with legs half-crossed, as a prisoner might in a cell with no furniture.
@@ -721,7 +721,7 @@ They had been worn down by use, but after a little cleaning, Fell started to und
 Boilermakers
 ------------
 
-Then Fell resumed his account of Mayor Ingomer.  How, after some sudden accident that no one could explain, Ingomer
+Then Fell resumed his account of Mayor Ingomer.  How, after a sudden accident that no one could explain, Ingomer
 set up an inspectorate for pressure vessels, whose sky-high fees nearly put the Smiths entirely out of business.
 
 Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon installed to manufacture,
@@ -961,9 +961,9 @@ Ingomer’s reaction
     The effect this has on Ingomer is a shock to all around him.
     He recognises the name, you see. It is one of the peasant names that Blacksmiths give their daughters.
 
-    It has been ten years since Ingomer imposed servitude and violation on his enemeies and their children.
+    It has been ten years since Ingomer imposed servitude and violation on his enemies and their children.
 
-    But they have escaped him. They find ways to prosper, and now see fit to mock him.
+    But they have escaped him. They find ways to prosper. And now, he thinks, they see fit to mock him.
 
 Rage
 -----
@@ -1000,8 +1000,11 @@ off, dodging through the crowd until it thinned out, and then he sprinted away.
 Too keen
 --------
 
-More Guards made after him yet. Three or four were just back from the war,
-freshly assigned to parade detail.
+More Guards made after him yet. Those of them who were back from the war,
+and freshly assigned to parade detail, were keen on seeing some action again.
+
+No Training
+-----------
 
 They hadn’t had time to adjust to the Cutlers’ shiny new armour.
 The injuries they sustained from their equipment as they ran were later to be the subject of an inquiry.
@@ -1009,11 +1012,8 @@ The injuries they sustained from their equipment as they ran were later to be th
 Clean pair of heels
 -------------------
 
-[NARRATOR]_
-
-    Jack is careful to shake them off before he stops for breath.
-    Then he takes an obscure route to get back to his hiding place under the Tavern.
-
+Jack took care to shake them off before he stopped for breath.
+Then he took an obscure route to get back to his hiding place under the Tavern.
 
 Options
 -------
@@ -1080,7 +1080,7 @@ Many were very distressed, and it was worse for those with young children.
 [NARRATOR]_
 
     And wherever he can, he teaches them how to find Courage.
-    It is simple in its expression, and while it comes upon us spontaneously, we can learn how to make it welcome.
+    It is simple in its expression, and while it comes upon us spontaneously, we can learn how to keep it welcome.
 
 Legging it
 ----------
@@ -1108,6 +1108,9 @@ Roughing it
 
 The weather at that time was turning for the worse, and Jack began to suffer badly
 from being always in the open.
+
+Hole in my shoe
+---------------
 
 He was soaking wet when he woke, and still damp when it was time to go to
 sleep again.
