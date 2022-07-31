@@ -484,7 +484,7 @@ Safety
 
     Ingomer is reminding everyone to Stay Safe. By that he means not lighting fires.
     Staying Safe is also very much about handing in all your long knives,
-    and remaining at home even if you don’t have any food.
+    and remaining at home even if you don’t have anything to live on.
 
 Scarcity
 --------
