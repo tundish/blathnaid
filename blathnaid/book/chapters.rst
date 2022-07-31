@@ -631,7 +631,7 @@ But Jack was reluctant; all the time in the City he feared being robbed or trick
 Wager
 -----
 
-So Fell said, “I’ll wager there is a motto around the edge of that article you have.
+So Fell said, “I’ll bet there's a motto around the edge of that article you have.
 Do you know what it is?”
 
 Courage
@@ -792,9 +792,9 @@ Couldn’t do anything with it.
 
 This cheered Jack no end. Perhaps Morten might have made it away.
 
-“Last week? What happened to the horse?”
+“This was last week? What happened to the horse?”
 
-“I didn't ask.”
+“I didn't ask. They were a bit touchy about it.”
 
 Third wish gone
 ---------------
@@ -871,7 +871,11 @@ Action
 ------
 
 The Smiths made preparations to leave the City. Those who would not flee armed themselves, and there were riots.
-But Ingomer called an emergency, and the unrest was put down by the Guards.
+
+Emergency
+---------
+
+Then Ingomer called an emergency, and the unrest was put down by the Guards.
 
 Insurrection
 ------------
@@ -889,11 +893,11 @@ Infamy
 [NARRATOR]_
 
     Concealment is the precaution of the thief; if he neglects that
-    before the fact, so much more is he obliged to apply to it thereafter.
+    prior to the fact, so much more is he obliged to apply to it thereafter.
 
     Know then, the great Swindlers of our time.
     The strategies they employ to delude us give rise to calumny of our history,
-    injury to our present safety, and perfidy at every opportunity.
+    injury to our safety, and perfidy at every opportunity.
 
 
 So it’s Ingomer
