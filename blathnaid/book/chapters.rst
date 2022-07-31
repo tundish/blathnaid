@@ -153,8 +153,15 @@ Packing
 -------
 
 He picked out a woollen blanket to sleep under, which he laid before the fire to drive off the damp.
+
+Bottle
+------
+
 He found a leather bottle, which he warmed up and replenished with wax.
 He had some kindling, a blade, a flint, and a can with a lid so he could boil up water.
+
+Food
+----
 
 He would have to find forage for Morten along the way. He guessed he would be going hungry himself too.
 But Jack was not dismayed. He fell asleep before the grate, and dreamed of voyaging and adventure.
@@ -490,6 +497,9 @@ Numbers
 
 The Mayor also ran a system of licences, which meant you had to apply for permission to light a brazier.
 
+Wharf
+-----
+
 And that’s how Jack found the Smiths, down at the dock by the river.
 They’d all built their workshops on the same wharf, having had to pool together to pay
 the fees for running their Forges.
@@ -535,7 +545,11 @@ Tuns
 
 Now down in the cellar were many barrels all stacked up. But three stood separately on their side, and they were enormous.
 Each with a tap, and a dish below to catch the drips.
-And on the first barrel was painted ‘This’, and on the second ‘That’, and on the last one, ‘The Other’.
+
+Names
+-----
+
+Now, on the first barrel was painted ‘This’, and on the second ‘That’, and on the last one, ‘The Other’.
 
 Upstairs
 --------
@@ -687,17 +701,21 @@ Standing
 [NARRATOR]_
 
     Now this can be a very good thing to do, although not many people know the secret.
-    For the first few minutes, you can’t stop your mind from wandering,
-    but then slowly you start to breathe with your belly, and your shoulders open up,
+    For the first few minutes, you can’t stop your mind from wandering.
+
+    But then slowly you start to breathe with your belly, and your shoulders open up,
     and your hips find their shape again.
+
     Everything sinks through your legs into the ground, and then all things become possible.
 
 Compassion
 ----------
 
 As soon as Jack awoke, he would go out again to learn more from the Smiths.
+
 Fell remained interested in the Trivet, and Jack allowed him to inspect the strange markings on the edge.
 They had been worn down by use, but after a little cleaning, Fell started to understand another word.
+
 “These letters spell out **Compassion**,” he said.
 
 Boilermakers
@@ -705,6 +723,7 @@ Boilermakers
 
 Then Fell resumed his account of Mayor Ingomer.  How, after some sudden accident that no one could explain, Ingomer
 set up an inspectorate for pressure vessels, whose sky-high fees nearly put the Smiths entirely out of business.
+
 Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon installed to manufacture,
 test and supply all such things in the City.
 
@@ -721,6 +740,7 @@ Try That
 --------
 
 At midnight in the cellar, up popped Krol.
+
 Jack was pleased to see him, and went over to the second barrel, upon which
 was painted ‘That’. Jack opened the tap until the tundish was half to the brim and he passed it into the beam of
 moonlight that held the ghostly shape.
@@ -731,6 +751,7 @@ Sensitivity
 Krol needed no second invitation, and drank the beer gratefully. Then he set the dish down again, and went back to
 the Trivet, which was there on the floor. And he indicated one of the spokes and said,
 “Do you know what this one is?” and of course Jack did not.
+
 “This one stands for **Sensitivity**,” said Krol.
 He paused for a moment, trying not to stumble over his words.
 “Sensitivity. Try to train that. It can be cultivated, can Sensitivity.”
@@ -819,8 +840,9 @@ Krol took it, and nodded his thanks before knocking it back.
 Spontaneity
 -----------
 
-Krol reached out for the Trivet, and he held it up in the faint pool of moonlight so Jack could see. He laid his
-finger on the third spoke, and said, “This is **Spontaneity**.”
+Krol reached out for the Trivet, and he held it up in the faint pool of moonlight so Jack could see.
+
+He laid his finger on the third spoke, and said, “This is **Spontaneity**.”
 He raised his finger in the air dramatically, and wagged it at Jack.
 “Try to train that. It can be cultivated, can Spontaneity.”
 
@@ -892,8 +914,8 @@ Infamy
 
 [NARRATOR]_
 
-    Concealment is the precaution of the thief; if he neglects that
-    prior to his theft, so much more is he obliged to apply to it thereafter.
+    Concealment is the precaution of the thief; if he neglects it
+    beforehand, so much more is he obliged to apply to it thereafter.
 
     Know then, the great Swindlers of our time.
     The strategies they deploy to delude us give rise to calumny of our history,
@@ -962,6 +984,7 @@ Kicked out
 ----------
 
 A four-man team from his bodyguard rushed forward and made a grab for Jack.
+
 Two of them pushed through the crowd in advance of their captive.
 They carried him as far as the next street corner, threw him down, and beat him.
 
@@ -978,8 +1001,13 @@ Too keen
 --------
 
 More Guards made after him yet. Three or four were just back from the war,
-freshly assigned to parade detail. They hadn’t had time to adjust to the Cutlers’ shiny new armour.
+freshly assigned to parade detail.
+
+They hadn’t had time to adjust to the Cutlers’ shiny new armour.
 The injuries they sustained from their equipment as they ran were later to be the subject of an inquiry.
+
+Clean pair of heels
+-------------------
 
 [NARRATOR]_
 
@@ -1034,20 +1062,25 @@ Escape
 ------
 
 Outside the City walls again, Jack threaded his way past the bullying Guards and the chiselling taxmen.
-He headed West, now gladly on the road home.
+He headed West, very glad to be on the road home.
 
 Evacuation
 ----------
 
 The first thing he noticed was how crowded the way was; he saw that many more people were trying to get to the City.
-All hungry, all cold, and all seeking shelter. On the far side of the first barricade more settlements had sprung up,
+
+All lost, all hungry, and all seeking shelter. On the far side of the first barricade more settlements had sprung up,
 filled with people who had not been allowed through.
 
 With Courage
 ------------
 
-Many were distressed, especially those with young children. And wherever he could, he taught them how to find Courage;
-which comes spontaneously, unbidden, and is simple in its expression.
+Many were very distressed, and it was worse for those with young children.
+
+[NARRATOR]_
+
+    And wherever he can, he teaches them how to find Courage.
+    It is simple in its expression, and while it comes upon us spontaneously, we can learn how to make it welcome.
 
 Legging it
 ----------
@@ -1061,22 +1094,38 @@ With Cognition
 --------------
 
 Some people, when they saw that Jack was going the other way, would stop him to ask what was the news.
-And he would advise them on Cognition; how to figure things out. How to be sensitive to the Universe in all
-its music and how to perceive the simple processes at play.
+
+[NARRATOR]_
+
+    He advises them on Cognition; how to figure things out.
+
+    How to be sensitive to the Universe in all its music and how to perceive the simple processes at play.
+
+    How information is born of questioning; thus we may find truth even in falsehood.
 
 Roughing it
 -----------
 
-The weather took a turn for the worse, and Jack suffered badly
+The weather at that time was turning for the worse, and Jack began to suffer badly
 from being always in the open.
+
 He was soaking wet when he woke, and still damp when it was time to go to
 sleep again.
+
+Door to door
+------------
+
+So he began to knock at the farms and cottages and offer to tell tales of the City.
 
 With Compassion
 ---------------
 
-So he began to knock at the farms and cottages and offer to tell tales of the City. And when the people opened their
-doors he would talk with them about Compassion; how human sensitivity is manifest spontaneously and authentically.
+[NARRATOR]_
+
+    When the people open their doors, he sits down with them to talk about Compassion.
+
+    How our life is a dance with many partners. And how, by virtue of human sensitivity,
+    we can participate in it spontaneously and authentically.
 
 Bláthnaid
 =========
@@ -1089,7 +1138,7 @@ A fortnight after escaping the City, Jack stood once again at the Forge.
 It was all shut up; the day was a Sunday.
 Jack had long since lost track of the calendar.
 
-He went around the side to where the habitation was and knocked at the
+He went around the side to where the habitation was, and knocked at the
 kitchen door.
 
 Looking up, he saw the lace of a high window twitch and fall back again.
@@ -1175,7 +1224,7 @@ Jack turned his head to follow them.
 
 “What does it mean?” he wondered.
 
-“There is going to be trouble for a time,” replied the Blacksmith,
+“There is going to be some trouble for a time,” replied the Blacksmith,
 “but it can’t be helped.
 
 “They carry a message,” he said.
