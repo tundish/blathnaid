@@ -406,7 +406,7 @@ Before the Law
 
     There is nothing that Jack can do but step through the gate while he is able.
     He flinches at the worried call from his horse.
-    He doesn't look back, but he hears indignant snorting, cursing and confusion.
+    He doesn’t look back, but he hears indignant snorting, cursing and confusion.
 
 Inside
 ------
@@ -631,7 +631,7 @@ But Jack was reluctant; all the time in the City he feared being robbed or trick
 Wager
 -----
 
-So Fell said, “I’ll bet there's a motto around the edge of that article you have.
+So Fell said, “I’ll bet there’s a motto around the edge of that article you have.
 Do you know what it is?”
 
 Courage
@@ -778,7 +778,7 @@ It was significantly safer for the operator.
 Any old iron
 ------------
 
-“We were sent out last week to pick up some scrap,” recalled Fell.
+“We were sent out last week to pick up some scrap,” recounted Fell.
 
 “One of the Guards at the gate hung on too long to a bridle. Animal not happy.”
 
@@ -790,11 +790,11 @@ Couldn’t do anything with it.
 
 “They found a horseshoe actually inside the fellow, so I was told.”
 
-This cheered Jack no end. Perhaps Morten might have made it away.
+This changed Jack’s mood completely. Perhaps Morten might have made it away.
 
-“This was last week? What happened to the horse?”
+“What day was this? What happened to the horse?”
 
-“I didn't ask. They were a bit touchy about it.”
+“I didn’t ask. They were a bit touchy about it.”
 
 Third wish gone
 ---------------
@@ -833,14 +833,14 @@ Sinking
 
     Jack is too anxious to sleep. He keeps standing there in the dark, letting his shoulders go forward a little,
     until the tension in his neck drops out, and he hears the bones in his back letting go of each other.
-    Then melting in lumps, it falls into his legs, and runs like a hot river down the inside of his skin.
+    Then, melting in lumps, it falls into his legs and runs like a hot river down the inside of his skin.
 
 The Master
 ----------
 
-First thing next morning, Jack ran over to see Fell, and begged him to reveal who was Master of the Guild.
+First thing the next morning, Jack ran over to see Fell, and begged him to reveal who was Master of the Guild.
 
-This was a matter which caused Fell no little distress. He had been a witness to these events and had hoped to avoid the topic.
+This was a matter that caused Fell no little distress. He had been a witness to these events and had hoped to avoid the topic.
 
 But he explained.
 
@@ -848,13 +848,13 @@ Advancement
 -----------
 
 Just as rich merchants introduce their daughters to Court, hoping them to marry into
-the nobility; so too the artisans would raise their girls to set their sights on the son of a merchant.
+the nobility, so too the artisans would raise their girls to set their sights on the son of a merchant.
 
 Connections
 -----------
 
 The families relied on their seniors to make the connections, and it had become the tradition to announce
-one’s offspring to the head of one’s Guild, and they would go and make enquiries as to a suitable match.
+one’s offspring to the head of one’s Guild. They then would go and make enquiries as to a suitable match.
 
 Ostracised
 ----------
@@ -865,7 +865,7 @@ Instead, any young girls of a Blacksmith family would be sent to work in the Tem
 Suspicion
 ---------
 
-No one really knew what went on the Temple, but the less they knew, the more they could guess.
+No one really knew what went on in the Temple, but the less they knew, the more they could guess.
 
 Action
 ------
@@ -881,7 +881,7 @@ Insurrection
 ------------
 
 After that there was a hasty election, for which some parties were very well prepared.
-At the end of it Ingomer had become Master of the Guild of Smiths,
+At the end of it, Ingomer had become Master of the Guild of Smiths,
 a position which hitherto had been attained only by the most skilled and respected of craftsmen.
 
 Ingomer
@@ -893,10 +893,10 @@ Infamy
 [NARRATOR]_
 
     Concealment is the precaution of the thief; if he neglects that
-    prior to the fact, so much more is he obliged to apply to it thereafter.
+    prior to his theft, so much more is he obliged to apply to it thereafter.
 
     Know then, the great Swindlers of our time.
-    The strategies they employ to delude us give rise to calumny of our history,
+    The strategies they deploy to delude us give rise to calumny of our history,
     injury to our safety, and perfidy at every opportunity.
 
 
@@ -909,7 +909,7 @@ Jack was at the gated arch in the East of the City.
 .. TODO: more here.
 
 Trumpets called out, the gates swung open and through it came the Mayoral parade.
-And there on an armoured carriage was Ingomer, in all his robes and finery, surrounded by Guards.
+And there, on an armoured carriage was Ingomer, in all his robes and finery, surrounded by Guards.
 
 Last time for the Locket
 ------------------------
@@ -934,15 +934,25 @@ He opened his mouth again. There was no effort to be made. The words came from a
 Ingomer’s reaction
 ------------------
 
-The effect this had on Ingomer was a shock to all around him.
-He recognised the name, you see. It was one of the peasant names that Blacksmiths gave their daughters.
+[NARRATOR]_
 
-It had been ten years since he’d brought servitude and violation to the children
-of his enemies. But they had escaped him, and found ways to prosper, and now saw fit to mock him.
+    The effect this has on Ingomer is a shock to all around him.
+    He recognises the name, you see. It is one of the peasant names that Blacksmiths give their daughters.
 
-Ingomer shook with rage. “Progeniem Vitiosiorem!,” he cursed, in the secret language of the Temple.
+    It has been ten years since Ingomer imposed servitude and violation on his enemeies and their children.
 
-Alongside his anger, there was fear in him too. “Progeniem Vitiosiorem!,” he bellowed again.
+    But they have escaped him. They find ways to prosper, and now see fit to mock him.
+
+Rage
+-----
+
+Ingomer shook with rage.
+
+“Progeniem Vitiosiorem!” he cursed, in the secret language of the Temple.
+
+Alongside his anger, there was fear in him too.
+
+“Progeniem Vitiosiorem!” he bellowed again.
 
 He felt very old now.
 
@@ -951,7 +961,7 @@ He felt very old now.
 Kicked out
 ----------
 
-A four-man team from his bodyguard rushed forward and grabbed at Jack.
+A four-man team from his bodyguard rushed forward and made a grab for Jack.
 Two of them pushed through the crowd in advance of their captive.
 They carried him as far as the next street corner, threw him down, and beat him.
 
@@ -967,14 +977,15 @@ off, dodging through the crowd until it thinned out, and then he sprinted away.
 Too keen
 --------
 
-Some of the other Guards made after him yet. Three or four were just back from the war;
+More Guards made after him yet. Three or four were just back from the war,
 freshly assigned to parade detail. They hadn’t had time to adjust to the Cutlers’ shiny new armour.
 The injuries they sustained from their equipment as they ran were later to be the subject of an inquiry.
 
-Jack was careful to shake them off before he stopped for breath, and then took an obscure route to get
-back to his hiding place under the Tavern.
+[NARRATOR]_
 
-.. TODO: Even out length of paragraphs
+    Jack is careful to shake them off before he stops for breath.
+    Then he takes an obscure route to get back to his hiding place under the Tavern.
+
 
 Options
 -------
@@ -1010,8 +1021,8 @@ Evasion
 
     Patrols in the streets, in pairs, and Jack has no permit to pass.
 
-    Therefore he creeps behind so close as to tap them on the forehead.
-    His breath steady, his step light, and they do not perceive him.
+    Therefore he creeps behind so close as to tap them on the shoulder.
+    His breath steady, his step light, so they do not perceive him.
     He borrows their badge; so must thieves stand aside, daring not to delay him.
 
     Or he takes up dancing; he spins with arms oddly up and aloft, until beggars laugh to throw him their
@@ -1029,19 +1040,19 @@ Evacuation
 ----------
 
 The first thing he noticed was how crowded the way was; he saw that many more people were trying to get to the City.
-All hungry, all cold, and all seeking shelter. On the far side of the first barricade, more settlements had sprung up,
+All hungry, all cold, and all seeking shelter. On the far side of the first barricade more settlements had sprung up,
 filled with people who had not been allowed through.
 
 With Courage
 ------------
 
-Many were distressed, especially those with young children.  And wherever he could he taught them how to find Courage;
+Many were distressed, especially those with young children. And wherever he could, he taught them how to find Courage;
 which comes spontaneously, unbidden, and is simple in its expression.
 
 Legging it
 ----------
 
-He tramped on for two more days at a steady pace, trying not to tire himself.
+Jack tramped on for two more days at a steady pace, trying not to tire himself.
 
 He had run out of dry wood, and it was a struggle to fight off his hunger.
 He rose early to find mushrooms, and he climbed trees to rob eggs.
@@ -1049,7 +1060,7 @@ He rose early to find mushrooms, and he climbed trees to rob eggs.
 With Cognition
 --------------
 
-Some people, when they saw that Jack was going the other way, would stop him to ask him what was the news.
+Some people, when they saw that Jack was going the other way, would stop him to ask what was the news.
 And he would advise them on Cognition; how to figure things out. How to be sensitive to the Universe in all
 its music and how to perceive the simple processes at play.
 
@@ -1085,7 +1096,7 @@ Looking up, he saw the lace of a high window twitch and fall back again.
 He had a sudden feeling of being watched, but it was not unpleasant.
 There was someone who wanted to meet him.
 
-After a minute or two the door opened and out came the Blacksmith.
+After a minute or two, the door opened and out came the Blacksmith.
 They shook hands and stood together in the sunshine.
 
 A Gift
@@ -1101,15 +1112,15 @@ He simply laughed and bade him keep it.
 A lost friend
 -------------
 
-“What happened to your horse?” he asked. Jack didn’t want to say frankly,
+“What happened to your horse?” asked the Smith. Jack didn’t want to say frankly,
 still feeling at fault for not having saved him somehow.
 
-He caught the look on Jack’s face, and it hinted enough, so he changed the subject.
+The Blacksmith caught the look on Jack’s face, and it hinted enough, so he changed the subject.
 
 Payback
 -------
 
-“Did you meet with the Master?” asked the Blacksmith.
+“Did you meet with the Master?”
 
 “Yes, I did,” said Jack.
 
@@ -1137,10 +1148,10 @@ Curse
 
     What can you do with a bat?
     You can’t move him if he wishes not to be moved.
-    And when he wants to go, he'll go.
+    And when he wants to go, he’ll go.
 
     He has a time of his own, a place of his own.
-    You can't reason with him. You'd be silly to try.
+    You can’t reason with him. You’d be silly to try.
 
 Karma
 -----
@@ -1164,7 +1175,7 @@ Jack turned his head to follow them.
 
 “What does it mean?” he wondered.
 
-“There is going to be trouble for a while,” replied the Blacksmith,
+“There is going to be trouble for a time,” replied the Blacksmith,
 “but it can’t be helped.
 
 “They carry a message,” he said.
