@@ -339,8 +339,16 @@ Challenged
 ----------
 
 In his whole life, Jack had never stood in a line for anything, and the longer he waited the less sure of himself
-he became. Finally, at the barrier, a sour-faced man in a leather tunic demanded to know what was his
+he became.
+
+First Challenge
+---------------
+
+Finally, at the barrier, a sour-faced man in a leather tunic demanded to know what was his
 business.
+
+First Response
+--------------
 
 Jack could only hold up the Locket and say, “I carry a message.”
 That seemed to suffice; the man lowered his truncheon and waved him through.
@@ -382,7 +390,7 @@ Separated
 ---------
 
 One of the Guards started to tie poor Morten to a gatepost, saying,
-“If you can’t feed him, you shouldn’t keep him”.
+“If you can’t feed him, you shouldn’t keep him.”
 The other man chipped in, “Sure, he’ll eat very well presently!”
 
 Morten did not like the sound of that, and ground his hooves in deep.
@@ -392,7 +400,7 @@ Before the Law
 
 “This door is only for you,” said the nearest to Jack.
 
-“Now go in, before I close it!”
+“Now get in, before I close it!”
 
 [NARRATOR]_
 
@@ -575,7 +583,7 @@ The legend
 Try This
 --------
 
-So Krol said, “I am cursed to be here while there is light from the Moon. And I may eat only what is offered to me”.
+So Krol said, “I am cursed to be here while there is light from the moon. And I may eat only what is offered to me.”
 Jack thought about this for a moment and went over to one of the big barrels, which was called ‘This’.
 He opened up the tap a little, so it half-filled the tundish below.
 And he passed it to the little Imp, who grinned and straight away started drinking it down.
@@ -588,7 +596,7 @@ Then Krol caught sight of Jack’s Trivet and thoughtfully traced the shape of o
 
 Jack couldn’t fathom what he meant.
 
-“This spoke stands for **Simplicity** ,” said Krol. He continued, sounding slightly tipsy.
+“This spoke stands for **Simplicity**,” said Krol. He continued, sounding slightly tipsy.
 “Simplicity. Try to train that. It can be cultivated, can Simplicity.”
 Jack was about to ask him to repeat himself, but when he looked he saw that Krol had fallen immediately to sleep.
 
@@ -597,8 +605,15 @@ The Smiths
 
 Jack awoke next morning to find he was alone again. He gathered his things and stole out from the cellar into the street.
 He went over to the place by the dock where the Smiths worked.
+
+Introductions
+-------------
+
 He tried to think of a way to befriend them, and so he gathered up some curlings of beech and oak which lay around the
 woodstore nearby.
+
+Fancy a brew?
+-------------
 
 Jack went politely up to one of them and asked if he might set up his Trivet on their embers.
 The Smiths all needed cheering up, so they welcomed him in to brew up some fresh bark tea.
@@ -613,12 +628,21 @@ One of the Blacksmiths, a man named Fell, took an interest in the Trivet.
 He fancied he knew who might have made it. So he asked Jack if he could take a closer look.
 But Jack was reluctant; all the time in the City he feared being robbed or tricked somehow.
 
+Wager
+-----
+
+So Fell said, “I’ll wager there is a motto around the edge of that article you have.
+Do you know what it is?”
+
 Courage
 -------
 
-So Fell said, “I’ll wager there is a motto around the edge of that article you have.
-Do you know what it is?” Jack did not, but he held up the Trivet in both hands for the Smith to see.
-“Ah,” says the Smith, “I recognize that one word. It is **Courage** ”.
+Jack did not, but he held up the Trivet in both hands for the Smith to see.
+“Ah,” says the Smith, “I recognize that one word. It is **Courage**.”
+
+Suspicious
+----------
+
 He would have liked to study the rest of the lettering, but Jack dared not risk any loss, and he hid the
 Trivet again in his bundle.
 
@@ -632,14 +656,14 @@ And how Ingomer, brother-in-law to the General of the Guards, on becoming Mayor,
 Locksmiths
 ----------
 
-First he’d created a licence for making locks, which the Smiths had to redeem from him at great cost.
+First Ingomer had created a licence for making locks, which the Smiths had to redeem from him at great cost.
 Meanwhile, with the proceeds Ingomer was setting up his own Guild of Locksmiths, for whom he secured
 permission instead.
 
 “But the thing is,” said Fell, “they can’t seem to maintain their tolerances.
 
 “You won’t find one key in this City that will match another. And don’t drop one of their padlocks.
-The tumblers jam up if you do”.
+The tumblers jam up if you do.”
 
 First wish gone
 ---------------
@@ -654,7 +678,7 @@ During the night, the inner door of the cellar would frequently open and someone
 come down to fetch a cask back upstairs.
 Jack never saw who it was because he took care always to be far back in the shadows.
 
-He had also to remember not to leave tracks in the dust or to tear down any cobwebs lest he be discovered.
+He had also to remember not to leave tracks in the dust or to tear down any cobwebs, lest he be discovered.
 So when he was not rolled up in his blanket he was standing motionless, sometimes for hours.
 
 Standing
@@ -671,15 +695,15 @@ Standing
 Compassion
 ----------
 
-As soon as Jack awoke, he would be out again to learn more from the Smiths.
+As soon as Jack awoke, he would go out again to learn more from the Smiths.
 Fell remained interested in the Trivet, and Jack allowed him to inspect the strange markings on the edge.
-They had been worn down by use, but after a little time cleaning, Fell started to understand another word.
-“This one says **Compassion** ,” he said.
+They had been worn down by use, but after a little cleaning, Fell started to understand another word.
+“These letters spell out **Compassion**,” he said.
 
 Boilermakers
 ------------
 
-Then Fell resumed his account of Mayor Ingomer.  How, after some sudden accident which no one could explain, Ingomer
+Then Fell resumed his account of Mayor Ingomer.  How, after some sudden accident that no one could explain, Ingomer
 set up an inspectorate for pressure vessels, whose sky-high fees nearly put the Smiths entirely out of business.
 Luckily, the new Guild of Boilermakers, of which Ingomer was Director, was soon installed to manufacture,
 test and supply all such things in the City.
@@ -699,7 +723,7 @@ Try That
 At midnight in the cellar, up popped Krol.
 Jack was pleased to see him, and went over to the second barrel, upon which
 was painted ‘That’. Jack opened the tap until the tundish was half to the brim and he passed it into the beam of
-moonlight which held the ghostly shape.
+moonlight that held the ghostly shape.
 
 Sensitivity
 -----------
@@ -707,7 +731,7 @@ Sensitivity
 Krol needed no second invitation, and drank the beer gratefully. Then he set the dish down again, and went back to
 the Trivet, which was there on the floor. And he indicated one of the spokes and said,
 “Do you know what this one is?” and of course Jack did not.
-“This one stands for **Sensitivity** ,” said Krol.
+“This one stands for **Sensitivity**,” said Krol.
 He paused for a moment, trying not to stumble over his words.
 “Sensitivity. Try to train that. It can be cultivated, can Sensitivity.”
 
@@ -719,8 +743,12 @@ Longevity
 [NARRATOR]_
 
     But Jack can’t sleep. He feels very alone, in a very strange world. So he stands there in his little spot
-    in the dark. And he calms his breathing, until it moves down from his chest into his belly.
-    Breathing slower, and softer. Until nearly half a minute to breathe in, and nearly half a minute to
+    in the dark.
+
+    He calms his breathing, until it moves down from his chest into his belly.
+    Breathing slower, and softer.
+
+    It takes him nearly half a minute to breathe in, and nearly half a minute to
     breathe out.
 
 Cognition
@@ -728,10 +756,10 @@ Cognition
 
 The next morning Jack felt he urgently needed to find the Master of Smiths, so he was out again early to see his friend Fell.
 
-He in his turn had been eager to check the Trivet and its third set of markings.
+He, in his turn, had been eager to check the Trivet and its third set of markings.
 
 After applying some paste, and rubbing with a cloth, he could make out its meaning.
-“This one reads **Cognition** ,” he declared.
+“This one reads **Cognition**,” he declared.
 
 Cutlers
 -------
@@ -750,19 +778,21 @@ It was significantly safer for the operator.
 Any old iron
 ------------
 
-“We were sent out this week to pick up some scrap,” recalled Fell.
-“One of the Guards at the gate held on too long to a bridle.”
+“We were sent out last week to pick up some scrap,” recalled Fell.
+
+“One of the Guards at the gate hung on too long to a bridle. Animal not happy.”
 
 Ballistics
 ----------
 
-“Breastplate was cheap rubbish, all smashed up. Couldn’t do anything with it.
+“Their breastplates are just cheap rubbish. This one was all smashed up.
+Couldn’t do anything with it.
 
-“They found a horseshoe actually inside the fellow, so I’m told.”
+“They found a horseshoe actually inside the fellow, so I was told.”
 
-It cheered Jack no end to think that Morten might have made it away.
+This cheered Jack no end. Perhaps Morten might have made it away.
 
-“What happened to the horse?”
+“Last week? What happened to the horse?”
 
 “I didn't ask.”
 
@@ -773,7 +803,7 @@ And that was all that Fell would say, and he turned once again to his work.
 
 So Jack wandered over to where two groups of youths were fighting over
 a basket of cabbages.
-When the Guards arrived he headed off to the cellar for the evening.
+When the Guards arrived, he headed off to the cellar for the evening.
 
 Try the Other
 -------------
@@ -782,7 +812,7 @@ And there was Krol again, but looking downcast and grave.
 Straight away he said to Jack, “Tomorrow comes a crescent moon.
 And so all my time is done.”
 
-And Jack looked down at his Locket which was beginning to fade, and he knew that he hadn’t long to carry out his
+And Jack looked down at his Locket, which was beginning to fade, and he knew that he hadn’t long to carry out his
 task in the City. And so he went over to ‘The Other’ and poured out a draft into the dish.
 Krol took it, and nodded his thanks before knocking it back.
 
@@ -790,7 +820,7 @@ Spontaneity
 -----------
 
 Krol reached out for the Trivet, and he held it up in the faint pool of moonlight so Jack could see. He laid his
-finger on the third spoke, and said, “This is **Spontaneity** ”.
+finger on the third spoke, and said, “This is **Spontaneity**.”
 He raised his finger in the air dramatically, and wagged it at Jack.
 “Try to train that. It can be cultivated, can Spontaneity.”
 
@@ -803,7 +833,7 @@ Sinking
 
     Jack is too anxious to sleep. He keeps standing there in the dark, letting his shoulders go forward a little,
     until the tension in his neck drops out, and he hears the bones in his back letting go of each other.
-    Then in lumps it falls into his legs, and runs like a hot river down the inside of his skin.
+    Then melting in lumps, it falls into his legs, and runs like a hot river down the inside of his skin.
 
 The Master
 ----------
@@ -835,8 +865,12 @@ Instead, any young girls of a Blacksmith family would be sent to work in the Tem
 Suspicion
 ---------
 
-No one really knew what went on the Temple, but the less they knew, the more they could guess. The Smiths
-made preparations to leave the City. Those who would not flee armed themselves, and there were riots.
+No one really knew what went on the Temple, but the less they knew, the more they could guess.
+
+Action
+------
+
+The Smiths made preparations to leave the City. Those who would not flee armed themselves, and there were riots.
 But Ingomer called an emergency, and the unrest was put down by the Guards.
 
 Insurrection
@@ -1094,7 +1128,7 @@ Curse
 [NARRATOR]_
 
     The attendant squeaking in the roof of the Smithy
-    gives way to a watchful silence.
+    settles down to a watchful silence.
     The bats, who have been listening, fall to grave contemplation.
 
     What can you do with a bat?
@@ -1102,7 +1136,7 @@ Curse
     And when he wants to go, he'll go.
 
     He has a time of his own, a place of his own.
-    You can't reason with him. Believe me. I've tried.
+    You can't reason with him. You'd be silly to try.
 
 Karma
 -----
