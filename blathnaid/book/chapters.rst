@@ -280,8 +280,8 @@ Boon
 [NARRATOR]_
 
     Now this Trivet is very special; only a few Blacksmiths know how to make such a thing.
-    Because whatever you brew upon it, however little tea you have; in fact, no matter if you are only
-    boiling hay, that brew will nourish and cheer you throughout, and you will not feel the lack of a meal.
+    Because whatever you brew upon it, however little tea you have - in fact, no matter if you are only
+    boiling hay - that brew will nourish and cheer you throughout. You do not feel the lack of a meal.
 
 Camping
 -------
@@ -369,7 +369,7 @@ Traffic
 -------
 
 There was another line here. Scores of carts stood by, piled up with all kinds of goods.
-There ere angry voices as traders argued with Guards and revenue men.
+There were angry voices as traders argued with Guards and revenue men.
 
 [NARRATOR]_
 
@@ -406,14 +406,16 @@ Before the Law
 --------------
 
 “This door is only for you,” said the nearest to Jack.
-
 “Now get in, before I close it!”
+
+Jack felt the blunt end of a bill pushed into his back.
+
 
 [NARRATOR]_
 
     There is nothing that Jack can do but step through the gate while he is able.
     He flinches at the worried call from his horse.
-    He doesn’t look back, but he hears indignant snorting, cursing and confusion.
+    He doesn’t look behind him, but he hears indignant snorting, cursing and confusion.
 
 Inside
 ------
@@ -423,8 +425,8 @@ protected the gate.
 
 Two flights of steps led down to the street below.
 
-Jack was that upset at how he had just lost Morten, and so trying to plan how to get around back to him,
-that he tripped and tumbled all the way down.
+Jack was so upset at how he had just lost Morten,
+that while trying to imagine how to get around back to him, he tripped and tumbled all the way down.
 
 Ambush
 ------
@@ -1144,7 +1146,7 @@ Jack had long since lost track of the calendar.
 He went around the side to where the habitation was, and knocked at the
 kitchen door.
 
-Looking up, he saw the lace of a high window twitch and fall back again.
+Looking up, he saw some lace at a high window twitch then fall back again.
 He had a sudden feeling of being watched, but it was not unpleasant.
 There was someone who wanted to meet him.
 
