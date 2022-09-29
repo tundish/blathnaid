@@ -14,8 +14,18 @@ The Book
 The text of the book is held in this repository.
 It was written in a restructuredText_ format.
 
-The source text has been processed with a Python script and typeset to PDF.
-The book is going to print and first copies will appear in August 2022.
+The source text has been processed with a `Python script`_ and typeset to PDF.
+The book went to print in August 2022.
+
+Right now, there is a limited number of copies in circulation. They pass from hand to hand.
+
+What's Next
+===========
+
+...
 
 .. _book: https://github.com/tundish/blathnaid/tree/master/blathnaid/book
 .. _reStructuredText: https://docutils.sourceforge.io/docs/ref/rst/introduction.html
+.. _Python script: https://github.com/tundish/balladeer/blob/master/balladeer/folio.py
+.. _Sign up: https://github.com/signup
+.. _issue: https://github.com/tundish/blathnaid/issues
