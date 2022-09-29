@@ -37,7 +37,7 @@ Then you can bring a new issue_ against the code.
 
 You can suggest ideas, complain about mistakes, offer advice, and indicate opportunities.
 
-Or, just say hello and tell me what you thought about 'Bláthnaid'.
+Or just say hello and tell me what you thought about 'Bláthnaid'.
 
 .. _book: https://github.com/tundish/blathnaid/tree/master/blathnaid/book
 .. _reStructuredText: https://docutils.sourceforge.io/docs/ref/rst/introduction.html
