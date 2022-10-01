@@ -79,24 +79,6 @@ Gillian
 There was a lady called Gillian who would arrive at the same spot around midday with big baskets of hot
 pasties.
 
-Weave
------
-
-Sensitivity             Simplicity          Spontaneity
-            Cognition              Courage             Compassion
-
-Ideas
------
-
-* Smiths in the city have been forbidden from making knives, locks, or pressure vessels.
-* New guilds of Cutlers. Locksmiths. Boilermakers.
-* Only guards and smiths allowed fires
-* The bats eavesdrop (listen)
-
-... on how the Boilermakers were so proud of the prooving of their seams, but they did not care if the flux leeched into the Gin.
-... or how the Locksmiths made sure there was not one key in the City would match another, yet their tumblers seize up in the rain.
-... And that the Cutlers were all blade and no tang, to the point that the Guards, after having been given new glaives, preferred to beat people with the handle, as it was safer for all concerned.
-
 The Return
 ----------
 
@@ -116,7 +98,6 @@ Characters
 * Ingomer Billwiggin (Mayor)
 * Nathan Cradely (Blacksmith)
 
-
 The Hydrogen Plant
 ------------------
 
@@ -128,21 +109,14 @@ The Book of Secrets
 * Aerodynamics
 * Resonant structures
 
-Shortlist of Fonts
-------------------
+Fonts
+-----
 
-* Almendra
-* Aref_Ruqaa
-* Bembo
-* Cinzel
-* IBM_Plex_Serif
-* IM_Fell_English_SC
-* IM_Fell_Great_Primer
-* Junge
-* Libre_Baskerville
-* Libre_Caslon_Display
-* Libre_Caslon_Text
-* Markazi_Text
-* Source_Serif_Pro
-* Stoke
-* Vollkorn
+Main title
+    Almendra Bold
+
+By-line
+    Markazi Text
+
+Main text
+    IBM Plex Serif
