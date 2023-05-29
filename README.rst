@@ -41,6 +41,6 @@ Or just say hello and tell me what you thought about 'Bláthnaid'.
 
 .. _book: https://github.com/tundish/blathnaid/tree/master/blathnaid/book
 .. _reStructuredText: https://docutils.sourceforge.io/docs/ref/rst/introduction.html
-.. _Python script: https://github.com/tundish/balladeer/blob/master/balladeer/folio.py
+.. _Python script: https://github.com/tundish/balladeer/blob/master/balladeer/classic/folio.py
 .. _Sign up: https://github.com/signup
 .. _issue: https://github.com/tundish/blathnaid/issues

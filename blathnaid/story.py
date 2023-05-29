@@ -17,12 +17,12 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-from balladeer import Drama
-from balladeer import Story
+from balladeer.classic.drama import Drama
+from balladeer.classic.story import Story
 
 from pathlib import Path
 drama = Drama()
-drama.folder = ["blathnaid/dlg/tale.rst"]
+drama.folder = ["blathnaid/book/chapters.rst"]
 
 story = Story(context=drama)
 presenter = story.represent()
